@@ -1,0 +1,546 @@
+{
+  "version": 1,
+  "width": 114,
+  "height": 42,
+  "duration": 18.425925,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.022684,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000005,
+      "  /tmp/deploy\u0007\u001b[30"
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000001,
+      "("
+    ],
+    [
+      0.000002,
+      "B\u001b"
+    ],
+    [
+      0.000001,
+      "["
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.001522,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.020445,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000004,
+      "  /tmp/deploy\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000084,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                 \r \r"
+    ],
+    [
+      0.000275,
+      "\u001b[38;5;243m[\u001b[38;5;120m0\u001b[38;5;243m] \u001b[38;5;63meyes\u001b[38;5;61m@\u001b[38;5;63mantiskill \u001b[32m/t/deploy\u001b[1m\u001b[38;5;227m \u001b[38;5;63m$\u001b[30m\u001b(B\u001b[m \u001b[K"
+    ],
+    [
+      0.307339,
+      "p"
+    ],
+    [
+      0.001862,
+      "\u0008\u001b[31m\u001b[1mp\u001b(B\u001b[m"
+    ],
+    [
+      0.000285,
+      "\u001b[38;5;240mython\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.222099,
+      "\u001b[31m\u001b[1my\u001b(B\u001b[m\u001b[38;5;240mthon\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088062,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mhon\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071869,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mon\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160065,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mn\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072164,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mpython\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104382,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;240mdeploy.py bootstrap\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079919,
+      "d\u001b[38;5;240meploy.py bootstrap\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000011,
+      "\u0008\u001b[38;5;39m\u001b[4md\u001b[38;5;240m\u001b[24meploy.py bootstrap\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143604,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mploy.py bootstrap\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063941,
+      "\u001b[38;5;39m\u001b[4mp\u001b[38;5;240m\u001b[24mloy.py bootstrap\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.144335,
+      "\u001b[38;5;39m\u001b[4ml\u001b[38;5;240m\u001b[24moy.py bootstrap\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143777,
+      "\u001b[38;5;39m\u001b[4mo\u001b[38;5;240m\u001b[24my.py bootstrap\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087825,
+      "\u001b[38;5;39m\u001b[4my\u001b[38;5;240m\u001b[24m.py bootstrap\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104047,
+      "\u001b[38;5;39m\u001b[4m.\u001b[38;5;240m\u001b[24mpy bootstrap\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.152331,
+      "\u001b[38;5;39m\u001b[4mp\u001b[38;5;240m\u001b[24my bootstrap\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087759,
+      "\u001b[38;5;39m\u001b[4my\u001b[38;5;240m\u001b[24m bootstrap\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104319,
+      "\u001b[38;5;39m\u001b[4m \u001b[38;5;240m\u001b[24mbootstrap\u001b[9D\u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;240mbootstrap\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080155,
+      "s\u001b[K\u001b[11D\u001b[38;5;39mdeploy.py\u001b[30m\u001b(B\u001b[m \u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m\u001b[38;5;240metup\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.303116,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.208817,
+      "-\u0008\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m\u001b[38;5;240m-setup\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127543,
+      "\u001b[38;5;39m-\u001b[38;5;240msetup\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112041,
+      "\u001b[38;5;39ms\u001b[38;5;240metup\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136052,
+      "\u001b[38;5;39me\u001b[38;5;240mtup\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135944,
+      "\u001b[38;5;39mt\u001b[38;5;240mup\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079995,
+      "\u001b[38;5;39mu\u001b[38;5;240mp\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.175994,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199992,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;python  /tmp/deploy\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.037433,
+      "deploy.py: running under /usr/bin/python in /tmp/deploy\r\n"
+    ],
+    [
+      0.000008,
+      "deploy.py: reloading with interpreter /tmp/deploy/.venv/bin/python\r\n"
+    ],
+    [
+      0.038154,
+      "deploy.py: running under /tmp/deploy/.venv/bin/python in /tmp/deploy\r\n"
+    ],
+    [
+      0.000150,
+      "deploy.py: installing deploypy library\r\n"
+    ],
+    [
+      0.167780,
+      "Processing /media/storage/eyes/dev/deploy.py\r\n"
+    ],
+    [
+      0.206515,
+      "Collecting colorama (from deploy.py==1.0.0)\r\n"
+    ],
+    [
+      0.138385,
+      "  Using cached colorama-0.3.3.tar.gz\r\n"
+    ],
+    [
+      0.177188,
+      "Collecting termcolor (from deploy.py==1.0.0)\r\n"
+    ],
+    [
+      0.026266,
+      "  Using cached termcolor-1.1.0.tar.gz\r\n"
+    ],
+    [
+      0.175658,
+      "Installing collected packages: colorama, termcolor, deploy.py\r\n"
+    ],
+    [
+      0.000283,
+      "  Running setup.py install for colorama\r\n"
+    ],
+    [
+      0.209730,
+      "  Running setup.py install for termcolor\r\n"
+    ],
+    [
+      0.201680,
+      "  Running setup.py install for deploy.py\r\n"
+    ],
+    [
+      0.215536,
+      "Successfully installed colorama-0.3.3 deploy.py-1.0.0 termcolor-1.1.0\r\n"
+    ],
+    [
+      0.170094,
+      "\r\n"
+    ],
+    [
+      0.001764,
+      "\u001b[36mdeploy.py: constructing...\u001b[0m\r\n"
+    ],
+    [
+      0.001270,
+      "\u001b[32mdeploy.py: beginning app setup\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[32mdeploy.py: obtaining sudo access\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mdeploy.py: please enter your password if appropriate below.\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[35mdeploy.py: calling command sudo true\u001b[0m\r\n"
+    ],
+    [
+      0.006997,
+      "\u001b[32mdeploy.py: creating app directory\u001b[0m\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[35mdeploy.py: calling command sudo mkdir -v /opt/myproj\u001b[0m\r\n"
+    ],
+    [
+      0.006605,
+      "\u003e mkdir: created directory ‘/opt/myproj’\r\n"
+    ],
+    [
+      0.000735,
+      "\u001b[35mdeploy.py: calling command sudo chown -v 1000:100 /opt/myproj\u001b[0m\r\n"
+    ],
+    [
+      0.008847,
+      "\u003e changed ownership of ‘/opt/myproj’ from root:root to 1000:100\r\n"
+    ],
+    [
+      0.000616,
+      "\u001b[32mdeploy.py: changing working directory...\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[36mdeploy.py: new cwd is /opt/myproj\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[32mdeploy.py: getting app sources\u001b[0m\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[35mdeploy.py: calling command git init\u001b[0m\r\n"
+    ],
+    [
+      0.002617,
+      "\u003e Initialized empty Git repository in /opt/myproj/.git/\r\n"
+    ],
+    [
+      0.000336,
+      "\u001b[35mdeploy.py: calling command git remote add deploy https://github.com/SunDwarf/KCProxy.git\u001b[0m\r\n"
+    ],
+    [
+      0.004259,
+      "\u001b[35mdeploy.py: calling command git fetch deploy\u001b[0m\r\n"
+    ],
+    [
+      5.650866,
+      "remote: Counting objects: 27, done.\u001b[K\r\n"
+    ],
+    [
+      0.003624,
+      "remote: Total 27 (delta 0), reused 0 (delta 0), pack-reused 27\u001b[K\r\n"
+    ],
+    [
+      0.003840,
+      "Unpacking objects:   3% (1/27)   \rUnpacking objects:   7% (2/27)   \rUnpacking objects:  11% (3/27)   \rUnpacking objects:  14% (4/27)   \rUnpacking objects:  18% (5/27)   \rUnpacking objects:  22% (6/27)   \rUnpacking objects:  25% (7/27)   \rUnpacking objects:  29% (8/27)   \rUnpacking objects:  33% (9/27)   \rUnpacking objects:  37% (10/27)   \rUnpacking objects:  40% (11/27)   \rUnpacking objects:  44% (12/27)   \rUnpacking objects:  48% (13/27)   \rUnpacking objects:  51% (14/27)   \rUnpacking objects:  55% (15/27)   \rUnpacking objects:  59% (16/27)   \rUnpacking objects:  62% (17/27)   \rUnpacking objects:  66% (18/27)   \rUnpacking objects:  70% (19/27)   \rUnpacking objects:  74% (20/27)   \rUnpacking objects:  77% (21/27)   \rUnpacking objects:  81% (22/27)   \rUnpacking objects:  85% (23/27)   \rUnpacking objects:  88% (24/27)   \rUnpacking objects:  92% (25/27)   \rUnpacking objects:  96% (26/27)   \rUnpacking objects: 100% (27/27)   \rUnpacking objects: 100% (27/27), done.\r\n"
+    ],
+    [
+      0.099120,
+      "From https://github.com/SunDwarf/KCProxy\r\n * [new branch]      master     -\u003e deploy/master\r\n"
+    ],
+    [
+      0.003170,
+      "\u001b[35mdeploy.py: calling command git checkout deploy/master\u001b[0m\r\n"
+    ],
+    [
+      0.002891,
+      "Note: checking out 'deploy/master'.\r\n\r\nYou are in 'detached HEAD' state. You can look around, make experimental\r\nchanges and commit them, and you can discard any commits you make in this\r\nstate without impacting any branches by performing another checkout.\r\n\r\nIf you want to create a new branch to retain commits you create, you may\r\ndo so (now or later) by using -b with the checkout command again. Example:\r\n\r\n  git checkout -b \u003cnew-branch-name\u003e\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "HEAD is now at 7b06286... Use eventlet as the default worker.\r\n"
+    ],
+    [
+      0.000290,
+      "deploy.py: app sources downloaded, creating virtual environment\u001b[0m\r\n"
+    ],
+    [
+      1.303682,
+      "\u001b[32mdeploy.py: pretending we're in that virtualenv\u001b[0m\r\n\u001b[33mdeploy.py: this may break things\u001b[0m\r\n\u001b[33mdeploy.py: overriding $PATH\u001b[0m\r\ndeploy.py: copying deployment files to app directory...\u001b[0m\r\n\u001b[32mdeploy.py: switching to new interpreter...\u001b[0m\r\ndeploy.py: this will attempt to pick up where we left off.\u001b[0m\r\n"
+    ],
+    [
+      0.000663,
+      "\r\n\r\n"
+    ],
+    [
+      0.036660,
+      "deploy.py: running under /opt/myproj/.venv/bin/python in /opt/myproj\r\n"
+    ],
+    [
+      0.000101,
+      "deploy.py: installing deploypy library\r\n"
+    ],
+    [
+      0.169656,
+      "Processing /media/storage/eyes/dev/deploy.py\r\n"
+    ],
+    [
+      0.203951,
+      "Collecting colorama (from deploy.py==1.0.0)\r\n"
+    ],
+    [
+      0.043369,
+      "  Using cached colorama-0.3.3.tar.gz\r\n"
+    ],
+    [
+      0.180749,
+      "Collecting termcolor (from deploy.py==1.0.0)\r\n"
+    ],
+    [
+      0.009546,
+      "  Using cached termcolor-1.1.0.tar.gz\r\n"
+    ],
+    [
+      0.173050,
+      "Installing collected packages: colorama, termcolor, deploy.py\r\n"
+    ],
+    [
+      0.000234,
+      "  Running setup.py install for colorama\r\n"
+    ],
+    [
+      0.215282,
+      "  Running setup.py install for termcolor\r\n"
+    ],
+    [
+      0.205697,
+      "  Running setup.py install for deploy.py\r\n"
+    ],
+    [
+      0.221903,
+      "Successfully installed colorama-0.3.3 deploy.py-1.0.0 termcolor-1.1.0\r\n"
+    ],
+    [
+      0.042662,
+      "\r\n"
+    ],
+    [
+      0.002040,
+      "\u001b[36mdeploy.py: constructing...\u001b[0m\r\n"
+    ],
+    [
+      0.001325,
+      "\u001b[32mdeploy.py: running hooks\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mdeploy.py: running hook: requirements\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[32mdeploy.py: installing requirements\u001b[0m\r\n"
+    ],
+    [
+      0.006497,
+      "Collecting flask (from -r /opt/myproj/requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.108942,
+      "  Using cached Flask-0.10.1.tar.gz\r\n"
+    ],
+    [
+      0.237364,
+      "Collecting requests (from -r /opt/myproj/requirements.txt (line 2))\r\n"
+    ],
+    [
+      0.072851,
+      "  Using cached requests-2.8.1-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.020993,
+      "Collecting redis (from -r /opt/myproj/requirements.txt (line 3))\r\n"
+    ],
+    [
+      0.034191,
+      "  Using cached redis-2.10.5-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.006137,
+      "Collecting Werkzeug\u003e=0.7 (from flask-\u003e-r /opt/myproj/requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.042287,
+      "  Using cached Werkzeug-0.11.2-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.013380,
+      "Collecting Jinja2\u003e=2.4 (from flask-\u003e-r /opt/myproj/requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.034836,
+      "  Using cached Jinja2-2.8-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.010020,
+      "Collecting itsdangerous\u003e=0.21 (from flask-\u003e-r /opt/myproj/requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.028561,
+      "  Using cached itsdangerous-0.24.tar.gz\r\n"
+    ],
+    [
+      0.182351,
+      "Collecting MarkupSafe (from Jinja2\u003e=2.4-\u003eflask-\u003e-r /opt/myproj/requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.036493,
+      "  Using cached MarkupSafe-0.23.tar.gz\r\n"
+    ],
+    [
+      0.191479,
+      "Installing collected packages: Werkzeug, MarkupSafe, Jinja2, itsdangerous, flask, requests, redis\r\n"
+    ],
+    [
+      0.118183,
+      "  Running setup.py install for MarkupSafe\r\n"
+    ],
+    [
+      0.423827,
+      "  Running setup.py install for itsdangerous\r\n"
+    ],
+    [
+      0.215262,
+      "  Running setup.py install for flask\r\n"
+    ],
+    [
+      0.586472,
+      "Successfully installed Jinja2-2.8 MarkupSafe-0.23 Werkzeug-0.11.2 flask-0.10.1 itsdangerous-0.24 redis-2.10.5 requests-2.8.1\r\n"
+    ],
+    [
+      0.009024,
+      "\u001b[36mdeploy.py: running hook: user\u001b[0m\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[35mdeploy.py: calling command sudo useradd -M -U -d /opt/myproj kcproxy\u001b[0m\r\n"
+    ],
+    [
+      0.084385,
+      "\u001b[36mdeploy.py: changing ownership of install directory to group kcproxy\u001b[0m\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[35mdeploy.py: calling command sudo chgrp -hR kcproxy /opt/myproj\u001b[0m\r\n"
+    ],
+    [
+      0.011547,
+      "\u001b[35mdeploy.py: calling command chmod -R g+w /opt/myproj\u001b[0m\r\n"
+    ],
+    [
+      0.005893,
+      "\u001b[0m"
+    ],
+    [
+      0.049781,
+      "\u001b[0m"
+    ],
+    [
+      0.062885,
+      "\u001b]0;fish "
+    ],
+    [
+      0.000017,
+      " /tmp/deploy\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000084,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                 \r \r"
+    ],
+    [
+      0.000271,
+      "\u001b[38;5;243m[\u001b[38;5;120m0\u001b[38;5;243m] \u001b[38;5;63meyes\u001b[38;5;61m@\u001b[38;5;63mantiskill \u001b[32m/t/deploy\u001b[1m\u001b[38;5;227m \u001b[38;5;63m$\u001b[30m\u001b(B\u001b[m \u001b[K"
+    ],
+    [
+      1.713291,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
