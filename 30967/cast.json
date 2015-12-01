@@ -1,0 +1,2138 @@
+{
+  "version": 1,
+  "width": 116,
+  "height": 29,
+  "duration": 99.412685,
+  "command": "/bin/zsh",
+  "title": "docker-application",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.111954,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.000303,
+      "\u001b]2;ash@daftpunk-rbh: ~/tmp\u0007\u001b]1;~/tmp\u0007"
+    ],
+    [
+      0.018248,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[37m{\u001b[33m21:09\u001b[37m}\u001b[00m\u001b[36m~/tmp \u001b[37m➭ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000074,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.405240,
+      "v"
+    ],
+    [
+      0.139749,
+      "\u0008vi"
+    ],
+    [
+      0.226032,
+      "m"
+    ],
+    [
+      0.574172,
+      " "
+    ],
+    [
+      0.368604,
+      "~"
+    ],
+    [
+      0.527591,
+      "/"
+    ],
+    [
+      0.288392,
+      "."
+    ],
+    [
+      0.175401,
+      "a"
+    ],
+    [
+      0.128259,
+      "l"
+    ],
+    [
+      0.159911,
+      "i"
+    ],
+    [
+      0.168749,
+      "ases\u001b[1m \u001b[0m"
+    ],
+    [
+      0.599380,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000016,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000071,
+      "\r\r\n"
+    ],
+    [
+      0.001016,
+      "\u001b]2;vim ~/.aliases\u0007\u001b]1;vim\u0007"
+    ],
+    [
+      0.022798,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.000836,
+      "\u001b[1;29r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[29;1H\"~/.aliases\""
+    ],
+    [
+      0.000012,
+      " 28L, 1115C"
+    ],
+    [
+      0.001165,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000269,
+      "\u001b[1;1Halias npm-exec='PATH=$(npm bin):$PATH'\r\n\r\nfunction drun {\r\n  docker run --rm -it \\\u001b[5;14H-v /var/run/docker.sock:/var/run/docker.sock \\\u001b[6;14H-v $(which docker):/bin/docker \\\u001b[7;14H-v \"$(pwd)\":/data \\\u001b[8;14H-w /data \\\u001b[9;14H$@\r\n}\u001b[11;14H#-u $(id -u $(whoami))\r\n\r\nalias dpython3=\"drun continuumio/anaconda3 python\"\r\nalias dpython2=\"drun continuumio/anaconda python\"\r\nalias doctave=\"drun schickling/octave\"\r\n\r\nif [[ `uname` == 'Linux' ]]; then\r\n  alias dgui=\"drun -v /tmp/.X11-unix:/tmp/.X11-unix:rw -v /etc/group:/etc/group:ro -v /etc/passwd:/etc/passwd:ro -v  \u001b[19;1H/etc/shadow:/etc/shadow:ro -v /etc/sudoers.d:/etc/sudoers.d:ro -u $USER -e DISPLAY\"\r\n  alias dpython3=\"dgui continuumio/anaconda3 python\"\r\n  alias dpython2=\"dgui continuumio/anaconda python\"\r\n\r\n  alias fiji=\"docker run --rm -it -v /tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=$DISPLAY -v `pwd`:/fiji/data fiji/ff\u001b[24;1Hiji\"\r\nelse\r\n  alias emacsgui='open -a /Applications/Emacs.app $1'\r\n  alias initdocker=\". '/Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh'\"\r\nfi\u001b[29;99H1,1\u001b[11CTop\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.732592,
+      "\u001b[?25l\u001b[29;99H2,0-1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213521,
+      "\u001b[?25l\u001b[29;99H3,1  \u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.651095,
+      "\u001b[?25lf\u001b[47munction drun { \u001b[m\u001b[29;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[29;19H\u001b[K\u001b[29;99H3,1\u001b[11CTop\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223331,
+      "\u001b[?25l\u001b[47mf\r\n\u001b[m \u001b[47m docker run --rm -it \\ \u001b[m\u001b[29;99H4\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194449,
+      "\u001b[?25l\u001b[47m \r\n\u001b[m \u001b[47m            -v /var/run/docker.sock:/var/run/docker.sock \\ \u001b[m\u001b[29;99H5\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157440,
+      "\u001b[?25l\u001b[47m \r\n\u001b[m \u001b[47m            -v $(which docker):/bin/docker \\ \u001b[m\u001b[29;99H6\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160139,
+      "\u001b[?25l\u001b[47m \r\n\u001b[m \u001b[47m            -v \"$(pwd)\":/data \\ \u001b[m\u001b[29;99H7\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176335,
+      "\u001b[?25l\u001b[47m \r\n\u001b[m \u001b[47m            -w /data \\ \u001b[m\u001b[29;99H8\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175732,
+      "\u001b[?25l\u001b[47m \r\n\u001b[m \u001b[47m            $@ \u001b[m\u001b[29;99H9\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.177210,
+      "\u001b[?25l\u001b[47m \u001b[m\r\n\u001b[106m}\u001b[m\u001b[47m \u001b[m\u001b[29;99H10,1\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.226843,
+      "\u001b[?25l\u001b[47m}\r\n\u001b[m \u001b[47m            #-u $(id -u $(whoami)) \u001b[m\u001b[29;100H1\u001b[11;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.527238,
+      "\u001b[?25l\u001b[10;1H\u001b[106m}\u001b[m\r\n             #-u $(id -u $(whoami))\u001b[11;36H\u001b[K\u001b[29;100H0\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.486207,
+      "\u001b[?25l\u001b[3;1Hfunction drun \u001b[106m{\u001b[m\u001b[3;16H\u001b[K\u001b[4;1H  docker run --rm -it \\\u001b[4;24H\u001b[K\u001b[5;1H             -v /var/run/docker.sock:/var/run/docker.sock \\\u001b[5;60H\u001b[K\u001b[6;1H             -v $(which docker):/bin/docker \\\u001b[6;46H\u001b[K\u001b[7;1H             -v \"$(pwd)\":/data \\\u001b[7;33H\u001b[K\u001b[8;1H             -w /data \\\u001b[8;24H\u001b[K\u001b[9;1H             $@\u001b[9;16H\u001b[K\u001b[10;2H\u001b[K\u001b[29;1H\u001b[K\u001b[29;99H10,1\u001b[10CTop\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.496743,
+      "\u001b[?25l\u001b[29;99H\u001b[K\u001b[29;1H:"
+    ],
+    [
+      0.000019,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.238141,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.664113,
+      "\r"
+    ],
+    [
+      0.000980,
+      "\u001b[?25l\u001b[29;1H\u001b[K\u001b[29;1H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000015,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001181,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.000201,
+      "\u001b]2;ash@daftpunk-rbh: ~/tmp\u0007\u001b]1;~/tmp\u0007"
+    ],
+    [
+      0.009450,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[37m{\u001b[33m21:09\u001b[37m}\u001b[00m\u001b[36m~/tmp \u001b[37m➭ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000050,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.372546,
+      "d"
+    ],
+    [
+      0.159982,
+      "\u0008dr"
+    ],
+    [
+      0.197538,
+      "u"
+    ],
+    [
+      0.200203,
+      "n"
+    ],
+    [
+      0.193881,
+      " "
+    ],
+    [
+      0.498992,
+      "a"
+    ],
+    [
+      0.389645,
+      "e"
+    ],
+    [
+      0.345941,
+      "h"
+    ],
+    [
+      0.129924,
+      "r"
+    ],
+    [
+      0.278289,
+      "c"
+    ],
+    [
+      0.149930,
+      "/"
+    ],
+    [
+      0.294073,
+      "i"
+    ],
+    [
+      0.156339,
+      "m"
+    ],
+    [
+      0.108057,
+      "g"
+    ],
+    [
+      1.183671,
+      "\u0008 \u0008"
+    ],
+    [
+      0.504307,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081667,
+      "\u0008 \u0008"
+    ],
+    [
+      0.092830,
+      "\u0008 \u0008"
+    ],
+    [
+      0.075090,
+      "\u0008 \u0008"
+    ],
+    [
+      0.088061,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086082,
+      "\u0008 \u0008"
+    ],
+    [
+      0.074047,
+      "\u0008 \u0008"
+    ],
+    [
+      0.089916,
+      "\u0008 \u0008"
+    ],
+    [
+      0.077980,
+      "\u0008"
+    ],
+    [
+      0.090106,
+      "\u0008 \u0008"
+    ],
+    [
+      0.078973,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086953,
+      "\u0008\u0008d \u0008"
+    ],
+    [
+      0.080099,
+      "\u0008 \u0008"
+    ],
+    [
+      0.674439,
+      "l"
+    ],
+    [
+      0.127535,
+      "\u0008ls"
+    ],
+    [
+      0.462274,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000808,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002910,
+      "after_axi.nii.gz                                       img_g002.nii.gz  img_g025.nii.gz\r\nafter.png                                              img_g003.nii.gz  img_g025_slightly_shifted.nii.gz\r\nafter_sag.nii.gz                                       img_g004.nii.gz  log.log"
+    ],
+    [
+      0.000015,
+      "\r\n\u001b[0m\u001b[01;32malign_time_frames.sh\u001b[0m                                   img_g005.nii.gz  metest\r\nbefore_axi.nii.gz                                      img_g006.nii.gz  \u001b[01;34mno_reorient\u001b[0m\r\nbefore.png                                             img_g007.nii.gz  out0.nii.gz\r\n"
+    ],
+    [
+      0.000037,
+      "before_sag.nii.gz                                      img_g008.nii.gz  out1.nii.gz"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "composed.nii                                           img_g009.nii.gz  out.nii.gz"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[01;34mdockereg\u001b[0m                                               img_g010.nii.gz  reconstructed.nii.gz\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[01;34mgbm005sg_pt_091118_cnts_fdg_dyn_ac_align\u001b[0m               img_g011.nii.gz  ref_.tfm\r\n"
+    ],
+    [
+      0.000032,
+      "gbm005sg_pt_091118_cnts_fdg_dyn_ac.nii.gz              img_g012.nii.gz  ref___tfmFinal.tfm\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[01;34mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn_align\u001b[0m   img_g013.nii.gz  ref__tfmFinal.tfm"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "gbm009jm_mr_101021_t1fl3dtra15measurements_dyn.nii.gz  img_g014.nii.gz  ref_tfmFinal.tfm"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "gbm017rc_mr_101028_t1fl3dtra15measurements_dyn.nii.gz  img_g015.nii.gz  \u001b[01;34mreorient\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "gbm017rc_mr_110210_t1fl3dtra15measurements_dyn.nii.gz  img_g016.nii.gz  slight_shift_d1.nii.gz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[01;34mgbm017rc_pt_101027_cnts_fdg_dyn_nac_align\u001b[0m              img_g017.nii.gz  slight_shift_d2.nii.gz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "gbm017rc_pt_101027_cnts_fdg_dyn_nac_id.nii.gz          img_g018.nii.gz  slight_shift_d3.nii.gz"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "gbm017rc_pt_101027_cnts_fdg_dyn_nac.nii.gz             img_g019.nii.gz  slight_shift.nii.gz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "identity.nii.gz                                        img_g020.nii.gz  slight_shift.tfm"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "identity.tfm                                           img_g021.nii.gz  sudotest"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "img_g000.nii.gz                                        img_g022.nii.gz  tfm.tfm"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "img_g000_resampled.nii.gz                              img_g023.nii.gz  __tmp__tfmInitial.tfm"
+    ],
+    [
+      0.000009,
+      "\r\nimg_g001.nii.gz                                        img_g024.nii.gz\r\n"
+    ],
+    [
+      0.000450,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.000231,
+      "\u001b]2;ash@daftpunk-rbh: ~/tmp\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~/tmp\u0007"
+    ],
+    [
+      0.009101,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[37m{\u001b[33m21:09\u001b[37m}\u001b[00m\u001b[36m~/tmp \u001b[37m➭ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.460677,
+      "d"
+    ],
+    [
+      0.155509,
+      "\u0008dr"
+    ],
+    [
+      0.167984,
+      "u"
+    ],
+    [
+      0.185983,
+      "n"
+    ],
+    [
+      0.174020,
+      " "
+    ],
+    [
+      0.353884,
+      "a"
+    ],
+    [
+      0.292581,
+      "e"
+    ],
+    [
+      0.375183,
+      "\u0007"
+    ],
+    [
+      0.794904,
+      "h"
+    ],
+    [
+      0.603909,
+      "r"
+    ],
+    [
+      0.235936,
+      "c"
+    ],
+    [
+      0.224148,
+      "/"
+    ],
+    [
+      0.240007,
+      "i"
+    ],
+    [
+      0.144080,
+      "m"
+    ],
+    [
+      0.111704,
+      "g"
+    ],
+    [
+      1.074366,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.000867,
+      "\u001b]2;drun aehrc/img\u0007\u001b]1;drun\u0007"
+    ],
+    [
+      0.245426,
+      "Linux version 3.13.0-68-generic (buildd@lgw01-46) (gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) ) #111-Ubuntu SMP Fri Nov 6 18:17:06 UTC 2015\r\r\n"
+    ],
+    [
+      0.000761,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "#====================================================================#\r\r\n| CSIRO AeHRC Biomedical Informatics Imaging Docker Containter       |\r\r\n#====================================================================#\r\r\n\r\r\nDocker containter for medical image processing.\r\r\n(c) CSIRO 2015\r\r\n"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000129,
+      "Source directory is /usr/local/src\r\r\n"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.004359,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      2.881263,
+      "l"
+    ],
+    [
+      0.097950,
+      "s"
+    ],
+    [
+      0.208000,
+      " "
+    ],
+    [
+      2.850681,
+      "/usr/local/src"
+    ],
+    [
+      0.619862,
+      "\r\r\n"
+    ],
+    [
+      0.003226,
+      "\u001b[0m\u001b[01;34mants\u001b[0m  \u001b[01;34mitk\u001b[0m  \u001b[01;34mmilx-view\u001b[0m  \u001b[01;34mmirorr\u001b[0m  \u001b[01;34mvtk\u001b[0m\r\r\n"
+    ],
+    [
+      0.000490,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      2.430627,
+      "l"
+    ],
+    [
+      0.110477,
+      "s"
+    ],
+    [
+      0.481410,
+      "\r\r\n"
+    ],
+    [
+      0.002747,
+      "__tmp__tfmInitial.tfm                                  \u001b[0m\u001b[01;31mimg_g001.nii.gz\u001b[0m  \u001b[01;31mimg_g024.nii.gz\u001b[0m\r\r\n\u001b[01;35mafter.png\u001b[0m                                              \u001b[01;31mimg_g002.nii.gz\u001b[0m  \u001b[01;31mimg_g025.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[01;31mafter_axi.nii.gz\u001b[0m                                       \u001b[01;31mimg_g003.nii.gz\u001b[0m  \u001b[01;31mimg_g025_slightly_shifted.nii.gz\u001b[0m\r\r\n\u001b[01;31mafter_sag.nii.gz\u001b[0m                                       \u001b[01;31mimg_g004.nii.gz\u001b[0m  log.log\r\r\n\u001b[01;32malign_time_frames.sh\u001b[0m                                   \u001b[01;31mimg_g005.nii.gz\u001b[0m  metest\r\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[01;35mbefore.png\u001b[0m                                             \u001b[01;31mimg_g006.nii.gz\u001b[0m  \u001b[01;34mno_reorient\u001b[0m\r\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;31mbefore_axi.nii.gz\u001b[0m                                      \u001b[01;31mimg_g007.nii.gz\u001b[0m  \u001b[01;31mout.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[01;31mbefore_sag.nii.gz\u001b[0m                                      \u001b[01;31mimg_g008.nii.gz\u001b[0m  \u001b[01;31mout0.nii.gz\u001b[0m\r"
+    ],
+    [
+      0.000015,
+      "\r\ncomposed.nii                                           \u001b[01;31mimg_g009.nii.gz\u001b[0m  \u001b[01;31mout1.nii.gz\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[01;34mdockereg\u001b[0m                                               \u001b[01;31mimg_g010.nii.gz\u001b[0m  \u001b[01;31mreconstructed.nii.gz\u001b[0m\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;31mgbm005sg_pt_091118_cnts_fdg_dyn_ac.nii.gz\u001b[0m              \u001b[01;31mimg_g011.nii.gz\u001b[0m  ref_.tfm\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[01;34mgbm005sg_pt_091118_cnts_fdg_dyn_ac_align\u001b[0m               \u001b[01;31mimg_g012.nii.gz\u001b[0m  ref___tfmFinal.tfm\r\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;31mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g013.nii.gz\u001b[0m  ref__tfmFinal.tfm\r\r\n\u001b[01;34mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn_align\u001b[0m   \u001b[01;31mimg_g014.nii.gz\u001b[0m  ref_tfmFinal.tfm\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[01;31mgbm017rc_mr_101028_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g015.nii.gz\u001b[0m  \u001b[01;34mreorient\u001b[0m\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[01;31mgbm017rc_mr_110210_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g016.nii.gz\u001b[0m  \u001b[01;31mslight_shift.nii.gz\u001b[0m\r"
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[01;31mgbm017rc_pt_101027_cnts_fdg_dyn_nac.nii.gz\u001b[0m             \u001b[01;31mimg_g017.nii.gz\u001b[0m  slight_shift.tfm"
+    ],
+    [
+      0.000031,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[01;34mgbm017rc_pt_101027_cnts_fdg_dyn_nac_align\u001b[0m              \u001b[01;31mimg_g018.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d1.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;31mgbm017rc_pt_101027_cnts_fdg_dyn_nac_id.nii.gz\u001b[0m          \u001b[01;31mimg_g019.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d2.nii.gz\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[01;31midentity.nii.gz\u001b[0m                                        \u001b[01;31mimg_g020.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d3.nii.gz\u001b[0m"
+    ],
+    [
+      0.000062,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\nidentity.tfm                                           \u001b[01;31mimg_g021.nii.gz\u001b[0m  sudotest\r"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[01;31mimg_g000.nii.gz\u001b[0m                                        \u001b[01;31mimg_g022.nii.gz\u001b[0m  tfm.tfm\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;31mimg_g000_resampled.nii.gz\u001b[0m                              \u001b[01;31mimg_g023.nii.gz\u001b[0m"
+    ],
+    [
+      0.000036,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000463,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      5.163216,
+      "m"
+    ],
+    [
+      0.173790,
+      "i"
+    ],
+    [
+      0.192210,
+      "l"
+    ],
+    [
+      0.753900,
+      "s"
+    ],
+    [
+      0.370163,
+      "\u0008 \u0008"
+    ],
+    [
+      0.092245,
+      "x"
+    ],
+    [
+      0.448478,
+      "I"
+    ],
+    [
+      0.207438,
+      "m"
+    ],
+    [
+      0.149008,
+      "\u0007age"
+    ],
+    [
+      1.012428,
+      "R"
+    ],
+    [
+      0.214811,
+      "i"
+    ],
+    [
+      0.194039,
+      "gidlyTransform "
+    ],
+    [
+      0.783978,
+      "\r\r\n"
+    ],
+    [
+      0.034549,
+      "milxImageRigidlyTransform\r\r\n\r\r\nSynopsis: Applies a linear transform to an image without resampling it.\r\r\nThis is done by updating the direction and origin fields. An image's header may also be inserted into that of another image. In place transformation is also supported.\r\r\n\r\r\nUsage:\r\r\n  milxImageRigidlyTransform image.nii transform.tfm transformed.nii [Options]\r\r\n  milxImageRigidlyTransform image.nii transform.tfm inplace [Options]\r\r\n  milxImageRigidlyTransform image.nii base.nii transformed.nii [Options]\r\r\n  milxImageRigidlyTransform image.nii identity transformed.nii --idspace\r\r\n\r\r\nExample of typical use in pipeline for registering two images:\r\r\n"
+    ],
+    [
+      0.000009,
+      "\r\r\nExample of typical use in pipeline for registering two images:\r\r\n#  Register two images, using convention of both images starting in identity space.\r\r\nmirorr moving.nii fixed.nii fixed.tfm --reorient-fixed --reorient-moving\r\r\n#  Store reference image in identity space.\r\r\nmilxImageRigidlyTransform fixed.nii identity fixed_id.nii --idspace\r\r\n#  Resample regiestered moving image into reference identity space \r\r\nmilxImageResamplein3DSlices moving.nii fixed.tfm moving_reg_res.nii --ref fixed.nii --idspace --idspace-ref --invert\r\r\n#  View the result \r\r\nmilxview moving_reg_res.nii fixed_id.nii"
+    ],
+    [
+      0.000196,
+      "\r\r\n\r\r\nOptions:\r\r\n  -i [ --input ] arg     Input image\r\r\n  -t [ --transform ] arg Linear transform\r\r\n  -o [ --output ] arg    Output image\r\r\n  -n [ --invert ]        Output image\r\r\n  --zero-origin          Set the OUTPUT origin to zeros\r\r\n  --identity-rotation    Set the OUTPUT direction matrix to identity\r"
+    ],
+    [
+      0.000006,
+      "\r\n  --idspace              At load, make INPUT origin \u0026 direction of identity\r\r\n  --set-spacing arg (=0) Selectively copy spacing of image as well.\r\r\n"
+    ],
+    [
+      0.000090,
+      "  --echo-cmd             Echo the command line. Useful for logging.\r\r\n  -v [ --verbose ]       Verbose output\r\r\n  -q [ --quiet ]         Quiet output\r\r\n  -h [ --help ]          Produce help message\r\r\n\r\r\n\r\r\n"
+    ],
+    [
+      0.003352,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      3.006721,
+      "a"
+    ],
+    [
+      0.153110,
+      "n"
+    ],
+    [
+      0.194142,
+      "t"
+    ],
+    [
+      0.336352,
+      "s"
+    ],
+    [
+      1.295988,
+      "R"
+    ],
+    [
+      0.158350,
+      "e"
+    ],
+    [
+      0.143886,
+      "g"
+    ],
+    [
+      0.164294,
+      "\u0007"
+    ],
+    [
+      0.877832,
+      "i"
+    ],
+    [
+      0.112021,
+      "s"
+    ],
+    [
+      0.418769,
+      "\u0007"
+    ],
+    [
+      0.667559,
+      "\u0008 \u0008"
+    ],
+    [
+      0.158422,
+      "\u0008 \u0008"
+    ],
+    [
+      0.143475,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128417,
+      "\u0008 \u0008"
+    ],
+    [
+      0.147702,
+      "\u0008 \u0008"
+    ],
+    [
+      0.209023,
+      "gpu "
+    ],
+    [
+      0.604988,
+      "\r\r\n"
+    ],
+    [
+      0.022254,
+      "Inputs are missing. Three inputs needed: a moving image, a fixed image and a transform.antsgpu  - A GPU implementation of the ants image registration algorithm.\r\r\n\r\r\nUsage:\r\r\nantsgpu moving.nii fixed.nii output.tfm [options]:\r\r\n"
+    ],
+    [
+      0.000118,
+      "  -m [ --moving ] arg           Input Moving image\r"
+    ],
+    [
+      0.000007,
+      "\r\n  -f [ --fixed ] arg            Input Fixed image\r\r\n  -t [ --transform ] arg   "
+    ],
+    [
+      0.000017,
+      "   "
+    ],
+    [
+      0.000006,
+      "  Output f"
+    ],
+    [
+      0.000005,
+      "or"
+    ],
+    [
+      0.000021,
+      "wards "
+    ],
+    [
+      0.000005,
+      "tran"
+    ],
+    [
+      0.000005,
+      "sf"
+    ],
+    [
+      0.000004,
+      "or"
+    ],
+    [
+      0.000024,
+      "m "
+    ],
+    [
+      0.000011,
+      "from "
+    ],
+    [
+      0.000006,
+      "mov"
+    ],
+    [
+      0.000005,
+      "ing"
+    ],
+    [
+      0.000005,
+      " t"
+    ],
+    [
+      0.000032,
+      "o fixed \r"
+    ],
+    [
+      0.000006,
+      "\r\n  "
+    ],
+    [
+      0.000028,
+      "         "
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000004,
+      "   "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000011,
+      "   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000015,
+      " ima"
+    ],
+    [
+      0.000005,
+      "ge"
+    ],
+    [
+      0.000013,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  -u [ --inv-transform ] arg "
+    ],
+    [
+      0.000006,
+      "   Out"
+    ],
+    [
+      0.000015,
+      "pu"
+    ],
+    [
+      0.000005,
+      "t in"
+    ],
+    [
+      0.000013,
+      "ve"
+    ],
+    [
+      0.000006,
+      "rs"
+    ],
+    [
+      0.000005,
+      "e "
+    ],
+    [
+      0.000017,
+      "tran"
+    ],
+    [
+      0.000005,
+      "sfo"
+    ],
+    [
+      0.000026,
+      "rm from f"
+    ],
+    [
+      0.000005,
+      "ix"
+    ],
+    [
+      0.000014,
+      "ed"
+    ],
+    [
+      0.000006,
+      " to m"
+    ],
+    [
+      0.000013,
+      "ov"
+    ],
+    [
+      0.000005,
+      "ing"
+    ],
+    [
+      0.000009,
+      " \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "  "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000012,
+      "  "
+    ],
+    [
+      0.000005,
+      "    "
+    ],
+    [
+      0.000016,
+      "  "
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000012,
+      "  "
+    ],
+    [
+      0.000006,
+      "  "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000010,
+      " i"
+    ],
+    [
+      0.000006,
+      "ma"
+    ],
+    [
+      0.000005,
+      "ge"
+    ],
+    [
+      0.000005,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "  -M [ --save-moving ] arg"
+    ],
+    [
+      0.000006,
+      "     "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000005,
+      "Save moving image\r\r\n"
+    ],
+    [
+      0.000018,
+      "  -F [ --save-fixed ] arg"
+    ],
+    [
+      0.000006,
+      "       "
+    ],
+    [
+      0.000005,
+      "Save fixed image"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000018,
+      "  -L [ --levels ] arg (=3)"
+    ],
+    [
+      0.000006,
+      "     "
+    ],
+    [
+      0.000013,
+      " Number of levels in mult-resolution pyramid"
+    ],
+    [
+      0.000006,
+      "\r\r\n  -N [ --max-iterations ] arg"
+    ],
+    [
+      0.000019,
+      "  "
+    ],
+    [
+      0.000006,
+      " Max iterations per pyramid level\r\r\n"
+    ],
+    [
+      0.000016,
+      "  -T [ --timesteps ] arg   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000014,
+      "Gr"
+    ],
+    [
+      0.000005,
+      "adien"
+    ],
+    [
+      0.000017,
+      "t "
+    ],
+    [
+      0.000006,
+      "scalin"
+    ],
+    [
+      0.000012,
+      "g "
+    ],
+    [
+      0.000006,
+      "fa"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.000016,
+      "tor "
+    ],
+    [
+      0.000005,
+      "(on"
+    ],
+    [
+      0.000005,
+      "e "
+    ],
+    [
+      0.000008,
+      "pe"
+    ],
+    [
+      0.000005,
+      "r "
+    ],
+    [
+      0.000005,
+      "le"
+    ],
+    [
+      0.000005,
+      "ve"
+    ],
+    [
+      0.000017,
+      "l)"
+    ],
+    [
+      0.000006,
+      ". Sho"
+    ],
+    [
+      0.000019,
+      "uld\r\r\n"
+    ],
+    [
+      0.000015,
+      "   "
+    ],
+    [
+      0.000006,
+      "     "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000016,
+      "   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000016,
+      "    "
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000007,
+      "  "
+    ],
+    [
+      0.000017,
+      "\u003e15."
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000018,
+      "  -R [ --radius ] arg (=4)"
+    ],
+    [
+      0.000006,
+      "      "
+    ],
+    [
+      0.000012,
+      "Regional width of image blocks in voxels.\r\r\n"
+    ],
+    [
+      0.000027,
+      "  --energy-scale arg (=0)"
+    ],
+    [
+      0.000006,
+      "       Re"
+    ],
+    [
+      0.000012,
+      "st"
+    ],
+    [
+      0.000005,
+      "ric"
+    ],
+    [
+      0.000022,
+      "t en"
+    ],
+    [
+      0.000006,
+      "ergy"
+    ],
+    [
+      0.000011,
+      " wi"
+    ],
+    [
+      0.000005,
+      "th"
+    ],
+    [
+      0.000005,
+      " t"
+    ],
+    [
+      0.000005,
+      "he"
+    ],
+    [
+      0.000007,
+      " f"
+    ],
+    [
+      0.000006,
+      "ac"
+    ],
+    [
+      0.000016,
+      "tor "
+    ],
+    [
+      0.000005,
+      "(0 "
+    ],
+    [
+      0.000009,
+      "de"
+    ],
+    [
+      0.000008,
+      "act"
+    ],
+    [
+      0.000005,
+      "iv"
+    ],
+    [
+      0.000005,
+      "at"
+    ],
+    [
+      0.000008,
+      "es"
+    ],
+    [
+      0.000012,
+      ")"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.000015,
+      "  -S [ --disp-sigma ] arg (=10) "
+    ],
+    [
+      0.000005,
+      "Kernel width when smoothing DISPLACEMENT field\r\r\n"
+    ],
+    [
+      0.000019,
+      "  --disp-maxsigma arg (=0)    "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "Max"
+    ],
+    [
+      0.000008,
+      " k"
+    ],
+    [
+      0.000017,
+      "ern"
+    ],
+    [
+      0.000006,
+      "el wi"
+    ],
+    [
+      0.000012,
+      "dt"
+    ],
+    [
+      0.000006,
+      "h "
+    ],
+    [
+      0.000005,
+      "wh"
+    ],
+    [
+      0.000017,
+      "en s"
+    ],
+    [
+      0.000005,
+      "moo"
+    ],
+    [
+      0.000005,
+      "th"
+    ],
+    [
+      0.000007,
+      "in"
+    ],
+    [
+      0.000005,
+      "g "
+    ],
+    [
+      0.000005,
+      "DI"
+    ],
+    [
+      0.000008,
+      "SP"
+    ],
+    [
+      0.000016,
+      "LAC"
+    ],
+    [
+      0.000006,
+      "EME"
+    ],
+    [
+      0.000005,
+      "NT"
+    ],
+    [
+      0.000008,
+      " \r\r\n"
+    ],
+    [
+      0.000018,
+      "  "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000017,
+      "  "
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000019,
+      "   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000014,
+      "  "
+    ],
+    [
+      0.000006,
+      "field"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.000013,
+      "  -V [ --vel-sigma ] arg (=10)  Kernel width when smoothing VELOCITY field\r\r\n"
+    ],
+    [
+      0.000011,
+      "  --vel-maxsigma arg (=0)"
+    ],
+    [
+      0.000006,
+      "     "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000015,
+      "Max kernel width when smoothing VELOCITY field\r\r\n"
+    ],
+    [
+      0.000017,
+      "  --vel-max arg (=1000000) "
+    ],
+    [
+      0.000006,
+      "    "
+    ],
+    [
+      0.000013,
+      " Max velocity allowed (do not use)\r\r\n"
+    ],
+    [
+      0.000016,
+      "  -h [ --help ] "
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000013,
+      "    "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000017,
+      "    "
+    ],
+    [
+      0.000006,
+      " produce this help message\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "  -v [ --verbosity ] arg (=1)"
+    ],
+    [
+      0.000005,
+      "   Verbosity level (0 to 4)\r\r\n"
+    ],
+    [
+      0.003060,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      10.503287,
+      "m"
+    ],
+    [
+      0.187217,
+      "i"
+    ],
+    [
+      0.135133,
+      "r"
+    ],
+    [
+      0.236141,
+      "o"
+    ],
+    [
+      0.012794,
+      "r"
+    ],
+    [
+      0.159950,
+      "r"
+    ],
+    [
+      0.217434,
+      " "
+    ],
+    [
+      0.520706,
+      "\r\r\n"
+    ],
+    [
+      0.030511,
+      "------------------------------------------------------------------------\r\r\n- CSIRO Mirorr (c) 2009-2015                                           -\r\r\n"
+    ],
+    [
+      0.000009,
+      "------------------------------------------------------------------------\r\r\nMultimodal Image Registration using blOck-matching and Robust Regression\r\r\nBy: David Rivest-Henault, Nicholas Dowson, and the AEHRC team\r\r\nBuild time stamp: \u003cDec  1 2015-05:39:20\u003e\r\r\nCurrent time is:  Tue Dec  1 11:10:21 2015"
+    ],
+    [
+      0.000158,
+      "\r\r\n"
+    ],
+    [
+      0.000005,
+      "------------------------------------------------------------------------\r\r\n(use --echo-cmd to get more process information)\r\r\n------------------------------------------------------------------------\r\r\n"
+    ],
+    [
+      0.000004,
+      "\r\r\nNo moving image supplied. Type 'mirorr --help' for usage.\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.003199,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      4.302817,
+      "m"
+    ],
+    [
+      0.206140,
+      "i"
+    ],
+    [
+      0.127908,
+      "r"
+    ],
+    [
+      0.178366,
+      "orr "
+    ],
+    [
+      1.824121,
+      "\u0008 \u0008"
+    ],
+    [
+      0.124718,
+      "\u0008 \u0008"
+    ],
+    [
+      0.165107,
+      "\u0008 \u0008"
+    ],
+    [
+      0.158704,
+      "\u0008 \u0008"
+    ],
+    [
+      0.106771,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086582,
+      "\u0008 \u0008"
+    ],
+    [
+      0.171860,
+      "\u0008 \u0008"
+    ],
+    [
+      0.387777,
+      "l"
+    ],
+    [
+      0.090080,
+      "s"
+    ],
+    [
+      0.128459,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.002788,
+      "__tmp__tfmInitial.tfm                                  \u001b[0m\u001b[01;31mimg_g001.nii.gz\u001b[0m  \u001b[01;31mimg_g024.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[01;35mafter.png\u001b[0m                                              \u001b[01;31mimg_g002.nii.gz\u001b[0m  \u001b[01;31mimg_g025.nii.gz\u001b[0m\r\r\n\u001b[01;31mafter_axi.nii.gz\u001b[0m                                       \u001b[01;31mimg_g003.nii.gz\u001b[0m  \u001b[01;31mimg_g025_slightly_shifted.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;31mafter_sag.nii.gz\u001b[0m                                       \u001b[01;31mimg_g004.nii.gz\u001b[0m  log.log\r\r\n\u001b[01;32malign_time_frames.sh\u001b[0m                                   \u001b[01;31mimg_g005.nii.gz\u001b[0m  metest"
+    ],
+    [
+      0.000236,
+      "\r"
+    ],
+    [
+      0.000025,
+      "\r\n\u001b[01;35mbefore.png\u001b[0m                                             \u001b[01;31mimg_g006.nii.gz\u001b[0m  \u001b[01;34mno_reorient\u001b[0m\r\r\n\u001b[01;31mbefore_axi.nii.gz\u001b[0m                                      \u001b[01;31mimg_g007.nii.gz\u001b[0m  \u001b[01;31mout.nii.gz\u001b[0m\r\r\n\u001b[01;31mbefore_sag.nii.gz\u001b[0m                                      \u001b[01;31mimg_g008.nii.gz\u001b[0m  \u001b[01;31mout0.nii.gz\u001b[0m\r\r\ncomposed.nii                                           \u001b[01;31mimg_g009.nii.gz\u001b[0m  \u001b[01;31mout1.nii.gz\u001b[0m\r\r\n\u001b[01;34mdockereg\u001b[0m                                               \u001b[01;31mimg_g010.nii.gz\u001b[0m  \u001b[01;31mreconstructed.nii.gz\u001b[0m\r\r\n\u001b[01;31mgbm005sg_pt_091118_cnts_fdg_dyn_ac.nii.gz\u001b[0m              \u001b[01;31mimg_g011.nii.gz\u001b[0m  ref_.tfm\r\r\n\u001b[01;34mgbm005sg_pt_091118_cnts_fdg_dyn_ac_align\u001b[0m               \u001b[01;31mimg_g012.nii.gz\u001b[0m  ref___tfmFinal.tfm\r\r\n\u001b[01;31mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g013.nii.gz\u001b[0m  ref__tfmFinal.tfm\r\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[01;34mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn_align\u001b[0m   \u001b[01;31mimg_g014.nii.gz\u001b[0m  ref_tfmFinal.tfm\r\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[01;31mgbm017rc_mr_101028_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g015.nii.gz\u001b[0m  \u001b[01;34mreorient\u001b[0m\r"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[01;31mgbm017rc_mr_110210_t1fl3dtra15measurements_dyn.nii.gz\u001b[0m  \u001b[01;31mimg_g016.nii.gz\u001b[0m  \u001b[01;31mslight_shift.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;31mgbm017rc_pt_101027_cnts_fdg_dyn_nac.nii.gz\u001b[0m             \u001b[01;31mimg_g017.nii.gz\u001b[0m  slight_shift.tfm\r\r\n\u001b[01;34mgbm017rc_pt_101027_cnts_fdg_dyn_nac_align\u001b[0m              \u001b[01;31mimg_g018.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d1.nii.gz\u001b[0m"
+    ],
+    [
+      0.000286,
+      "\r\r\n\u001b[01;31mgbm017rc_pt_101027_cnts_fdg_dyn_nac_id.nii.gz\u001b[0m          \u001b[01;31mimg_g019.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d2.nii.gz\u001b[0m\r\r\n\u001b[01;31midentity.nii.gz\u001b[0m                                        \u001b[01;31mimg_g020.nii.gz\u001b[0m  \u001b[01;31mslight_shift_d3.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000023,
+      "identity.tfm                                           \u001b[01;31mimg_g021.nii.gz\u001b[0m  sudotest\r\r\n\u001b[01;31mimg_g000.nii.gz\u001b[0m                                        \u001b[01;31mimg_g022.nii.gz\u001b[0m  tfm.tfm\r\r\n\u001b[01;31mimg_g000_resampled.nii.gz\u001b[0m                              \u001b[01;31mimg_g023.nii.gz\u001b[0m\r\r\n"
+    ],
+    [
+      0.000357,
+      "\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# "
+    ],
+    [
+      0.550102,
+      "m"
+    ],
+    [
+      0.183918,
+      "i"
+    ],
+    [
+      0.142176,
+      "r"
+    ],
+    [
+      0.130337,
+      "orr "
+    ],
+    [
+      1.806077,
+      "i"
+    ],
+    [
+      0.198333,
+      "m"
+    ],
+    [
+      0.153943,
+      "\u0007g_g0"
+    ],
+    [
+      1.314461,
+      "0"
+    ],
+    [
+      0.157422,
+      "0"
+    ],
+    [
+      0.258012,
+      "."
+    ],
+    [
+      0.142284,
+      "nii.gz "
+    ],
+    [
+      0.833953,
+      "i"
+    ],
+    [
+      0.190330,
+      "m"
+    ],
+    [
+      0.111797,
+      "\u0007g_g0"
+    ],
+    [
+      0.946035,
+      "0"
+    ],
+    [
+      0.330495,
+      "1"
+    ],
+    [
+      0.295850,
+      ".nii.gz "
+    ],
+    [
+      1.022219,
+      "\r\r\n"
+    ],
+    [
+      0.034552,
+      "------------------------------------------------------------------------\r\r\n- CSIRO Mirorr (c) 2009-2015                                           -\r\r\n------------------------------------------------------------------------\r\r\nMultimodal Image Registration using blOck-matching and Robust Regression\r\r\nBy: David Rivest-Henault, Nicholas Dowson, and the AEHRC team\r\r\nBuild time stamp: \u003cDec  1 2015-05:39:20\u003e\r\r\nCurrent time is:  Tue Dec  1 11:10:38 2015\r\r\n------------------------------------------------------------------------\r\r\n(use --echo-cmd to get more process information)\r\r\n"
+    ],
+    [
+      0.000029,
+      "------------------------------------------------------------------------\r\r\n\r\r\n"
+    ],
+    [
+      0.001036,
+      "WARNING: No output transform supplied. Setting to: img_g001_tfmFinal.tfm\r\r\nINFO:    To avoid saving the last transform, use '--last-tfm ignore'\r\r\n"
+    ],
+    [
+      0.000023,
+      "Boingggg!!!!!\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.190921,
+      "Transform Class:                 Euler3DTransform\r\r\n"
+    ],
+    [
+      0.000009,
+      "Setting Initial transform to have translation of [  0.000;   0.000;   0.000]. Tfm saved here: __tmp__tfmInitial.tfm\r\r\n"
+    ],
+    [
+      0.000412,
+      "Transformation parameters:       [  0.000;   0.000;   0.000;   0.000;   0.000;   0.000]\r\r\nTransformation fixed parameters: [ 82.052; 109.109; 108.594] (usually this is the rotation center)\r\r\n"
+    ],
+    [
+      0.000004,
+      "\r\r\nPyramid Schedule: \r\r\nLimits  Level   Spacing                                              Sampling rate                Image size\r\r\n"
+    ],
+    [
+      0.000002,
+      "1st  -\u003e 1       m[ 8.000  8.000  4.000] f[ 8.000  8.000  4.000]  m[ 4  4  2] f[ 4  4  2]  m[ 32  32  45] f[ 32  32  45]\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "        2       m[ 4.000  4.000  4.000] f[ 4.000  4.000  4.000]  m[ 2  2  2] f[ 2  2  2]  m[ 64  64  45] f[ 64  64  45]\r"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Last -\u003e 3       m[ 2.000  2.000  2.000] f[ 2.000  2.000  2.000]  m[ 1  1  1] f[ 1  1  1]  m[128 128  90] f[128 128  90]\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "Building Image pyramid...\r\r\n"
+    ],
+    [
+      0.183799,
+      "Switching after level: 3 of 3  BlockMatching?: 1  MutualInfo?: 0\r\r\n\r\r\nPrimary alignment using Block Matching registration =================\r\r\n\r\r\nPyramid level: 1\r\r\nUsing symmetric implementation\r\r\n"
+    ],
+    [
+      0.000006,
+      "Using middle space resampling\r\r\n"
+    ],
+    [
+      0.644208,
+      "Iteration 1,  No. blocks: 304,  Opt Pos: [ -0.026;  -0.002;  -0.089;  -8.285;  -4.358;   2.540],  Delta:    94.098,    0.64s\r\r\n"
+    ],
+    [
+      0.580368,
+      "Iteration 2,  No. blocks: 363,  Opt Pos: [  0.043;  -0.045;  -0.156;   2.823;   6.744;   2.695],  Delta:   246.676,    0.58s\r\r\n"
+    ],
+    [
+      0.592722,
+      "Iteration 3,  No. blocks: 406,  Opt Pos: [  0.005;  -0.005;  -0.142; -12.083;  -4.925;   6.648],  Delta:   373.987,    0.59s\r\r\n"
+    ],
+    [
+      0.575223,
+      "Iteration 4,  No. blocks: 359,  Opt Pos: [  0.035;  -0.006;  -0.054;  -5.773;  -8.613;   5.104],  Delta:    55.811,    0.58s\r\r\n"
+    ],
+    [
+      0.560211,
+      "Iteration 5,  No. blocks: 363,  Opt Pos: [  0.041;  -0.017;  -0.125;  -1.009;   4.660;   2.544],  Delta:   205.426,    0.56s\r\r\nLevel 1 completed in 2.95s of 2.95s \u003c-^------\r\r\n\r\r\nPyramid level: 2\r\r\n"
+    ],
+    [
+      0.000090,
+      "Using symmetric implementation\r\r\nUsing middle space resampling\r\r\n"
+    ],
+    [
+      2.230486,
+      "Iteration 1,  No. blocks: 1142,  Opt Pos: [  0.013;   0.003;  -0.130;  -5.101;  -1.808;   3.253],  Delta:    59.080,    2.23s\r\r\n"
+    ],
+    [
+      1.014103,
+      "^C"
+    ],
+    [
+      0.006664,
+      "\r\r\n\u001b]0;root@55aca483f743: /data\u0007root@55aca483f743:/data# \u001b[K"
+    ],
+    [
+      2.008423,
+      "exit\r\r\n"
+    ],
+    [
+      0.147466,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.000170,
+      "\u001b]2;ash@daftpunk-rbh: ~/tmp\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;~/tmp\u0007"
+    ],
+    [
+      0.008085,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[37m{\u001b[33m21:10\u001b[37m}\u001b[00m\u001b[36m~/tmp \u001b[37m➭ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.347906,
+      "l"
+    ],
+    [
+      0.078037,
+      "\u0008ls"
+    ],
+    [
+      0.161453,
+      "\u001b[?1l\u001b\u003e\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001242,
+      "after_axi.nii.gz                                       img_g002.nii.gz  img_g025.nii.gz\r\nafter.png                                              img_g003.nii.gz  img_g025_slightly_shifted.nii.gz\r\nafter_sag.nii.gz                                       img_g004.nii.gz  log.log\r\n\u001b[0m\u001b[01;32malign_time_frames.sh\u001b[0m                                   img_g005.nii.gz  metest\r\n"
+    ],
+    [
+      0.000006,
+      "before_axi.nii.gz                                      img_g006.nii.gz  \u001b[01;34mno_reorient\u001b[0m\r\nbefore.png                                             img_g007.nii.gz  out0.nii.gz\r\nbefore_sag.nii.gz                                      img_g008.nii.gz  out1.nii.gz\r\ncomposed.nii                                           img_g009.nii.gz  out.nii.gz\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[01;34mdockereg\u001b[0m                                               img_g010.nii.gz  reconstructed.nii.gz"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[01;34mgbm005sg_pt_091118_cnts_fdg_dyn_ac_align\u001b[0m               img_g011.nii.gz  ref_.tfm"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "gbm005sg_pt_091118_cnts_fdg_dyn_ac.nii.gz              img_g012.nii.gz  ref___tfmFinal.tfm"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[01;34mgbm009jm_mr_101021_t1fl3dtra15measurements_dyn_align\u001b[0m   img_g013.nii.gz  ref__tfmFinal.tfm\r\n"
+    ],
+    [
+      0.000012,
+      "gbm009jm_mr_101021_t1fl3dtra15measurements_dyn.nii.gz  img_g014.nii.gz  ref_tfmFinal.tfm\r\n"
+    ],
+    [
+      0.000021,
+      "gbm017rc_mr_101028_t1fl3dtra15measurements_dyn.nii.gz  img_g015.nii.gz  \u001b[01;34mreorient\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "gbm017rc_mr_110210_t1fl3dtra15measurements_dyn.nii.gz  img_g016.nii.gz  slight_shift_d1.nii.gz\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[01;34mgbm017rc_pt_101027_cnts_fdg_dyn_nac_align\u001b[0m              img_g017.nii.gz  slight_shift_d2.nii.gz\r\ngbm017rc_pt_101027_cnts_fdg_dyn_nac_id.nii.gz          img_g018.nii.gz  slight_shift_d3.nii.gz\r\n"
+    ],
+    [
+      0.000004,
+      "gbm017rc_pt_101027_cnts_fdg_dyn_nac.nii.gz             img_g019.nii.gz  slight_shift.nii.gz\r\n"
+    ],
+    [
+      0.000003,
+      "identity.nii.gz                                        img_g020.nii.gz  slight_shift.tfm"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "identity.tfm                                           img_g021.nii.gz  sudotest\r\n"
+    ],
+    [
+      0.000010,
+      "img_g000.nii.gz                                        img_g022.nii.gz  tfm.tfm"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "img_g000_resampled.nii.gz                              img_g023.nii.gz  __tmp__tfmInitial.tfm"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "img_g001.nii.gz                                        img_g024.nii.gz"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;ash@daftpunk-rbh: ~/tmp\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~/tmp\u0007"
+    ],
+    [
+      0.003475,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[37m{\u001b[33m21:10\u001b[37m}\u001b[00m\u001b[36m~/tmp \u001b[37m➭ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.038762,
+      "\r\r\n"
+    ]
+  ]
+}
