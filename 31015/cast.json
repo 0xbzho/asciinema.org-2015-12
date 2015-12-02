@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 35,
+  "duration": 30.756437,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.062336,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.088501,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.214914,
+      "c"
+    ],
+    [
+      0.213495,
+      " "
+    ],
+    [
+      0.576990,
+      "p"
+    ],
+    [
+      0.088102,
+      "a"
+    ],
+    [
+      0.134917,
+      "c"
+    ],
+    [
+      0.112170,
+      "k"
+    ],
+    [
+      0.093134,
+      "age.json "
+    ],
+    [
+      1.021052,
+      "|"
+    ],
+    [
+      0.135814,
+      " "
+    ],
+    [
+      0.158735,
+      "g"
+    ],
+    [
+      0.236162,
+      "r"
+    ],
+    [
+      0.055984,
+      "e"
+    ],
+    [
+      0.157091,
+      "p"
+    ],
+    [
+      0.279689,
+      " "
+    ],
+    [
+      0.138137,
+      "s"
+    ],
+    [
+      0.137108,
+      "c"
+    ],
+    [
+      0.146013,
+      "r"
+    ],
+    [
+      0.104959,
+      "i"
+    ],
+    [
+      0.068029,
+      "p"
+    ],
+    [
+      0.043811,
+      "t"
+    ],
+    [
+      0.048186,
+      "s"
+    ],
+    [
+      0.123182,
+      " "
+    ],
+    [
+      0.510796,
+      "-"
+    ],
+    [
+      0.335926,
+      "A"
+    ],
+    [
+      0.130203,
+      " "
+    ],
+    [
+      0.137759,
+      "1"
+    ],
+    [
+      0.127087,
+      "0"
+    ],
+    [
+      0.532835,
+      "\r\n"
+    ],
+    [
+      0.211622,
+      "  \u001b[32m\"scripts\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n    \u001b[32m\"test\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"mocha src/*-spec.js\"\u001b[39m\u001b[32m,\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "    \u001b[32m\"ban\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"node bin/ban.js\"\u001b[39m\u001b[32m,\u001b[39m\r\n    \u001b[32m\"commit\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"git-issues \u0026\u0026 commit-wizard\"\u001b[39m\u001b[32m,\u001b[39m\r\n    \u001b[32m\"issues\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"git-issues\"\u001b[39m\u001b[32m,\u001b[39m\r\n    \u001b[32m\"semantic-release\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"semantic-release pre \u0026\u0026 npm publish \u0026\u0026 semantic-release post\"\u001b[39m\u001b[32m,\u001b[39m\r\n    \u001b[32m\"size\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"t=\\\"$(npm pack .)\\\"; wc -c \\\"${t}\\\"; tar tvf \\\"${t}\\\"; rm \\\"${t}\\\";\"\u001b[39m\r\n  \u001b[33m}\u001b[39m\u001b[32m,\u001b[39m\r\n"
+    ],
+    [
+      0.000034,
+      "  \u001b[32m\"repository\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n    \u001b[32m\"type\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"git\"\u001b[39m\u001b[32m,\u001b[39m\r\n    \u001b[32m\"url\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"https://github.com/bahmutov/ban-sensitive-files.git\"\u001b[39m\r\n"
+    ],
+    [
+      0.028089,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.290685,
+      "n"
+    ],
+    [
+      0.096632,
+      "r"
+    ],
+    [
+      0.100974,
+      " "
+    ],
+    [
+      0.420928,
+      "t"
+    ],
+    [
+      0.805033,
+      "\r\n"
+    ],
+    [
+      0.193482,
+      "running prefix t\r\n"
+    ],
+    [
+      0.004878,
+      "spawning test process npm [ 'run', 'test' ]\r\n"
+    ],
+    [
+      0.905721,
+      "\r\n\u003e ban-sensitive-files@0.0.0-semantic-release test /Users/kensho/git/ban-sensitive-files\r\n\u003e mocha src/*-spec.js\r\n\r\n"
+    ],
+    [
+      0.397206,
+      "\r\n"
+    ],
+    [
+      0.001632,
+      "\r\n"
+    ],
+    [
+      0.002264,
+      "  ban\r\n"
+    ],
+    [
+      0.001786,
+      "invalid filename id_rsa\r\n - Private SSH key\r\n"
+    ],
+    [
+      0.000370,
+      "invalid filename .bash_history\r\n - Shell command history file\r\n"
+    ],
+    [
+      0.000812,
+      "\r"
+    ],
+    [
+      0.000193,
+      "    ✓ catches a few cases\r\n"
+    ],
+    [
+      0.002076,
+      "\r"
+    ],
+    [
+      0.000081,
+      "    ✓ allows other filenames\r\n"
+    ],
+    [
+      0.000202,
+      "invalid filename foo/bar/id_rsa\r\n - Private SSH key\r\n"
+    ],
+    [
+      0.000109,
+      "\r    ✓ catches long paths\r\n"
+    ],
+    [
+      0.000554,
+      "\r"
+    ],
+    [
+      0.000104,
+      "    ✓ allows other long paths\r\n"
+    ],
+    [
+      0.000055,
+      "invalid filename something.pem\r\n - Potential cryptographic private key\r\n"
+    ],
+    [
+      0.000067,
+      "\r"
+    ],
+    [
+      0.000079,
+      "    ✓ catches pem extension\r\n"
+    ],
+    [
+      0.000288,
+      "\r"
+    ],
+    [
+      0.000080,
+      "    ✓ allows pem substring\r\n"
+    ],
+    [
+      0.000447,
+      "invalid filename foo.tblk\r\n - Tunnelblick VPN configuration file\r\n"
+    ],
+    [
+      0.000443,
+      "\r"
+    ],
+    [
+      0.000170,
+      "    ✓ catches tblk extension\r\n"
+    ],
+    [
+      0.000303,
+      "\r"
+    ],
+    [
+      0.000914,
+      "    ✓ calls provided logger\r\n\r    ✓ supports multiple filename\r\n\r    ✓ passes multiple filename\r\n"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "  re to regexp\r\n"
+    ],
+    [
+      0.000477,
+      "\r"
+    ],
+    [
+      0.000210,
+      "    ✓ is a function\r\n"
+    ],
+    [
+      0.000111,
+      "\r    ✓ works with simple rule\r\n"
+    ],
+    [
+      0.000145,
+      "\r"
+    ],
+    [
+      0.000211,
+      "    ✓ works with another rule\r\n"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "  rule to tester transform\r\n"
+    ],
+    [
+      0.000200,
+      "\r"
+    ],
+    [
+      0.000070,
+      "    ✓ is a function\r\n"
+    ],
+    [
+      0.000144,
+      "    extension rule\r\n"
+    ],
+    [
+      0.000888,
+      "\r"
+    ],
+    [
+      0.000163,
+      "      ✓ validates extension\r\n\r      ✓ validates extension in full paths\r\n"
+    ],
+    [
+      0.000195,
+      "\r      ✓ allows non exact strings\r\n"
+    ],
+    [
+      0.000149,
+      "\r"
+    ],
+    [
+      0.000103,
+      "      ✓ allows substring\r\n"
+    ],
+    [
+      0.000078,
+      "    path rule\r\n"
+    ],
+    [
+      0.000284,
+      "\r"
+    ],
+    [
+      0.000102,
+      "      ✓ validates in the middle\r\n"
+    ],
+    [
+      0.000251,
+      "    filename rule\r\n"
+    ],
+    [
+      0.000167,
+      "\r"
+    ],
+    [
+      0.000062,
+      "      ✓ makes a function from a rule\r\n"
+    ],
+    [
+      0.000434,
+      "\r"
+    ],
+    [
+      0.000100,
+      "      ✓ validates filename\r\n"
+    ],
+    [
+      0.000360,
+      "\r"
+    ],
+    [
+      0.000047,
+      "      ✓ passes other strings\r\n"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.000789,
+      "  22 passing (20ms)\r\n"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.068650,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.916784,
+      "n"
+    ],
+    [
+      0.110504,
+      "r"
+    ],
+    [
+      0.165938,
+      " "
+    ],
+    [
+      0.410051,
+      "s"
+    ],
+    [
+      0.534896,
+      "\r\n"
+    ],
+    [
+      0.150346,
+      "running prefix s\r\n"
+    ],
+    [
+      0.001978,
+      "Several scripts start with \"s\": semantic-release, size\r\n"
+    ],
+    [
+      0.000530,
+      "Be more specific\r\n"
+    ],
+    [
+      0.031562,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.331068,
+      "n"
+    ],
+    [
+      0.106552,
+      "r"
+    ],
+    [
+      0.101150,
+      " "
+    ],
+    [
+      0.172105,
+      "s"
+    ],
+    [
+      0.104869,
+      "i"
+    ],
+    [
+      0.968801,
+      "\r\n"
+    ],
+    [
+      0.154312,
+      "running prefix si\r\n"
+    ],
+    [
+      0.004335,
+      "spawning test process npm [ 'run', 'size' ]\r\n"
+    ],
+    [
+      0.555296,
+      "\r\n\u003e ban-sensitive-files@0.0.0-semantic-release size /Users/kensho/git/ban-sensitive-files\r\n\u003e t=\"$(npm pack .)\"; wc -c \"${t}\"; tar tvf \"${t}\"; rm \"${t}\";\r\n\r\n"
+    ],
+    [
+      0.853463,
+      "    6816 ban-sensitive-files-0.0.0-semantic-release.tgz\r\n"
+    ],
+    [
+      0.005184,
+      "-rw-r--r--  0 501    20       1832 Dec  1 22:07 package/package.json"
+    ],
+    [
+      0.000140,
+      "\r\n-rw-r--r--  0 501    20         28 Dec  1 12:32 package/.npmignore\r\n-rw-r--r--  0 501    20       4271 Dec  1 17:21 package/README.md\r\n-rw-r--r--  0 501    20        283 Dec  1 12:28 package/.travis.yml\r\n-rwxr-xr-x  0 501    20       1087 Dec  1 17:12 package/bin/ban.js\r\n-rw-r--r--  0 501    20      10481 Dec  1 12:05 package/git-deny-patterns.json\r\n-rw-r--r--  0 501    20       1802 Dec  1 15:47 package/src/ban-spec.js\r\n-rw-r--r--  0 501    20       1449 Dec  1 16:24 package/src/ban.js\r\n-rw-r--r--  0 501    20        983 Dec  1 14:49 package/src/re-to-regexp-spec.js\r\n-rw-r--r--  0 501    20        516 Dec  1 13:35 package/src/re-to-regexp.js\r\n-rw-r--r--  0 501    20       1996 Dec  1 15:03 package/src/rule-to-tester-spec.js\r\n-rw-r--r--  0 501    20       1173 Dec  1 15:02 package/src/rule-to-tester.js\r\n-rw-r--r--  0 501    20          0 Dec  1 13:27 package/src/rules-spec.js\r\n"
+    ],
+    [
+      0.063978,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.098658,
+      "m"
+    ],
+    [
+      0.254810,
+      "a"
+    ],
+    [
+      0.138903,
+      "n"
+    ],
+    [
+      0.401555,
+      "p"
+    ],
+    [
+      0.036730,
+      "m"
+    ],
+    [
+      0.803649,
+      " "
+    ],
+    [
+      0.534099,
+      "n"
+    ],
+    [
+      0.212900,
+      "p"
+    ],
+    [
+      0.028204,
+      "m"
+    ],
+    [
+      0.215876,
+      "-"
+    ],
+    [
+      0.293044,
+      "q"
+    ],
+    [
+      0.105961,
+      "u"
+    ],
+    [
+      0.047972,
+      "i"
+    ],
+    [
+      0.111972,
+      "c"
+    ],
+    [
+      0.102953,
+      "k"
+    ],
+    [
+      0.231028,
+      "-"
+    ],
+    [
+      0.208114,
+      "r"
+    ],
+    [
+      0.122806,
+      "u"
+    ],
+    [
+      0.023471,
+      "n"
+    ],
+    [
+      0.577655,
+      " "
+    ],
+    [
+      0.290966,
+      "u"
+    ],
+    [
+      0.070977,
+      "s"
+    ],
+    [
+      0.071553,
+      "e"
+    ],
+    [
+      0.424376,
+      "\r\n"
+    ],
+    [
+      1.600309,
+      "\u001b[32m\u001b[1m## Use example\u001b[22m\u001b[39m\r\n\r\n   \u001b[33m$ nr t      # runs script starting with \"t\"\r\n   $ nr m -w   # runs a script starting with \"m\", probably \"npm run mocha -- -w\"\u001b[39m\r\n\r\n\r\n"
+    ],
+    [
+      0.030439,
+      "\u001b]2;/Users/kensho/git/ban-sensitive-files\u0001\u0007\u001b]1;git/ban-sensitive-files\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/ban-sensitive-files\u001b[38;5;256m on \u001b[38;5;141mmaster*\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      3.207586,
+      "exit\r\n"
+    ]
+  ]
+}
