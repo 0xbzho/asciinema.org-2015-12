@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "width": 113,
+  "height": 30,
+  "duration": 23.591525,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.213727,
+      "\u001b]0;vagrant@linus-kitchen: ~\u0007vagrant@linus-kitchen:~$ "
+    ],
+    [
+      1.163773,
+      "u"
+    ],
+    [
+      0.000027,
+      "p"
+    ],
+    [
+      0.000020,
+      "d"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      0.000019,
+      "v"
+    ],
+    [
+      0.000020,
+      "m"
+    ],
+    [
+      0.000020,
+      " "
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      0.000020,
+      "v"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000020,
+      "r"
+    ],
+    [
+      0.000021,
+      "i"
+    ],
+    [
+      0.000023,
+      "f"
+    ],
+    [
+      0.000021,
+      "y"
+    ],
+    [
+      0.000021,
+      "-"
+    ],
+    [
+      0.000021,
+      "o"
+    ],
+    [
+      0.000022,
+      "n"
+    ],
+    [
+      0.000040,
+      "l"
+    ],
+    [
+      0.000024,
+      "y"
+    ],
+    [
+      1.531988,
+      "\r\n"
+    ],
+    [
+      0.001387,
+      "setting locale to en_US.UTF-8\r\n"
+    ],
+    [
+      0.000722,
+      "\r\n=====================================\r\n\u003e\u003e\u003e\u003e\u003e\u003e Verifying the VM...\r\n=====================================\r\n\r\n"
+    ],
+    [
+      0.000127,
+      "\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "\u003e\u003e\u003e\u003e\u003e\u003e init the shell\r\n-------------------------------------\r\n\r\n"
+    ],
+    [
+      0.177608,
+      "\r\n\r\n\u003e\u003e\u003e\u003e\u003e\u003e run codestyle checks\r\n-------------------------------------\r\n\r\n"
+    ],
+    [
+      0.389055,
+      "Inspecting 23 files\r\n"
+    ],
+    [
+      0.021774,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.003972,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.010514,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.008090,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.015212,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.048269,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.034354,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.020038,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.008729,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.020649,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.014955,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.026332,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.046486,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.029399,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.008907,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.014186,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.011128,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.041904,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.006421,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.011649,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.023367,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.022229,
+      "\u001b[32m.\u001b[0m"
+    ],
+    [
+      0.016099,
+      "\u001b[32m.\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "23 files inspected, \u001b[32mno offenses detected\u001b[0m\r\n\r\n--\r\n0  Total\r\n\r\n"
+    ],
+    [
+      0.778712,
+      "\r\n"
+    ],
+    [
+      0.017480,
+      "\r\n\r\n\u003e\u003e\u003e\u003e\u003e\u003e run integration tests\r\n"
+    ],
+    [
+      0.000012,
+      "-------------------------------------\r\n\r\n"
+    ],
+    [
+      0.798281,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "vm::annoyances"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.440088,
+      "\u001b[32m  updates bundler to version to 1.10.6\u001b[0m"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "vm::atom"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.540088,
+      "\u001b[32m  installs atom 1.2.2\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.705262,
+      "\u001b[32m  installs some useful atom plugins\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.023527,
+      "\u001b[32m  configures atom to have sublime tabs behaviour\u001b[0m\r\n"
+    ],
+    [
+      0.010112,
+      "\u001b[32m  configures atom to show invisible characters\u001b[0m\r\n"
+    ],
+    [
+      0.012801,
+      "\u001b[32m  configures atom to use the \"atom-dark\" theme\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "vm::base\r\n"
+    ],
+    [
+      0.040705,
+      "\u001b[32m  installs vim\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.141796,
+      "\u001b[32m  installs development headers for installing nokogiri etc.\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.008152,
+      "\u001b[32m  does not leave anything root-owned in ~/.chefdk\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      "\r\nvm::bash\r\n"
+    ],
+    [
+      0.015856,
+      "\u001b[32m  sets up the .bash.d/ directory for the devbox user\u001b[0m\r\n"
+    ],
+    [
+      0.369274,
+      "\u001b[32m  sets up shell alias `be` =\u003e `bundle exec` for the devbox user\u001b[0m\r\n"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "vm::chefdk\r\n"
+    ],
+    [
+      0.896379,
+      "\u001b[32m  runs these tests under the vagrant user\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.922031,
+      "\u001b[32m  makes sure that the shell is initialized for chef\u001b[0m\r\n"
+    ],
+    [
+      0.366113,
+      "\u001b[32m  configures bundler to use 16 parallel jobs\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.379189,
+      "\u001b[32m  configures bundler to retry 3 times\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.373691,
+      "\u001b[32m  configures bundler to install gems to ~/.chefdk\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "vm::docker"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.286950,
+      "\u001b[32m  installs docker 1.8.1\u001b[0m\r\n"
+    ],
+    [
+      0.233658,
+      "\u001b[32m  adds the devbox user to the docker group\u001b[0m\r\n"
+    ],
+    [
+      0.280044,
+      "\u001b[32m  allows to run docker commands without sudo\u001b[0m\r\n"
+    ],
+    [
+      0.000192,
+      "\r\nvm::user\r\n"
+    ],
+    [
+      0.006957,
+      "\u001b[32m  creates the devbox user\u001b[0m\r\n"
+    ],
+    [
+      0.009271,
+      "\u001b[32m  adds the devbox user to the devbox group\u001b[0m\r\n"
+    ],
+    [
+      0.267884,
+      "\u001b[32m  adds the devbox user to sudoers\u001b[0m\r\n"
+    ],
+    [
+      0.013512,
+      "\u001b[32m  sets up the devbox user's home directory\u001b[0m"
+    ],
+    [
+      0.001371,
+      "\r\n"
+    ],
+    [
+      0.009821,
+      "\u001b[32m  sets up bash as the login shell for the devbox user\u001b[0m\r\n"
+    ],
+    [
+      0.000210,
+      "\r\nvm::vagrant\r\n"
+    ],
+    [
+      0.446785,
+      "\u001b[32m  installs vagrant 1.7.4\u001b[0m\r\n"
+    ],
+    [
+      0.244242,
+      "\u001b[32m  configures \"docker\" as the $VAGRANT_DEFAULT_PROVIDER\u001b[0m\r\n"
+    ],
+    [
+      1.373046,
+      "\u001b[32m  installs \"vagrant-cachier\" plugin 1.2.1\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      1.273990,
+      "\u001b[32m  installs \"vagrant-berkshelf\" plugin 4.0.4\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      1.191861,
+      "\u001b[32m  installs \"vagrant-omnibus\" plugin 1.4.1\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      1.229858,
+      "\u001b[32m  installs \"vagrant-toplevel-cookbooks\" plugin 0.2.4\u001b[0m\r\n"
+    ],
+    [
+      1.159560,
+      "\u001b[32m  installs \"vagrant-lxc\" plugin 1.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\r\nupdate-vm.sh\r\n"
+    ],
+    [
+      0.042362,
+      "\u001b[32m  installs git\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      2.263580,
+      "\u001b[32m  installs chefdk 0.7.0\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000489,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "Finished in 15.58 seconds (files took 0.74579 seconds to load)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[32m33 examples, 0 failures\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.007018,
+      "\r\n"
+    ],
+    [
+      0.018558,
+      "\u001b]0;vagrant@linus-kitchen: ~\u0007vagrant@linus-kitchen:~$ "
+    ],
+    [
+      2.444317,
+      "exit"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ]
+  ]
+}
