@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 33.936179,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.160464,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.175199,
+      "d"
+    ],
+    [
+      0.096005,
+      "b"
+    ],
+    [
+      0.055911,
+      "w"
+    ],
+    [
+      0.088022,
+      "e"
+    ],
+    [
+      0.055952,
+      "b"
+    ],
+    [
+      0.160062,
+      "b"
+    ],
+    [
+      0.128238,
+      " "
+    ],
+    [
+      0.863974,
+      "-"
+    ],
+    [
+      0.263997,
+      "-"
+    ],
+    [
+      0.159821,
+      "v"
+    ],
+    [
+      0.176028,
+      "e"
+    ],
+    [
+      0.063987,
+      "r"
+    ],
+    [
+      0.183981,
+      "s"
+    ],
+    [
+      0.071986,
+      "i"
+    ],
+    [
+      0.088401,
+      "o"
+    ],
+    [
+      0.063558,
+      "n"
+    ],
+    [
+      0.752495,
+      "\r\n"
+    ],
+    [
+      0.013037,
+      "dbwebb version v1.9.23 (2015-12-04)\r\n"
+    ],
+    [
+      0.000179,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.811198,
+      "dbwebb --version"
+    ],
+    [
+      0.759297,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191948,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168015,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168203,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175773,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176047,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183989,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.320169,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.799880,
+      "r"
+    ],
+    [
+      0.143907,
+      "u"
+    ],
+    [
+      0.087977,
+      "n"
+    ],
+    [
+      0.120027,
+      " "
+    ],
+    [
+      0.688037,
+      "p"
+    ],
+    [
+      0.095946,
+      "o"
+    ],
+    [
+      0.368057,
+      "t"
+    ],
+    [
+      0.175957,
+      "a"
+    ],
+    [
+      0.168077,
+      "t"
+    ],
+    [
+      0.199945,
+      "o"
+    ],
+    [
+      0.127965,
+      "e"
+    ],
+    [
+      0.151971,
+      " "
+    ],
+    [
+      1.392154,
+      "k"
+    ],
+    [
+      0.087904,
+      "e"
+    ],
+    [
+      0.312036,
+      "l"
+    ],
+    [
+      0.191984,
+      "e"
+    ],
+    [
+      0.615925,
+      "1"
+    ],
+    [
+      0.096048,
+      "2"
+    ],
+    [
+      2.377261,
+      "\r\n"
+    ],
+    [
+      0.022742,
+      "I will now login to the server 'ssh.student.bth.se' as 'mosstud' and execute the command 'potatoe kele12'.\r\n"
+    ],
+    [
+      0.740299,
+      "[sudo] password for mosstud: "
+    ],
+    [
+      4.258727,
+      "\r\n"
+    ],
+    [
+      9.518449,
+      "/home/saxon/students/20121/kele12/dbwebb-kurser\r\n"
+    ],
+    [
+      0.015689,
+      "drwxr-sr-x 10 kele12 dbwebb-kurser 4096 Nov  2 13:40 .\r\ndrwx--x--x  8 kele12         20121 4096 Nov 26 09:41 ..\r\ndrwxr-xr-x  5 kele12 dbwebb-kurser 4096 Sep  8 10:27 htmlphp\r\ndrwxr-xr-x  6 kele12 dbwebb-kurser 4096 Jul  2 09:14 javascript1\r\ndrwxrwxr-x  7 kele12 dbwebb-kurser 4096 Dec  3 09:39 linux\r\ndrwxr-xr-x  4 kele12 dbwebb-kurser 4096 Dec  4 11:20 oophp\r\ndrwxr-xr-x  6 kele12 dbwebb-kurser 4096 Oct 21 08:42 python\r\ndrwxr-xr-x  5 kele12 dbwebb-kurser 4096 Nov 25 10:17 webapp\r\ndrwxr-xr-x  5 kele12 dbwebb-kurser 4096 Oct 27 09:42 webapp\r\r\ndrwxr-xr-x  6 kele12 dbwebb-kurser 4096 Nov 10 13:21 webgl\r\n"
+    ],
+    [
+      0.001668,
+      "Connection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000314,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.433253,
+      "exit\r\n"
+    ]
+  ]
+}
