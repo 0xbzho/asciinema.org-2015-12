@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 55,
+  "height": 26,
+  "duration": 22.994156,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067027,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.098505,
+      "\u001b[?1034h\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000027,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      3.303918,
+      "j"
+    ],
+    [
+      0.589358,
+      " "
+    ],
+    [
+      1.223762,
+      "\r\n"
+    ],
+    [
+      0.272412,
+      "json-package@0.0.0-semantic-release\r\n - Fetches any property from package.json using short prefix \r\n - `jso dep` is same as `cat package.json | grep dependencies`\r\n"
+    ],
+    [
+      0.001995,
+      "USE: jso \u003cproperty name prefix\u003e\r\n    \"jso v\" === \"cat package.json | grep version\"\r\n"
+    ],
+    [
+      0.001635,
+      "Available properties are \r\n - author\r\n - bin\r\n - bugs\r\n - config\r\n - dependencies\r\n - description\r\n - devDependencies\r\n - files\r\n - homepage\r\n - keywords\r\n - license\r\n - main\r\n - name\r\n - preferGlobal\r\n - repository\r\n - scripts\r\n - version\r\n"
+    ],
+    [
+      0.027409,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      0.897184,
+      "j"
+    ],
+    [
+      0.154435,
+      " "
+    ],
+    [
+      0.157288,
+      "a"
+    ],
+    [
+      0.285330,
+      "\r\n"
+    ],
+    [
+      0.246900,
+      "\"Gleb Bahmutov \u003cgleb.bahmutov@gmail.com\u003e\"\r\n"
+    ],
+    [
+      0.027690,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.300384,
+      "j"
+    ],
+    [
+      1.119109,
+      " "
+    ],
+    [
+      0.838495,
+      "d"
+    ],
+    [
+      0.321778,
+      "\r\n"
+    ],
+    [
+      0.262439,
+      "Several properties start with \"d\" dependencies, description, devDependencies\r\n"
+    ],
+    [
+      0.001783,
+      "Be more specific\r\n"
+    ],
+    [
+      0.027675,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.011026,
+      "j"
+    ],
+    [
+      0.388043,
+      " "
+    ],
+    [
+      0.170199,
+      "d"
+    ],
+    [
+      0.199005,
+      "e"
+    ],
+    [
+      1.329644,
+      "p"
+    ],
+    [
+      0.421066,
+      "\r\n"
+    ],
+    [
+      0.258480,
+      "{\r\n  \"findup\": \"0.1.5\",\r\n  \"simple-bin-help\": \"1.4.0\"\r\n}\r\n"
+    ],
+    [
+      0.029243,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      0.861923,
+      "j"
+    ],
+    [
+      0.539330,
+      " "
+    ],
+    [
+      0.152280,
+      "d"
+    ],
+    [
+      0.143824,
+      "e"
+    ],
+    [
+      0.127003,
+      "v"
+    ],
+    [
+      0.284040,
+      "\r\n"
+    ],
+    [
+      0.256867,
+      "{\r\n  \"check-more-types\": \"2.3.0\",\r\n  \"git-issues\": \"1.2.0\",\r\n  \"lazy-ass\": \"1.3.0\",\r\n  \"mocha\": \"2.3.4\",\r\n  \"pre-git\": \"2.0.2\",\r\n  \"really-need\": \"1.7.2\",\r\n  \"semantic-release\": \"^4.3.5\",\r\n  \"standard\": \"5.4.1\"\r\n}\r\n"
+    ],
+    [
+      0.029681,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.356759,
+      "j"
+    ],
+    [
+      0.241824,
+      "s"
+    ],
+    [
+      0.250838,
+      "o"
+    ],
+    [
+      0.155097,
+      " "
+    ],
+    [
+      0.986744,
+      "r"
+    ],
+    [
+      0.294064,
+      "\r\n"
+    ],
+    [
+      0.251261,
+      "{\r\n  \"type\": \"git\",\r\n  \"url\": \"https://github.com/bahmutov/json-package.git\"\r\n}\r\n"
+    ],
+    [
+      0.029198,
+      "\u001b]2;/Users/kensho/git/json-package\u0001\u0007\u001b]1;git/json-package\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/json-package\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.991009,
+      "exit\r\n"
+    ]
+  ]
+}
