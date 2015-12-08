@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 34,
+  "duration": 5.961025,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.064783,
+      "\u001b]0;root@rautasorsa:~\u0007"
+    ],
+    [
+      0.001549,
+      "[root@rautasorsa ~]# "
+    ],
+    [
+      0.901816,
+      "c"
+    ],
+    [
+      0.127833,
+      "a"
+    ],
+    [
+      0.153942,
+      "t"
+    ],
+    [
+      0.334287,
+      " "
+    ],
+    [
+      0.903990,
+      "i"
+    ],
+    [
+      0.202042,
+      "rssi-utf8-settings.txt "
+    ],
+    [
+      1.422056,
+      "\r\n"
+    ],
+    [
+      0.001652,
+      "  /set term_charset utf-8\r\n  /set recode_autodetect_utf8 ON\r\n  /set recode_fallback ISO-8859-15\r\n  /set recode_out_default_charset ISO-8859-15\r\n  /set recode_transliterate ON\r\n  /set recode ON\r\n  /set recode_out_default_charset = UTF-8"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000324,
+      "\u001b]0;root@rautasorsa:~\u0007"
+    ],
+    [
+      0.000137,
+      "[root@rautasorsa ~]# "
+    ],
+    [
+      0.821858,
+      "e"
+    ],
+    [
+      0.263928,
+      "x"
+    ],
+    [
+      0.151979,
+      "i"
+    ],
+    [
+      0.159970,
+      "t"
+    ],
+    [
+      0.448163,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "exit\r\n"
+    ]
+  ]
+}
