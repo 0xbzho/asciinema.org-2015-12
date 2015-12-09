@@ -1,0 +1,966 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 29.370139,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.021290,
+      "\u001b]0;fish  /Users/colstrom/render"
+    ],
+    [
+      0.000018,
+      "-template\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.034205,
+      "\u001b]0;fish  /Users/colstrom/rend"
+    ],
+    [
+      0.000023,
+      "er-template\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000062,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000110,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      1.440614,
+      "c\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000147,
+      "\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000171,
+      "\u0008\u001b[31m\u001b[1mc\u001b[191C\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.001446,
+      "\u001b[38;5;240mlear\u001b[187C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.125986,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[K\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000183,
+      "\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000361,
+      "\u001b[38;5;240mt Gemfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.127621,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m Gemfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000149,
+      "\u001b[189C (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000373,
+      "\u0008\u0008\u0008\u001b[38;5;26mcat\u001b[38;5;240m Gemfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.095551,
+      "\u001b[38;5;26m \u001b[38;5;240mGemfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000146,
+      "\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000359,
+      "\u0008 \u001b[38;5;240mGemfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.167153,
+      "b\u001b[K\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000163,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000161,
+      "\u0008\u001b[38;5;39m\u001b[4mb\u001b[187C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.001347,
+      "\u001b[38;5;240mrew-depends\u001b[176C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.070477,
+      "\u001b[38;5;39m\u001b[4mi\u001b[30m\u001b(B\u001b[m\u001b[K\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000181,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.015574,
+      "\u001b[38;5;240mn/\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.040176,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24m/\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.000143,
+      "\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.128091,
+      "\u001b[38;5;39m\u001b[4m/\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.631694,
+      "\u001b[38;5;39m\u001b[4mr\u001b[183C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[11C"
+    ],
+    [
+      0.000156,
+      "\u001b[183C (default)\r\u001b[194C\r\u001b[11C"
+    ],
+    [
+      0.014757,
+      "\u001b[38;5;240mender-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[11C"
+    ],
+    [
+      0.201144,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mnder-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[12C"
+    ],
+    [
+      0.000183,
+      "\u001b[182C (default)\r\u001b[194C\r\u001b[12C"
+    ],
+    [
+      0.135913,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mder-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[13C"
+    ],
+    [
+      0.000114,
+      "\u001b[181C (default)\r\u001b[194C\r\u001b[13C"
+    ],
+    [
+      0.072100,
+      "\u001b[38;5;39m\u001b[4mder-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[26C"
+    ],
+    [
+      0.000238,
+      "\u001b[20D\u001b[38;5;39mbin/render-template\u001b[30m\u001b(B\u001b[m \u001b[168C (default)\r\u001b[194C\r\u001b[26C"
+    ],
+    [
+      0.447511,
+      "\u001b[168C (default)\r\u001b[194C\r\u001b[26C"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\u001b]0;"
+    ],
+    [
+      0.000003,
+      "cat  /Use"
+    ],
+    [
+      0.000002,
+      "rs/"
+    ],
+    [
+      0.000002,
+      "col"
+    ],
+    [
+      0.000002,
+      "str"
+    ],
+    [
+      0.000003,
+      "om/re"
+    ],
+    [
+      0.000002,
+      "nd"
+    ],
+    [
+      0.000002,
+      "er"
+    ],
+    [
+      0.000002,
+      "-t"
+    ],
+    [
+      0.000002,
+      "em"
+    ],
+    [
+      0.000002,
+      "pl"
+    ],
+    [
+      0.000002,
+      "at"
+    ],
+    [
+      0.000002,
+      "e\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002220,
+      "#!/usr/bin/env ruby\r\n\r\nrequire 'yaml'\r\nrequire 'erb'\r\nrequire 'tilt'\r\n\r\nconfig, template, target = ARGV.first 3\r\n\r\nFile.write target, Tilt.new(template).render(YAML.load_file config)\r\n"
+    ],
+    [
+      0.027793,
+      "\u001b]0;fish  "
+    ],
+    [
+      0.000006,
+      "/Users/colstrom/render-template\u0007\u001b["
+    ],
+    [
+      0.000003,
+      "30m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b[m"
+    ],
+    [
+      0.000076,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000116,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      1.721784,
+      "c\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000150,
+      "\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000213,
+      "\u0008\u001b[31m\u001b[1mc\u001b[191C\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000282,
+      "\u001b[38;5;240mat bin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.127023,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mt bin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000148,
+      "\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.095799,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m bin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000142,
+      "\u001b[189C (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000243,
+      "\u0008\u0008\u0008\u001b[38;5;26mcat\u001b[38;5;240m bin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.088315,
+      "\u001b[38;5;26m \u001b[38;5;240mbin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000153,
+      "\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000234,
+      "\u0008 \u001b[38;5;240mbin/render-template \u001b[168C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      2.102695,
+      "t\u001b[K\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000107,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000122,
+      "\u0008\u001b[38;5;39m\u001b[4mt\u001b[187C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.014800,
+      "\u001b[38;5;240memplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.089133,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mmplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000126,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.055812,
+      "\u001b[38;5;39m\u001b[4mm\u001b[38;5;240m\u001b[24mplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.000136,
+      "\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.112007,
+      "\u001b[38;5;39m\u001b[4mp\u001b[38;5;240m\u001b[24mlate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.000155,
+      "\u001b[184C (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.175974,
+      "\u001b[38;5;39m\u001b[4mlate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[19C"
+    ],
+    [
+      0.000211,
+      "\u001b[13D\u001b[38;5;39mtemplate.erb\u001b[30m\u001b(B\u001b[m \u001b[175C (default)\r\u001b[194C\r\u001b[19C"
+    ],
+    [
+      0.575615,
+      "\u001b[175C (default)\r\u001b[194C\r\u001b[19C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\u001b]0;cat  /Users/colstrom/re"
+    ],
+    [
+      0.000005,
+      "nder-template\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b[30"
+    ],
+    [
+      0.000005,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.002233,
+      "\r\nThis is mostly test data, but this section:\r\n\r\n\u003c%= self['test_data'] %\u003e\r\n\r\nwas rendered from config data.\r\n"
+    ],
+    [
+      0.028259,
+      "\u001b]0;fish  /Users/colstrom/render-t"
+    ],
+    [
+      0.000005,
+      "emplate\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000094,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000116,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      2.032999,
+      "c\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000109,
+      "\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000202,
+      "\u001b[38;5;240mat template.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000166,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mat template.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.135566,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mt template.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000139,
+      "\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.087786,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m template.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000193,
+      "\u001b[189C (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000224,
+      "\u0008\u0008\u0008\u001b[38;5;26mcat\u001b[38;5;240m template.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.071733,
+      "\u001b[38;5;26m \u001b[38;5;240mtemplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000210,
+      "\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000242,
+      "\u0008 \u001b[38;5;240mtemplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.207212,
+      "G\u001b[K\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000247,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000199,
+      "\u0008\u001b[38;5;39m\u001b[4mG\u001b[187C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.001531,
+      "\u001b[38;5;240memfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.206174,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mmfile bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000121,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.224176,
+      "\u001b[38;5;39m\u001b[4mmfile\u001b[38;5;240m\u001b[24m bin/render-template config.yaml template.erb \u001b[135C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[13C"
+    ],
+    [
+      0.679592,
+      "\u001b[K\u001b[181C (default)\r\u001b[194C\r\u001b[13C"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000230,
+      "\u001b]0;cat  /Users/colstro"
+    ],
+    [
+      0.000004,
+      "m/render-template\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000008,
+      "(B\u001b[m"
+    ],
+    [
+      0.002177,
+      "source 'https://rubygems.org'\r\n\r\ngem 'tilt'\r\ngem 'escort'\r\n"
+    ],
+    [
+      0.027406,
+      "\u001b]0;fish  /Users/colstrom/"
+    ],
+    [
+      0.000005,
+      "render-template\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000078,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000123,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      3.986088,
+      "b\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000113,
+      "\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000335,
+      "\u001b[38;5;240min/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000320,
+      "\u0008\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[38;5;240min/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.103075,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mn/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000173,
+      "\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000389,
+      "\u0008\u0008\u001b[38;5;26mbi\u001b[38;5;240mn/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.079321,
+      "\u001b[38;5;26mn\u001b[38;5;240m/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000145,
+      "\u001b[189C (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000359,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mbin\u001b(B\u001b[m\u001b[38;5;240m/render-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.215538,
+      "\u001b[31m\u001b[1m/\u001b(B\u001b[m\u001b[38;5;240mrender-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000129,
+      "\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000335,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mbin/\u001b[38;5;240mrender-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.799651,
+      "\u001b[38;5;26mrender-template config.yaml template.erb target.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[58C"
+    ],
+    [
+      0.000271,
+      "\u001b[37D \u001b[38;5;39mconfig.yaml\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mtemplate.erb\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mtarget.conf\u001b[136C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[58C"
+    ],
+    [
+      0.919573,
+      "\u001b[136C (default)\r\u001b[194C\r\u001b[58C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000253,
+      "\u001b]0;"
+    ],
+    [
+      0.000004,
+      "bin/render-"
+    ],
+    [
+      0.000002,
+      "tem"
+    ],
+    [
+      0.000002,
+      "pla"
+    ],
+    [
+      0.000002,
+      "te "
+    ],
+    [
+      0.000002,
+      " /"
+    ],
+    [
+      0.000002,
+      "Use"
+    ],
+    [
+      0.000002,
+      "rs/"
+    ],
+    [
+      0.000002,
+      "col"
+    ],
+    [
+      0.000002,
+      "st"
+    ],
+    [
+      0.000002,
+      "rom"
+    ],
+    [
+      0.000002,
+      "/re"
+    ],
+    [
+      0.000002,
+      "nde"
+    ],
+    [
+      0.000002,
+      "r-t"
+    ],
+    [
+      0.000002,
+      "emp"
+    ],
+    [
+      0.000002,
+      "lat"
+    ],
+    [
+      0.000002,
+      "e\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.126914,
+      "\u001b]0;fish  /Users/colstro"
+    ],
+    [
+      0.000006,
+      "m/render-template\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000043,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000116,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      1.376754,
+      "c\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000146,
+      "\u001b[191C (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000161,
+      "\u0008\u001b[31m\u001b[1mc\u001b[191C\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.000250,
+      "\u001b[38;5;240mat Gemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[3C"
+    ],
+    [
+      0.119062,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mt Gemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.000181,
+      "\u001b[190C (default)\r\u001b[194C\r\u001b[4C"
+    ],
+    [
+      0.135842,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m Gemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000167,
+      "\u001b[189C (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.000176,
+      "\u0008\u0008\u0008\u001b[38;5;26mcat\u001b[38;5;240m Gemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[5C"
+    ],
+    [
+      0.151781,
+      "\u001b[38;5;26m \u001b[38;5;240mGemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000155,
+      "\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.000169,
+      "\u0008 \u001b[38;5;240mGemfile\u001b[181C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.375693,
+      "r\u001b[K\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000175,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000172,
+      "\u0008\u001b[38;5;39mr\u001b[187C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.002879,
+      "\u001b[38;5;240muby\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.084633,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m\u001b[K\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000200,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.005699,
+      "\u001b[38;5;240mst\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.058110,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m\u001b[K\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.000194,
+      "\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.151886,
+      "\u001b[38;5;39md\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.000188,
+      "\u001b[184C (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.384001,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1m\u001b[45mcat rend\u001b[184C\u001b(B\u001b[m\u001b[30m\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.102842,
+      "\u001b[184C (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.000178,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mcat\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mrend\u001b[184C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[10C"
+    ],
+    [
+      0.681438,
+      "\u0008\u001b[K\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.159063,
+      "\u0008\u001b[K\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.160174,
+      "\u0008\u001b[K\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.128063,
+      "\u0008\u001b[K\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.743954,
+      "t\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000108,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000189,
+      "\u001b[38;5;240memplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000176,
+      "\u0008\u001b[38;5;39m\u001b[4mt\u001b[38;5;240m\u001b[24memplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.104233,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mmplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000153,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.311210,
+      "\u001b[38;5;39m\u001b[4mmplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[19C"
+    ],
+    [
+      0.000195,
+      "\u001b[13D\u001b[38;5;39mtemplate.erb\u001b[30m\u001b(B\u001b[m \u001b[175C (default)\r\u001b[194C\r\u001b[19C"
+    ],
+    [
+      0.951657,
+      "\u0008\u0008\u0008\u0008\u001b[K\u001b[179C (default)\r\u001b[194C\r\u001b[15C"
+    ],
+    [
+      0.000257,
+      "\u001b[9D\u001b[38;5;39m\u001b[4mtemplate.\u001b[179C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[15C"
+    ],
+    [
+      0.615718,
+      "\u001b[9D\u001b[K\u001b[188C (default)\r\u001b[194C\r\u001b[6C"
+    ],
+    [
+      0.416040,
+      "t\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000186,
+      "\u001b[187C (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000203,
+      "\u001b[38;5;240memplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.000199,
+      "\u0008\u001b[38;5;39m\u001b[4mt\u001b[38;5;240m\u001b[24memplate.erb \u001b[175C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[7C"
+    ],
+    [
+      0.175469,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m\u001b[K\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000136,
+      "\u001b[186C (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.000194,
+      "\u001b[38;5;240mrget.conf \u001b[176C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[8C"
+    ],
+    [
+      0.095376,
+      "\u001b[38;5;39m\u001b[4mr\u001b[38;5;240m\u001b[24mget.conf \u001b[176C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.000099,
+      "\u001b[185C (default)\r\u001b[194C\r\u001b[9C"
+    ],
+    [
+      0.696131,
+      "\u001b[38;5;39m\u001b[4mget.conf \u001b[176C\u001b[30m\u001b(B\u001b[m (default)\r\u001b[194C\r\u001b[18C"
+    ],
+    [
+      0.000198,
+      "\u001b[12D\u001b[38;5;39mtarget.conf\u001b[30m\u001b(B\u001b[m \u001b[176C (default)\r\u001b[194C\r\u001b[18C"
+    ],
+    [
+      0.223816,
+      "\u001b[176C (default)\r\u001b[194C\r\u001b[18C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000205,
+      "\u001b]0;cat  /Users/colstrom/rend"
+    ],
+    [
+      0.000004,
+      "er-template\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000004,
+      "\u001b[m"
+    ],
+    [
+      0.002247,
+      "\r\nThis is mostly test data, but this section:\r\n\r\nfoo\r\n\r\nwas rendered from config data.\r\n"
+    ],
+    [
+      0.028401,
+      "\u001b]0;fish  /Users/colstrom/re"
+    ],
+    [
+      0.000005,
+      "nder-template\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000096,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000115,
+      "\u001b[1m\u001b[32mcolstrom\u001b[30m\u001b(B\u001b[m at \u001b[1m\u001b[36mvalkyrie\u001b[30m\u001b(B\u001b[m in \u001b[32m~/render-template\u001b[30m\u001b(B\u001b[m exit:(0)\r\n↪ \u001b[30m\u001b(B\u001b[m\u001b[K\u001b[192C (default)\r\u001b[194C\r\u001b[C\u001b[C"
+    ],
+    [
+      2.011051,
+      "\r\n\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000005,
+      "m\r\n\u001b[30m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ]
+  ]
+}
