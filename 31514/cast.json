@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "width": 226,
+  "height": 55,
+  "duration": 27.904684,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.129569,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000344,
+      "\u001b]2;hf@hulk: ~/dev/esmeril/scala-wildfly-swarm\u0007\u001b]1;..wildfly-swarm\u0007"
+    ],
+    [
+      0.006636,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mscala-wildfly-swarm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.423799,
+      "p"
+    ],
+    [
+      0.167278,
+      "\u0008pw"
+    ],
+    [
+      0.119997,
+      "d"
+    ],
+    [
+      0.272597,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.000810,
+      "\u001b]2;pwd\u0007\u001b]1;pwd\u0007"
+    ],
+    [
+      0.000016,
+      "/home/hf/dev/esmeril/scala-wildfly-swarm"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b]2;hf@hulk: ~/dev/esmeril/scala-wildfly-swarm\u0007"
+    ],
+    [
+      0.000052,
+      "\u001b]1;..wildfly-swarm\u0007"
+    ],
+    [
+      0.017430,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mscala-wildfly-swarm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.557203,
+      "\r\r\n"
+    ],
+    [
+      0.000011,
+      "bck-i-search: _\u001b[K\u001b[A\u001b[21C"
+    ],
+    [
+      0.944124,
+      "asciine\u001b[4mm\u001b[24ma rec\u001b[1B\u001b[35Dm_\u001b[A\u001b[27C"
+    ],
+    [
+      0.103589,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4mm\u001b[4mv\u001b[24mn cle\u001b[24man package wildfly-swarm:run\u001b[1B\u001b[56Dv_\u001b[A\u001b[19C"
+    ],
+    [
+      0.143943,
+      "\u001b[4mm\u001b[4mv\u001b[4mn\u001b[24m\u001b[1B\u001b[23Dn_\u001b[A\u001b[18C"
+    ],
+    [
+      0.079958,
+      "\u001b[2C\u001b[4mn\u001b[4m \u001b[24m\u001b[1B\u001b[23D _\u001b[A\u001b[17C"
+    ],
+    [
+      0.824446,
+      "\u001b[24mm\u001b[24mv\u001b[24mn\u001b[24m \u001b[1B\r\u001b[K\u001b[A\u001b[37C"
+    ],
+    [
+      0.640012,
+      "\u001b[34C"
+    ],
+    [
+      1.001132,
+      "\u001b[?1l\u001b\u003e\u001b[1B\r\u001b]2;mvn clean package wildfly-swarm:run\u0007\u001b]1;mvn\u0007"
+    ],
+    [
+      0.675211,
+      "[INFO] Scanning for projects..."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.154230,
+      "[INFO]                                                                         "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "[INFO] ------------------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000022,
+      "[INFO] Building scala-wildfly-swarm 0.1.0"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.199624,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.035998,
+      "[INFO] Deleting /home/hf/dev/esmeril/scala-wildfly-swarm/target"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.004349,
+      "[INFO] "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ scala-wildfly-swarm ---\r\n"
+    ],
+    [
+      0.071483,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "[INFO] skip non existing resourceDirectory /home/hf/dev/esmeril/scala-wildfly-swarm/src/main/resources"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000610,
+      "[INFO] \r\n"
+    ],
+    [
+      0.000011,
+      "[INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.115459,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "[INFO] "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[INFO] --- scala-maven-plugin:3.2.2:compile (default) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.501732,
+      "[INFO] /home/hf/dev/esmeril/scala-wildfly-swarm/src/main/scala:-1: info: compiling"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000235,
+      "[INFO] Compiling 2 source files to /home/hf/dev/esmeril/scala-wildfly-swarm/target/classes at 1449694758082"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      1.919995,
+      "[INFO] prepare-compile in 0 s\r\n"
+    ],
+    [
+      0.000019,
+      "[INFO] compile in 1 s"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "[INFO] "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.001924,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "[INFO] skip non existing resourceDirectory /home/hf/dev/esmeril/scala-wildfly-swarm/src/test/resources"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "[INFO] "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[INFO] --- maven-compiler-plugin:3.3:testCompile (default-testCompile) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001279,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "[INFO] "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.043612,
+      "[INFO] No tests to run.\r\n"
+    ],
+    [
+      0.004311,
+      "[INFO] "
+    ],
+    [
+      0.000005,
+      "\r\n[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ scala-wildfly-swarm ---\r\n"
+    ],
+    [
+      0.065794,
+      "[INFO] Building jar: /home/hf/dev/esmeril/scala-wildfly-swarm/target/scala-wildfly-swarm-0.1.0.jar\r\n"
+    ],
+    [
+      0.007001,
+      "[INFO] \r\n"
+    ],
+    [
+      0.000005,
+      "[INFO] --- wildfly-swarm-plugin:1.0.0.Alpha5:package (default) @ scala-wildfly-swarm ---\r\n"
+    ],
+    [
+      1.479079,
+      "[INFO] \r\n"
+    ],
+    [
+      0.000005,
+      "[INFO] \u003e\u003e\u003e wildfly-swarm-plugin:1.0.0.Alpha5:run (default-cli) \u003e package @ scala-wildfly-swarm \u003e\u003e\u003e\r\n"
+    ],
+    [
+      0.003884,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ scala-wildfly-swarm ---\r\n"
+    ],
+    [
+      0.000696,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "[INFO] skip non existing resourceDirectory /home/hf/dev/esmeril/scala-wildfly-swarm/src/main/resources"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "[INFO] "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "[INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000659,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "[INFO] "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[INFO] --- scala-maven-plugin:3.2.2:compile (default) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006697,
+      "[INFO] Nothing to compile - all classes are up to date"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000600,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "[INFO] skip non existing resourceDirectory /home/hf/dev/esmeril/scala-wildfly-swarm/src/test/resources"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "[INFO] "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[INFO] --- maven-compiler-plugin:3.3:testCompile (default-testCompile) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000623,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001009,
+      "[INFO] No tests to run."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "[INFO] Skipping execution of surefire because it has already been run for this configuration"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003383,
+      "[INFO] "
+    ],
+    [
+      0.000005,
+      "\r\n[INFO] --- wildfly-swarm-plugin:1.0.0.Alpha5:package (default) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.367378,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "\r\n[INFO] \u003c\u003c\u003c wildfly-swarm-plugin:1.0.0.Alpha5:run (default-cli) \u003c package @ scala-wildfly-swarm \u003c\u003c\u003c"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "[INFO] \r\n"
+    ],
+    [
+      0.000013,
+      "[INFO] --- wildfly-swarm-plugin:1.0.0.Alpha5:run (default-cli) @ scala-wildfly-swarm ---"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.537502,
+      "tmpDir: /tmp"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.037685,
+      "\u001b[0m17:59:23,560 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final\r\n\u001b[0m"
+    ],
+    [
+      0.070006,
+      "\u001b[0m17:59:23,637 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0049: WildFly Core 2.0.0.CR8 \"Kenny\" starting\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.334978,
+      "2015-12-09 17:59:23,972 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 13) WFLYNAM0001: Activating Naming Subsystem"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001551,
+      "2015-12-09 17:59:23,973 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 14) WFLYSEC0002: Activating Security Subsystem"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000470,
+      "2015-12-09 17:59:23,974 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 11) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001867,
+      "2015-12-09 17:59:23,975 INFO  [org.jboss.as.security] (MSC service thread 1-2) WFLYSEC0001: Current PicketBox version=4.9.3.Final"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.006234,
+      "2015-12-09 17:59:23,982 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Starting Naming Service\r\n"
+    ],
+    [
+      0.007041,
+      "2015-12-09 17:59:23,989 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 10) WFLYUT0003: Undertow 1.3.3.Final starting"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.003303,
+      "2015-12-09 17:59:23,992 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0003: Undertow 1.3.3.Final starting"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.023022,
+      "2015-12-09 17:59:24,015 INFO  [org.xnio] (MSC service thread 1-1) XNIO version 3.3.2.Final"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.006168,
+      "2015-12-09 17:59:24,022 INFO  [org.xnio.nio] (MSC service thread 1-1) XNIO NIO Implementation Version 3.3.2.Final\r\n"
+    ],
+    [
+      0.019038,
+      "2015-12-09 17:59:24,041 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0012: Started server default-server."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.040441,
+      "2015-12-09 17:59:24,081 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0006: Undertow HTTP listener default listening on [0:0:0:0:0:0:0:0]:8080"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.082097,
+      "2015-12-09 17:59:24,163 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Core 2.0.0.CR8 \"Kenny\" started in 630ms - Started 68 of 75 services (14 services are lazy, passive or on-demand)\r\n"
+    ],
+    [
+      1.648088,
+      "2015-12-09 17:59:25,811 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0027: Starting deployment of \"scala-wildfly-swarm.war\" (runtime-name: \"scala-wildfly-swarm.war\")\r\n"
+    ],
+    [
+      1.097120,
+      "2015-12-09 17:59:26,908 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0018: Host default-host starting\r\n"
+    ],
+    [
+      0.139836,
+      "2015-12-09 17:59:27,048 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 7) RESTEASY002225: Deploying javax.ws.rs.core.Application: class org.wildfly.swarm.generated.WildFlySwarmDefaultJAXRSApplication\r\n"
+    ],
+    [
+      0.015764,
+      "2015-12-09 17:59:27,064 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 7) WFLYUT0021: Registered web context: /\r\n"
+    ],
+    [
+      0.038592,
+      "2015-12-09 17:59:27,103 INFO  [org.jboss.as.server] (main) WFLYSRV0010: Deployed \"scala-wildfly-swarm.war\" (runtime-name : \"scala-wildfly-swarm.war\")\r\n"
+    ],
+    [
+      4.634862,
+      "^C"
+    ],
+    [
+      0.070847,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000084,
+      "\u001b]2;hf@hulk: ~/dev/esmeril/scala-wildfly-swarm\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..wildfly-swarm\u0007"
+    ],
+    [
+      0.006939,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mscala-wildfly-swarm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.889462,
+      "\r\r\n"
+    ],
+    [
+      0.000175,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000094,
+      "\u001b]2;hf@hulk: ~/dev/esmeril/scala-wildfly-swarm\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..wildfly-swarm\u0007"
+    ],
+    [
+      0.007581,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mscala-wildfly-swarm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.080070,
+      "\r\r\n"
+    ]
+  ]
+}
