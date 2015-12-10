@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "width": 270,
+  "height": 25,
+  "duration": 5.820566,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.208139,
+      " _________________________________________ \r\n/  \"Reintegration complete,\" ZORAC        \\\r\n| advised. \"We're back in the universe    |\r\n"
+    ],
+    [
+      0.000043,
+      "| again...\" An unusually long pause       |\r\n| followed, \"...but I don't know which    |\r\n| part. We seem to have changed our       |\r\n| position in space.\" A spherical display |\r\n| in the middle of the floor illuminated  |\r\n| to show the starfield surrounding the   |\r\n| ship.                                   |\r\n|                                         |\r\n| \"Several large, artificial              |\r\n| constructions are approaching us,\"      |\r\n| ZORAC announced after a short pause.    |\r\n| \"The designs are not familiar, but they |\r\n| are obviously the products of           |\r\n| intelligence. Implications: we have     |\r\n| been intercepted deliberately by a      |\r\n| means unknown, for a purpose unknown,   |\r\n| and transferred to a place unknown by a |\r\n| form of intelligence unknown. Apart     |\r\n| from the unknowns, everything is        |\r\n| obvious.\"                               |\r\n|                                         |\r\n\\ -- James P. Hogan, \"Giants Star\"        /\r\n ---------------------------------"
+    ],
+    [
+      0.000013,
+      "-------- \r\n               \\      .-\"\"\"-.\r\n                 \\   /\u001b[0;34m[O]\u001b[0m    \\\r\n                   _|_________|_\r\n                  | |   \u001b[0;34m===\u001b[0m   | |\r\n                  |_|    \u001b[0;34mO\u001b[0m    |_|\r\n                   \u001b[0;34m|\u001b[0m|    \u001b[0;34mO\u001b[0m    |\u001b[0;34m|\u001b[0m\r\n                   \u001b[0;34m|\u001b[0m|  __\u001b[0;34m*\u001b[0m__  |\u001b[0;34m|\u001b[0m\r\n                  \u001b[0;34m|\u001b[0m~|__\\___/__|~\u001b[0;34m|\u001b[0m\r\n                  /=\\   /=\\   /=\\\r\n                  [_]   [_]   [_]\r\n"
+    ],
+    [
+      0.002026,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000143,
+      "\u001b]2;adaoraul@Adaos-Mac-Pro: ~\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.108189,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[34m# \u001b[36madaoraul\u001b[00m in (\u001b[1m\u001b[33m~\u001b[00m) using \u001b[34m2.2.3\u001b[00m\r\n\u001b[1m\u001b[31m$\u001b[00m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.625544,
+      "asciinema rec"
+    ],
+    [
+      0.711387,
+      "\u001b[13Dcurl -XGET 'http://localhost:9200/_search?q=lorem' | prettyjson"
+    ],
+    [
+      2.224141,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000070,
+      "\r\r\n"
+    ],
+    [
+      0.000764,
+      "\u001b]2;curl --ipv4 -XGET 'http://localhost:9200/_search?q=lorem' | python -m  |  -l \u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;curl\u0007"
+    ],
+    [
+      0.008093,
+      "  %"
+    ],
+    [
+      0.000014,
+      " Total    % Received %"
+    ],
+    [
+      0.000017,
+      " Xferd  Ave"
+    ],
+    [
+      0.000006,
+      "rage"
+    ],
+    [
+      0.000006,
+      " Sp"
+    ],
+    [
+      0.000006,
+      "eed"
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000004,
+      "Tim"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000005,
+      "  T"
+    ],
+    [
+      0.000005,
+      "im"
+    ],
+    [
+      0.000005,
+      "e  "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000005,
+      "Tim"
+    ],
+    [
+      0.000005,
+      "e  "
+    ],
+    [
+      0.000033,
+      "Cur"
+    ],
+    [
+      0.000010,
+      "rent\r\n     "
+    ],
+    [
+      0.000015,
+      "         "
+    ],
+    [
+      0.000006,
+      "    "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000006,
+      "    "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000005,
+      "  D"
+    ],
+    [
+      0.000006,
+      "loa"
+    ],
+    [
+      0.000006,
+      "d  "
+    ],
+    [
+      0.000006,
+      "Uplo"
+    ],
+    [
+      0.000005,
+      "ad "
+    ],
+    [
+      0.000005,
+      "  T"
+    ],
+    [
+      0.000005,
+      "ota"
+    ],
+    [
+      0.000006,
+      "l "
+    ],
+    [
+      0.000006,
+      "  Sp"
+    ],
+    [
+      0.000006,
+      "ent"
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000008,
+      " Lef"
+    ],
+    [
+      0.000006,
+      "t  "
+    ],
+    [
+      0.000005,
+      "Spe"
+    ],
+    [
+      0.000006,
+      "ed\r\n"
+    ],
+    [
+      0.000016,
+      "\r  "
+    ],
+    [
+      0.000007,
+      "0   "
+    ],
+    [
+      0.000005,
+      "  0"
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000006,
+      "  0"
+    ],
+    [
+      0.000007,
+      "   "
+    ],
+    [
+      0.000006,
+      "  0"
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000006,
+      " 0 "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000006,
+      " 0 "
+    ],
+    [
+      0.000010,
+      "     "
+    ],
+    [
+      0.000006,
+      "0   "
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000005,
+      "0 -"
+    ],
+    [
+      0.000006,
+      "-:--:"
+    ],
+    [
+      0.000005,
+      "-- -"
+    ],
+    [
+      0.000006,
+      "-:-"
+    ],
+    [
+      0.000005,
+      "-:"
+    ],
+    [
+      0.000006,
+      "-- --"
+    ],
+    [
+      0.000006,
+      ":--:-"
+    ],
+    [
+      0.000006,
+      "-    "
+    ],
+    [
+      0.000006,
+      " 0"
+    ],
+    [
+      0.011709,
+      "\r10"
+    ],
+    [
+      0.000017,
+      "0  7517  100  7517    0"
+    ],
+    [
+      0.000008,
+      "     "
+    ],
+    [
+      0.000005,
+      "0  "
+    ],
+    [
+      0.000005,
+      " 6"
+    ],
+    [
+      0.000006,
+      "02k"
+    ],
+    [
+      0.000005,
+      "   "
+    ],
+    [
+      0.000006,
+      "   "
+    ],
+    [
+      0.000005,
+      "0 -"
+    ],
+    [
+      0.000005,
+      "-:-"
+    ],
+    [
+      0.000005,
+      "-:"
+    ],
+    [
+      0.000005,
+      "--"
+    ],
+    [
+      0.000006,
+      " --"
+    ],
+    [
+      0.000006,
+      ":--"
+    ],
+    [
+      0.000005,
+      ":--"
+    ],
+    [
+      0.000005,
+      " -"
+    ],
+    [
+      0.000005,
+      "-:-"
+    ],
+    [
+      0.000006,
+      "-:-"
+    ],
+    [
+      0.000005,
+      "-  "
+    ],
+    [
+      0.000005,
+      "611"
+    ],
+    [
+      0.000005,
+      "k\r\n"
+    ],
+    [
+      0.137875,
+      "{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000078,
+      "    \u001b[39;49;00m\u001b[34;01m\"_shards\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000120,
+      "        \u001b[39;49;00m\u001b[34;01m\"failed\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000141,
+      "        \u001b[39;49;00m\u001b[34;01m\"successful\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m16\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000134,
+      "        \u001b[39;49;00m\u001b[34;01m\"total\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m16\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000069,
+      "    \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000094,
+      "    \u001b[39;49;00m\u001b[34;01m\"hits\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000095,
+      "        \u001b[39;49;00m\u001b[34;01m\"hits\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m[\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000035,
+      "            \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000113,
+      "                \u001b[39;49;00m\u001b[34;01m\"_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"1\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000121,
+      "                \u001b[39;49;00m\u001b[34;01m\"_index\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"pages\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000109,
+      "                \u001b[39;49;00m\u001b[34;01m\"_score\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0.18207572\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000090,
+      "                \u001b[39;49;00m\u001b[34;01m\"_source\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000114,
+      "                    \u001b[39;49;00m\u001b[34;01m\"category_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000389,
+      "                    \u001b[39;49;00m\u001b[34;01m\"content\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\u003ch1\u003eTeste\u003c/h1\u003e\u003ch2\u003eTeste\u003c/h2\u003e\u003ch3\u003eTeste\u003c/h3\u003e\u003ch4\u003eTeste\u003c/h4\u003e\u003ch5\u003eTeste\u003c/h5\u003e\u003ch6\u003eTeste\u003c/h6\u003e\u003cpre\u003elorem ipsum dolor sit amet\u003c/pre\u003e\u003cp\u003e\u003cs\u003eLorem\u003c/s\u003e \u003cspan style=\\\"color:#FF0000;\\\"\u003eipsum\u003c/span\u003e dolor\u003cstrong\u003e sit amet\u003c/strong\u003e \u003cem\u003elorem\u003c/em\u003e \u003cu\u003eipsum\u003c/u\u003e dolor \u003ca href=\\\"http://www.google.com\\\"\u003esit amet\u003c/a\u003e lorem ipsum dolor sit\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;amet\u003csub\u003e2\u003c/sub\u003e.\u003c/p\u003e\u003cul\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003c/ul\u003e\u003col\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003cli\u003esit\u003c/li\u003e\u003c/ol\u003e\u003chr /\u003e\u003ctable border=\\\"1\\\" cellpadding=\\\"1\\\" cellspacing=\\\"1\\\" class=\\\"striped bordered\\\" style=\\\"width:100%;\\\"\u003e\u003cthead\u003e\\t\u003ctr\u003e\u003cth scope=\\\"col\\\"\u003elorem\u003c/th\u003e\u003cth scope=\\\"col\\\"\u003eipsum\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003edolor\u003c/td\u003e\u003ctd\u003esit\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eamet\u003c/td\u003e\u003ctd\u003elorem\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000111,
+      "                    \u001b[39;49;00m\u001b[34;01m\"created_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.426Z\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000110,
+      "                    \u001b[39;49;00m\u001b[34;01m\"id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000114,
+      "                    \u001b[39;49;00m\u001b[34;01m\"position\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000110,
+      "                    \u001b[39;49;00m\u001b[34;01m\"published\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34mfalse\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000118,
+      "                    \u001b[39;49;00m\u001b[34;01m\"slug\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000119,
+      "                    \u001b[39;49;00m\u001b[34;01m\"title\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000097,
+      "                    \u001b[39;49;00m\u001b[34;01m\"updated_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T20:30:33.153Z\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000070,
+      "                \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000082,
+      "                \u001b[39;49;00m\u001b[34;01m\"_type\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"page\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000058,
+      "            \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000045,
+      "            \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000112,
+      "                \u001b[39;49;00m\u001b[34;01m\"_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"3\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000111,
+      "                \u001b[39;49;00m\u001b[34;01m\"_index\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"pages\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000111,
+      "                \u001b[39;49;00m\u001b[34;01m\"_score\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0.18207572\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000090,
+      "                \u001b[39;49;00m\u001b[34;01m\"_source\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000108,
+      "                    \u001b[39;49;00m\u001b[34;01m\"category_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000221,
+      "                    \u001b[39;49;00m\u001b[34;01m\"content\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\u003ch1\u003eTeste\u003c/h1\u003e\u003ch2\u003eTeste\u003c/h2\u003e\u003ch3\u003eTeste\u003c/h3\u003e\u003ch4\u003eTeste\u003c/h4\u003e\u003ch5\u003eTeste\u003c/h5\u003e\u003ch6\u003eTeste\u003c/h6\u003e\u003cpre\u003elorem ipsum dolor sit amet\u003c/pre\u003e\u003cp\u003e\u003cs\u003eLorem\u003c/s\u003e \u003cspan style=\\\"color:#FF0000;\\\"\u003eipsum\u003c/span\u003e dolor\u003cstrong\u003e sit amet\u003c/strong\u003e \u003cem\u003elorem\u003c/em\u003e \u003cu\u003eipsum\u003c/u\u003e dolor \u003ca href=\\\"http://www.google.com\\\"\u003esit amet\u003c/a\u003e lorem ipsum dolor sit\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;amet\u003csub\u003e2\u003c/sub\u003e.\u003c/p\u003e\u003cul\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003c/ul\u003e\u003col\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003cli\u003esit\u003c/li\u003e\u003c/ol\u003e\u003chr /\u003e\u003ctable border=\\\"1\\\" cellpadding=\\\"1\\\" cellspacing=\\\"1\\\" class=\\\"striped bordered\\\" style=\\\"width:100%;\\\"\u003e\u003cthead\u003e\\t\u003ctr\u003e\u003cth scope=\\\"col\\\"\u003elorem\u003c/th\u003e\u003cth scope=\\\"col\\\"\u003eipsum\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003edolor\u003c/td\u003e\u003ctd\u003esit\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eamet\u003c/td\u003e\u003ctd\u003elorem\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000117,
+      "                    \u001b[39;49;00m\u001b[34;01m\"created_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.556Z\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000104,
+      "                    \u001b[39;49;00m\u001b[34;01m\"id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m3\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000112,
+      "                    \u001b[39;49;00m\u001b[34;01m\"position\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m3\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000106,
+      "                    \u001b[39;49;00m\u001b[34;01m\"published\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34mtrue\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000123,
+      "                    \u001b[39;49;00m\u001b[34;01m\"slug\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"morbi-quam-felis-rutrum-eu-vulputate-ut-consectetur-ut-lorem\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000118,
+      "                    \u001b[39;49;00m\u001b[34;01m\"title\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Morbi quam felis, rutrum eu vulputate ut, consectetur ut lorem\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000097,
+      "                    \u001b[39;49;00m\u001b[34;01m\"updated_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.556Z\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000059,
+      "                \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000094,
+      "                \u001b[39;49;00m\u001b[34;01m\"_type\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"page\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000056,
+      "            \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000057,
+      "            \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000100,
+      "                \u001b[39;49;00m\u001b[34;01m\"_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000107,
+      "                \u001b[39;49;00m\u001b[34;01m\"_index\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"pages\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000113,
+      "                \u001b[39;49;00m\u001b[34;01m\"_score\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0.17166264\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000092,
+      "                \u001b[39;49;00m\u001b[34;01m\"_source\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000107,
+      "                    \u001b[39;49;00m\u001b[34;01m\"category_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000215,
+      "                    \u001b[39;49;00m\u001b[34;01m\"content\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\u003ch1\u003eTeste\u003c/h1\u003e\u003ch2\u003eTeste\u003c/h2\u003e\u003ch3\u003eTeste\u003c/h3\u003e\u003ch4\u003eTeste\u003c/h4\u003e\u003ch5\u003eTeste\u003c/h5\u003e\u003ch6\u003eTeste\u003c/h6\u003e\u003cpre\u003elorem ipsum dolor sit amet\u003c/pre\u003e\u003cp\u003e\u003cs\u003eLorem\u003c/s\u003e \u003cspan style=\\\"color:#FF0000;\\\"\u003eipsum\u003c/span\u003e dolor\u003cstrong\u003e sit amet\u003c/strong\u003e \u003cem\u003elorem\u003c/em\u003e \u003cu\u003eipsum\u003c/u\u003e dolor \u003ca href=\\\"http://www.google.com\\\"\u003esit amet\u003c/a\u003e lorem ipsum dolor sit\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;amet\u003csub\u003e2\u003c/sub\u003e.\u003c/p\u003e\u003cul\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003c/ul\u003e\u003col\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003cli\u003esit\u003c/li\u003e\u003c/ol\u003e\u003chr /\u003e\u003ctable border=\\\"1\\\" cellpadding=\\\"1\\\" cellspacing=\\\"1\\\" class=\\\"striped bordered\\\" style=\\\"width:100%;\\\"\u003e\u003cthead\u003e\\t\u003ctr\u003e\u003cth scope=\\\"col\\\"\u003elorem\u003c/th\u003e\u003cth scope=\\\"col\\\"\u003eipsum\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003edolor\u003c/td\u003e\u003ctd\u003esit\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eamet\u003c/td\u003e\u003ctd\u003elorem\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000120,
+      "                    \u001b[39;49;00m\u001b[34;01m\"created_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.523Z\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000107,
+      "                    \u001b[39;49;00m\u001b[34;01m\"id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m2\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000107,
+      "                    \u001b[39;49;00m\u001b[34;01m\"position\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m2\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000113,
+      "                    \u001b[39;49;00m\u001b[34;01m\"published\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34mtrue\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000117,
+      "                    \u001b[39;49;00m\u001b[34;01m\"slug\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"pellentesque-blandit-sed-metus-non-vestibulum\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000116,
+      "                    \u001b[39;49;00m\u001b[34;01m\"title\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Pellentesque blandit sed metus non vestibulum\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000093,
+      "                    \u001b[39;49;00m\u001b[34;01m\"updated_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.523Z\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000068,
+      "                \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000087,
+      "                \u001b[39;49;00m\u001b[34;01m\"_type\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"page\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000061,
+      "            \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000046,
+      "            \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000112,
+      "                \u001b[39;49;00m\u001b[34;01m\"_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"4\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000107,
+      "                \u001b[39;49;00m\u001b[34;01m\"_index\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"pages\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000110,
+      "                \u001b[39;49;00m\u001b[34;01m\"_score\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0.17166264\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000090,
+      "                \u001b[39;49;00m\u001b[34;01m\"_source\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000110,
+      "                    \u001b[39;49;00m\u001b[34;01m\"category_id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m1\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000218,
+      "                    \u001b[39;49;00m\u001b[34;01m\"content\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\u003ch1\u003eTeste\u003c/h1\u003e\u003ch2\u003eTeste\u003c/h2\u003e\u003ch3\u003eTeste\u003c/h3\u003e\u003ch4\u003eTeste\u003c/h4\u003e\u003ch5\u003eTeste\u003c/h5\u003e\u003ch6\u003eTeste\u003c/h6\u003e\u003cpre\u003elorem ipsum dolor sit amet\u003c/pre\u003e\u003cp\u003e\u003cs\u003eLorem\u003c/s\u003e \u003cspan style=\\\"color:#FF0000;\\\"\u003eipsum\u003c/span\u003e dolor\u003cstrong\u003e sit amet\u003c/strong\u003e \u003cem\u003elorem\u003c/em\u003e \u003cu\u003eipsum\u003c/u\u003e dolor \u003ca href=\\\"http://www.google.com\\\"\u003esit amet\u003c/a\u003e lorem ipsum dolor sit\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;amet\u003csub\u003e2\u003c/sub\u003e.\u003c/p\u003e\u003cul\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003c/ul\u003e\u003col\u003e\u003cli\u003elorem\u003c/li\u003e\u003cli\u003eipsum\u003c/li\u003e\u003cli\u003edolor\u003c/li\u003e\u003cli\u003esit\u003c/li\u003e\u003c/ol\u003e\u003chr /\u003e\u003ctable border=\\\"1\\\" cellpadding=\\\"1\\\" cellspacing=\\\"1\\\" class=\\\"striped bordered\\\" style=\\\"width:100%;\\\"\u003e\u003cthead\u003e\\t\u003ctr\u003e\u003cth scope=\\\"col\\\"\u003elorem\u003c/th\u003e\u003cth scope=\\\"col\\\"\u003eipsum\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003edolor\u003c/td\u003e\u003ctd\u003esit\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eamet\u003c/td\u003e\u003ctd\u003elorem\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000116,
+      "                    \u001b[39;49;00m\u001b[34;01m\"created_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.589Z\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000106,
+      "                    \u001b[39;49;00m\u001b[34;01m\"id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m4\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000113,
+      "                    \u001b[39;49;00m\u001b[34;01m\"position\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m4\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000109,
+      "                    \u001b[39;49;00m\u001b[34;01m\"published\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34mtrue\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000120,
+      "                    \u001b[39;49;00m\u001b[34;01m\"slug\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"donec-mattis-laoreet-varius\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000115,
+      "                    \u001b[39;49;00m\u001b[34;01m\"title\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Donec mattis laoreet varius\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000096,
+      "                    \u001b[39;49;00m\u001b[34;01m\"updated_at\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-12-10T19:42:45.589Z\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000068,
+      "                \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000083,
+      "                \u001b[39;49;00m\u001b[34;01m\"_type\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"page\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000048,
+      "            \u001b[39;49;00m}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000063,
+      "        \u001b[39;49;00m]\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000112,
+      "        \u001b[39;49;00m\u001b[34;01m\"max_score\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m0.18207572\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000086,
+      "        \u001b[39;49;00m\u001b[34;01m\"total\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m4\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000062,
+      "    \u001b[39;49;00m}\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000111,
+      "    \u001b[39;49;00m\u001b[34;01m\"timed_out\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34mfalse\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000084,
+      "    \u001b[39;49;00m\u001b[34;01m\"took\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[34m5\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000038,
+      "}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.007360,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000132,
+      "\u001b]2;adaoraul@Adaos-Mac-Pro: ~\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.101081,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[34m# \u001b[36madaoraul\u001b[00m in (\u001b[1m\u001b[33m~\u001b[00m) using \u001b[34m2.2.3\u001b[00m\r\n\u001b[1m\u001b[31m$\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.659865,
+      "\r\r\n"
+    ]
+  ]
+}
