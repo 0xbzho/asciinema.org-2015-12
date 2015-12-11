@@ -1,0 +1,1314 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 30,
+  "duration": 95.105817,
+  "command": "python -m rtv",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.161458,
+      "\u001b]2;rtv 1.7.0\u0007"
+    ],
+    [
+      0.002646,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000050,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000431,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.519764,
+      "\u001b[14;30H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;30H\u001b(0\u001b[0mx\u001b(BLoading subreddit   \u001b(0\u001b[0mx\u001b(B\u001b[16;30H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.404738,
+      "."
+    ],
+    [
+      0.404791,
+      "."
+    ],
+    [
+      0.404915,
+      "."
+    ],
+    [
+      0.405173,
+      "\u0008\u0008\u0008   \u0008\u0008\u0008"
+    ],
+    [
+      0.405156,
+      "."
+    ],
+    [
+      0.451931,
+      "\r\u001b[A\u001b[J\u001b[H"
+    ],
+    [
+      0.002744,
+      "\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                                      \u001b[2;1H\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\r\n\u001b[C\u001b[39m1. A chemist at CSU invented a biodegradable and recyclable non-petroleum\r\n\u001b[Cbioplastic\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://source.colostate.edu/recyclable-bioplastics-cooled-down-cooked-up-in-cs\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5811 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr 636 comments\r\n \u001b(B\u001b[0;1mTraveleravi\u001b(B\u001b[0m\u001b[33m /r/science\u001b[31m [Chemistry]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.016088,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u001b(B\u001b[0;1m2. I had blood drawn this morning. Later in the day I lost my virginity. My\r\n\u001b[Cvirgin blood still exists somewhere on earth, but it's not in me.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[35mself.Showerthoughts\r\n\u001b[C\u001b[39m\u001b(B\u001b[m3977 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3hr 453 comments\r\n \u001b(B\u001b[0;1mLfcjdp\u001b(B\u001b[0m\u001b[33m /r/Showerthoughts\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. Zooey Deschanel without bangs\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/O1H6gZw.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5886 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr 2344 comments\r\n \u001b(B\u001b[0;1mholymojo96\u001b(B\u001b[0m\u001b[33m /r/pics\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. TIL that while John and Clarence Anglin, 2 of the 3 men who ever escaped\r\n\u001b[Cfrom Alcatraz, were officially reported to have drowned in the bay, their\r\n\u001b[Cmother received flowers anonymously every Mother's Day until she died, and two\r\n\u001b[Cvery tall unknown women were reported to have attended her funeral.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/John_Anglin\r\n\u001b[C\u001b[39m\u001b(B\u001b[m6186 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 1359 comments\r\n \u001b(B\u001b[0;1mMeunderwears\u001b(B\u001b[0m\u001b[33m /r/todayilearned\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. Monty Python and the Holy Grail's censor negotiation letter from 1974\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/mLFrwmn.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m4053 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 223 comments\u001b[H"
+    ],
+    [
+      2.752716,
+      "\u001b[14;30H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;30H\u001b(0\u001b[0mx\u001b(BLoading submission   \u001b(0\u001b[0mx\u001b(B\u001b[16;30H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405386,
+      "."
+    ],
+    [
+      0.405138,
+      "."
+    ],
+    [
+      0.466882,
+      "\r\u001b[A\u001b[K\u001b[15;30H\u001b(B\u001b[0;1mangs\u001b(B\u001b[m\u001b[K\n\u0008\u0008\u0008\u0008\u001b(B\u001b[0;4m\u001b[34mpg\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.004926,
+      "\u001b(B\u001b[0;1;7m\u001b[36mhttps://www.reddit.com/r/science/comments/3wawfp/a_chemist_at_csu_invented_a_bi\r\n\n\u001b[39m\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mA chemist at CSU invented a biodegradable and recyclable non-petroleum\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mbioplastic\u001b(B\u001b[m\u001b[68X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1m\u001b[32mTraveleravi\u001b[33m [Chemistry]\u001b[39m\u001b(B\u001b[m 5hr science\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;4m\u001b[34mhttp://source.colostate.edu/recyclable-bioplastics-cooled-down-cooked-up-in-cs\u001b[39m\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0mx\u001b(B5816 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 636 comments\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[9;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[10;1H\u001b(0\u001b[0m\u001b(B\u001b[K\n\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34m-dudeomfgstfux- \u001b[39m•\u001b(B\u001b[m 450 pts 2hr\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mMy failed undergrad research involved me looking into polyvinyl alcohol for\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mdifferent uses, including utensils, I ended with a new disappearing spoon\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mtrick. Nice to see that this worked out for him.\r\n\u001b[K\n  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34m[deleted] \u001b[39m•\u001b(B\u001b[m 112 pts 1hr\u001b[K\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[m[removed]\u001b[K\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34m[deleted] \u001b[39m•\u001b(B\u001b[m 191 pts 1hr\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m[removed]\u001b[K\r\n\u001b[K\n\u001b[6G\u001b[1K \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments\u001b(B\u001b[0;1m [3]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34m[deleted] \u001b[39m•\u001b(B\u001b[m 17 pts 1hr\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m[removed]\u001b[K\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments\u001b(B\u001b[0;1m [4]\r\n\u001b(B\u001b[m\u001b[K\n  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mthagthebarbarian \u001b[39m•\u001b(B\u001b[m 8 pts 22min\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mSerious question despite every reply being deleted...\u001b[H"
+    ],
+    [
+      1.111836,
+      "\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                                     \r\n\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m1. A chemist at CSU invented a biodegradable and recyclable non-petroleum\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mbioplastic\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://source.colostate.edu/recyclable-bioplastics-cooled-down-cooked-up-in-cs\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[m5811 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr 636 comments\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mTraveleravi\u001b(B\u001b[0m\u001b[33m /r/science\u001b[31m [Chemistry]\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m2. I had blood drawn this morning. Later in the day I lost my virginity. My\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;1mvirgin blood still exists somewhere on earth, but it's not in me.\r\n\u001b(B\u001b[m \u001b(B\u001b[0;4m\u001b[35mself.Showerthoughts\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 3977 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3hr 453 comments\u001b[K\r\n \u001b(B\u001b[0;1mLfcjdp\u001b(B\u001b[0m\u001b[33m /r/Showerthoughts\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m3. Zooey Deschanel without bangs\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/O1H6gZw.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5886 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr 2344 comments\r\n \u001b(B\u001b[0;1mholymojo96\u001b(B\u001b[0m\u001b[33m /r/pics\r\n\u001b[39m\u001b(B\u001b[m\u001b[K\n \u001b(B\u001b[0;1m4. TIL that while John and Clarence Anglin, 2 of the 3 men who ever escaped\r\n\u001b[Cfrom Alcatraz, were officially reported to have drowned in the bay, their\r\n\u001b[Cmother received flowers anonymously every Mother's Day until she died, and two\r\n\u001b[Cvery tall unknown women were reported to have attended her funeral.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/John_Anglin\r\n\u001b[C\u001b[39m\u001b(B\u001b[m6186 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 1359 comments\r\n \u001b(B\u001b[0;1mMeunderwears\u001b(B\u001b[0m\u001b[33m /r/todayilearned\r\n\u001b[39m\u001b(B\u001b[m\u001b[K\n \u001b(B\u001b[0;1m5. Monty Python and the Holy Grail's censor negotiation letter from 1974\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/mLFrwmn.jpg\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 4053 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 223 comments\u001b[K\u001b[H"
+    ],
+    [
+      0.387145,
+      "\n\n \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.680939,
+      "\u001b[30d\u001b[J\u001b[H\u001b(B\u001b[0;1;7m\u001b[36mhttps://www.reddit.com/r/Showerthoughts/comments/3wbd8l/i_had_blood_drawn_this_\r\n\n\u001b[39m\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mI had blood drawn this morning. Later in the day I lost my virginity. My\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mvirgin blood still exists somewhere on earth, but it's not in me.\u001b(B\u001b[m             \u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1m\u001b[32mLfcjdp\u001b[39m\u001b(B\u001b[m 3hr Showerthoughts  \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;4m\u001b[34mself.Showerthoughts\u001b[39m\u001b(B\u001b[m\u001b[15X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0mx\u001b(B3976 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 453 comments\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[9;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[10;1H\u001b(0\u001b[0m\u001b(B\u001b[K\n\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mIDGAFWMNI \u001b[39m•\u001b(B\u001b[m 2342 pts 3hr\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mThis is a pretty unique way to brag about getting laid.\r\n\u001b[K\n  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mDO_NOT_GILD_ME \u001b[39m•\u001b(B\u001b[m 581 pts 2hr\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mHey, when it's your first time, you want to tell the whole world.\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mUsername_cocktail \u001b[39m•\u001b(B\u001b[m 101 pts 2hr \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[C\u001b[39m\u001b(B\u001b[m   \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m*The \"DO_NOT_GILD_ME\"*\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\r\n \u001b(0\u001b[0m\u001b[32m\u001b[39m\u001b(B\u001b(B\u001b[m   \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m* 3 oz Goldschläger\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m* 1/2 oz Vermouth\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m* 1 twist lemon\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m* pour into a martini glass, then throw it away you ungrateful swine\n\n\u001b[6G\u001b[1K \u001b(0\u001b[0m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34mArkantos12345 \u001b[39m•\u001b(B\u001b[m 14 pts 1hr\u001b[K\n\u001b[6G\u001b[1K \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mI'd still make it.\u001b[K\u001b[H"
+    ],
+    [
+      1.801067,
+      "\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                                     \r\n\n\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m1. A chemist at CSU invented a biodegradable and recyclable non-petroleum\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;1mbioplastic\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mhttp://source.colostate.edu/recyclable-bioplastics-cooled-down-cooked-up-in-cs\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 5811 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr 636 comments\u001b[K\r\n \u001b(B\u001b[0;1mTraveleravi\u001b(B\u001b[0m\u001b[33m /r/science\u001b[31m [Chemistry]\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m2. I had blood drawn this morning. Later in the day I lost my virginity. My\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mvirgin blood still exists somewhere on earth, but it's not in me.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[35mself.Showerthoughts\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[m3977 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3hr 453 comments\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mLfcjdp\u001b(B\u001b[0m\u001b[33m /r/Showerthoughts\r\n\u001b[39m\u001b(B\u001b[m\u001b[K\n \u001b(B\u001b[0;1m3. Zooey Deschanel without bangs\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/O1H6gZw.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5886 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr 2344 comments\u001b[K\r\n \u001b(B\u001b[0;1mholymojo96\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m4. TIL that while John and Clarence Anglin, 2 of the 3 men who ever escaped\r\n\u001b[Cfrom Alcatraz, were officially reported to have drowned in the bay, their\r\n\u001b[Cmother received flowers anonymously every Mother's Day until she died, and two\r\n\u001b[Cvery tall unknown women were reported to have attended her funeral.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/John_Anglin\r\n\u001b[C\u001b[39m\u001b(B\u001b[m6186 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 1359 comments\r\n \u001b(B\u001b[0;1mMeunderwears\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\n \u001b(B\u001b[0;1m5. Monty Python and the Holy Grail's censor negotiation letter from 1974\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/mLFrwmn.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m4053 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 223 comments\u001b[H"
+    ],
+    [
+      1.456283,
+      "\u001b[14;31H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;31H\u001b(0\u001b[0mx\u001b(BRefreshing page   \u001b(0\u001b[0mx\u001b(B\u001b[16;31H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.404635,
+      "."
+    ],
+    [
+      0.404881,
+      "."
+    ],
+    [
+      0.444859,
+      "\r\u001b[A\u001b[K\u001b[15;31H\u001b(B\u001b[0;1mngs\u001b(B\u001b[m\u001b[K\n\u0008\u0008\u0008\u001b(B\u001b[0;4m\u001b[34mg\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.003842,
+      "\u001b[10d\u001b[J\u001b[2;16H\u001b(B\u001b[0;1;7m\u001b[33m[2]\n\u001b[5G\u001b[39m\u001b(B\u001b[0;1mTIL That the Sacramento Public Library started a \"Library of Things\"\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;1mearlier this year, allowing patrons to check out, among other things, sewing\r\n\u001b[Cmachines and other items that patrons may find useful, but don't need to own\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;1mlong-term.\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mhttp://www.sacbee.com/news/local/education/article8920145.html\r\n\u001b[C\u001b[39m\u001b(B\u001b[m6359 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 1697 comments\r\n \u001b(B\u001b[0;1mwitlessusername\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.004864,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u001b(B\u001b[0;1m2. Texas company gives all 1,381 employees $100,000 bonuses for Christmas --\r\n\u001b[Cmore than $138 million\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://knue.com/texas-company-give-every-employee-a-huge-christmas-bonus/\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5869 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 2918 comments\r\n \u001b(B\u001b[0;1mspinthecircle\u001b(B\u001b[0m\u001b[33m /r/news\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. Hello, tiny human\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/x0ZqZM6.gifv\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5711 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 18hr 1676 comments\r\n \u001b(B\u001b[0;1mnydo5571\u001b(B\u001b[0m\u001b[33m /r/gifs\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Cat photobombs a family picture\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/iuQ8vhI.png\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5716 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 957 comments\r\n \u001b(B\u001b[0;1mlinkinstreet\u001b(B\u001b[0m\u001b[33m /r/aww\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. TIL that while John and Clarence Anglin, 2 of the 3 men who ever escaped\r\n\u001b[Cfrom Alcatraz, were officially reported to have drowned in the bay, their\r\n\u001b[Cmother received flowers anonymously every Mother's Day until she died, and two\r\n\u001b[Cvery tall unknown women were reported to have attended her funeral.\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.953772,
+      "\n\n \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.499537,
+      "\u001b[11d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.031603,
+      "\u001b[17d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.028949,
+      "\n\n\u001b[4M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/John_Anglin\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m6193 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 1361 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mMeunderwears\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029463,
+      "\n\n\u001b[5M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m6. The great tumbleweed migration of 2015\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ZcSzUj6.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5769 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 1112 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mgnarsify\u001b(B\u001b[0m\u001b[33m /r/gifs\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.034949,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m7. TIL that some areas in Scotland and Japan switched to blue street lights at\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mnight and saw a decrease in crime and suicide rates.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://psychcentral.com/blog/archives/2008/12/13/can-blue-colored-light-preven\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5401 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 19hr 852 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1moutroversion\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029564,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m8. Salvador Dali at a book signing, taken with a fisheye lens, 1963\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/rvHndkr.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5375 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 351 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mMagic142\u001b(B\u001b[0m\u001b[33m /r/OldSchoolCool\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029218,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m9. Alton Brown reviews Amazon's dumbest kitchen gadgets\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=FgFeVlw2Ywg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5479 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 1439 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmercury14\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.041611,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m10. Inner Workings\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/bCDbolI.png\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5272 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 240 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mMrLovens\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[31m [Verified]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.019476,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m11. I never realized how short a month is until I started paying rent\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.Showerthoughts\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5256 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 2008 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mladyoboe\u001b(B\u001b[0m\u001b[33m /r/Showerthoughts\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030609,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m12. Patrick Stewart looks amazing at 75\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/1LWfAXW\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5223 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 2085 comments \u001b(B\u001b[0;1m\u001b[31mNSFW\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mGentlemansBumTease\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.042370,
+      "\n\n\u001b[7M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m13. Trump cancels trip to Israel after Netanyahu releases statement about\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mTrump's proposed Muslim ban, saying Israel \"respects all religions and\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mstrictly guarantees the rights of all its citizens.\"\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://abcnews.go.com/Politics/wireStory/trump-scraps-planned-trip-israel-3568\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5328 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 2464 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mdjnelly\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[31m [Israel/Palestine]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.018387,
+      "\n\n\u001b[5M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m14. My latest art purchase\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/noS2fPa\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5372 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 873 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mMcSlides\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032818,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m15. Sometimes you just wanna touch him\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/3CEDwaZ.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5213 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr 3920 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mbangmebox\u001b(B\u001b[0m\u001b[33m /r/gifs\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040424,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m16. A visual diary documenting a flight from NY to Berlin (with a stopover in\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mLondon)\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/a/IsYPU\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5193 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 422 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mJenDark\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.021341,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m17. The American Middle Class Is Losing Ground: No longer the majority and\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mfalling behind financially (direct link to source)\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://pewrsr.ch/1TBwoTq\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5133 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 4152 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcavehobbit\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029827,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m18. My single sister's very single Christmas cards. 2015 update.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/tMfbqKa\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5106 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 2225 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmacbubs\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040433,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m19. You spin my head right round, right round\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/jqpbKwD.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5044 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 794 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mlionhearth21\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.021025,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m20. Sweden's employment agency has said foreign-born residents will make up\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m60% of Sweden’s unemployed by 2017\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.thelocal.se/20151209/six-in-ten-foreign-residents-will-be-jobless-b\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4995 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 20hr 4308 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mMuslerra\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.039914,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m21. This hotel is very...accommodating\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/2g9F0AN\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4986 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 738 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1macrawf1\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.022443,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m22. Don't leave me... I can change\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/zw6yovX.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5121 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 137 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1monesister43\u001b(B\u001b[0m\u001b[33m /r/aww\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030620,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m23. Zooey Deschanel without bangs\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/O1H6gZw.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5875 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr 2341 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mholymojo96\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029841,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m24. Sixteen years and six million matches later....\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ntG5Pxr.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4950 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 274 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDIP_MY_BALLS_IN_IT\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030440,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m25. 'I fell and penetrated her by accident,' millionaire rape suspect claims\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1min court\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.independent.ie/world-news/europe/i-fell-and-penetrated-her-by-accid\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4793 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 1359 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mAFewBlackMen\u001b(B\u001b[0m\u001b[33m /r/nottheonion\u001b[31m [NB: Irritating mobile ads]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.028598,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m26. PsBattle: Jeb Bush Getting Felt-Up at a Rally\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i2.cdn.turner.com/cnnnext/dam/assets/151208182156-76-year-in-politics-2\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4881 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 701 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mBoBoLoban\u001b(B\u001b[0m\u001b[33m /r/photoshopbattles\u001b[31m [Battle]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040866,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m27. Multi-use dog\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/LrEFxBf.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5398 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 305 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mwelemal\u001b(B\u001b[0m\u001b[33m /r/gifs\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.022561,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m28. Star Wars Battlefront Real Life Mod\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=MGyaR2sSBkA\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4847 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 2572 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mTywinBanister\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.043293,
+      "\n\n\u001b[8M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m29. TIL the “Tree That Owns Itself” is a white oak tree in Athens, GA, that is\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mwidely assumed to legally own itself and the eight feet of land surrounding\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mit. According to newspapers, a deed written by Colonel William Jackson was\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mwritten to the tree, giving ownership of the land to itself in the 1800s.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/Tree_That_Owns_Itself\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4797 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 304 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDrWeeGee\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020018,
+      "\n\n\u001b[5M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m30. You smell nice.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/0JsDebh\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4741 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 96 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mseoulbandit84\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.039615,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m31. What is your golden rule?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4696 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 18hr 16863 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mPM-ME-YOUR-STORIES\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030818,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m32. Mina stampede deaths three times higher than acknowledged by Saudi\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mauthorities, up to 2,411 compared to 769 official figures\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.dawn.com/news/1225448/mina-stampede-deaths-three-times-higher-than-\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4745 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 18hr 673 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mm0ny\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029870,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m33. Granny playing Street Fighter\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/HECBFtS.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4802 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 272 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mZe-skywalker\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020298,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m34. I'm raising a wolf as an animal ambassador. He likes to smile for the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcamera.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/BqaAlM6\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4658 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 518 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mtheproblemofthepast\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.038765,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m35. Striking Apollo 15 Earth Photo\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/bVCiOwK.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4661 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 22hr 182 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mAppleYogi\u001b(B\u001b[0m\u001b[33m /r/space\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.022159,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m36. LPT: Don't ask someone who is grieving to call if they need anything. You\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mshould take the initiative.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.LifeProTips\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4577 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 921 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDeepBoil\u001b(B\u001b[0m\u001b[33m /r/LifeProTips\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030193,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m37. People who can't say no, what is the worst thing you ended up doing for\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1msomeone?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4543 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 6977 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1msznelly31\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030448,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m38. How America is actually viewed\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://i.imgur.com/zF2rd4q.gif\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4649 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 791 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mdoughnut_cat\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.028273,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m39. ‘Nathan For You’ Gets Fourth Season From Comedy Central\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://variety.com/2015/tv/news/nathan-for-you-fourth-season-nathan-fielder-co\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4479 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 1114 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mdangzal\u001b(B\u001b[0m\u001b[33m /r/television\u001b[31m [/r/all]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.027173,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m40. Norwegian Forest Cat chasing a Fox\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://41.media.tumblr.com/523f22f99934ec33cf424343d9b7845f/tumblr_mz493tUfS21\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4801 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr 286 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mhkh25\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.042126,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m41. Wu Tang's $2 million album has a clause where they or Bill Murray can\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1msteal it back\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://pigeonsandplanes.com/2015/12/wu-tang-bill-murray-steal-album/\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4396 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 1068 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mgiesashot\u001b(B\u001b[0m\u001b[33m /r/Music\u001b[31m [article/misleading]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030436,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m42. Made my husband a fallout 4 inspired pipe rifle for Christmas (x-post from\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mfo4)\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://i.imgur.com/wp72lvZ.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4451 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 21hr 765 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mthesmonster\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.022684,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m43. Want to know about cars? Here's a website that gives details of every part\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mof a car with detailed pictures\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.howacarworks.com/\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4644 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 277 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mAmmar-The-Star\u001b(B\u001b[0m\u001b[33m /r/InternetIsBeautiful\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.026356,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m44. Don't worry, I got this.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/mAQPgXg.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4410 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 136 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mIamSomeoneOnReddit\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032700,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m45. I am Jon Snow, British journalist and newscaster. AMA\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.IAmA\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4373 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 3944 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mjonsnowc4\u001b(B\u001b[0m\u001b[33m /r/IAmA\u001b[31m [Journalist]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030437,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m46. This hotel proudly serves Starbucks hot water\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://m.imgur.com/0OmGh7y\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4466 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 360 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1myouronemanarmy\u001b(B\u001b[0m\u001b[33m /r/mildlyinteresting\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029716,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m47. 2015 summed up in one amazing illustration\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/OtA1oQM.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4582 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 10hr 624 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mpeanutpickle10\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[31m [R1: Text/Comic/Infographic]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.039369,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m48. Waves break with thunderous force high over the rocky shores below the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mpeaks of Torres Del Paine near sunset. [1800x1185] Photo by Marc Adamus\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://1x.com/images/user/ee2b00e113348d1e4bdbad43b5884ee6-hd2.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4389 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 144 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDaHitcha\u001b(B\u001b[0m\u001b[33m /r/EarthPorn\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020729,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m49. About 8 years of progress\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/QY0DzaU.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4328 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 335 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mnoahbradley\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040531,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m50. Real life lag\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/9VhygTH.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4292 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 216 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mlionhearth21\u001b(B\u001b[0m\u001b[33m /r/gifs\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020704,
+      "\n\n\u001b[7M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m51. TIL: Mobile users in poor countries can access Wikipedia articles without\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mdata charges thanks to 'Wikipedia Zero'. It's currently operating in 34\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcountries.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://wikimediafoundation.org/wiki/Wikipedia_Zero\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4306 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 19hr 234 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1moutroversion\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.038606,
+      "\n\n\u001b[5M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m52. Animal kingdom fact of the day\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/TUuDBCX\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4242 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 134 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDaftScholar\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020596,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m53. Getting gymnasty\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/kfK32Gb.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4264 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 169 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mSkidMark_wahlberg\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030355,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m54. So there's an 'Ultra Imersive 4K Nicolas Cage Moon' mod for Fallout 4\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/8KC6QRC.png\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4300 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 84 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmigraine_boy\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.042253,
+      "\n\n\u001b[7M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m55. A Canadian ISP has received a public backlash after posting a list on its\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mFacebook page of 25 subscriber names who had not paid their overdue bills, in\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1morder to publicly shame them into paying\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.ibtimes.co.uk/canadian-isp-uses-facebook-shame-non-paying-customers\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4466 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 577 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmaxwellhill\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020101,
+      "\n\n\u001b[5M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m56. This is my own personal puss in boots (without the boots)\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/LsmMAhB.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4275 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 76 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mpesaru\u001b(B\u001b[0m\u001b[33m /r/aww\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031708,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m57. TIL that after hearing the Slim Shady EP, Dr Dre told his staff \"Find him.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mNow\"\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/w/index.php?title=Eminem\u0026mobileaction=toggle_view_des\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4087 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 1843 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mwillyb321\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031211,
+      "\n\n\u001b[8M\u001b[17d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m58. El Chapo tells ISIS his men will destroy them: The world’s most wanted\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mdrug lord has declared war on the Islamic State, promising the terror group’s\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mleader, Abu Bakr al-Baghdadi, that his narcotics cartel will wipe them off the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mplanet.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://nypost.com/2015/12/10/el-chapo-tells-isis-his-men-will-destroy-them/\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4489 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 1740 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m62FenderJazz\u001b(B\u001b[0m\u001b[33m /r/news\u001b[31m [Misleading article]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.042471,
+      "\n\n\u001b[5M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m59. Someone bought an Australian cat\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://i.imgur.com/QlmW4aC.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4082 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 199 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mgrisigt\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.018665,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m60. Best Buy installed a Bosch dishwasher that shocks you when touched. Here,\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mI use a voltage meter and it shows voltage inches away from the dishwasher.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://youtu.be/nDSEYr1emjo\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4016 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 1122 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mowuaarontsi\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[31m [Misleading Title]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030102,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m61. TIFU By holding a door open for a female co-worker.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.tifu\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4006 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 2630 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mEnchantedblackbox\u001b(B\u001b[0m\u001b[33m /r/tifu\u001b[31m [S]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031159,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m62. Meet my upstairs neighbour\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/aikciAe.gif\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3991 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 18hr 1744 comments \u001b(B\u001b[0;1m\u001b[33m✪\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1moutroversion\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029211,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m63. 'Zootopia' Official Spoof Posters\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/a/fZJ7x\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4037 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 637 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mfilmfanatic5\u001b(B\u001b[0m\u001b[33m /r/movies\u001b[31m [Poster]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030012,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m64. I have waited for an entire year to post this.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/a/3aksr\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4011 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 182 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmdegroat\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040616,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m65. did not see that coming\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/IFq5bYJ.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4288 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 10hr 97 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m-sdegutis-\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020481,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m66. The bestest of buddies\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ScXY5al.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3977 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 137 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mTopdeBotton\u001b(B\u001b[0m\u001b[33m /r/aww\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032208,
+      "\n\n\u001b[8M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m67. Science AMA series: I´m Guillermo Velasco, Associate Professor of\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mBiochemistry at Complutense University in Madrid, Spain. I do research on the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1manticancer activity of Cannabis and its derivatives and I am here to talk\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mabout it. AMA!\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.science\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3676 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 446 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mGuillermo_Velasco\u001b(B\u001b[0m\u001b[33m /r/science\u001b[31m [Cannabinoid AMA]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.037573,
+      "\n\n\u001b[5M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m68. TV these days.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/CB6CPsg.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4363 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 375 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mj3obby\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.023490,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m69. Bill Burr makes a homemade pie crust\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://youtu.be/LoWCMzHWlRk\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4047 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 10hr 491 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mHeywoodUCuddlemee\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030303,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m70. I didn't feel like having a Christmas tree this year, so I just hung a few\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mornaments instead.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/6SyPkDM\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4733 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr 270 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mCalexandria\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030044,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m71. ELI5: What is the Every Student Succeeds Act? What does it want to change\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1min K-12 education and how is it better than No Child Left Behind?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.explainlikeimfive\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3736 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 973 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mQuick_DrawMcGraw\u001b(B\u001b[0m\u001b[33m /r/explainlikeimfive\u001b[31m [Explained]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.038904,
+      "\n\n\u001b[8M\u001b[17d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m72. TIL In November 1994, Tim Allen starred in the highest grossing film,\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDisney's \"The Santa Clause\", topped the New York Times best-seller list with\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mhis book \"Don't Stand Too Close to a Naked Man\" and appeared in the top rated\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mTV series \"Home Improvement\", all within the span of one week.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/Tim_Allen#Career\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3644 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 433 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m080087\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.021772,
+      "\n\n\u001b[6M\u001b[17d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m73. TIL most color laser printers sold today create an invisible code that\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mrecords where and when a page was printed.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.seeingyellow.com\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3550 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 19hr 466 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mAllPurposeGrunt\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.040783,
+      "\n\n\u001b[6M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m74. Two detained in Finland over ISIS executions - suspected of murdering 11\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mon video\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://yle.fi/uutiset/two_detained_in_finland_over_isis_executions_in_tikrit/8\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3554 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 503 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mHurrican3\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[31m [Syria/Iraq]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031189,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m75. How a lot of people see America.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/lLB3XlA\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3378 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 23hr 1335 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mericaxsteeber\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.022523,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m76. Millennials Want To Send Troops To Fight ISIS, But Don't Want To Serve\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.npr.org/2015/12/10/459111960/millennials-want-to-send-troops-to-fig\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3521 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 1973 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mScoundroul\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030721,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m77. Risk of being killed by police is 16 times greater for those with mental\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1millness\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.theguardian.com/us-news/2015/dec/10/risk-of-being-killed-by-police-\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3318 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 559 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mSariel007\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.039173,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m78. My dog can't howl but it's hilarious to watch him try\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=3LvZUtupOCs\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3266 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 22hr 194 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mthe_glass_gecko\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031755,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m79. Mysterious hackers attempting to bring down entire internet by DDoS-ing\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcritical servers\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.ibtimes.co.uk/mysterious-hackers-are-trying-bring-down-entire-inter\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3554 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 791 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmaxwellhill\u001b(B\u001b[0m\u001b[33m /r/worldnews\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.019501,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m80. Whales Born before 'Moby Dick' in 1851 Still Cruising the Ocean Today\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.adaptnetwork.com/environment-nature/whales-born-before-moby-dick-cr\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3840 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 301 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mBenAdapt\u001b(B\u001b[0m\u001b[33m /r/UpliftingNews\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029617,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m81. Made a Pizza today\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/gallery/iIulF\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3109 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 18hr 226 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mhazmic\u001b(B\u001b[0m\u001b[33m /r/food\u001b[31m [Pizza]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.039959,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m82. How people actually see America\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/GD7ak5C.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2998 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 4280 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mPikaXeD\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.019664,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m83. Nailed It [Just Cause 3]\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://gfycat.com/WarmColorfulJackal\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m4023 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 285 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mlesi20\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030301,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m84. Police Officer Removing A Poster Of Trump\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/vqps5NP.png\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3310 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 321 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mNoerdy\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030348,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m85. USA has more people behind bars than any other country 2.2 million\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mincarcerated\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.cbsnews.com/news/kim-segal-life-as-a-public-defender-21/\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3009 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 836 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mSegalk\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030365,
+      "\n\n\u001b[8M\u001b[17d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m86. TIL that in Japan, avid golfers buy insurance to protect themselves on the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcourse. They purchase it because if they get a hole-in-one, they have to buy\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mgifts and drinks for their friends. The policy covers them for a party worth\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mup to $3,000, for the low price of $65 a year.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://niume.com/pages/post/index.php?postID=26036\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3386 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 177 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mSofiaGold\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030487,
+      "\n\n\u001b[5M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m87. why was the 6 month old African baby crying?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.Jokes\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2918 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 19hr 436 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mCokeSniffa\u001b(B\u001b[0m\u001b[33m /r/Jokes\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030604,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m88. Concrete Propane-Fueled Fire Table made from an Ikea Lamp\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/gallery/6xBXf\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3047 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 316 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mryspot\u001b(B\u001b[0m\u001b[33m /r/DIY\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030490,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m89. Jesus - no name is higher.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/RjLQQgP\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3549 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr 81 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcraigstone_\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.041320,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m90. What is a ho?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=KoPFkjF-Bdo\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2985 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 343 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mAtticusWolfstein\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020408,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m91. The first plasma: the Wendelstein 7-X fusion device is now in operation\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.ipp.mpg.de/3984226/12_15\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2935 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 515 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mArzu1982\u001b(B\u001b[0m\u001b[33m /r/Futurology\u001b[31m [article]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.042201,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m92. [Image] Don't Be Average\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ZQviCRD.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2685 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 1215 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mledgendary\u001b(B\u001b[0m\u001b[33m /r/GetMotivated\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.016865,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m93. Sweet sweet karma\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/A6hggA2.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3513 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 123 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcakebeerandmorebeer\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.041028,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m94. Real life lag\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://imgur.com/9VhygTH.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2787 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 15hr 81 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mlionhearth21\u001b(B\u001b[0m\u001b[33m /r/funny\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.020514,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m95. Archery with feet\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.gyfbin.com/2015/12/hriy.gif.html\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2771 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 405 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mbloomxx\u001b(B\u001b[0m\u001b[33m /r/sports\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032275,
+      "\n\n\u001b[8M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m96. TIL that in 1944, the British conceived a plan to assassinate Hitler while\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mhe was staying at his vacation residence. However, they ultimately decided\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1magainst it as Hitler was such a poor strategist at that stage that they\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mbelieved whoever replaced him would do a better job of fighting the Allies.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://en.wikipedia.org/wiki/Operation_Foxley#Sniper_attack_plan\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m3148 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr 273 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1meoinirl\u001b(B\u001b[0m\u001b[33m /r/todayilearned\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029195,
+      "\n\n\u001b[7M\u001b[16d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m97. If you drop your a phone or something else with a glass screen and the\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mscreen doesn't crack, does it have a higher chance of shattering the next time\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1myou drop it?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.askscience\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2934 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 452 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mwtricht\u001b(B\u001b[0m\u001b[33m /r/askscience\u001b[31m [Chemistry]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032039,
+      "\n\n\u001b[6M\u001b[18d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m98. The Martian is Barack Obama's favourite film of 2015, While the first lady\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mopted for Inside Out\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.theguardian.com/film/2015/dec/10/the-martian-barack-obama-film-of-2\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2497 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 17hr 1604 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mPanAfrica\u001b(B\u001b[0m\u001b[33m /r/movies\u001b[31m [News]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.028949,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m99. The progression of my candy dish at my desk at work over a week\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ei39nCZ.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2734 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 241 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mprichardson154\u001b(B\u001b[0m\u001b[33m /r/pics\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031163,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m100. What are some bad things about Bernie Sanders?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2515 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 23hr 4848 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1myeswekhan\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.532106,
+      "\u001b[14;27H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;27H\u001b(0\u001b[0mx\u001b(BLoading more submissions   \u001b(0\u001b[0mx\u001b(B\u001b[16;27H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405225,
+      "."
+    ],
+    [
+      0.404877,
+      "."
+    ],
+    [
+      0.406165,
+      "."
+    ],
+    [
+      0.456239,
+      "\r\u001b[A\u001b[K\u001b[15;27H\u001b(B\u001b[0;1m Obama's favourite film of 20\u001b[16;27H\u001b(B\u001b[m\u001b[K\r\u001b[26d \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.004731,
+      "\n\n\u001b[5M\u001b[26d\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m101. Can anyone help this man find a 1 handed controller?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=3an-biIusTw\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2691 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 257 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mHegarz\u001b(B\u001b[0m\u001b[33m /r/gaming\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.588698,
+      "\n\n\u001b[7M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m102. “The more bits you use, the more you pay”: Comcast CEO justifies data\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mcaps. Unfortunately, usage-based billing only works one way: in Comcast's\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mfavor.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://arstechnica.com/business/2015/12/the-more-bits-you-use-the-more-you-pay\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2597 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 341 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mmagenta_placenta\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.237712,
+      "\n\n\u001b[5M\u001b[19d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m103. One of the saddest videos on the internet.\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://youtu.be/wK7GSARUs_Q?t=3m27s\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2586 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 303 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mGitnerd\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.197660,
+      "\n\n\u001b[5M\u001b[21d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m104. Meat fest...... Vegans come dine with us\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/kjfZbqy.gifv\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2566 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 418 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mthunderbattlesaga\u001b(B\u001b[0m\u001b[33m /r/gifs\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.179888,
+      "\n\n\u001b[6M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m105. Woman gets 18 months probation for shooting at shoplifters - “I tried to\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mhelp, and I learned my lesson that I will never help anybody again,”\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.fox2detroit.com/news/local-news/56608868-story\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2595 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 13hr 1174 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mGates9\u001b(B\u001b[0m\u001b[33m /r/news\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.187819,
+      "\n\n\u001b[5M\u001b[20d \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m106. One of Paul Rudd's best scenes [NSFW]\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://youtu.be/4utAnqqfLEw\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2613 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr 219 comments \u001b(B\u001b[0;1m\u001b[31mNSFW\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mtrekkiebiomed\u001b(B\u001b[0m\u001b[33m /r/videos\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.605521,
+      "\u001b[20d\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.188313,
+      "\u001b[15d\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.188371,
+      "\u001b[10d\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.179167,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.188759,
+      "\n\n\u001b[5L\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m101. Can anyone help this man find a 1 handed controller?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=3an-biIusTw\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2691 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 257 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mHegarz\u001b(B\u001b[0m\u001b[33m /r/gaming\r\n\n\u001b[39m\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.198284,
+      "\n\n\u001b[5L\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m100. What are some bad things about Bernie Sanders?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2515 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 23hr 4848 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1myeswekhan\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[39m\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.218330,
+      "\n\n\u001b[5L\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m99. The progression of my candy dish at my desk at work over a week\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ei39nCZ.jpg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2734 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 241 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mprichardson154\u001b(B\u001b[0m\u001b[33m /r/pics\r\n\n\u001b[39m\u001b(B\u001b[m \n\u0008 \n\u0008 \n\u0008 \u001b[H"
+    ],
+    [
+      0.317382,
+      "\n\n \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.821359,
+      "\u001b[14;33H\u001b(0\u001b[0mlqqqqqqqqqqqqqk\u001b(B\u001b[15;33H\u001b(0\u001b[0mx\u001b(BNot logged in\u001b(0\u001b[0mx\u001b(B\u001b[16;33H\u001b(0\u001b[0mmqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      2.069387,
+      "\u001b[14;33H\u001b(B\u001b[0;4m\u001b[34m=3an-biIusTw\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[15;33H\u001b[K\n\u001b[K\u001b[H"
+    ],
+    [
+      0.384285,
+      "\u001b[14;28H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;28H\u001b(0\u001b[0mx\u001b(BRedirecting to reddit   \u001b(0\u001b[0mx\u001b(B\u001b[16;28H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.404966,
+      "."
+    ],
+    [
+      0.406458,
+      "."
+    ],
+    [
+      0.405157,
+      "\u001b[14;28H\u001b(B\u001b[0;4m\u001b[34mtch?v=3an-biIusTw\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[15;28Hs\u001b[K\n\u0008\u001b[K\u001b[H"
+    ],
+    [
+      0.001525,
+      "\u001b[30;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.029731,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[30;1HOpening\u001b[Csocket...\u001b[1;1H"
+    ],
+    [
+      0.869517,
+      "\u001b[30;1Hwww.reddit.com contacted.\u001b[CWaiting\u001b[Cfor\u001b[Creply...\u001b[1;1H"
+    ],
+    [
+      0.192479,
+      "\u001b[30;16H\u001b[K\u001b[30;1HHTTP/1.1 200 OK\u001b[1;1H"
+    ],
+    [
+      0.006029,
+      "\u001b[30;1H\u001b[K7.24/3.66kb 198%\u001b[30;43H\u001b[7m |||||||||||||||||||||||||||||||||||||\u001b[0m\u001b[30;81H"
+    ],
+    [
+      0.003223,
+      "\u001b[1;1H\u001b[4m\u001b[32m reddit.\u001b[39;49m\u001b[0m\u001b[3;1H\u001b[1mpermission\u001b[0m\u001b[5;1H\u001b[34m  \u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "\r\u001b[34mcivilization_phaze_3\u001b[39;49m\u001b[0m\u001b[C(\u001b[1m229\u001b[0m)\r\n\r\u001b[34msubreddits\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\r\u001b[34msubmit\u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\r\u001b[34mlogout\u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "\r\u001b[34msearch\u001b[39;49m\u001b[0m\u001b[11;2H\u001b[32mReddit T\u001b[39;49m\u001b[0m\u001b[13;1H\u001b[1m\u001b[34mReddit Terminal Viewer\u001b[39;49m\u001b[0m\u001b[1m  requests to connect with your reddit account.\u001b[0m\u001b[15;1H\u001b[1mAllow Reddit Terminal Viewer  to:\u001b[0m\u001b[17;3H•\u001b[CManage\u001b[Cmy\u001b[Csubreddit\u001b[Csubscriptions.\u001b[CManage\u001b[C\"friends\"\u001b[C-\u001b[Cusers\u001b[Cwhose\u001b[Ccontent\u001b[CI\u001b[18;5Hfollow.\u001b[19;3H•\u001b[CEdit\u001b[Cand\u001b[Cdelete\u001b[Cmy\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[20;3H•\u001b[CSubmit\u001b[Cand\u001b[Cchange\u001b[Cmy\u001b[Cvotes\u001b[Con\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[21;3H•\u001b[CAccess\u001b[Cthe\u001b[Clist\u001b[Cof\u001b[Csubreddits\u001b[CI\u001b[Cmoderate,\u001b[Ccontribute\u001b[Cto,\u001b[Cand\u001b[Csubscribe\u001b[Cto.\u001b[22;3H•\u001b[CAccess\u001b[Cmy\u001b[Cinbox\u001b[Cand\u001b[Csend\u001b[Cprivate\u001b[Cmessages\u001b[Cto\u001b[Cother\u001b[Cusers.\u001b[23;3H•\u001b[CAccess\u001b[Cposts\u001b[Cand\u001b[Ccomments\u001b[Cthrough\u001b[Cmy\u001b[Caccount.\u001b[24;3H•\u001b[CSubmit\u001b[Clinks\u001b[Cand\u001b[Ccomments\u001b[Cfrom\u001b[Cmy\u001b[Caccount.\u001b[25;3H•\u001b[CReport\u001b[Ccontent\u001b[Cfor\u001b[Crules\u001b[Cviolations.\u001b[CHide\u001b[C\u0026\u001b[Cshow\u001b[Cindividual\u001b[Csubmissions.\u001b[26;3H•\u001b[CSave\u001b[Cand\u001b[Cunsave\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[27;3H•\u001b[CAccess\u001b[Cmy\u001b[Creddit\u001b[Cuse"
+    ],
+    [
+      0.000046,
+      "rname\u001b[Cand\u001b[Csignup\u001b[Cdate.\u001b[28;3H•\u001b[CAccess\u001b[Cmy\u001b[Cvoting\u001b[Chistory\u001b[Cand\u001b[Ccomments\u001b[Cor\u001b[Csubmissions\u001b[CI've\u001b[Csaved\u001b[Cor\u001b[Chidden.\u001b[29;3H•\u001b[CMaintain\u001b[Cthis\u001b[Caccess\u001b[Cindefinitely\u001b[C(or\u001b[Cuntil\u001b[Cmanually\u001b[Crevoked).\u001b[30;1H\u001b[K\u001b[7m≪ ↑ ↓ Viewing[SSL] \u003creddit.com: request for permission\u003e\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.000060,
+      "\u001b[?1001s"
+    ],
+    [
+      0.000010,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000008,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000021,
+      "\u001b[?1001r"
+    ],
+    [
+      0.000030,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      0.200361,
+      "\u001b[1;1H\u001b[4m\u001b[32m \u001b[39;49m\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.000010,
+      "\u001b[30;18H\u001b[K\u001b[30;1H1/2 images loaded\u001b[1;1H"
+    ],
+    [
+      0.823370,
+      "\u001b[?1006l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      0.007359,
+      "\u001b[30;1H\u001b[K7.24/3.66kb 198% \u001b[30;43H\u001b[7m |||||||||||||||||||||||||||||||||||||\u001b[0m\u001b[30;81H"
+    ],
+    [
+      0.009728,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.007234,
+      "\u001b[H\u001b[2J\u001b[1;1H\u001b[1mpermission\u001b[0m\u001b[3;1H\u001b[34m  \u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n\r\u001b[34mcivilization_phaze_3\u001b[39;49m\u001b[0m\u001b[C(\u001b[1m229\u001b[0m)\r\n\r\u001b[34msubreddits\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\r\u001b[34msubmit\u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\r\u001b[34mlogout\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000219,
+      "\r\u001b[34msearch\u001b[39;49m\u001b[0m\u001b[9;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[10;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[11;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[12;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[13;2H\u001b[32mReddit Ter\u001b[39;49m\u001b[0m\u001b[15;1H\u001b[1m\u001b[34mReddit Terminal Viewer\u001b[39;49m\u001b[0m\u001b[1m  requests to connect with your reddit account.\u001b[0m\u001b[17;1H\u001b[1mAllow Reddit Terminal Viewer  to:\u001b[0m\u001b[19;3H•\u001b[CManage\u001b[Cmy\u001b[Csubreddit\u001b[Csubscriptions.\u001b[CManage\u001b[C\"friends\"\u001b[C-\u001b[Cusers\u001b[Cwhose\u001b[Ccontent\u001b[CI\u001b[20;5Hfollow.\u001b[21;3H•\u001b[CEdit\u001b[Cand\u001b[Cdelete\u001b[Cmy\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[22;3H•\u001b[CSubmit\u001b[Cand\u001b[Cchange\u001b[Cmy\u001b[Cvotes\u001b[Con\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[23;3H•\u001b[CAccess\u001b[Cthe\u001b[Clist\u001b[Cof\u001b[Csubreddits\u001b[CI\u001b[Cmoderate,\u001b[Ccontribute\u001b[Cto,\u001b[Cand\u001b[Csubscribe\u001b[Cto.\u001b[24;3H•\u001b[CAccess\u001b[Cmy\u001b[Cinbox\u001b[Cand\u001b[Csend\u001b[Cprivate\u001b[Cmessages\u001b[Cto\u001b[Cother\u001b[Cusers.\u001b[25;3H•\u001b[CAccess\u001b[Cposts\u001b[Cand\u001b[Ccomments\u001b[Cthrough\u001b[Cmy\u001b[Caccount.\u001b[26;3H•\u001b[CSubmit\u001b[Clinks\u001b[Cand\u001b[Ccomments\u001b[Cfrom\u001b[Cmy\u001b[Caccount.\u001b[27;3H•\u001b[CReport\u001b[Ccontent\u001b[Cfor\u001b[Crules\u001b[Cviolations.\u001b[CHide\u001b[C\u0026\u001b"
+    ],
+    [
+      0.000053,
+      "[Cshow\u001b[Cindividual\u001b[Csubmissions.\u001b[28;3H•\u001b[CSave\u001b[Cand\u001b[Cunsave\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[29;3H•\u001b[CAccess\u001b[Cmy\u001b[Creddit\u001b[Cusername\u001b[Cand\u001b[Csignup\u001b[Cdate.\u001b[30;1H\u001b[7m≪ ↑ ↓ Viewing[SSL] \u003creddit.com: request for permission\u003e\u001b[0m\u001b[25;1H"
+    ],
+    [
+      0.009201,
+      "\u001b[25;1H \u001b[25;1H\u001b[?1001s\u001b[?1000h\u001b[?1000l\u001b[?1001r\u001b[?1001s\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      0.522465,
+      "\u001b[?1006l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      0.000748,
+      "\u001b[H\u001b[2J\u001b[1;1H\u001b[34mlogout\u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "\r\u001b[34msearch\u001b[39;49m\u001b[0m\u001b[3;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[4;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[5;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[6;2H\u001b[32m          \u001b[39;49m\u001b[0m\u001b[7;2H\u001b[32mReddit Ter\u001b[39;49m\u001b[0m\u001b[9;1H\u001b[1m\u001b[34mReddit Terminal Viewer\u001b[39;49m\u001b[0m\u001b[1m  requests to connect with your reddit account.\u001b[0m\u001b[11;1H\u001b[1mAllow Reddit Terminal Viewer  to:\u001b[0m\u001b[13;3H•\u001b[CManage\u001b[Cmy\u001b[Csubreddit\u001b[Csubscriptions.\u001b[CManage\u001b[C\"friends\"\u001b[C-\u001b[Cusers\u001b[Cwhose\u001b[Ccontent\u001b[CI\u001b[14;5Hfollow.\u001b[15;3H•\u001b[CEdit\u001b[Cand\u001b[Cdelete\u001b[Cmy\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[16;3H•\u001b[CSubmit\u001b[Cand\u001b[Cchange\u001b[Cmy\u001b[Cvotes\u001b[Con\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[17;3H•\u001b[CAccess\u001b[Cthe\u001b[Clist\u001b[Cof\u001b[Csubreddits\u001b[CI\u001b[Cmoderate,\u001b[Ccontribute\u001b[Cto,\u001b[Cand\u001b[Csubscribe\u001b[Cto.\u001b[18;3H•\u001b[CAccess\u001b[Cmy\u001b[Cinbox\u001b[Cand\u001b[Csend\u001b[Cprivate\u001b[Cmessages\u001b[Cto\u001b[Cother\u001b[Cusers.\u001b[19;3H•\u001b[CAccess\u001b[Cposts\u001b[Cand\u001b[Ccomments\u001b[Cthrough\u001b[Cmy\u001b[Caccount.\u001b[20;3H•\u001b[CSubmit\u001b[Clinks\u001b[Cand\u001b[Ccomments\u001b[Cfrom\u001b[Cmy\u001b[Caccount.\u001b[21;3H•\u001b[CReport\u001b[Ccontent\u001b[Cfor\u001b[Crules\u001b[Cviolations.\u001b[CHide\u001b[C\u0026\u001b[Csho"
+    ],
+    [
+      0.000077,
+      "w\u001b[Cindividual\u001b[Csubmissions.\u001b[22;3H•\u001b[CSave\u001b[Cand\u001b[Cunsave\u001b[Ccomments\u001b[Cand\u001b[Csubmissions.\u001b[23;3H•\u001b[CAccess\u001b[Cmy\u001b[Creddit\u001b[Cusername\u001b[Cand\u001b[Csignup\u001b[Cdate.\u001b[24;3H•\u001b[CAccess\u001b[Cmy\u001b[Cvoting\u001b[Chistory\u001b[Cand\u001b[Ccomments\u001b[Cor\u001b[Csubmissions\u001b[CI've\u001b[Csaved\u001b[Cor\u001b[Chidden.\u001b[25;3H•\u001b[CMaintain\u001b[Cthis\u001b[Caccess\u001b[Cindefinitely\u001b[C(or\u001b[Cuntil\u001b[Cmanually\u001b[Crevoked).\u001b[27;1H\u001b[1mReddit Terminal Viewer\u001b[0m\u001b[27;25Hwill\u001b[Cnot\u001b[Cbe\u001b[Cable\u001b[Cto\u001b[Caccess\u001b[Cyour\u001b[Creddit\u001b[Cpassword.\u001b[29;1H\u001b[31m[Allow][Decline]\u001b[39;49m\u001b[0m\u001b[30;1H\u001b[7m≪ ↑ ↓ Viewing[SSL] \u003creddit.com: request for permission\u003e\u001b[0m\u001b[19;1H"
+    ],
+    [
+      0.007814,
+      "\u001b[19;1H \u001b[19;1H\u001b[?1001s\u001b[?1000h\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      0.000016,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      0.634945,
+      "\u001b[?1006l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      0.000097,
+      "\u001b[29;1H"
+    ],
+    [
+      0.000133,
+      "\u001b[29;1H\u001b[31m[\u001b[39;49m\u001b[0m\u001b[29;1H\u001b[?1001s"
+    ],
+    [
+      0.000008,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000006,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000033,
+      "\u001b[?1001r"
+    ],
+    [
+      0.000008,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      1.707744,
+      "\u001b[?1006l\u001b[?1000l\u001b[?1001r\u001b[30;26H\u001b[K\u001b[30;1Hloading /api/v1/authorize\u001b[1;1H\u001b[30;18H\u001b[K\u001b[30;1HOpen\u001b[30;9Hsocket...\u001b[1;1H"
+    ],
+    [
+      0.241560,
+      "\u001b[30;1Hwww.reddit.com contacted.\u001b[CWaiting\u001b[Cfor\u001b[Creply...\u001b[1;1H"
+    ],
+    [
+      0.245544,
+      "\u001b[30;19H\u001b[K\u001b[30;1HHTTP/1.1 302 Found\u001b[1;1H"
+    ],
+    [
+      0.000295,
+      "\u001b[30;18H\u001b[K\u001b[30;1HOpening socket...\u001b[1;1H"
+    ],
+    [
+      0.000329,
+      "\u001b[30;1H127.0.0.1 \u001b[Con\u001b[Cacted.\u001b[CWaiting\u001b[Cfor\u001b[Creply...\u001b[1;1H"
+    ],
+    [
+      0.008040,
+      "\u001b[30;16H\u001b[K\u001b[30;1HHTTP/1.1 200 OK\u001b[1;1H"
+    ],
+    [
+      0.001260,
+      "\u001b[H\u001b[2J\u001b[1;1H\u001b[1mAccess Granted\u001b[0m\u001b[3;1H━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[5;1HReddit\u001b[CTerminal\u001b[CViewer\u001b[Cwill\u001b[Cnow\u001b[Clog\u001b[Cin,\u001b[Cyou\u001b[Ccan\u001b[Cclose\u001b[Cthis\u001b[Cwindow.\u001b[7;1HView\u001b[Cthe\u001b[C\u001b[34mDocumentation\u001b[39;49m\u001b[0m\u001b[30;1H\u001b[7m≪ ↑ ↓ Viewing \u003cRTV OAuth2 Helper\u003e\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.000016,
+      "\u001b[?1001s\u001b[?1000h"
+    ],
+    [
+      0.000008,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000029,
+      "\u001b[?1001r"
+    ],
+    [
+      0.000007,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      1.797154,
+      "\u001b[?1006l\u001b[?1000l\u001b[?1001r\u001b[30;1H\u001b[K\u001b[30;1H\u001b[39;49m\u001b[0m\u001b[?1049l\u001b[27m"
+    ],
+    [
+      0.001064,
+      "\u001b[?1049h\u001b[1;30r\u001b[?25l\u001b[39;49m\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2J\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                                      \u001b[2;1H\u001b(B\u001b[0;1m\u001b[33m[1]hot         \u001b(B\u001b[0;1;7m\u001b[33m[2]\u001b(B\u001b[0;1m\u001b[33mtop         [3]rising         [4]new         [5]controversial\u001b[K\r\n\u001b[C\u001b[39m99. The progression of my candy dish at my desk at work over a week\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://i.imgur.com/ei39nCZ.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2734 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 241 comments\r\n \u001b(B\u001b[0;1mprichardson154\u001b(B\u001b[0m\u001b[33m /r/pics\r\n\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m100. What are some bad things about Bernie Sanders?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2515 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 23hr 4848 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1myeswekhan\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m101. Can anyone help this man find a 1 handed controller?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://www.youtube.com/watch?v=3an-biIusTw\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2691 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr 257 comments\r\n \u001b(B\u001b[0;1mHegarz\u001b(B\u001b[0m\u001b[33m /r/gaming\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m102. “The more bits you use, the more you pay”: Comcast CEO justifies data\r\n\u001b[Ccaps. Unfortunately, usage-based billing only works one way: in Comcast's\r\n\u001b[Cfavor.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://arstechnica.com/business/2015/12/the-more-bits-you-use-the-more-you-pay\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2597 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 14hr 341 comments\r\n \u001b(B\u001b[0;1mmagenta_placenta\u001b(B\u001b[0m\u001b[33m /r/news\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m103. One of the saddest videos on the internet.\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://youtu.be/wK7GSARUs_Q?t=3m27s\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2586 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 16hr 303 comments\r\n \u001b(B\u001b[0;1mGitnerd\u001b(B\u001b[0m\u001b[33m /r/videos\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m104. Meat fest...... Vegans come dine with us\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.001008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.507165,
+      "\u001b[14;34H\u001b(0\u001b[0mlqqqqqqqqqqqqqk\u001b(B\u001b[15;34H\u001b(0\u001b[0mx\u001b(BLogging in   \u001b(0\u001b[0mx\u001b(B\u001b[16;34H\u001b(0\u001b[0mmqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405180,
+      "."
+    ],
+    [
+      0.404684,
+      "."
+    ],
+    [
+      0.406164,
+      "."
+    ],
+    [
+      0.404882,
+      "\u0008\u0008\u0008   \u0008\u0008\u0008"
+    ],
+    [
+      0.404445,
+      "."
+    ],
+    [
+      0.404602,
+      "."
+    ],
+    [
+      0.406381,
+      "."
+    ],
+    [
+      0.406129,
+      "\u001b[14;34H\u001b(B\u001b[0;4m\u001b[34m3an-biIusTw\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[15;34H\u001b[K\n\u001b[K\u001b[H"
+    ],
+    [
+      0.000779,
+      "\u001b[14;25H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;25H\u001b(0\u001b[0mx\u001b(BWelcome civilization_phaze_3!\u001b(0\u001b[0mx\u001b(B\u001b[16;25H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      1.017650,
+      "\u001b[14;25H\u001b(B\u001b[0;4m\u001b[34m/watch?v=3an-biIusTw\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[15;25Hents\u001b[K\n\u0008\u0008\u0008\u0008\u001b[K\u001b[H\u001b[1;60H\u001b(B\u001b[0;1;7m\u001b[36mcivilization_phaze_3\r\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.665281,
+      "\u001b[14;28H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;28H\u001b(0\u001b[0mx\u001b(BLoading subscriptions   \u001b(0\u001b[0mx\u001b(B\u001b[16;28H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405024,
+      "."
+    ],
+    [
+      0.404881,
+      "."
+    ],
+    [
+      0.441598,
+      "\u001b[14;28H\u001b(B\u001b[0;4m\u001b[34mtch?v=3an-biIusTw\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[15;28Hs\u001b[K\n\u0008\u001b[K\u001b[H"
+    ],
+    [
+      0.001077,
+      "\n\n\n\u001b[J\u001b[H\u001b(B\u001b[0;1;7m\u001b[36mSubscriptions\r\n\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[33m/r/gadgets\u001b[39m\u001b(B\u001b[m\u001b[K\r\n reddit gadget guide\u001b[K\u001b[H"
+    ],
+    [
+      0.049519,
+      "\n\u001b(B\u001b[0;7m \n\u0008 \n\n\u001b(B\u001b[0;1m\u001b[33m/r/sports\r\n\u001b[C\u001b[39m\u001b(B\u001b[mthe sportspage of the internet\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/gaming\r\n\u001b[C\u001b[39m\u001b(B\u001b[mWhat's new in gaming\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/pics\r\n\u001b[C\u001b[39m\u001b(B\u001b[mReddit Pics\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/worldnews\r\n\u001b[C\u001b[39m\u001b(B\u001b[mWorld News\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/videos\r\n\u001b[C\u001b[39m\u001b(B\u001b[mVideos\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[mAsk Reddit...\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/aww\r\n\u001b[C\u001b[39m\u001b(B\u001b[mThe cutest things on the internet!\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/Music\r\n\u001b[C\u001b[39m\u001b(B\u001b[mMusic\r\n\n \u001b(B\u001b[0;1m\u001b[33m/r/funny\r\n\u001b[C\u001b[39m\u001b(B\u001b[mfunny\u001b[H"
+    ],
+    [
+      1.604602,
+      "\n \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.238847,
+      "\n\n\n\n \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.227445,
+      "\u001b[8d \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.239291,
+      "\u001b[11d \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.267376,
+      "\u001b[14d \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.387002,
+      "\u001b[17d \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.976240,
+      "\u001b[14;31H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;31H\u001b(0\u001b[0mx\u001b(BRefreshing page   \u001b(0\u001b[0mx\u001b(B\u001b[16;31H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405263,
+      "."
+    ],
+    [
+      0.443517,
+      "\u001b[14;31H\u001b[K\n\u001b[K\r\n\u001b[K\u001b[H"
+    ],
+    [
+      0.005511,
+      "\u001b[8d\u001b[J\u001b[H\u001b(B\u001b[0;1;7m\u001b[36m/r/AskReddit \r\n\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\r\n\u001b[C\u001b[39m1. [Mod post] New rule 1 is here to stay\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m283 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 2day 302 comments\r\n \u001b(B\u001b[0;1mJakeable\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Modpost]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.015248,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\n\u001b(B\u001b[0;1m2. Holiday Megathread 2\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m276 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3day 1348 comments\r\n \u001b(B\u001b[0;1msexrockandroll\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Mega Thread]\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. [Serious] Redditors who have lawfully killed someone, what's your story?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1453 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 2hr 1253 comments\r\n \u001b(B\u001b[0;1marffffleggy\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [serious replies only]\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Women of reddit: how often to you go on dates just to get free food?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1158 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 2049 comments\r\n \u001b(B\u001b[0;1mculesamericano\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. [NSFW] Soldiers/Veterans of Reddit, what is something they don't tell you\r\n\u001b[Cabout the military?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2357 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 2319 comments \u001b(B\u001b[0;1m\u001b[31mNSFW\r\n\u001b[C\u001b[39mDarkspider94\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m6. NSFW-Which movie would be a racist disaster if you switched the skin color\r\n\u001b[Cof the main character?\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      1.870389,
+      "\n\n \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      2.133230,
+      "\u001b[14;30H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;30H\u001b(0\u001b[0mx\u001b(BLoading submission   \u001b(0\u001b[0mx\u001b(B\u001b[16;30H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.405335,
+      "."
+    ],
+    [
+      0.404778,
+      "."
+    ],
+    [
+      0.476095,
+      "\u001b[14;30H\u001b[K\n\u001b[K\n\u001b[31mrious replies only]\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.006119,
+      "\u001b(B\u001b[0;1;7m\u001b[36mhttps://www.reddit.com/r/AskReddit/comments/3vvkuz/holiday_megathread_2/       \r\n\n\u001b[39m\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mHoliday Megathread 2\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1m\u001b[32msexrockandroll\u001b[33m [Mega Thread]\u001b[39m\u001b(B\u001b[m 3day AskReddit\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[17X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0mx\u001b(BChristmas is still coming up, Hanukkah's happening, Kwanzaa is around the     \u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0mx\u001b(Bcorner and other celebrations are coming into view.\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[9;1H\u001b(0\u001b[0mx\u001b(B\u001b[14X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[10;1H\u001b(0\u001b[0mx\u001b(BAll top level comments to this post should be questions surrounding the\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[11;1H\u001b(0\u001b[0mx\u001b(Btopic of the holidays.\u001b[19X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[12;1H\u001b(0\u001b[0mx\u001b(B\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[13;1H\u001b(0\u001b[0mx\u001b(BThe purpose of this megathread is to contain all of the holiday topics in     \u001b(0\u001b[0mx\u001b(B\u001b[14;1H\u001b(0\u001b[0mx\u001b(Border to cut down on all the holiday posts we will get. While this thread is  \u001b(0\u001b[0mx\u001b(B\u001b[15;1H\u001b(0\u001b[0mx\u001b(Bup, all other holiday posts will be removed.\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[16;1H\u001b(0\u001b[0mx\u001b(B\u001b[47X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[17;1H\u001b(0\u001b[0mx\u001b(BMerry Christmas and happy holidays!\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[18;1H\u001b(0\u001b[0mx\u001b(B\u001b[71X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[19;1H\u001b(0\u001b[0mx\u001b(B-The mod team \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[20;1H\u001b(0\u001b[0mx\u001b(B280 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1348 comments     \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[21;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[23;1H\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34m89badri \u001b[39m•\u001b(B\u001b[m - pts 45min\u001b[K\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mwhich year of Christmas is your costliest Christmas and how much you spent on\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mthat year?\u001b[K\r\n\u001b[K\n\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mjb2386 \u001b[39m•\u001b(B\u001b[m - pts 58min\u001b[K\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mThese mega threads don't work well. Should just have tagging [Christmas] and\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mthen links to block them out like /r/worldnews does with certain topics.\u001b[K\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      2.489330,
+      "\u001b(B\u001b[0;1;7m\u001b[36m/r/AskReddit                                               civilization_phaze_3\r\n\n\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m1. [Mod post] New rule 1 is here to stay\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 283 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 2day 302 comments\u001b[K\r\n \u001b(B\u001b[0;1mJakeable\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Modpost]\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m2. Holiday Megathread 2\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[35mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[m276 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3day 1348 comments\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1msexrockandroll\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Mega Thread]\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m3. [Serious] Redditors who have lawfully killed someone, what's your story?\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 1453 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 2hr 1253 comments\u001b[K\r\n \u001b(B\u001b[0;1marffffleggy\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [serious replies only]\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m4. Women of reddit: how often to you go on dates just to get free food?\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 1158 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 2049 comments\u001b[K\r\n \u001b(B\u001b[0;1mculesamericano\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\n \u001b(B\u001b[0;1m5. [NSFW] Soldiers/Veterans of Reddit, what is something they don't tell you\r\n\u001b(B\u001b[m \u001b(B\u001b[0;1mabout the military?\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2357 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 2319 comments \u001b(B\u001b[0;1m\u001b[31mNSFW\r\n\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1mDarkspider94\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\u001b[39m\u001b(B\u001b[m\u001b[K\n \u001b(B\u001b[0;1m6. NSFW-Which movie would be a racist disaster if you switched the skin color\r\n\u001b(B\u001b[m \u001b(B\u001b[0;1mof the main character?\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      2.314705,
+      "\u001b[10;10H\u001b(B\u001b[0;1m\u001b[32m▲\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.715652,
+      "\u001b[8d \n\u0008 \n\u0008 \n\u0008 \n\n\u0008\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.451568,
+      "\u001b[15;11H\u001b(B\u001b[0;1m\u001b[32m▲\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.272364,
+      "\u001b[30d\u001b(B\u001b[0;1m\u001b[36mEnter Subreddit: /r/\u001b[39m\u001b(B\u001b[m \u0008\u001b[?12l\u001b[?25h\u001b[?1h\u001b=\u001b[H\u001b[2J\u001b(B\u001b[0;1;7m\u001b[36m/r/AskReddit                                               civilization_phaze_3 \u001b[2;1H\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\r\n\u001b[C\u001b[39m1. [Mod post] New rule 1 is here to stay\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m283 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 2day 302 comments\r\n \u001b(B\u001b[0;1mJakeable\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Modpost]\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m2. Holiday Megathread 2\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[35mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m276 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 3day 1348 comments\r\n \u001b(B\u001b[0;1msexrockandroll\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [Mega Thread]\r\n\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m3. [Serious] Redditors who have lawfully killed someone, what's your story?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1453 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 2hr 1253 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1marffffleggy\u001b(B\u001b[0m\u001b[33m /r/AskReddit\u001b[31m [serious replies only]\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Women of reddit: how often to you go on dates just to get free food?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1158 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr 2049 comments\r\n \u001b(B\u001b[0;1mculesamericano\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. [NSFW] Soldiers/Veterans of Reddit, what is something they don't tell you\r\n\u001b[Cabout the military?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C\u001b[39m\u001b(B\u001b[m2357 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 12hr 2319 comments \u001b(B\u001b[0;1m\u001b[31mNSFW\r\n\u001b[C\u001b[39mDarkspider94\u001b(B\u001b[0m\u001b[33m /r/AskReddit\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m6. NSFW-Which movie would be a racist disaster if you switched the skin color\r\n\u001b[36mEnter Subreddit: /r/\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.892498,
+      "\u001b(B\u001b[0;1m\u001b[36mt\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.129065,
+      "\u001b(B\u001b[0;1m\u001b[36me\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.288101,
+      "\u001b(B\u001b[0;1m\u001b[36ms\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.437001,
+      "\u001b(B\u001b[0;1m\u001b[36mt\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.556701,
+      "\u001b[?25l\r \u001b(B\u001b[0;1mof the main character?\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.508708,
+      "\u001b[14;31H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[15;31H\u001b(0\u001b[0mx\u001b(BRefreshing page   \u001b(0\u001b[0mx\u001b(B\u001b[16;31H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.406045,
+      "."
+    ],
+    [
+      0.460810,
+      "\u001b[14;31H\u001b[K\n\u001b[K\n\u001b[31mious replies only]\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.002725,
+      "\u001b[8d\u001b[J\u001b[1;4H\u001b(B\u001b[0;1;7m\u001b[36mtest     \n\n\u001b[5G\u001b[39m\u001b(B\u001b[0;1mNever gonna give you up\u001b(B\u001b[m\u001b[K\n\u001b[7G\u001b(B\u001b[0;4m\u001b[34mtest\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 1\u001b[5P\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.015913,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\n\u001b(B\u001b[0;1m2. Never gonna let you down\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. Never gonna run around\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m4 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Reddit Terminal Viewer\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[35mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 13min 1 comments\r\n \u001b(B\u001b[0;1mcivilization_phaze_3\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. Check out this new loadout!\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://loadout.unchartedmultiplayer.com/?q=110,113,122,133,126,135,143.1,146.2\r\n\u001b[C\u001b[39m\u001b(B\u001b[m- pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1hr 4 comments\r\n \u001b(B\u001b[0;1mspookyyz\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m6. And desert you\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m3 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 4 comments\u001b[H"
+    ],
+    [
+      3.859346,
+      "\u001b[30;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.020313,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000065,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000971,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6           File: /tmp/rtv-Q5MQSg.txt                            \u001b[4;1H\u001b(B\u001b[m# Please enter your submission. Lines starting with '#' will be ignored,\r\u001b[5d# and an empty message aborts the submission.\r\u001b[6d#\u001b[7d\u0008# The first line will be interpreted as the title\r\u001b[8d# The following lines will be interpreted as the content\r\u001b[9d#\u001b[10d\u0008# Posting to /r/test\u001b[28;33H\u001b(B\u001b[0;7m[ Read 8 lines ]\r\u001b[29d^G\u001b(B\u001b[m Get Help  \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut  \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is  \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      1.385266,
+      "\u001b[1;71H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[mR"
+    ],
+    [
+      0.217766,
+      "e"
+    ],
+    [
+      0.337387,
+      "d"
+    ],
+    [
+      0.159052,
+      "d"
+    ],
+    [
+      0.148888,
+      "i"
+    ],
+    [
+      0.148907,
+      "t"
+    ],
+    [
+      0.109144,
+      " "
+    ],
+    [
+      0.357951,
+      "T"
+    ],
+    [
+      0.158829,
+      "e"
+    ],
+    [
+      0.069353,
+      "r"
+    ],
+    [
+      0.039723,
+      "m"
+    ],
+    [
+      0.088940,
+      "i"
+    ],
+    [
+      0.119760,
+      "n"
+    ],
+    [
+      0.109274,
+      "a"
+    ],
+    [
+      0.138473,
+      "l"
+    ],
+    [
+      0.109634,
+      " "
+    ],
+    [
+      0.436916,
+      "V"
+    ],
+    [
+      0.119115,
+      "i"
+    ],
+    [
+      0.219192,
+      "w"
+    ],
+    [
+      0.386314,
+      "\u0008 \u0008"
+    ],
+    [
+      0.367257,
+      "e"
+    ],
+    [
+      0.257869,
+      "w"
+    ],
+    [
+      0.109517,
+      "e"
+    ],
+    [
+      0.228347,
+      "r"
+    ],
+    [
+      0.626299,
+      "\u001b7\u001b[4;27r\u001b8\r\u001b[4d\u001bM\u001b[1;30r\u001b[4;1H"
+    ],
+    [
+      1.855822,
+      "H\u001b[28d\u0008\u001b[K\u001b[4dH"
+    ],
+    [
+      0.148676,
+      "e"
+    ],
+    [
+      0.090223,
+      "l"
+    ],
+    [
+      0.137954,
+      "l"
+    ],
+    [
+      0.458052,
+      "o"
+    ],
+    [
+      0.247074,
+      " "
+    ],
+    [
+      0.447886,
+      "W"
+    ],
+    [
+      0.117721,
+      "o"
+    ],
+    [
+      0.168756,
+      "r"
+    ],
+    [
+      0.198775,
+      "l"
+    ],
+    [
+      0.098984,
+      "d"
+    ],
+    [
+      0.357956,
+      "!"
+    ],
+    [
+      1.757553,
+      "\r\u001b[28d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                    \u001b[29;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[30d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[14G   \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[28;62H"
+    ],
+    [
+      1.111893,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: /tmp/rtv-Q5MQSg.txt                     \r\u001b[29d^G\u001b(B\u001b[m Get Help\u001b[29;21H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[41G\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[29;61H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[30d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G    \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[41G\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[28;40H"
+    ],
+    [
+      0.626174,
+      "\r\u001b[29d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;71H\u001b(B\u001b[0;7m        \u001b[28;31H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 9 lines ]\u001b(B\u001b[m\u001b[K\u001b[30;80H\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000877,
+      "\u001b[?1049h\u001b[1;30r\u001b[?25l\u001b[39;49m\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2J\u001b(B\u001b[0;1;7m\u001b[36m/r/test                                                    civilization_phaze_3 \u001b[2;1H\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m1. Never gonna give you up\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 1 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m2. Never gonna let you down\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. Never gonna run around\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m4 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Reddit Terminal Viewer\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[35mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 13min 1 comments\r\n \u001b(B\u001b[0;1mcivilization_phaze_3\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. Check out this new loadout!\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://loadout.unchartedmultiplayer.com/?q=110,113,122,133,126,135,143.1,146.2\r\n\u001b[C\u001b[39m\u001b(B\u001b[m- pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1hr 4 comments\r\n \u001b(B\u001b[0;1mspookyyz\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m6. And desert you\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m3 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 4 comments\u001b[H"
+    ],
+    [
+      0.000464,
+      "\u001b[14;35H\u001b(0\u001b[0mlqqqqqqqqqqk\u001b(B\u001b[15;35H\u001b(0\u001b[0mx\u001b(BPosting   \u001b(0\u001b[0mx\u001b(B\u001b[16;35H\u001b(0\u001b[0mmqqqqqqqqqqj\u001b(B\u001b[A\u0008\u0008\u0008\u0008\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.002257,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.405156,
+      "."
+    ],
+    [
+      0.405142,
+      "."
+    ],
+    [
+      0.405151,
+      "."
+    ],
+    [
+      0.405015,
+      "\u0008\u0008\u0008   \u0008\u0008\u0008"
+    ],
+    [
+      0.404687,
+      "."
+    ],
+    [
+      0.406521,
+      "."
+    ],
+    [
+      0.406805,
+      "."
+    ],
+    [
+      0.405244,
+      "\u0008\u0008\u0008   \u0008\u0008\u0008"
+    ],
+    [
+      0.405358,
+      "."
+    ],
+    [
+      0.405044,
+      "."
+    ],
+    [
+      0.404867,
+      "."
+    ],
+    [
+      0.404935,
+      "\u001b[14;35H\u001b[K\n\u001b[K\n\u001b[K\u001b[H"
+    ],
+    [
+      0.013540,
+      "\u001b[10d\u001b[J\u001b[H\u001b(B\u001b[0;1;7m\u001b[36mhttps://www.reddit.com/r/test/comments/3wc5r5/reddit_terminal_viewer/          \r\n\n\u001b[39m\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mReddit Terminal Viewer\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1m\u001b[32mcivilization_phaze_3\u001b[39m\u001b(B\u001b[m 0min test\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;4m\u001b[34mself.test\u001b[39m\u001b(B\u001b[m      \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0mx\u001b(BHello World!\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0mx\u001b(B1 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 0 comments         \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[9;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      5.426572,
+      "\u001b[7d\u001b[J\u001b[H\u001b(B\u001b[0;1;7m\u001b[36m/r/test                                                    civilization_phaze_3\r\n\n\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m1. Never gonna give you up\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.test\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 1 comments\u001b[K\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.036669,
+      "\n\n\u001b(B\u001b[0;7m \n\u0008 \n\u0008 \n\u0008 \n\n\u001b(B\u001b[0;1m2. Never gonna let you down\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m5 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. Never gonna run around\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m4 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 0 comments\r\n \u001b(B\u001b[0;1m_nggyu_\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m4. Reddit Terminal Viewer\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[35mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1 pts \u001b(B\u001b[0;1m\u001b[32m▲\u001b[39m\u001b(B\u001b[m 13min 1 comments\r\n \u001b(B\u001b[0;1mcivilization_phaze_3\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m5. Check out this new loadout!\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttp://loadout.unchartedmultiplayer.com/?q=110,113,122,133,126,135,143.1,146.2\r\n\u001b[C\u001b[39m\u001b(B\u001b[m- pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1hr 4 comments\r\n \u001b(B\u001b[0;1mspookyyz\u001b(B\u001b[0m\u001b[33m /r/test\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m6. And desert you\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.test\r\n\u001b[C\u001b[39m\u001b(B\u001b[m3 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr 4 comments\u001b[H"
+    ],
+    [
+      0.964620,
+      "\u001b[?1l\u001b\u003e\u001b[30;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ]
+  ]
+}
