@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 11,
+  "duration": 33.139065,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.102926,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000070,
+      "\u001b]2;spark@archer: ~\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.004326,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ archer \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?2004h"
+    ],
+    [
+      0.482807,
+      "#"
+    ],
+    [
+      0.190357,
+      "\u0008# "
+    ],
+    [
+      0.580144,
+      "I"
+    ],
+    [
+      0.204020,
+      "n"
+    ],
+    [
+      0.087979,
+      "s"
+    ],
+    [
+      0.167973,
+      "t"
+    ],
+    [
+      0.144028,
+      "a"
+    ],
+    [
+      0.136001,
+      "l"
+    ],
+    [
+      0.160010,
+      "l"
+    ],
+    [
+      0.143927,
+      " "
+    ],
+    [
+      0.624126,
+      "d"
+    ],
+    [
+      0.196034,
+      "m"
+    ],
+    [
+      0.188052,
+      "u"
+    ],
+    [
+      0.163950,
+      "x"
+    ],
+    [
+      0.103889,
+      " "
+    ],
+    [
+      0.232234,
+      "i"
+    ],
+    [
+      0.127925,
+      "s"
+    ],
+    [
+      0.123904,
+      " "
+    ],
+    [
+      0.384067,
+      "t"
+    ],
+    [
+      0.216096,
+      "h"
+    ],
+    [
+      0.172070,
+      "i"
+    ],
+    [
+      0.148010,
+      "s"
+    ],
+    [
+      0.107869,
+      " "
+    ],
+    [
+      0.212152,
+      "e"
+    ],
+    [
+      0.200044,
+      "a"
+    ],
+    [
+      0.228014,
+      "s"
+    ],
+    [
+      0.204024,
+      "y"
+    ],
+    [
+      1.213333,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r\u001b]2;spark@archer: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.008513,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ archer \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.334116,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u0008\u0008"
+    ],
+    [
+      0.276128,
+      "asciinema re\u001b[4mc\u001b[24m\u001b[1B\u001b[12Dc_\u001b[A\u001b[9C"
+    ],
+    [
+      0.147982,
+      "\u001b[12Dbash -c \"$(\u001b[4mc\u001b[4mu\u001b[24mrl -fsSL https://raw.githubusercontent.com/suizman/dmux/master/install.sh)\"\u001b[1B\u001b[86Du_\u001b[A\u001b[7C"
+    ],
+    [
+      0.188027,
+      "\u001b[1C\u001b[4mu\u001b[4mr\u001b[24m\u001b[1B\u001b[11Dr_\u001b[A\u001b[6C"
+    ],
+    [
+      0.119987,
+      "\u001b[2C\u001b[4mr\u001b[4ml\u001b[24m\u001b[1B\u001b[11Dl_\u001b[A\u001b[5C"
+    ],
+    [
+      0.788841,
+      "\u001b[24mc\u001b[24mu\u001b[24mr\u001b[24ml\u001b[1B\r\u001b[K\u001b[A\u001b[24C\u001b[?1l\u001b\u003e\u001b[?2004l\u001b[1B\r"
+    ],
+    [
+      0.000782,
+      "\u001b]2;bash -c \u0007\u001b]1;bash\u0007"
+    ],
+    [
+      0.396579,
+      "Cloning into '/home/spark/.dmux'...\r\n"
+    ],
+    [
+      0.804759,
+      "remote: Counting objects: 73, done.\u001b[K\r\nremote: Compressing objects:   1% (1/62)   \u001b[K\rremote: Compressing objects:   3% (2/62)   \u001b[K\rremote: Compressing objects:   4% (3/62)   \u001b[K\rremote: Compressing objects:   6% (4/62)   \u001b[K\r"
+    ],
+    [
+      0.000050,
+      "remote: Compressing objects:   8% (5/62)   \u001b[K\rremote: Compressing objects:   9% (6/62)   \u001b[K\rremote: Compressing objects:  11% (7/62)   \u001b[K\rremote: Compressing objects:  12% (8/62)   \u001b[K\rremote: Compressing objects:  14% (9/62)   \u001b[K\rremote: Compressing objects:  16% (10/62)   \u001b[K\rremote: Compressing objects:  17% (11/62)   \u001b[K\rremote: Compressing objects:  19% (12/62)   \u001b[K\r"
+    ],
+    [
+      0.132261,
+      "remote: Compressing objects:  20% (13/62)   \u001b[K\rremote: Compressing objects:  22% (14/62)   \u001b[K\rremote: Compressing objects:  24% (15/62)   \u001b[K\rremote: Compressing objects:  25% (16/62)   \u001b[K\rremote: Compressing objects:  27% (17/62)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:  29% (18/62)   \u001b[K\rremote: Compressing objects:  30% (19/62)   \u001b[K\rremote: Compressing objects:  32% (20/62)   \u001b[K\rremote: Compressing objects:  33% (21/62)   \u001b[K\rremote: Compressing objects:  35% (22/62)   \u001b[K\r"
+    ],
+    [
+      0.000069,
+      "remote: Compressing objects:  37% (23/62)   \u001b[K\rremote: Compressing objects:  38% (24/62)   \u001b[K\rremote: Compressing objects:  40% (25/62)   \u001b[K\rremote: Compressing objects:  41% (26/62)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  43% (27/62)   \u001b[K\rremote: Compressing objects:  45% (28/62)   \u001b[K\rremote: Compressing objects:  46% (29/62)   \u001b[K\rremote: Compressing objects:  48% (30/62)   \u001b[K\rremote: Compressing objects:  50% (31/62)   \u001b[K\rremote: Compressing objects:  51% (32/62)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  53% (33/62)   \u001b[K\rremote: Compressing objects:  54% (34/62)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  56% (35/62)   \u001b[K\r"
+    ],
+    [
+      0.000033,
+      "remote: Compressing objects:  58% (36/62)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  59% (37/62)   \u001b[K\rremote: Compressing objects:  61% (38/62)   \u001b[K\rremote: Compressing objects:  62% (39/62)   \u001b[K\rremote: Compressing objects:  64% (40/62)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects:  66% (41/62)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  67% (42/62)   \u001b[K\rremote: Compressing objects:  69% (43/62)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  70% (44/62)   \u001b[K\rremote: Compressing objects:  72% (45/62)   \u001b[K\r"
+    ],
+    [
+      0.000022,
+      "remote: Compressing objects:  74% (46/62)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  75% (47/62)   \u001b[K\rremote: Compressing objects:  77% (48/62)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  79% (49/62)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  80% (50/62)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  82% (51/62)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects:  83% (52/62)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  85% (53/62)   \u001b[K\rremote: Compressing objects:  87% (54/62)   \u001b[K\r"
+    ],
+    [
+      0.000021,
+      "remote: Compressing objects:  88% (55/62)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  90% (56/62)   \u001b[K\r"
+    ],
+    [
+      0.000031,
+      "remote: Compressing objects:  91% (57/62)   \u001b[K\rremote: Compressing objects:  93% (58/62)   \u001b[K\rremote: Compressing objects:  95% (59/62)   \u001b[K\rremote: Compressing objects:  96% (60/62)   \u001b[K\rremote: Compressing objects:  98% (61/62)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects: 100% (62/62)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects: 100% (62/62), done.\u001b[K\r\n"
+    ],
+    [
+      0.003379,
+      "Unpacking objects:   1% (1/73)   \r"
+    ],
+    [
+      0.000391,
+      "Unpacking objects:   2% (2/73)   \r"
+    ],
+    [
+      0.000332,
+      "Unpacking objects:   4% (3/73)   \r"
+    ],
+    [
+      0.000317,
+      "Unpacking objects:   5% (4/73)   \r"
+    ],
+    [
+      0.000222,
+      "Unpacking objects:   6% (5/73)   \r"
+    ],
+    [
+      0.000327,
+      "Unpacking objects:   8% (6/73)   \r"
+    ],
+    [
+      0.000235,
+      "Unpacking objects:   9% (7/73)   \r"
+    ],
+    [
+      0.000339,
+      "Unpacking objects:  10% (8/73)   \r"
+    ],
+    [
+      0.000231,
+      "Unpacking objects:  12% (9/73)   \r"
+    ],
+    [
+      0.000313,
+      "Unpacking objects:  13% (10/73)   \r"
+    ],
+    [
+      0.000227,
+      "Unpacking objects:  15% (11/73)   \r"
+    ],
+    [
+      0.000312,
+      "Unpacking objects:  16% (12/73)   \r"
+    ],
+    [
+      0.000310,
+      "Unpacking objects:  17% (13/73)   \r"
+    ],
+    [
+      0.000221,
+      "Unpacking objects:  19% (14/73)   \r"
+    ],
+    [
+      0.000480,
+      "Unpacking objects:  20% (15/73)   \r"
+    ],
+    [
+      0.000152,
+      "Unpacking objects:  21% (16/73)   \r"
+    ],
+    [
+      0.000281,
+      "Unpacking objects:  23% (17/73)   \r"
+    ],
+    [
+      0.000256,
+      "Unpacking objects:  24% (18/73)   \r"
+    ],
+    [
+      0.000298,
+      "Unpacking objects:  26% (19/73)   \r"
+    ],
+    [
+      0.000224,
+      "Unpacking objects:  27% (20/73)   \r"
+    ],
+    [
+      0.000236,
+      "Unpacking objects:  28% (21/73)   \r"
+    ],
+    [
+      0.000334,
+      "Unpacking objects:  30% (22/73)   \r"
+    ],
+    [
+      0.000379,
+      "Unpacking objects:  31% (23/73)   \r"
+    ],
+    [
+      0.000270,
+      "Unpacking objects:  32% (24/73)   \r"
+    ],
+    [
+      0.000328,
+      "Unpacking objects:  34% (25/73)   \r"
+    ],
+    [
+      0.000333,
+      "Unpacking objects:  35% (26/73)   \r"
+    ],
+    [
+      0.000428,
+      "Unpacking objects:  36% (27/73)   \r"
+    ],
+    [
+      0.000317,
+      "Unpacking objects:  38% (28/73)   \r"
+    ],
+    [
+      0.000374,
+      "Unpacking objects:  39% (29/73)   \r"
+    ],
+    [
+      0.000313,
+      "Unpacking objects:  41% (30/73)   \r"
+    ],
+    [
+      0.000308,
+      "Unpacking objects:  42% (31/73)   \r"
+    ],
+    [
+      0.000245,
+      "Unpacking objects:  43% (32/73)   \r"
+    ],
+    [
+      0.000317,
+      "Unpacking objects:  45% (33/73)   \r"
+    ],
+    [
+      0.000340,
+      "Unpacking objects:  46% (34/73)   \r"
+    ],
+    [
+      0.000522,
+      "Unpacking objects:  47% (35/73)   \r"
+    ],
+    [
+      0.000189,
+      "Unpacking objects:  49% (36/73)   \r"
+    ],
+    [
+      0.001285,
+      "Unpacking objects:  50% (37/73)   \r"
+    ],
+    [
+      0.000162,
+      "Unpacking objects:  52% (38/73)   \r"
+    ],
+    [
+      0.100817,
+      "remote: Total 73 (delta 27), reused 53 (delta 7), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.000232,
+      "Unpacking objects:  53% (39/73)   \r"
+    ],
+    [
+      0.000434,
+      "Unpacking objects:  54% (40/73)   \r"
+    ],
+    [
+      0.000374,
+      "Unpacking objects:  56% (41/73)   \r"
+    ],
+    [
+      0.000360,
+      "Unpacking objects:  57% (42/73)   \r"
+    ],
+    [
+      0.000220,
+      "Unpacking objects:  58% (43/73)   \r"
+    ],
+    [
+      0.000218,
+      "Unpacking objects:  60% (44/73)   \r"
+    ],
+    [
+      0.000201,
+      "Unpacking objects:  61% (45/73)   \r"
+    ],
+    [
+      0.000355,
+      "Unpacking objects:  63% (46/73)   \r"
+    ],
+    [
+      0.000252,
+      "Unpacking objects:  64% (47/73)   \r"
+    ],
+    [
+      0.000381,
+      "Unpacking objects:  65% (48/73)   \r"
+    ],
+    [
+      0.000261,
+      "Unpacking objects:  67% (49/73)   \r"
+    ],
+    [
+      0.000268,
+      "Unpacking objects:  68% (50/73)   \r"
+    ],
+    [
+      0.000290,
+      "Unpacking objects:  69% (51/73)   \r"
+    ],
+    [
+      0.000390,
+      "Unpacking objects:  71% (52/73)   \r"
+    ],
+    [
+      0.000277,
+      "Unpacking objects:  72% (53/73)   \r"
+    ],
+    [
+      0.000389,
+      "Unpacking objects:  73% (54/73)   \r"
+    ],
+    [
+      0.000308,
+      "Unpacking objects:  75% (55/73)   \r"
+    ],
+    [
+      0.000200,
+      "Unpacking objects:  76% (56/73)   \r"
+    ],
+    [
+      0.000382,
+      "Unpacking objects:  78% (57/73)   \r"
+    ],
+    [
+      0.000225,
+      "Unpacking objects:  79% (58/73)   \r"
+    ],
+    [
+      0.000369,
+      "Unpacking objects:  80% (59/73)   \r"
+    ],
+    [
+      0.000226,
+      "Unpacking objects:  82% (60/73)   \r"
+    ],
+    [
+      0.000365,
+      "Unpacking objects:  83% (61/73)   \r"
+    ],
+    [
+      0.000231,
+      "Unpacking objects:  84% (62/73)   \r"
+    ],
+    [
+      0.000370,
+      "Unpacking objects:  86% (63/73)   \r"
+    ],
+    [
+      0.000220,
+      "Unpacking objects:  87% (64/73)   \r"
+    ],
+    [
+      0.000358,
+      "Unpacking objects:  89% (65/73)   \r"
+    ],
+    [
+      0.000307,
+      "Unpacking objects:  90% (66/73)   \r"
+    ],
+    [
+      0.000316,
+      "Unpacking objects:  91% (67/73)   \r"
+    ],
+    [
+      0.000338,
+      "Unpacking objects:  93% (68/73)   \r"
+    ],
+    [
+      0.000243,
+      "Unpacking objects:  94% (69/73)   \r"
+    ],
+    [
+      0.000299,
+      "Unpacking objects:  95% (70/73)   \r"
+    ],
+    [
+      0.000224,
+      "Unpacking objects:  97% (71/73)   \r"
+    ],
+    [
+      0.000274,
+      "Unpacking objects:  98% (72/73)   \r"
+    ],
+    [
+      0.000184,
+      "Unpacking objects: 100% (73/73)   \r"
+    ],
+    [
+      0.000017,
+      "Unpacking objects: 100% (73/73), done.\r\n"
+    ],
+    [
+      0.000599,
+      "Checking connectivity... "
+    ],
+    [
+      0.003565,
+      "done.\r\n"
+    ],
+    [
+      0.006621,
+      "Pulling dmux container..\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      2.117370,
+      "latest: Pulling from suizman/dmux\r\n\u001b[0B"
+    ],
+    [
+      0.017341,
+      "Digest: sha256:880561097bcbadc8b3a72e4d488ce519adcebae5b221c72b9e81e80078b921ca\r\nStatus: Image is up to date for suizman/dmux:latest\r\n"
+    ],
+    [
+      0.002656,
+      "Configuring Bash alias..\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "Configuring Zsh alias..\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "Instalation complated! Please reload your shell config\r\n"
+    ],
+    [
+      0.000807,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r\u001b]2;spark@archer: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.006226,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ archer \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.747014,
+      "s"
+    ],
+    [
+      0.171825,
+      "\u0008so"
+    ],
+    [
+      0.204076,
+      "u"
+    ],
+    [
+      0.179986,
+      "r"
+    ],
+    [
+      0.292024,
+      "c"
+    ],
+    [
+      0.095675,
+      "e"
+    ],
+    [
+      0.111992,
+      " "
+    ],
+    [
+      0.400951,
+      "~"
+    ],
+    [
+      0.411541,
+      "/"
+    ],
+    [
+      0.535972,
+      "."
+    ],
+    [
+      0.188026,
+      "z"
+    ],
+    [
+      0.164075,
+      "s"
+    ],
+    [
+      0.384194,
+      "h"
+    ],
+    [
+      1.120007,
+      "r"
+    ],
+    [
+      0.311862,
+      "c"
+    ],
+    [
+      0.210232,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;source ~/.zshrc\u0007\u001b]1;source\u0007"
+    ],
+    [
+      0.102265,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000047,
+      "\u001b]2;spark@archer: ~\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000083,
+      "\u001b]2;spark@archer: ~\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.004878,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ archer \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?2004h"
+    ],
+    [
+      1.978900,
+      "d"
+    ],
+    [
+      0.227805,
+      "\u0008dm"
+    ],
+    [
+      0.192023,
+      "u"
+    ],
+    [
+      0.167996,
+      "x"
+    ],
+    [
+      1.056191,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000083,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000966,
+      "\u001b]2;sudo docker run --rm -ti -v ~/.dmux/conf/dmux.conf:/root/.dmux.conf \u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;dmux\u0007"
+    ],
+    [
+      0.000209,
+      "\u001b]2;sudo docker run --rm -ti -v ~/.dmux/conf/dmux.conf:/root/.dmux.conf \u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;dmux\u0007"
+    ],
+    [
+      0.261007,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b]0;185c45197def ❐ 0 ● 1 zsh\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[K\r\r\n\u001b[30m\u001b[43m _ 0 \u001b[33m\u001b[40m \u001b[30m\u001b[44m 1 | zsh \u001b[37m\u001b[40m                                                             14:11 | 13 Dec \u001b[41m  \u001b[30m\u001b[47m 185c45197def \u001b(B\u001b[m\u001b[11;1H\u001b[1;11r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003523,
+      "\u001b[?25l\u001b[11d\u001b[30m\u001b[43m _ 0 \u001b[33m\u001b[40m \u001b[30m\u001b[44m 1 | zsh \u001b[37m\u001b[40m                                                         14:11 | 13 Dec \u001b[41m root \u001b[30m\u001b[47m 185c45197def \u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.317053,
+      "\u001b[1;10r[oh-my-zsh] Random theme '/root/.oh-my-zsh/themes/gnzh.zsh-theme' loaded...\u001b[1;11r\u001b[H\r\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[1;10r\u001b[H\r\r\n\u001b[1m\u001b[7m#\u001b(B\u001b[m                                                                                                          \u001b[2;1H \u001b[1;11r\u001b[H\r\r\n"
+    ],
+    [
+      0.000346,
+      "\u001b]0;185c45197def ❐ 0 ● 1 ~\u0007\u001b[?25l\u001b[11d\u001b[30m\u001b[43m _ 0 \u001b[33m\u001b[40m \u001b[30m\u001b[44m 1 | ~ \u001b[37m\u001b[40m                                                           14:11 | 13 Dec \u001b[41m root \u001b[30m\u001b[47m 185c45197def \u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002233,
+      "\u001b[1;10r\u001b[H\r\r\n\u001b[K\r\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[2d__\u001b[31mroot\u001b[36m@\u001b[32m185c45197def\u001b[39m \u001b[34m\u001b[1m~\u001b(B\u001b[m  \r\r\n__\u001b[31m_ \u001b[39m \u001b[1;11r\u001b[H\u001b[3;6H\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.183529,
+      "\u001b[1;10r\u001b[H\u001b[3;6H#\u001b[1;11r\u001b[H\u001b[3;7H"
+    ],
+    [
+      0.150839,
+      "\u001b[1;10r\u001b[H\u001b[3;6H# \u001b[1;11r\u001b[H\u001b[3;8H"
+    ],
+    [
+      0.844698,
+      "\u001b[1;10r\u001b[H\u001b[3;8HY\u001b[1;11r\u001b[H\u001b[3;9H"
+    ],
+    [
+      0.219812,
+      "\u001b[1;10r\u001b[H\u001b[3;9Ho\u001b[1;11r\u001b[H\u001b[3;10H"
+    ],
+    [
+      0.215846,
+      "\u001b[1;10r\u001b[H\u001b[3;10Hu\u001b[1;11r\u001b[H\u001b[3;11H"
+    ],
+    [
+      0.308197,
+      "\u001b[1;10r\u001b[H\u001b[3;11Hr\u001b[1;11r\u001b[H\u001b[3;12H"
+    ],
+    [
+      0.139974,
+      "\u001b[1;10r\u001b[H\u001b[3;12He\u001b[1;11r\u001b[H\u001b[3;13H"
+    ],
+    [
+      0.103923,
+      "\u001b[1;10r\u001b[H\u001b[3;13H \u001b[1;11r\u001b[H\u001b[3;14H"
+    ],
+    [
+      0.720147,
+      "\u001b[1;10r\u001b[H\u001b[3;14Hr\u001b[1;11r\u001b[H\u001b[3;15H"
+    ],
+    [
+      0.095773,
+      "\u001b[1;10r\u001b[H\u001b[3;15He\u001b[1;11r\u001b[H\u001b[3;16H"
+    ],
+    [
+      0.287971,
+      "\u001b[1;10r\u001b[H\u001b[3;16Ha\u001b[1;11r\u001b[H\u001b[3;17H"
+    ],
+    [
+      0.272201,
+      "\u001b[1;10r\u001b[H\u001b[3;17Hd\u001b[1;11r\u001b[H\u001b[3;18H"
+    ],
+    [
+      0.548296,
+      "\u001b[1;10r\u001b[H\u001b[3;18Hy\u001b[1;11r\u001b[H\u001b[3;19H"
+    ],
+    [
+      0.508385,
+      "\u001b[1;10r\u001b[H\u001b[3;19H!\u001b[1;11r\u001b[H\u001b[3;20H"
+    ],
+    [
+      0.387501,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000571,
+      "\u001b[1;10r\u001b[H\u001b[3B\u001b[1m\u001b[7m#\u001b(B\u001b[m                                                                                                          \u001b[4;1H \u001b[1;11r\u001b[H\u001b[3B"
+    ],
+    [
+      0.008129,
+      "\u001b[1;10r\u001b[H\u001b[3B\u001b[K\r\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[4d__\u001b[31mroot\u001b[36m@\u001b[32m185c45197def\u001b[39m \u001b[34m\u001b[1m~\u001b(B\u001b[m  \r\r\n__\u001b[31m_ \u001b[39m \u001b[K\u001b[1;11r\u001b[H\u001b[5;6H\u001b[?1h\u001b="
+    ],
+    [
+      0.921099,
+      "\r\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[1;11r\u001b(B\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000459,
+      "[exited]\r\r\n"
+    ],
+    [
+      0.645770,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r\u001b]2;spark@archer: ~\u0007\u001b]1;~\u0007\u001b]2;spark@archer: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.002912,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ archer \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.996266,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
