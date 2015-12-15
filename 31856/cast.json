@@ -1,0 +1,2478 @@
+{
+  "version": 1,
+  "width": 137,
+  "height": 50,
+  "duration": 133.166302,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.146196,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.092354,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000038,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.002441,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.104078,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000184,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.097236,
+      "d"
+    ],
+    [
+      0.093351,
+      "\u0008do"
+    ],
+    [
+      0.111798,
+      "c"
+    ],
+    [
+      0.064349,
+      "k"
+    ],
+    [
+      0.087871,
+      "e"
+    ],
+    [
+      0.072014,
+      "r"
+    ],
+    [
+      0.088115,
+      "-"
+    ],
+    [
+      0.151875,
+      "c"
+    ],
+    [
+      0.095990,
+      "o"
+    ],
+    [
+      0.221874,
+      "mpose\u001b[1m \u001b[m"
+    ],
+    [
+      0.450211,
+      "\u0008\u001b[m u"
+    ],
+    [
+      0.207962,
+      "p"
+    ],
+    [
+      0.351867,
+      " "
+    ],
+    [
+      0.215781,
+      "-"
+    ],
+    [
+      0.120316,
+      "d"
+    ],
+    [
+      0.177087,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000081,
+      "\r\r\n"
+    ],
+    [
+      0.001760,
+      "\u001b]2;docker-compose up -d\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;docker-compose\u0007"
+    ],
+    [
+      0.370964,
+      "Creating controller\r\n"
+    ],
+    [
+      0.151250,
+      "Creating docker_splayd_1\r\n"
+    ],
+    [
+      0.171140,
+      "Creating cli\r\n"
+    ],
+    [
+      0.128123,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000038,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.002525,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.032393,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.583966,
+      "d"
+    ],
+    [
+      0.056306,
+      "\u0008do"
+    ],
+    [
+      0.152046,
+      "c"
+    ],
+    [
+      0.064205,
+      "k"
+    ],
+    [
+      0.455468,
+      "e"
+    ],
+    [
+      0.128362,
+      "r"
+    ],
+    [
+      0.297116,
+      " "
+    ],
+    [
+      0.071035,
+      "e"
+    ],
+    [
+      0.247764,
+      "x"
+    ],
+    [
+      0.103789,
+      "e"
+    ],
+    [
+      0.232250,
+      "c"
+    ],
+    [
+      0.191764,
+      " "
+    ],
+    [
+      0.168509,
+      "-"
+    ],
+    [
+      0.255656,
+      "i"
+    ],
+    [
+      0.104053,
+      "t"
+    ],
+    [
+      1.239886,
+      " "
+    ],
+    [
+      0.159976,
+      "c"
+    ],
+    [
+      0.071973,
+      "l"
+    ],
+    [
+      0.216209,
+      "i"
+    ],
+    [
+      0.248103,
+      " "
+    ],
+    [
+      0.055915,
+      "b"
+    ],
+    [
+      0.071725,
+      "a"
+    ],
+    [
+      0.096145,
+      "s"
+    ],
+    [
+      0.144156,
+      "h"
+    ],
+    [
+      0.215739,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\r\r\n"
+    ],
+    [
+      0.000791,
+      "\u001b]2;docker exec -it cli bash\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.300253,
+      "\u001b]0;root@f9cbb2ebae18: /\u0007root@f9cbb2ebae18:/# "
+    ],
+    [
+      1.059732,
+      "c"
+    ],
+    [
+      0.055480,
+      "d"
+    ],
+    [
+      0.128490,
+      " "
+    ],
+    [
+      0.391712,
+      "/"
+    ],
+    [
+      0.199715,
+      "r"
+    ],
+    [
+      0.104294,
+      "o"
+    ],
+    [
+      0.080639,
+      "ot/"
+    ],
+    [
+      0.247511,
+      "s"
+    ],
+    [
+      0.072266,
+      "p"
+    ],
+    [
+      0.104300,
+      "lay/"
+    ],
+    [
+      1.183404,
+      "s"
+    ],
+    [
+      0.192775,
+      "r"
+    ],
+    [
+      0.095389,
+      "c/"
+    ],
+    [
+      0.247856,
+      "r"
+    ],
+    [
+      0.080099,
+      "p"
+    ],
+    [
+      0.103787,
+      "c_client/"
+    ],
+    [
+      0.527631,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      1.249286,
+      "."
+    ],
+    [
+      0.206880,
+      "/"
+    ],
+    [
+      0.088151,
+      "s"
+    ],
+    [
+      0.152074,
+      "p"
+    ],
+    [
+      0.096435,
+      "\u0007"
+    ],
+    [
+      0.000299,
+      "lay-"
+    ],
+    [
+      0.407434,
+      "s"
+    ],
+    [
+      0.071532,
+      "t"
+    ],
+    [
+      0.055544,
+      "a"
+    ],
+    [
+      0.248467,
+      "rt-session.lua "
+    ],
+    [
+      0.939927,
+      "\r\n"
+    ],
+    [
+      0.009757,
+      "\r\n"
+    ],
+    [
+      0.010163,
+      "Session started:"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "SESSION_ID = 295df3b133fd8a1140b28348c4a3d5e291f0b0cc"
+    ],
+    [
+      0.000263,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "EXPIRES_AT = 2015-12-16 10:00:38"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000665,
+      "\r\n"
+    ],
+    [
+      0.006410,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      1.136031,
+      "."
+    ],
+    [
+      0.192185,
+      "/"
+    ],
+    [
+      0.080574,
+      "s"
+    ],
+    [
+      0.151612,
+      "p"
+    ],
+    [
+      0.039452,
+      "\u0007"
+    ],
+    [
+      0.000237,
+      "lay-"
+    ],
+    [
+      1.496035,
+      "l"
+    ],
+    [
+      0.224116,
+      "i"
+    ],
+    [
+      0.059724,
+      "\u0007"
+    ],
+    [
+      0.000415,
+      "st-"
+    ],
+    [
+      0.299952,
+      "s"
+    ],
+    [
+      0.079898,
+      "p"
+    ],
+    [
+      0.079623,
+      "layds.lua "
+    ],
+    [
+      0.976436,
+      "\r\n"
+    ],
+    [
+      0.013323,
+      "\r\n"
+    ],
+    [
+      0.009722,
+      "Splayd List ="
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "\t"
+    ],
+    [
+      0.000068,
+      "splayd_id=1, ip=172.17.0.3, status=AVAILABLE"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "\t"
+    ],
+    [
+      0.000166,
+      "\t"
+    ],
+    [
+      0.000165,
+      "key=splayd_172_17_0_3_1"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "Totals:"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "UNAVAILABLE = 0 "
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "RESET = 0 "
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "PREAVAILABLE = 0 "
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "AVAILABLE = 1 "
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "DELETED = 0 "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "REGISTERED = 0 "
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "Total hosts:1"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "Per host totals:"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000307,
+      "HOST:172.17.0.3 TOTAL_SPLAYDS:1 (AVAILABLE:1 UNAVAILABLE:0 RESET:0  REGISTERED:0)"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000810,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      1.963348,
+      "."
+    ],
+    [
+      0.248957,
+      "/"
+    ],
+    [
+      0.111548,
+      "s"
+    ],
+    [
+      0.135959,
+      "p"
+    ],
+    [
+      0.079925,
+      "\u0007"
+    ],
+    [
+      0.000256,
+      "lay-"
+    ],
+    [
+      1.215776,
+      "s"
+    ],
+    [
+      0.136408,
+      "u"
+    ],
+    [
+      0.111168,
+      "bmit-job.lua "
+    ],
+    [
+      0.935830,
+      "-"
+    ],
+    [
+      0.608789,
+      "n"
+    ],
+    [
+      0.311874,
+      " "
+    ],
+    [
+      0.111927,
+      "1"
+    ],
+    [
+      1.231885,
+      " "
+    ],
+    [
+      0.119968,
+      "s"
+    ],
+    [
+      0.087959,
+      "a"
+    ],
+    [
+      0.119883,
+      "m"
+    ],
+    [
+      0.080054,
+      "\u0007"
+    ],
+    [
+      0.000297,
+      "ple"
+    ],
+    [
+      0.351315,
+      "."
+    ],
+    [
+      0.208899,
+      "l"
+    ],
+    [
+      0.255662,
+      "u"
+    ],
+    [
+      0.055893,
+      "a "
+    ],
+    [
+      0.194170,
+      "\r\n"
+    ],
+    [
+      0.012405,
+      "\r\n"
+    ],
+    [
+      2.018728,
+      "Job Submitted:"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "JOB_ID           = 1"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.001277,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      0.548661,
+      "./splay-submit-job.lua -n 1 sample.lua "
+    ],
+    [
+      0.079955,
+      "\u0008"
+    ],
+    [
+      0.500955,
+      "\u0008"
+    ],
+    [
+      0.082516,
+      "\u0008"
+    ],
+    [
+      0.083910,
+      "\u0008"
+    ],
+    [
+      0.084699,
+      "\u0008"
+    ],
+    [
+      0.083751,
+      "\u0008"
+    ],
+    [
+      0.084413,
+      "\u0008"
+    ],
+    [
+      0.083904,
+      "\u0008"
+    ],
+    [
+      0.083887,
+      "\u0008"
+    ],
+    [
+      0.084259,
+      "\u0008"
+    ],
+    [
+      0.082815,
+      "\u0008"
+    ],
+    [
+      0.083491,
+      "\u0008"
+    ],
+    [
+      0.613130,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.143851,
+      "\u001b[1@2"
+    ],
+    [
+      0.115558,
+      "\u001b[1@0"
+    ],
+    [
+      1.454584,
+      "\r\n"
+    ],
+    [
+      0.010378,
+      "\r\n"
+    ],
+    [
+      1.018777,
+      "Response from http://splaycontroller:2222/splay-ctrl-api:"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "ERROR: JOB 2: Not enough splayds found with the requested ressources (only 1 instead of 20) "
+    ],
+    [
+      0.000219,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.001369,
+      "\r\n"
+    ],
+    [
+      0.000355,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      0.990394,
+      "e"
+    ],
+    [
+      0.215838,
+      "x"
+    ],
+    [
+      0.095983,
+      "i"
+    ],
+    [
+      0.184027,
+      "t"
+    ],
+    [
+      0.911988,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "exit"
+    ],
+    [
+      0.000775,
+      "\r\n"
+    ],
+    [
+      0.003073,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000197,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.003406,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.032322,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000132,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.559619,
+      "d"
+    ],
+    [
+      0.119631,
+      "\u0008do"
+    ],
+    [
+      0.072238,
+      "c"
+    ],
+    [
+      0.095401,
+      "k"
+    ],
+    [
+      0.048103,
+      "e"
+    ],
+    [
+      0.120200,
+      "r"
+    ],
+    [
+      0.120258,
+      "-"
+    ],
+    [
+      0.175626,
+      "c"
+    ],
+    [
+      0.096227,
+      "o"
+    ],
+    [
+      0.199689,
+      "m"
+    ],
+    [
+      0.092143,
+      "pose\u001b[1m \u001b[m"
+    ],
+    [
+      0.316340,
+      "\u0008\u001b[m s"
+    ],
+    [
+      0.047246,
+      "c"
+    ],
+    [
+      0.024584,
+      "a"
+    ],
+    [
+      0.159931,
+      "l"
+    ],
+    [
+      0.119968,
+      "e"
+    ],
+    [
+      0.856399,
+      " "
+    ],
+    [
+      0.599587,
+      "s"
+    ],
+    [
+      0.455834,
+      "p"
+    ],
+    [
+      0.184012,
+      "l"
+    ],
+    [
+      0.072044,
+      "a"
+    ],
+    [
+      0.216062,
+      "y"
+    ],
+    [
+      0.111646,
+      "d"
+    ],
+    [
+      0.536326,
+      "="
+    ],
+    [
+      0.424080,
+      "2"
+    ],
+    [
+      0.087620,
+      "0"
+    ],
+    [
+      0.832040,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\r\r\n"
+    ],
+    [
+      0.000699,
+      "\u001b]2;docker-compose scale splayd=20\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;docker-compose\u0007"
+    ],
+    [
+      0.281153,
+      "Creating and starting 2 ... \r\r\nCreating and starting 3 ... \r\r\nCreating and starting 4 ... \r\r\n"
+    ],
+    [
+      0.000011,
+      "Creating and starting 5 ... \r\r\nCreating and starting 6 ... \r\r\nCreating and starting 7 ... \r\r\nCreating and starting 8 ... \r\r\n"
+    ],
+    [
+      0.000005,
+      "Creating and starting 9 ... \r\r\n"
+    ],
+    [
+      0.000026,
+      "Creating and starting 10 ... \r\r\n"
+    ],
+    [
+      0.000003,
+      "Creating and starting 11 ... \r\r\n"
+    ],
+    [
+      0.000013,
+      "Creating and starting 12 ... \r\r\n"
+    ],
+    [
+      0.000007,
+      "Creating and starting 13 ... \r\r\n"
+    ],
+    [
+      0.000025,
+      "Creating and starting 14 ... \r\r\nCreating and starting 15 ... \r\r\nCreating and starting 16 ... \r\r\nCreating and starting 17 ... \r\r\n"
+    ],
+    [
+      0.000003,
+      "Creating and starting 18 ... \r\r\n"
+    ],
+    [
+      0.000011,
+      "Creating and starting 19 ... \r\r\n"
+    ],
+    [
+      0.000007,
+      "Creating and starting 20 ... \r\r\n"
+    ],
+    [
+      0.743778,
+      "\u001b[12A\u001b[2K\rCreating and starting 9 ... done\r\u001b[12B"
+    ],
+    [
+      0.017688,
+      "\u001b[5A\u001b[2K\rCreating and starting 16 ... done\r\u001b[5B"
+    ],
+    [
+      0.016972,
+      "\u001b[14A\u001b[2K\rCreating and starting 7 ... done\r\u001b[14B"
+    ],
+    [
+      0.072150,
+      "\u001b[18A\u001b[2K\rCreating and starting 3 ... done\r\u001b[18B"
+    ],
+    [
+      0.177672,
+      "\u001b[19A\u001b[2K\rCreating and starting 2 ... done\r\u001b[19B"
+    ],
+    [
+      0.124073,
+      "\u001b[6A\u001b[2K\rCreating and starting 15 ... done\r\u001b[6B"
+    ],
+    [
+      0.006362,
+      "\u001b[15A\u001b[2K\rCreating and starting 6 ... done\r\u001b[15B"
+    ],
+    [
+      0.035784,
+      "\u001b[16A\u001b[2K\rCreating and starting 5 ... done\r\u001b[16B"
+    ],
+    [
+      0.229883,
+      "\u001b[7A\u001b[2K\rCreating and starting 14 ... done\r\u001b[7B"
+    ],
+    [
+      0.000058,
+      "\u001b[17A\u001b[2K\rCreating and starting 4 ... done\r\u001b[17B"
+    ],
+    [
+      0.230477,
+      "\u001b[1A\u001b[2K\rCreating and starting 20 ... done\r\u001b[1B"
+    ],
+    [
+      0.125338,
+      "\u001b[11A\u001b[2K\rCreating and starting 10 ... done\r\u001b[11B"
+    ],
+    [
+      0.037566,
+      "\u001b[2A\u001b[2K\rCreating and starting 19 ... done\r\u001b[2B"
+    ],
+    [
+      0.034218,
+      "\u001b[9A\u001b[2K\rCreating and starting 12 ... done\r\u001b[9B"
+    ],
+    [
+      0.072982,
+      "\u001b[8A\u001b[2K\rCreating and starting 13 ... done\r\u001b[8B"
+    ],
+    [
+      0.003269,
+      "\u001b[10A\u001b[2K\rCreating and starting 11 ... done\r\u001b[10B"
+    ],
+    [
+      0.016740,
+      "\u001b[3A\u001b[2K\rCreating and starting 18 ... done\r\u001b[3B"
+    ],
+    [
+      0.036629,
+      "\u001b[4A\u001b[2K\rCreating and starting 17 ... done\r\u001b[4B"
+    ],
+    [
+      0.000008,
+      "\u001b[13A\u001b[2K\rCreating and starting 8 ... done\r\u001b[13B"
+    ],
+    [
+      0.077424,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000151,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.002589,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.030853,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.090726,
+      "docker-compose scale splayd=20"
+    ],
+    [
+      0.095714,
+      "\u001b[24D exec -it cli bash      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.312240,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.000725,
+      "\u001b]2;docker exec -it cli bash\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.368021,
+      "\u001b]0;root@f9cbb2ebae18: /\u0007root@f9cbb2ebae18:/# "
+    ],
+    [
+      0.808215,
+      "c"
+    ],
+    [
+      0.079536,
+      "d"
+    ],
+    [
+      0.175931,
+      " "
+    ],
+    [
+      0.400041,
+      "/"
+    ],
+    [
+      0.240290,
+      "r"
+    ],
+    [
+      0.071290,
+      "o"
+    ],
+    [
+      0.088653,
+      "ot/"
+    ],
+    [
+      0.240087,
+      "s"
+    ],
+    [
+      0.072035,
+      "p"
+    ],
+    [
+      0.096032,
+      "lay/"
+    ],
+    [
+      1.487505,
+      "s"
+    ],
+    [
+      0.208345,
+      "r"
+    ],
+    [
+      0.080252,
+      "c/"
+    ],
+    [
+      0.247666,
+      "r"
+    ],
+    [
+      0.105540,
+      "p"
+    ],
+    [
+      0.086280,
+      "c_client/"
+    ],
+    [
+      1.536130,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      1.232014,
+      "."
+    ],
+    [
+      0.279494,
+      "/"
+    ],
+    [
+      0.119935,
+      "s"
+    ],
+    [
+      0.159798,
+      "p"
+    ],
+    [
+      0.087801,
+      "\u0007"
+    ],
+    [
+      0.000467,
+      "lay-"
+    ],
+    [
+      0.239990,
+      "s"
+    ],
+    [
+      0.088103,
+      "u"
+    ],
+    [
+      0.087788,
+      "bmit-job.lua "
+    ],
+    [
+      4.544829,
+      "-"
+    ],
+    [
+      0.415689,
+      "n"
+    ],
+    [
+      2.375551,
+      " "
+    ],
+    [
+      0.376795,
+      "2"
+    ],
+    [
+      0.057874,
+      "0"
+    ],
+    [
+      0.438034,
+      " "
+    ],
+    [
+      0.159927,
+      "s"
+    ],
+    [
+      0.079957,
+      "a"
+    ],
+    [
+      0.111816,
+      "m"
+    ],
+    [
+      0.088157,
+      "\u0007"
+    ],
+    [
+      0.000312,
+      "ple"
+    ],
+    [
+      0.287727,
+      "."
+    ],
+    [
+      0.215970,
+      "l"
+    ],
+    [
+      0.248077,
+      "u"
+    ],
+    [
+      0.056067,
+      "a "
+    ],
+    [
+      0.264931,
+      "\r\n"
+    ],
+    [
+      0.012902,
+      "\r\n"
+    ],
+    [
+      3.024093,
+      "Job Submitted:"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "JOB_ID           = 3"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.000908,
+      "\r\n"
+    ],
+    [
+      0.000740,
+      "\u001b]0;root@f9cbb2ebae18: ~/splay/src/rpc_client\u0007root@f9cbb2ebae18:~/splay/src/rpc_client# "
+    ],
+    [
+      1.436029,
+      "e"
+    ],
+    [
+      0.175864,
+      "x"
+    ],
+    [
+      0.111887,
+      "i"
+    ],
+    [
+      0.152293,
+      "t"
+    ],
+    [
+      0.247414,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "exit"
+    ],
+    [
+      0.002122,
+      "\r\n"
+    ],
+    [
+      0.003516,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000129,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.002792,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.033382,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.349188,
+      "d"
+    ],
+    [
+      0.088400,
+      "\u0008do"
+    ],
+    [
+      0.111912,
+      "c"
+    ],
+    [
+      0.080199,
+      "k"
+    ],
+    [
+      0.119956,
+      "e"
+    ],
+    [
+      0.087567,
+      "r"
+    ],
+    [
+      0.535786,
+      "-"
+    ],
+    [
+      0.184646,
+      "c"
+    ],
+    [
+      0.143723,
+      "o"
+    ],
+    [
+      0.187913,
+      "mpose\u001b[1m \u001b[m"
+    ],
+    [
+      0.404248,
+      "\u0008\u001b[m l"
+    ],
+    [
+      0.191967,
+      "o"
+    ],
+    [
+      0.047967,
+      "g"
+    ],
+    [
+      0.104065,
+      "s"
+    ],
+    [
+      0.127863,
+      " "
+    ],
+    [
+      0.120137,
+      "s"
+    ],
+    [
+      0.096024,
+      "p"
+    ],
+    [
+      0.144148,
+      "l"
+    ],
+    [
+      0.055424,
+      "a"
+    ],
+    [
+      0.216111,
+      "y"
+    ],
+    [
+      0.264437,
+      "c"
+    ],
+    [
+      0.135819,
+      "o"
+    ],
+    [
+      0.224069,
+      "n"
+    ],
+    [
+      0.040165,
+      "t"
+    ],
+    [
+      0.136296,
+      "r"
+    ],
+    [
+      0.103472,
+      "o"
+    ],
+    [
+      0.167771,
+      "l"
+    ],
+    [
+      0.168146,
+      "l"
+    ],
+    [
+      0.040084,
+      "e"
+    ],
+    [
+      0.080009,
+      "r"
+    ],
+    [
+      0.279397,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000032,
+      "\r\r\n"
+    ],
+    [
+      0.000512,
+      "\u001b]2;docker-compose logs splaycontroller\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;docker-compose\u0007"
+    ],
+    [
+      0.328902,
+      "Attaching to controller\r\n"
+    ],
+    [
+      0.072319,
+      "\u001b[36mcontroller | \u001b[0m * Starting MySQL database server mysqld\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[36mcontroller | \u001b[0m   ...done.\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[36mcontroller | \u001b[0m * Checking for tables which need an upgrade, are corrupt or were \r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[36mcontroller | \u001b[0mnot closed cleanly.\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[36mcontroller | \u001b[0m[2015-12-15 10:00:23] INFO  WEBrick 1.3.1\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[36mcontroller | \u001b[0m[2015-12-15 10:00:23] INFO  ruby 1.8.7 (2013-06-27) [x86_64-linux]\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[36mcontroller | \u001b[0m[2015-12-15 10:00:23] WARN  TCPServer Error: Address already in use - bind(2)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mcontroller | \u001b[0m[2015-12-15 10:00:23] INFO  WEBrick::HTTPServer#start: pid=578 port=2222\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mcontroller | \u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0m\u003e\u003e\u003e Splayd Controller 1.3 \u003c\u003c\u003c\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[36mcontroller | \u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mcontroller | \u001b[0mhttp://www.splay-project.org\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[36mcontroller | \u001b[0mSplay Controller is licensed under GPL v3, see COPYING\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mcontroller | \u001b[0m\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #617]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #619]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #616]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #622]  INFO -- : New DB connection\r\n\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #615]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #620]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #614]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #618]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #613]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #620]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11107)\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #621]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #621]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11108)\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #623]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #621]  INFO -- : Waiting for job's log on port: 11108\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #620]  INFO -- : Waiting for job's log on port: 11107\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #616]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11103)\r\n\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #616]  INFO -- : Waiting for job's log on port: 11103\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #613]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11100)\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #613]  INFO -- : Waiting for job's log on port: 11100\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #615]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11102)\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #615]  INFO -- : Waiting for job's log on port: 11102\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #618]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11105)\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #618]  INFO -- : Waiting for job's log on port: 11105\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #619]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11106)\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #619]  INFO -- : Waiting for job's log on port: 11106\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #617]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11104)\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #617]  INFO -- : Waiting for job's log on port: 11104\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #614]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11101)\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #614]  INFO -- : Waiting for job's log on port: 11101\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #622]  INFO -- : \u003e\u003e\u003e Splay Controller Log Daemon (port: 11109)\r\n"
+    ],
+    [
+      0.000180,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #622]  INFO -- : Waiting for job's log on port: 11109\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #635]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #624]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #623]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #637]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #638]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #636]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #624]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #634]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #636]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #635]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #645]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #646]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #637]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #638]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #635]  INFO -- : Waiting for splayds on port (SSL): 11003\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #644]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #638]  INFO -- : Waiting for splayds on port (SSL): 11006\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #654]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #655]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #634]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #656]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #645]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #646]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #645]  INFO -- : Waiting for splayds on port (SSL): 11008\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #644]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #663]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #646]  INFO -- : Waiting for splayds on port (SSL): 11009\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #655]  INFO -- : \u003e\u003e\u003e Splay Controller Job Daemon\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #624]  INFO -- : Waiting for splayds on port (SSL): 11001\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #654]  INFO -- : \u003e\u003e\u003e Splay Controller Job Daemon\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #623]  INFO -- : Waiting for splayds on port (SSL): 11000\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #644]  INFO -- : Waiting for splayds on port (SSL): 11007\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #637]  INFO -- : Waiting for splayds on port (SSL): 11005\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #656]  INFO -- : \u003e\u003e\u003e Splay Controller Job Daemon\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #663]  INFO -- : \u003e\u003e\u003e Splay Controller Unseen Daemon\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #634]  INFO -- : Waiting for splayds on port (SSL): 11002\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #670]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #669]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #666]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #669]  INFO -- : \u003e\u003e\u003e Splay Controller Loadavg Daemon\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #666]  INFO -- : \u003e\u003e\u003e Splay Controller Status Daemon\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #670]  INFO -- : \u003e\u003e\u003e Splay Controller Blacklist Daemon\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:23 #636]  INFO -- : Waiting for splayds on port (SSL): 11004\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:24 #654]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000103,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:24 #656]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:24 #655]  INFO -- : New DB connection\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:25 #613]  INFO -- : Unknown IP (172.17.0.3) trying to log...\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:25 #623]  INFO -- : Splayd splayd_172_17_0_3_1 Auto-added\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:25 #623]  INFO -- : 1 (host_splayd_172_17_0_3_1, 172.17.0.3): Log port: 11101\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:25 #623]  INFO -- : 1 (host_splayd_172_17_0_3_1, 172.17.0.3): Auth OK\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[36mcontroller | \u001b[0m172.17.0.4 - - [15/Dec/2015:10:00:38 UTC] \"POST /splay-ctrl-api HTTP/1.1\" 200 113\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[36mcontroller | \u001b[0m- -\u003e /splay-ctrl-api\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[36mcontroller | \u001b[0m172.17.0.4 - - [15/Dec/2015:10:00:43 UTC] \"POST /splay-ctrl-api HTTP/1.1\" 200 121\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[36mcontroller | \u001b[0m- -\u003e /splay-ctrl-api\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:52 #654]  INFO -- : Job 1: REGISTERING \r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:53 #654]  INFO -- : Job 1: RUNNING \r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:53 #614]  INFO -- : Splayd (1) remote-time before job: 10:00:53.277288 DIFF: 0.003867 RTT: 0.000111\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[36mcontroller | \u001b[0m172.17.0.4 - - [15/Dec/2015:10:00:51 UTC] \"POST /splay-ctrl-api HTTP/1.1\" 200 74\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36mcontroller | \u001b[0m- -\u003e /splay-ctrl-api\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:00:58 #654]  INFO -- : Job 2: NO_RESSOURCES Not enough splayds found with the requested ressources (only 1 instead of 20) \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[36mcontroller | \u001b[0m\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[36mcontroller | \u001b[0m172.17.0.4 - - [15/Dec/2015:10:00:58 UTC] \"POST /splay-ctrl-api HTTP/1.1\" 200 121\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[36mcontroller | \u001b[0m- -\u003e /splay-ctrl-api\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.6) trying to log...\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.5) trying to log...\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.7) trying to log...\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.8) trying to log...\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.9) trying to log...\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #635]  INFO -- : Splayd splayd_172_17_0_6_1 Auto-added\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #645]  INFO -- : Splayd splayd_172_17_0_5_1 Auto-added\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.12) trying to log...\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.10) trying to log...\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.11) trying to log...\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #635]  INFO -- : 2 (host_splayd_172_17_0_6_1, 172.17.0.6): Log port: 11103\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #635]  INFO -- : 2 (host_splayd_172_17_0_6_1, 172.17.0.6): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #623]  INFO -- : Splayd splayd_172_17_0_8_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #634]  INFO -- : Splayd splayd_172_17_0_7_1 Auto-added\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #635]  INFO -- : Splayd splayd_172_17_0_9_1 Auto-added\r\n\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.13) trying to log...\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #645]  INFO -- : 3 (host_splayd_172_17_0_5_1, 172.17.0.5): Log port: 11109\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #645]  INFO -- : 3 (host_splayd_172_17_0_5_1, 172.17.0.5): Auth OK\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #613]  INFO -- : Unknown IP (172.17.0.16) trying to log...\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #623]  INFO -- : 4 (host_splayd_172_17_0_8_1, 172.17.0.8): Log port: 11108\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:14 #623]  INFO -- : 4 (host_splayd_172_17_0_8_1, 172.17.0.8): Auth OK\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 5 (host_splayd_172_17_0_7_1, 172.17.0.7): Log port: 11104\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 5 (host_splayd_172_17_0_7_1, 172.17.0.7): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #636]  INFO -- : Splayd splayd_172_17_0_10_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #644]  INFO -- : Splayd splayd_172_17_0_12_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.15) trying to log...\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #637]  INFO -- : Splayd splayd_172_17_0_11_1 Auto-added\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #635]  INFO -- : 6 (host_splayd_172_17_0_9_1, 172.17.0.9): Log port: 11106\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #635]  INFO -- : 6 (host_splayd_172_17_0_9_1, 172.17.0.9): Auth OK\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : Splayd splayd_172_17_0_13_1 Auto-added\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : Splayd splayd_172_17_0_16_1 Auto-added\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #644]  INFO -- : 8 (host_splayd_172_17_0_12_1, 172.17.0.12): Log port: 11104\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #636]  INFO -- : 7 (host_splayd_172_17_0_10_1, 172.17.0.10): Log port: 11100\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #637]  INFO -- : 9 (host_splayd_172_17_0_11_1, 172.17.0.11): Log port: 11103\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #636]  INFO -- : 7 (host_splayd_172_17_0_10_1, 172.17.0.10): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #644]  INFO -- : 8 (host_splayd_172_17_0_12_1, 172.17.0.12): Auth OK\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #637]  INFO -- : 9 (host_splayd_172_17_0_11_1, 172.17.0.11): Auth OK\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #645]  INFO -- : Splayd splayd_172_17_0_15_1 Auto-added\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.20) trying to log...\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.17) trying to log...\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.21) trying to log...\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 10 (host_splayd_172_17_0_13_1, 172.17.0.13): Log port: 11107\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 10 (host_splayd_172_17_0_13_1, 172.17.0.13): Auth OK\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.19) trying to log...\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 11 (host_splayd_172_17_0_16_1, 172.17.0.16): Log port: 11100\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : 11 (host_splayd_172_17_0_16_1, 172.17.0.16): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #645]  INFO -- : 12 (host_splayd_172_17_0_15_1, 172.17.0.15): Log port: 11105\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #645]  INFO -- : 12 (host_splayd_172_17_0_15_1, 172.17.0.15): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.14) trying to log...\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.22) trying to log...\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.23) trying to log...\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #613]  INFO -- : Unknown IP (172.17.0.18) trying to log...\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #646]  INFO -- : Splayd splayd_172_17_0_17_1 Auto-added\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #634]  INFO -- : Splayd splayd_172_17_0_20_1 Auto-added\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #646]  INFO -- : Splayd splayd_172_17_0_21_1 Auto-added\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:15 #645]  INFO -- : Splayd splayd_172_17_0_19_1 Auto-added\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : Splayd splayd_172_17_0_22_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #637]  INFO -- : Splayd splayd_172_17_0_18_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : Splayd splayd_172_17_0_23_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : Splayd splayd_172_17_0_14_1 Auto-added\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #634]  INFO -- : 14 (host_splayd_172_17_0_20_1, 172.17.0.20): Log port: 11106\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #634]  INFO -- : 14 (host_splayd_172_17_0_20_1, 172.17.0.20): Auth OK\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 13 (host_splayd_172_17_0_17_1, 172.17.0.17): Log port: 11100\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 13 (host_splayd_172_17_0_17_1, 172.17.0.17): Auth OK\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 15 (host_splayd_172_17_0_21_1, 172.17.0.21): Log port: 11104\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 15 (host_splayd_172_17_0_21_1, 172.17.0.21): Auth OK\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #645]  INFO -- : 16 (host_splayd_172_17_0_19_1, 172.17.0.19): Log port: 11104\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #645]  INFO -- : 16 (host_splayd_172_17_0_19_1, 172.17.0.19): Auth OK\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #637]  INFO -- : 17 (host_splayd_172_17_0_18_1, 172.17.0.18): Log port: 11100\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : 18 (host_splayd_172_17_0_22_1, 172.17.0.22): Log port: 11105\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : 18 (host_splayd_172_17_0_22_1, 172.17.0.22): Auth OK\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #637]  INFO -- : 17 (host_splayd_172_17_0_18_1, 172.17.0.18): Auth OK\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 19 (host_splayd_172_17_0_23_1, 172.17.0.23): Log port: 11107\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #646]  INFO -- : 19 (host_splayd_172_17_0_23_1, 172.17.0.23): Auth OK\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : 20 (host_splayd_172_17_0_14_1, 172.17.0.14): Log port: 11101\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:16 #644]  INFO -- : 20 (host_splayd_172_17_0_14_1, 172.17.0.14): Auth OK\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:24 #654]  INFO -- : Job 1: ENDED \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:32 #654]  INFO -- : Job 3: REGISTERING \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:34 #654]  INFO -- : Job 3: RUNNING \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:34 #613]  INFO -- : Splayd (11) remote-time before job: 10:01:34.877691 DIFF: 0.004054 RTT: 0.000115\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:34 #613]  INFO -- : Splayd (13) remote-time before job: 10:01:34.927247 DIFF: 0.013751 RTT: 8.55e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #613]  INFO -- : Splayd (17) remote-time before job: 10:01:34.986905 DIFF: 0.0230590000000001 RTT: 7.5e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #617]  INFO -- : Splayd (8) remote-time before job: 10:01:34.996554 DIFF: 0.014822 RTT: 0.0011355\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #620]  INFO -- : Splayd (19) remote-time before job: 10:01:35.107284 DIFF: 0.009154 RTT: 9.5e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #614]  INFO -- : Splayd (20) remote-time before job: 10:01:35.138142 DIFF: 0.001175 RTT: 5.8e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #616]  INFO -- : Splayd (2) remote-time before job: 10:01:35.206551 DIFF: 0.007793 RTT: 0.000115\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #614]  INFO -- : Splayd (1) remote-time before job: 10:01:35.287884 DIFF: 0.011696 RTT: 8.1e-05\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #621]  INFO -- : Splayd (4) remote-time before job: 10:01:35.346968 DIFF: 0.006021 RTT: 8.6e-05\r\n\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #617]  INFO -- : Splayd (15) remote-time before job: 10:01:35.365897 DIFF: 0.007491 RTT: 9.7e-05\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #616]  INFO -- : Splayd (9) remote-time before job: 10:01:35.399617 DIFF: 0.001211 RTT: 7.0e-05\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #617]  INFO -- : Splayd (5) remote-time before job: 10:01:35.476922 DIFF: 0.012096 RTT: 0.0001065\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[36mcontroller | \u001b[0m172.17.0.4 - - [15/Dec/2015:10:01:32 UTC] \"POST /splay-ctrl-api HTTP/1.1\" 200 74\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mcontroller | \u001b[0m- -\u003e /splay-ctrl-api\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #619]  INFO -- : Splayd (14) remote-time before job: 10:01:35.726583 DIFF: 0.005428 RTT: 9.85e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #622]  INFO -- : Splayd (3) remote-time before job: 10:01:35.857555 DIFF: 0.006465 RTT: 0.001312\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #620]  INFO -- : Splayd (10) remote-time before job: 10:01:35.966933 DIFF: 0.003761 RTT: 6.55e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:35 #617]  INFO -- : Splayd (16) remote-time before job: 10:01:35.976373 DIFF: 0.022993 RTT: 8.2e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:36 #613]  INFO -- : Splayd (7) remote-time before job: 10:01:36.369444 DIFF: 0.024437 RTT: 7.4e-05\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:36 #619]  INFO -- : Splayd (6) remote-time before job: 10:01:36.368275 DIFF: 0.028888 RTT: 5.75e-05\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:36 #618]  INFO -- : Splayd (12) remote-time before job: 10:01:36.376913 DIFF: 0.017499 RTT: 8.0e-05\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:01:36 #618]  INFO -- : Splayd (18) remote-time before job: 10:01:36.497077 DIFF: 0.006598 RTT: 0.000106\r\n"
+    ],
+    [
+      42.756653,
+      "\u001b[36mcontroller | \u001b[0mI, [2015-12-15 10:02:25 #654]  INFO -- : Job 3: ENDED \r\n"
+    ],
+    [
+      2.000376,
+      "^C"
+    ],
+    [
+      0.000318,
+      "\u001b[31mERROR\u001b[0m: \r\nAborting.\r\n"
+    ],
+    [
+      0.023007,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                        \r \r"
+    ],
+    [
+      0.000092,
+      "\u001b]2;veleno@irmbp\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;../splay/docker\u0007"
+    ],
+    [
+      0.004256,
+      "\u001b]7;file://irmbp/Users/veleno/workspace-git/splay/docker\u0007"
+    ],
+    [
+      0.035113,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[01;31m➜ \u001b[m\u001b[01;32m \u001b[36mdocker \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000089,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.705198,
+      "e"
+    ],
+    [
+      0.207337,
+      "\u0008ex"
+    ],
+    [
+      0.072126,
+      "i"
+    ],
+    [
+      0.105482,
+      "t"
+    ],
+    [
+      0.078250,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000032,
+      "\r\r\n"
+    ],
+    [
+      0.000726,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
