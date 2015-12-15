@@ -1,0 +1,582 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 22,
+  "duration": 28.495234,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.014782,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r"
+    ],
+    [
+      0.012375,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mYuta\u001b[39m@\u001b[91mmymac\u001b[39m\u001b[33m~/test\u001b[39m\r\n\u003e "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[82C\u001b[36m[03:47]\u001b[39m\u001b[89D"
+    ],
+    [
+      1.453920,
+      "c"
+    ],
+    [
+      0.063831,
+      "\u0008ca"
+    ],
+    [
+      0.263961,
+      "t"
+    ],
+    [
+      0.136908,
+      " "
+    ],
+    [
+      0.223815,
+      "m"
+    ],
+    [
+      0.072005,
+      "e"
+    ],
+    [
+      0.160037,
+      "t"
+    ],
+    [
+      0.072237,
+      "a"
+    ],
+    [
+      0.143006,
+      "\r\r\n"
+    ],
+    [
+      0.002522,
+      "Start Program Meta-Data Code:\r\nS(start)0; A(start)0; P(run)11; I(keyboard)5; O(hard drive)9; \r\nI(keyboard)13; A(end)0; A(start)0; O(monitor)13; P(run)15; I(keyboard)6; P(run)9; \r\nA(end)0; A(start)0; O(hard drive)6; P(run)6; P(run)9; P(run)15; A(end)0; \r\nA(start)0; P(run)9; P(run)8; I(hard drive)9; P(run)15; A(end)0; S(end)0.\r\nEnd Program Meta-Data Code.\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r"
+    ],
+    [
+      0.009159,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mYuta\u001b[39m@\u001b[91mmymac\u001b[39m\u001b[33m~/test\u001b[39m\r\n\u003e \u001b[K\u001b[82C\u001b[36m[03:47]\u001b[39m\u001b[89D"
+    ],
+    [
+      0.452645,
+      "c"
+    ],
+    [
+      0.223862,
+      "\u0008ca"
+    ],
+    [
+      0.320015,
+      "t"
+    ],
+    [
+      0.119993,
+      " "
+    ],
+    [
+      0.256990,
+      "c"
+    ],
+    [
+      0.087855,
+      "o"
+    ],
+    [
+      0.095994,
+      "n"
+    ],
+    [
+      0.120015,
+      "f"
+    ],
+    [
+      0.167997,
+      "i"
+    ],
+    [
+      0.167192,
+      "g"
+    ],
+    [
+      0.249005,
+      "\r\r\n"
+    ],
+    [
+      0.002469,
+      "Start Simulator Configuration File \r\nVersion/Phase: 3.0\r\nFile Path: simproj1.simfile\r\nCPU Scheduling: FIFO-P\r\nQuantum time (cycles): 6\r\nProcessor cycle time (msec): 10\r\nMonitor display time (msec): 25\r\nHard drive cycle time (msec): 50\r\nPrinter cycle time (msec): 500\r\nKeyboard cycle time (msec): 1000\r\nLog: Log to Both\r\nLog File Path: logfile1.logfile \r\nEnd Simulator Configuration File \r\n\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r"
+    ],
+    [
+      0.009425,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mYuta\u001b[39m@\u001b[91mmymac\u001b[39m\u001b[33m~/test\u001b[39m\r\n\u003e \u001b[K\u001b[82C\u001b[36m[03:47]\u001b[39m\u001b[89D"
+    ],
+    [
+      2.787732,
+      "."
+    ],
+    [
+      0.031840,
+      "\u0008./"
+    ],
+    [
+      0.280032,
+      "o"
+    ],
+    [
+      0.127869,
+      "s"
+    ],
+    [
+      0.199811,
+      "sim\u001b[1m \u001b[0m"
+    ],
+    [
+      1.576021,
+      "\u0008\u001b[0m c"
+    ],
+    [
+      0.072154,
+      "o"
+    ],
+    [
+      0.055915,
+      "n"
+    ],
+    [
+      0.119545,
+      "f"
+    ],
+    [
+      0.095919,
+      "i"
+    ],
+    [
+      0.128616,
+      "g"
+    ],
+    [
+      0.280222,
+      "\r\r\n"
+    ],
+    [
+      0.003402,
+      "0.000000 - Simulator program starting\r\n"
+    ],
+    [
+      0.000008,
+      "0.000003 - OS: selecting next process\r\n0.000013 - OS: preparing process 1\r\n"
+    ],
+    [
+      0.000004,
+      "0.000027 - OS: starting process 1\r\n"
+    ],
+    [
+      0.000031,
+      "0.000050 - Process 1: start keyboard input\r\n"
+    ],
+    [
+      0.000004,
+      "0.000065 - OS: starting keyboard input\r\n"
+    ],
+    [
+      0.000009,
+      "0.000071 - OS: Process 1 to Blocked\r\n"
+    ],
+    [
+      0.000036,
+      "0.000096 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000006,
+      "0.000105 - OS: preparing process 2\r\n"
+    ],
+    [
+      0.000003,
+      "0.000115 - OS: starting process 2\r\n"
+    ],
+    [
+      0.000015,
+      "0.000127 - Process 2: start processing action\r\n"
+    ],
+    [
+      0.060077,
+      "0.060145 - OS: quantum time interrpt\r\n"
+    ],
+    [
+      0.000008,
+      "0.060187 - OS: Process 2 to Ready\r\n0.060200 - OS: selecting next process\r\n0.060212 - Process 2: start processing action\r\n"
+    ],
+    [
+      0.020024,
+      "0.080223 - Process 2: end processing action\r\n"
+    ],
+    [
+      0.000007,
+      "0.080239 - Process 2: start monitor output\r\n"
+    ],
+    [
+      0.000003,
+      "0.080251 - OS: starting monitor output\r\n"
+    ],
+    [
+      0.000014,
+      "0.080261 - OS: Process 2 to Blocked\r\n"
+    ],
+    [
+      0.009517,
+      "0.080296 - OS: selecting next process\r\n0.080309 - OS: preparing process 3\r\n0.080319 - OS: starting process 3\r\n0.080329 - Process 3: start hard drive input\r\n0.080341 - OS: starting hard drive input\r\n0.080351 - OS: Process 3 to Blocked\r\n0.080375 - OS: selecting next process\r\n0.080387 - OS: preparing process 4\r\n0.080397 - OS: starting process 4\r\n0.080407 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.050701,
+      "0.140419 - OS: quantum time interrpt\r\n"
+    ],
+    [
+      0.000008,
+      "0.140476 - OS: Process 4 to Ready\r\n0.140488 - OS: selecting next process\r\n"
+    ],
+    [
+      0.009623,
+      "0.140499 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.000556,
+      "0.150512 - Process 4: end processing action\r\n0.150535 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.050144,
+      "0.200547 - OS: quantum time interrpt\r\n0.200583 - OS: Process 4 to Ready\r\n0.200594 - OS: selecting next process\r\n0.200605 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.060082,
+      "0.260723 - OS: quantum time interrpt\r\n"
+    ],
+    [
+      0.009872,
+      "0.260761 - OS: Process 4 to Ready\r\n0.260962 - OS: selecting next process\r\n0.260977 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.009683,
+      "0.280303 - Process 2: end monitor output\r\n"
+    ],
+    [
+      0.000550,
+      "0.280991 - OS: Process 4 to Ready\r\n"
+    ],
+    [
+      0.000005,
+      "0.281006 - OS: Process 2 to Ready\r\n"
+    ],
+    [
+      0.000026,
+      "0.281018 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000134,
+      "0.281048 - Process 2: start keyboard input\r\n0.281066 - OS: starting keyboard input\r\n0.281101 - OS: Process 2 to Blocked\r\n"
+    ],
+    [
+      0.009691,
+      "0.281164 - OS: selecting next process\r\n0.281188 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.014922,
+      "0.301271 - Process 4: end processing action\r\n0.301313 - Process 4: start hard drive input\r\n0.301329 - OS: starting hard drive input\r\n0.301339 - OS: Process 4 to Blocked\r\n0.301370 - OS: selecting next process\r\n0.301381 - OS: preparing process 5\r\n0.301390 - OS: starting process 5\r\n0.301400 - Process 5: start keyboard input\r\n0.301411 - OS: starting keyboard input\r\n0.301420 - OS: Process 5 to Blocked\r\n"
+    ],
+    [
+      0.025624,
+      "0.330428 - Process 3: end hard drive input\r\n0.331144 - OS: Process 3 to Ready\r\n0.331201 - OS: selecting next process\r\n0.331249 - Process 3: start processing action\r\n"
+    ],
+    [
+      0.055283,
+      "0.382746 - Process 3: end processing action\r\n0.382786 - Process 3: start hard drive output\r\n0.382800 - OS: starting hard drive output\r\n0.382810 - OS: Process 3 to Blocked\r\n"
+    ],
+    [
+      0.257485,
+      "0.636881 - Process 3: end hard drive output\r\n0.636976 - OS: Process 3 to Ready\r\n0.636992 - OS: selecting next process\r\n0.637005 - Process 3: start keyboard input\r\n0.637016 - OS: starting keyboard input\r\n0.637026 - OS: Process 3 to Blocked\r\n"
+    ],
+    [
+      0.364719,
+      "1.005802 - Process 4: end hard drive input\r\n1.005851 - OS: Process 4 to Ready\r\n1.005869 - OS: selecting next process\r\n1.005882 - Process 4: start monitor output\r\n1.005894 - OS: starting monitor output\r\n1.005904 - OS: Process 4 to Blocked\r\n"
+    ],
+    [
+      0.130209,
+      "1.134074 - Process 4: end monitor output\r\n1.134121 - OS: Process 4 to Ready\r\n1.134152 - OS: selecting next process\r\n1.134164 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.060530,
+      "1.197645 - OS: quantum time interrpt\r\n1.197682 - OS: Process 4 to Ready\r\n1.197694 - OS: selecting next process\r\n1.197705 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.061949,
+      "1.259866 - OS: quantum time interrpt\r\n1.259901 - OS: Process 4 to Ready\r\n1.259913 - OS: selecting next process\r\n1.259925 - Process 4: start processing action\r\n"
+    ],
+    [
+      0.017051,
+      "1.270777 - Process 4: end processing action\r\n1.270797 - OS: ending process 4\r\n1.270807 - OS: removing process 4\r\n"
+    ],
+    [
+      3.722684,
+      "5.000108 - Process 1: end keyboard input\r\n5.000153 - OS: Process 1 to Ready\r\n5.000175 - OS: selecting next process\r\n5.000187 - Process 1: start hard drive output\r\n5.000200 - OS: starting hard drive output\r\n5.000210 - OS: Process 1 to Blocked\r\n"
+    ],
+    [
+      0.701681,
+      "5.701409 - Process 1: end hard drive output\r\n5.701616 - OS: Process 1 to Ready\r\n5.701663 - OS: selecting next process\r\n5.701675 - Process 1: start processing action\r\n"
+    ],
+    [
+      0.060186,
+      "5.761686 - OS: quantum time interrpt\r\n5.761725 - OS: Process 1 to Ready\r\n5.761737 - OS: selecting next process\r\n5.761748 - Process 1: start processing action\r\n"
+    ],
+    [
+      0.051736,
+      "5.811762 - Process 1: end processing action\r\n5.811808 - Process 1: start processing action\r\n"
+    ],
+    [
+      0.010336,
+      "5.821821 - OS: quantum time interrpt\r\n5.821841 - OS: Process 1 to Ready\r\n5.821852 - OS: selecting next process\r\n5.821862 - Process 1: start processing action\r\n"
+    ],
+    [
+      0.063074,
+      "5.881875 - OS: quantum time interrpt\r\n5.881906 - OS: Process 1 to Ready\r\n5.881918 - OS: selecting next process\r\n5.881930 - Process 1: start processing action\r\n"
+    ],
+    [
+      0.040865,
+      "5.921942 - Process 1: end processing action\r\n5.921977 - Process 1: start hard drive input\r\n5.921992 - OS: starting hard drive input\r\n5.922002 - OS: Process 1 to Blocked\r\n"
+    ],
+    [
+      0.701559,
+      "6.629351 - Process 1: end hard drive input\r\n6.629428 - OS: Process 1 to Ready\r\n6.629446 - OS: selecting next process\r\n6.629457 - OS: ending process 1\r\n6.629466 - OS: removing process 1\r\n"
+    ],
+    [
+      0.650731,
+      "7.281261 - Process 2: end keyboard input\r\n7.281309 - OS: Process 2 to Ready\r\n"
+    ],
+    [
+      0.000008,
+      "7.281329 - OS: selecting next process\r\n7.281340 - Process 2: start processing action\r\n"
+    ],
+    [
+      0.059904,
+      "7.341352 - OS: quantum time interrpt\r\n"
+    ],
+    [
+      0.000193,
+      "7.341417 - OS: Process 2 to Ready\r\n7.341429 - OS: selecting next process\r\n7.341441 - Process 2: start processing action\r\n"
+    ],
+    [
+      0.060238,
+      "7.401454 - OS: quantum time interrpt\r\n7.401481 - OS: Process 2 to Ready\r\n7.401488 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000007,
+      "7.401495 - Process 2: start processing action\r\n"
+    ],
+    [
+      0.010026,
+      "7.411840 - Process 2: end processing action\r\n"
+    ],
+    [
+      0.000091,
+      "7.411865 - Process 2: start hard drive output\r\n7.411878 - OS: starting hard drive output\r\n7.411889 - OS: Process 2 to Blocked\r\n"
+    ],
+    [
+      0.300180,
+      "7.712075 - Process 2: end hard drive output\r\n"
+    ],
+    [
+      0.000008,
+      "7.712124 - OS: Process 2 to Ready\r\n"
+    ],
+    [
+      0.000154,
+      "7.712141 - OS: selecting next process\r\n7.712153 - OS: ending process 2\r\n7.712166 - OS: removing process 2\r\n"
+    ],
+    [
+      2.598815,
+      "10.311040 - Process 5: end keyboard input\r\n"
+    ],
+    [
+      0.000008,
+      "10.311102 - OS: Process 5 to Ready\r\n"
+    ],
+    [
+      0.000025,
+      "10.311120 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000005,
+      "10.311137 - Process 5: start monitor output\r\n"
+    ],
+    [
+      0.000017,
+      "10.311150 - OS: starting monitor output\r\n"
+    ],
+    [
+      0.000008,
+      "10.311163 - OS: Process 5 to Blocked\r\n"
+    ],
+    [
+      0.275098,
+      "10.586199 - Process 5: end monitor output\r\n"
+    ],
+    [
+      0.000038,
+      "10.586288 - OS: Process 5 to Ready\r\n"
+    ],
+    [
+      0.000005,
+      "10.586307 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000022,
+      "10.586321 - Process 5: start hard drive input\r\n"
+    ],
+    [
+      0.000004,
+      "10.586334 - OS: starting hard drive input\r\n"
+    ],
+    [
+      0.000013,
+      "10.586344 - OS: Process 5 to Blocked\r\n"
+    ],
+    [
+      0.500081,
+      "11.086384 - Process 5: end hard drive input\r\n"
+    ],
+    [
+      0.000007,
+      "11.086424 - OS: Process 5 to Ready\r\n"
+    ],
+    [
+      0.000034,
+      "11.086444 - OS: selecting next process\r\n11.086460 - Process 5: start monitor output\r\n"
+    ],
+    [
+      0.000004,
+      "11.086472 - OS: starting monitor output\r\n"
+    ],
+    [
+      0.000015,
+      "11.086482 - OS: Process 5 to Blocked\r\n"
+    ],
+    [
+      0.325072,
+      "11.411520 - Process 5: end monitor output\r\n"
+    ],
+    [
+      0.000007,
+      "11.411558 - OS: Process 5 to Ready\r\n"
+    ],
+    [
+      0.000026,
+      "11.411579 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000003,
+      "11.411593 - Process 5: start hard drive input\r\n"
+    ],
+    [
+      0.000010,
+      "11.411606 - OS: starting hard drive input\r\n"
+    ],
+    [
+      0.000020,
+      "11.411616 - OS: Process 5 to Blocked\r\n"
+    ],
+    [
+      0.700066,
+      "12.111654 - Process 5: end hard drive input\r\n"
+    ],
+    [
+      0.000006,
+      "12.111690 - OS: Process 5 to Ready\r\n"
+    ],
+    [
+      0.000034,
+      "12.111710 - OS: selecting next process\r\n12.111722 - OS: ending process 5\r\n"
+    ],
+    [
+      0.000004,
+      "12.111733 - OS: removing process 5\r\n"
+    ],
+    [
+      3.532796,
+      "15.644486 - Process 3: end keyboard input\r\n"
+    ],
+    [
+      0.000009,
+      "15.644523 - OS: Process 3 to Ready\r\n"
+    ],
+    [
+      0.000003,
+      "15.644546 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000018,
+      "15.644559 - Process 3: start hard drive output\r\n"
+    ],
+    [
+      0.000015,
+      "15.644572 - OS: starting hard drive output\r\n"
+    ],
+    [
+      0.000013,
+      "15.644584 - OS: Process 3 to Blocked\r\n"
+    ],
+    [
+      0.500070,
+      "16.144620 - Process 3: end hard drive output\r\n"
+    ],
+    [
+      0.000007,
+      "16.144657 - OS: Process 3 to Ready\r\n"
+    ],
+    [
+      0.000014,
+      "16.144679 - OS: selecting next process\r\n"
+    ],
+    [
+      0.000015,
+      "16.144691 - OS: ending process 3\r\n"
+    ],
+    [
+      0.000004,
+      "16.144702 - OS: removing process 3\r\n"
+    ],
+    [
+      0.000007,
+      "16.144710 - Simulator program ending\r\n"
+    ],
+    [
+      0.000559,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r"
+    ],
+    [
+      0.009122,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mYuta\u001b[39m@\u001b[91mmymac\u001b[39m\u001b[33m~/test\u001b[39m\r\n\u003e "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[82C\u001b[36m[03:47]\u001b[39m\u001b[89D"
+    ],
+    [
+      1.678670,
+      "\r\r\n"
+    ]
+  ]
+}
