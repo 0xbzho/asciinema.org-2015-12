@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 26,
+  "duration": 48.501962,
+  "command": "ssh pi@192.168.1.92",
+  "title": "unacaster_raspberry_client",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      1.832296,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Wed Dec 16 09:59:51 2015 from unamac\r\r\n"
+    ],
+    [
+      16.648667,
+      "\r\n"
+    ],
+    [
+      1.552039,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.000803,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.574470,
+      "exit"
+    ],
+    [
+      0.374886,
+      "\u0008\u0008\u0008\u0008cd rc \u0026\u0026 node app.js"
+    ],
+    [
+      0.808222,
+      "\r\n"
+    ],
+    [
+      8.072178,
+      "info: WebSocket Client Connected\r\n"
+    ],
+    [
+      13.639395,
+      "info: Received: 'torbjorn'\r\n"
+    ],
+    [
+      0.016534,
+      "info: Playing: torbjorn.mp3\r\n"
+    ],
+    [
+      2.277137,
+      "^C"
+    ],
+    [
+      0.023620,
+      "\r\n"
+    ],
+    [
+      0.006157,
+      "\u001b]0;pi@raspberrypi: ~/rc\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~/rc $\u001b[00m "
+    ],
+    [
+      2.053184,
+      "e"
+    ],
+    [
+      0.224192,
+      "x"
+    ],
+    [
+      0.089175,
+      "i"
+    ],
+    [
+      0.146922,
+      "t"
+    ],
+    [
+      0.139438,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.021591,
+      "Connection to 192.168.1.92 closed.\r\r\n"
+    ]
+  ]
+}
