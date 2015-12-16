@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 26,
+  "duration": 4.683522,
+  "command": "heroku logs -n 2 -t | grep -B1 'Account id: 96'",
+  "title": "unacaster_heroku_app",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      2.849211,
+      "2015-12-16T09:09:44.077824+00:00 app[web.1]: Dec 16, 2015 10:09:44 AM clojure.tools.logging$eval18$fn__22 invoke\r\n2015-12-16T09:09:44.077828+00:00 app[web.1]: INFO: Account id: 96 has checked in\r\n"
+    ],
+    [
+      1.806088,
+      "^C"
+    ],
+    [
+      0.006106,
+      " !    Command cancelled.\r\n"
+    ]
+  ]
+}
