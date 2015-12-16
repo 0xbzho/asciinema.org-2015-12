@@ -1,0 +1,978 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 30,
+  "duration": 282.617441,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.034791,
+      "\u001b]0;fish  /Users/paul\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.005634,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.040564,
+      "\u001b]0;fish  /Users/paul\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000399,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                             \r \r\u001b[44m\u001b[30m ~ \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      2.071206,
+      "c"
+    ],
+    [
+      0.000371,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mhsh -s /usr/local/bin/fish\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.189812,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000217,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000028,
+      "\u001b[38;5;240m Downloads/\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.089762,
+      "\u001b[38;5;26m \u001b[38;5;240mDownloads/\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000170,
+      "\u0008 \u001b[38;5;240mDownloads/\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.203544,
+      "D\u001b[38;5;240mownloads/\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000163,
+      "\u0008\u001b[38;5;39m\u001b[4mD\u001b[38;5;240m\u001b[24mownloads/\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.146052,
+      "\u001b[38;5;39m\u001b[4mo\u001b[38;5;240m\u001b[24mwnloads/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.360030,
+      "\u001b[38;5;39m\u001b[4mw\u001b[38;5;240m\u001b[24mnloads/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.202575,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mloads/\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.360013,
+      "\u001b[38;5;39m\u001b[4ml\u001b[38;5;240m\u001b[24moads/\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.995559,
+      "\u001b[38;5;39m\u001b[4moads/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.635906,
+      "\r\n\u001b[30m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b]0;cd  /Users/paul\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b"
+    ],
+    [
+      0.000001,
+      "[m"
+    ],
+    [
+      0.012860,
+      "\u001b]7;file://mac-vm.local/%55%73%65%72%73/%70%61%75%6c/%44%6f%77%6e%6c%6f%61%64%73\u0007"
+    ],
+    [
+      0.032903,
+      "\u001b]0;fish  /Users/paul/Downloads\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000530,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                             \r \r\u001b[44m\u001b[30m ~/Downloads \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      7.065585,
+      "c\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mhsh -s /usr/local/bin/fish\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000846,
+      "\u001b[31m\u001b[1mu\u001b(B\u001b[m\u001b[K\u0008\u0008\u001b[38;5;26mcu\u001b[30m\u001b(B\u001b[m\u001b[38;5;240mrl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[79D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000853,
+      "\u001b[38;5;26mr\u001b[38;5;240ml -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000215,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mcur\u001b(B\u001b[m\u001b[38;5;240ml -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000385,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240m -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000390,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mcurl\u001b[38;5;240m -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000370,
+      "\u001b[38;5;26m \u001b[38;5;240m-L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000335,
+      "\u0008 \u001b[38;5;240m-L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000473,
+      "-\u001b[38;5;240mL https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000398,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240mL https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install \u003e install\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000223,
+      "\u001b[38;5;39mO\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000437,
+      "\u001b[38;5;240m https://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[87D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000529,
+      "\u001b[38;5;39m \u001b[38;5;240mhttps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[86D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000450,
+      "\u0008 \u001b[38;5;240mhttps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[86D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000505,
+      "h\u001b[38;5;240mttps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[85D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000469,
+      "\u0008\u001b[38;5;39mh\u001b[38;5;240mttps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[85D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000722,
+      "\u001b[38;5;39mt\u001b[38;5;240mtps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[84D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000614,
+      "\u001b[38;5;39mt\u001b[38;5;240mps://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[83D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000830,
+      "\u001b[38;5;39mp\u001b[38;5;240ms://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[82D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000678,
+      "\u001b[38;5;39ms\u001b[38;5;240m://raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[81D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000453,
+      "\u001b[38;5;39m:\u001b[38;5;240m//raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[80D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000457,
+      "\u001b[38;5;39m/\u001b[38;5;240m/raw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[79D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000465,
+      "\u001b[38;5;39m/\u001b[38;5;240mraw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000429,
+      "\u001b[38;5;39mr\u001b[38;5;240maw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000420,
+      "\u001b[38;5;39ma\u001b[38;5;240mw.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000420,
+      "\u001b[38;5;39mw\u001b[38;5;240m.githubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000413,
+      "\u001b[38;5;39m.\u001b[38;5;240mgithubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[74D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000411,
+      "\u001b[38;5;39mg\u001b[38;5;240mithubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[73D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000409,
+      "\u001b[38;5;39mi\u001b[38;5;240mthubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[72D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000447,
+      "\u001b[38;5;39mt\u001b[38;5;240mhubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[71D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000400,
+      "\u001b[38;5;39mh\u001b[38;5;240mubusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[70D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000421,
+      "\u001b[38;5;39mu\u001b[38;5;240mbusercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[69D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000402,
+      "\u001b[38;5;39mb\u001b[38;5;240musercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[68D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000394,
+      "\u001b[38;5;39mu\u001b[38;5;240msercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[67D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000476,
+      "\u001b[38;5;39ms\u001b[38;5;240mercontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[66D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000354,
+      "\u001b[38;5;39me\u001b[38;5;240mrcontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[65D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000438,
+      "\u001b[38;5;39mr\u001b[38;5;240mcontent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[64D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000465,
+      "\u001b[38;5;39mc\u001b[38;5;240montent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[63D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000391,
+      "\u001b[38;5;39mo\u001b[38;5;240mntent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[62D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000385,
+      "\u001b[38;5;39mn\u001b[38;5;240mtent.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[61D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000403,
+      "\u001b[38;5;39mt\u001b[38;5;240ment.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[60D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000381,
+      "\u001b[38;5;39me\u001b[38;5;240mnt.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[59D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000375,
+      "\u001b[38;5;39mn\u001b[38;5;240mt.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[58D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000391,
+      "\u001b[38;5;39mt\u001b[38;5;240m.com/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[57D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000370,
+      "\u001b[38;5;39m.\u001b[38;5;240mcom/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[56D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000367,
+      "\u001b[38;5;39mc\u001b[38;5;240mom/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000387,
+      "\u001b[38;5;39mo\u001b[38;5;240mm/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000362,
+      "\u001b[38;5;39mm\u001b[38;5;240m/ppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000448,
+      "\u001b[38;5;39m/\u001b[38;5;240mppaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000399,
+      "\u001b[38;5;39mp\u001b[38;5;240mpaulgifford/appcatalystlab/master/appcatalyst-lab.…\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000330,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000297,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000381,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000309,
+      "\u001b[38;5;39mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000310,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007828,
+      "\u001b[38;5;39mf\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000321,
+      "\u001b[38;5;39mf\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000404,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000490,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000702,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.004323,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000394,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000330,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000324,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000410,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000440,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000328,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000445,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000424,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000539,
+      "\u001b[38;5;39my\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000439,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000384,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000379,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000457,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000390,
+      "\u001b[38;5;39mb\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000396,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000710,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000486,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000374,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000384,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000342,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000398,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000429,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000371,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000333,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000376,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000381,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000379,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000385,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000472,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000964,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000680,
+      "\u001b[38;5;39my\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000548,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000426,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000421,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000454,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000463,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000469,
+      "\u001b[38;5;39mb\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000577,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000507,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000363,
+      "\u001b[38;5;39mh\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      2.137162,
+      "\r\n\u001b[30"
+    ],
+    [
+      0.000004,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.000206,
+      "\u001b]0;curl  /"
+    ],
+    [
+      0.000004,
+      "Users/paul/Downloads"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000266,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007367,
+      "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n                                 Dload  Upload   Total   Spent    Left  Speed\r\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.139461,
+      "\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.604207,
+      "\r100  8576  100  8576    0     0  11526      0 --:--:-- --:--:"
+    ],
+    [
+      0.000007,
+      "-- --:--:-- 11526\r\n"
+    ],
+    [
+      0.035717,
+      "\u001b]0;fish  /Users/paul/Downloads\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000759,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                             \r \r\u001b[44m\u001b[30m ~/Downloads \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      3.306601,
+      "c"
+    ],
+    [
+      0.000170,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\u001b[38;5;240murl -O https://raw.githubusercontent.com/paulgifford/appcatalystlab/master/appcatalyst-lab.sh\u001b[93D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112090,
+      "\u001b[31m\u001b[1mm\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.026836,
+      "\u001b[38;5;240mp \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.310652,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      1.406273,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.528363,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.247751,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m"
+    ],
+    [
+      0.000191,
+      "\u001b[38;5;240msh -s /usr/local/bin/fish\u001b[25D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.270275,
+      "\u001b[31m\u001b[1mm\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.026729,
+      "\u001b[38;5;240mod +x test.sh \u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.209483,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240md +x test.sh \u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      2.508447,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m\u001b[38;5;240m +x test.sh \u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mchmod\u001b[38;5;240m +x test.sh \u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.146074,
+      "\u001b[38;5;26m \u001b[38;5;240m+x test.sh \u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000159,
+      "\u0008 \u001b[38;5;240m+x test.sh \u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.877668,
+      "+\u001b[38;5;240mx test.sh \u001b[10D\u001b[30m\u001b(B\u001b[m\u0008\u001b[38;5;39m+\u001b[38;5;240mx test.sh \u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.663597,
+      "\u001b[38;5;39mx\u001b[38;5;240m test.sh \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.506186,
+      "\u001b[38;5;39m \u001b[38;5;240mtest.sh \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000173,
+      "\u0008 \u001b[38;5;240mtest.sh \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.597485,
+      "a\u001b[K"
+    ],
+    [
+      0.000382,
+      "\u0008\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.008449,
+      "\u001b[38;5;240mppcatalyst-lab.sh \u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.261448,
+      "\u001b[38;5;39m\u001b[4mp\u001b[38;5;240m\u001b[24mpcatalyst-lab.sh \u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.427094,
+      "\u001b[38;5;39m\u001b[4mpcatalyst-lab.sh \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000190,
+      "\u001b[19D\u001b[38;5;39mappcatalyst-lab.sh\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.708335,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000211,
+      "\u001b]0;chmod  /Users"
+    ],
+    [
+      0.000003,
+      "/paul/Downloads\u0007"
+    ],
+    [
+      0.000297,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.049616,
+      "\u001b]0;fish  /Users/paul/Downloads\u0007\u001b[30m\u001b("
+    ],
+    [
+      0.000020,
+      "B\u001b[m"
+    ],
+    [
+      0.001383,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                             \r \r\u001b[44m\u001b[30m ~/Downloads \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.906663,
+      ".\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002679,
+      "\u001b[38;5;240m/\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.222038,
+      "\u001b[38;5;26m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.305118,
+      "\u001b[38;5;26ma\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[31m\u001b[1m./a\u001b(B\u001b[m"
+    ],
+    [
+      0.000135,
+      "\u001b[38;5;240mppcatalyst-lab.sh \u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.157417,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240mpcatalyst-lab.sh \u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.147107,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240mcatalyst-lab.sh \u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.793279,
+      "\u001b[31m\u001b[1mcatalyst-lab.sh \u001b(B\u001b[m"
+    ],
+    [
+      0.000155,
+      "\u001b[21D\u001b[38;5;26m./appcatalyst-lab.sh\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      1.536067,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000653,
+      "\u001b]0;./appcatalyst-lab.sh  /Users/paul/Downloads\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.021435,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000356,
+      "\r\n\u001b[32;01m AppCatalyst Lab Installer v2.2 \u001b[39;49;00m\r\n\r\n"
+    ],
+    [
+      0.000114,
+      "Press [Enter] to begin..."
+    ],
+    [
+      1.799846,
+      "\r\n"
+    ],
+    [
+      0.012624,
+      "\r\n\u001b[32;01m Checking your Mac for AppCatalyst Lab Setup... \u001b[39;49;00m\r\n\r\nHomebrew:                             \u001b[32;01m[ OK ]\u001b[39;49;00m\r\nwget:                                 \u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling wget...\r\n"
+    ],
+    [
+      3.607725,
+      "\r\ngit:                                  "
+    ],
+    [
+      0.004411,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling git...\r\n"
+    ],
+    [
+      12.450370,
+      "\r\nAnsible:                              "
+    ],
+    [
+      0.177628,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Ansible...\r\n"
+    ],
+    [
+      37.124005,
+      "\r\nPacker:                               "
+    ],
+    [
+      0.190736,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Packer...\r\n"
+    ],
+    [
+      34.763726,
+      "\r\nAppCatalyst:                          "
+    ],
+    [
+      0.011499,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading AppCatalyst...\r\n"
+    ],
+    [
+      48.909770,
+      "\r\nInstalling AppCatalyst...\r\n"
+    ],
+    [
+      3.433645,
+      "Password:"
+    ],
+    [
+      5.760934,
+      "\r\n"
+    ],
+    [
+      9.362448,
+      "\r\nDocker Client:                        \u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading Docker Client...\r\n\r\n"
+    ],
+    [
+      4.794448,
+      "Docker Machine (AppCatalyst Driver):  \u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading Docker Machine (w/ AppCatalyst)...\r\n\r\n"
+    ],
+    [
+      7.890539,
+      "Vagrant:                              "
+    ],
+    [
+      0.166355,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading Vagrant...\r\n"
+    ],
+    [
+      14.927909,
+      "\r\nInstalling Vagrant...\r\n\r\n"
+    ],
+    [
+      12.466747,
+      "Vagrant AppCatalyst Plugin:           "
+    ],
+    [
+      1.705444,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Vagrant AppCatalyst Plugin...\r\n\r\n"
+    ],
+    [
+      23.500347,
+      "Vagrant Photon Plugin:                "
+    ],
+    [
+      0.828700,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Vagrant Photon Plugin...\r\n\r\n"
+    ],
+    [
+      8.149923,
+      "\u001b[32;01m \r\nRechecking your Mac for AppCatalyst Lab Setup... \u001b[39;49;00m\r\n\r\nHomebrew:                             "
+    ],
+    [
+      0.000245,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nwget:                                 \u001b[32;01m[ OK ]\u001b[39;49;00m\r\ngit:                                  "
+    ],
+    [
+      0.006567,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nAnsible:                              "
+    ],
+    [
+      0.229719,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nPacker:                               "
+    ],
+    [
+      0.211784,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nAppCatalyst:                          "
+    ],
+    [
+      0.019862,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nDocker Client:                        \u001b[32;01m[ OK ]\u001b[39;49;00m\r\nDocker Machine (AppCatalyst Driver):  \u001b[32;01m[ OK ]\u001b[39;49;00m\r\nVagrant:                              "
+    ],
+    [
+      0.013141,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nVagrant AppCatalyst Plugin:           "
+    ],
+    [
+      0.865735,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nVagrant Photon Plugin:                "
+    ],
+    [
+      0.941160,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.005302,
+      "\r\n\r\nYour AppCatalyst Lab is ready\r\n\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "Press [Enter] Launch VMware AppCatalyst..."
+    ],
+    [
+      2.612623,
+      "\r\n"
+    ],
+    [
+      0.052987,
+      "\r\nVMware AppCatalyst Technical Preview August 2015\r\nBuild # 3024004\r\nCopyright (C) 2015 VMware Inc.\r\nAll Rights Reserved\r\n\r\nUsage:\r\n  appcatalyst \u003cdomain\u003e \u003ccommand\u003e ...\r\n\r\nVirtual Machine Operations\r\n  vm list                          List all available VM IDs.\r\n  vm create \u003cid\u003e                   Create a VM from the default template.\r\n  vm clone \u003cparentId\u003e \u003cid\u003e         Create a clone of the parent VM.\r\n\r\nVirtual Machine Power Operations\r\n  vmpower list                     List all powered-on VM IDs.\r\n  vmpower on \u003cid\u003e                  Power on the VM, or resume a suspended VM.\r\n  vmpower off \u003cid\u003e                 Power off the VM immediately.\r\n  vmpower shutdown \u003cid\u003e            Shut down the guest OS.\r\n  vmpower suspend \u003cid\u003e             Suspend the VM, saving the current state.\r\n  vmpower pause \u003cid\u003e               Pause the VM.\r\n  vmpower unpause \u003cid\u003e             Unpause the VM.\r\n\r\nGuest OS Operations\r\n  guest getip \u003cid\u003e                 Get the IP address of the VM.\r\n\r\n"
+    ],
+    [
+      0.007239,
+      "Checking for updates...\r\n"
+    ],
+    [
+      0.847529,
+      "No updates available.\r\n"
+    ],
+    [
+      0.061537,
+      "\u001b]0;fish  /Users/paul/Downloads\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                             \r \r\u001b[40m\u001b[31m ✘ \u001b[44m\u001b[30m \u001b[44m\u001b[30m~/Downloads \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      5.747537,
+      "e"
+    ],
+    [
+      0.000261,
+      "\u0008\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mxit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.291755,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u0008\u0008\u001b[38;5;26mex\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191355,
+      "\u001b[38;5;26mi\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mexi\u001b(B\u001b[m\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100732,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m"
+    ],
+    [
+      0.000201,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mexit\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.596706,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000244,
+      "\u001b]0;exit  /Users/paul/Downloads\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000840,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
