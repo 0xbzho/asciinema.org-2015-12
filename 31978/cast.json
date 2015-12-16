@@ -1,0 +1,3570 @@
+{
+  "version": 1,
+  "width": 174,
+  "height": 42,
+  "duration": 451.202344,
+  "command": "./run.sh --video 5",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.641449,
+      " export SHUTIT_BACKUP_PS1_origin_prompt=$PS1 \u0026\u0026 PS1='ORIGIN_ENV#KCFFrQz6\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.113958,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.034674,
+      "imiell@rothko:/space/git/shutit-training-lvm$  "
+    ],
+    [
+      0.000216,
+      "export SHUT"
+    ],
+    [
+      0.000224,
+      "IT_BACKU"
+    ],
+    [
+      0.000195,
+      "P_PS1_"
+    ],
+    [
+      0.000222,
+      "origin"
+    ],
+    [
+      0.000218,
+      "_p \rrompt=$PS1"
+    ],
+    [
+      0.000239,
+      " \u0026\u0026 PS1='O"
+    ],
+    [
+      0.000322,
+      "RIGIN_ENV#KCFFrQz6"
+    ],
+    [
+      0.000220,
+      "\u003e ' \u0026\u0026 u"
+    ],
+    [
+      0.000185,
+      "nset P"
+    ],
+    [
+      0.000226,
+      "ROMPT_"
+    ],
+    [
+      0.000224,
+      "COMMAN"
+    ],
+    [
+      0.000244,
+      "D \u0026\u0026 s"
+    ],
+    [
+      0.000213,
+      "tty c"
+    ],
+    [
+      0.000214,
+      "ols 3 \r"
+    ],
+    [
+      0.000196,
+      "20\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001509,
+      "ORIGIN_ENV#KCFFrQz6\u003e "
+    ],
+    [
+      0.100990,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILNEXIST-FILFIN\r\r\nORIGIN_ENV#KCFFrQz6\u003e "
+    ],
+    [
+      0.101257,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001883,
+      "ORIGIN_ENV#KCFFrQz6\u003e "
+    ],
+    [
+      0.100667,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.023705,
+      "ORIGIN_ENV#KCFFrQz6\u003e "
+    ],
+    [
+      0.100727,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.001652,
+      "ORIGIN_ENV#KCFFrQz6\u003e "
+    ],
+    [
+      0.101035,
+      " export SHUTIT_BACKUP_PS1_root=$PS \r1 \u0026\u0026 PS1='default#bkrHHP8M\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001580,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100832,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000222,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100589,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000183,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000037,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100608,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001743,
+      "ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.000268,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100605,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000221,
+      "FILNEXIST-FILFIN\r\r\ndefault#bkrHHP8M\u003e "
+    ],
+    [
+      0.100617,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000237,
+      "FILEXIST-FILFIN\r\r\ndefault#bkrHHP8M\u003e "
+    ],
+    [
+      0.100496,
+      " cat /etc/issue\r\r\n"
+    ],
+    [
+      0.001306,
+      "Ubuntu 15.10 \\n \\l\r\r\n\r\r\n"
+    ],
+    [
+      0.000215,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100697,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001836,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100639,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.022004,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100715,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/pZLgNPKG\r\r\n"
+    ],
+    [
+      0.001651,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.103483,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000213,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000225,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100869,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000190,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000214,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.060227,
+      "bash"
+    ],
+    [
+      0.050113,
+      "\r\n"
+    ],
+    [
+      0.001228,
+      "bash\r\r\n"
+    ],
+    [
+      0.188670,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.029508,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.100937,
+      " export SHUTIT_BACKUP_PS1_Gzcw9evk=$PS1 \u0026\u0026 PS1='shutit.tk.setup#NBAt41c4\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001568,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100755,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000175,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100594,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000313,
+      "\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000187,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100546,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id"
+    ],
+    [
+      0.000200,
+      "\r\r\n"
+    ],
+    [
+      0.001576,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000225,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100737,
+      "cd"
+    ],
+    [
+      0.000203,
+      "\r\r\n"
+    ],
+    [
+      0.000219,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100653,
+      "cd /home/imiell/.local/lib/python2.7/site-packages"
+    ],
+    [
+      0.000204,
+      "\r\r\n"
+    ],
+    [
+      0.000196,
+      "shutit.tk.setup#NBAt41c4\u003e "
+    ],
+    [
+      0.100573,
+      "exit"
+    ],
+    [
+      0.000189,
+      "\r\r\nexit\r\r\n"
+    ],
+    [
+      0.002227,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100648,
+      "cd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000484,
+      "\r\r\ndefault#bkrHHP8M\u003e "
+    ],
+    [
+      0.052076,
+      "bash"
+    ],
+    [
+      0.050123,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "bash"
+    ],
+    [
+      0.000459,
+      "\r\r\n"
+    ],
+    [
+      0.189988,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.033753,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101330,
+      " export SHUTIT_BACKUP_PS1_6IntbFxS=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001380,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.101178,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000196,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.100669,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000248,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000224,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.100661,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001831,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000465,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.100765,
+      "cd\r\r\n"
+    ],
+    [
+      0.000354,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.100637,
+      "cd /space/git/shutit-training-lvm/shutit-library/virtualbox\r\r\n"
+    ],
+    [
+      0.000412,
+      "shutit-library.virtualbox.virtualbox.virtualbox#s5eb7WfM\u003e "
+    ],
+    [
+      0.100648,
+      "exit\r\r\n"
+    ],
+    [
+      0.000195,
+      "exit\r\r\n"
+    ],
+    [
+      0.002728,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100682,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000293,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050684,
+      "bash"
+    ],
+    [
+      0.050123,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "bash\r\r\n"
+    ],
+    [
+      0.191480,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.032413,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101019,
+      " export SHUTIT_BACKUP_PS1_LFOKmh2h=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001557,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100806,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100600,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000173,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000248,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100553,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001894,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000438,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100619,
+      "cd\r\r\n"
+    ],
+    [
+      0.000326,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100672,
+      "cd /space/git/shutit-training-lvm/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000313,
+      "tk.shutit.vagrant.vagrant.vagrant#NroQ2NHT\u003e "
+    ],
+    [
+      0.100693,
+      "exit\r\r\n"
+    ],
+    [
+      0.000217,
+      "exit\r\r\n"
+    ],
+    [
+      0.002730,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100685,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000330,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050678,
+      "bash"
+    ],
+    [
+      0.050128,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "bash\r\r\n"
+    ],
+    [
+      0.216332,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.034579,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101243,
+      " export SHUTIT_BACKUP_PS1_gvCRy0kf=$PS1 \u0026\u0026 PS1='shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001616,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100920,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100585,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000191,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000227,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100591,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001695,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000487,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100734,
+      "cd\r\r\n"
+    ],
+    [
+      0.000413,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100700,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000415,
+      "shutit.training_lvm.training_lvm.training_lvm#bD8FdjbI\u003e "
+    ],
+    [
+      0.100728,
+      "exit\r\r\n"
+    ],
+    [
+      0.000196,
+      "exit\r"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.002766,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100699,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000247,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.110136,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000260,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050534,
+      "bash"
+    ],
+    [
+      0.050127,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "bash\r\r\n"
+    ],
+    [
+      0.209936,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.025255,
+      "imiell@rothko:~/.local/lib/python2.7/site-packages$ "
+    ],
+    [
+      0.101144,
+      " export SHUTIT_BACKUP_PS1_Gpk82SiS=$PS1 \u0026\u0026 PS1='shutit.tk.setup#mbQGCre7\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001493,
+      "shutit.tk.setup#mbQGCre7\u003e "
+    ],
+    [
+      0.100942,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000212,
+      "shutit.tk.setup#mbQGCre7\u003e "
+    ],
+    [
+      0.100607,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000245,
+      "FILEXIST-FILFIN\r\r\nshutit.tk.setup#mbQGCre7\u003e "
+    ],
+    [
+      0.100600,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001834,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000373,
+      "shutit.tk.setup#mbQGCre7\u003e "
+    ],
+    [
+      0.100734,
+      "cd\r\r\n"
+    ],
+    [
+      0.000199,
+      "shutit.tk.setup#mbQGCre7\u003e "
+    ],
+    [
+      0.100842,
+      "exit\r\r\n"
+    ],
+    [
+      0.000216,
+      "exit\r\r\n"
+    ],
+    [
+      0.002554,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100730,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000280,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.102414,
+      "cd /space/git/shutit-training-lvm/shutit-library/virtualbox\r\r\n"
+    ],
+    [
+      0.000291,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050562,
+      "bash"
+    ],
+    [
+      0.050114,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "bash\r\r\n"
+    ],
+    [
+      0.215197,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.027425,
+      "imiell@rothko:/space/git/shutit-training-lvm/shutit-library/virtualbox$ "
+    ],
+    [
+      0.101084,
+      " export SHUTIT_BACKUP_PS1_fRD8AP6q=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001660,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100898,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000022,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000213,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100616,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000193,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000242,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100609,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001831,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000525,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100732,
+      "cd\r\r\n"
+    ],
+    [
+      0.000445,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100698,
+      "command -v VBoxManage\r\r\n"
+    ],
+    [
+      0.000256,
+      "/usr/bin/VBoxManage\r\r\n"
+    ],
+    [
+      0.000234,
+      "shutit-library.virtualbox.virtualbox.virtualbox#8CqCZDB9\u003e "
+    ],
+    [
+      0.100788,
+      "exit\r\r\n"
+    ],
+    [
+      0.000195,
+      "exit\r\r\n"
+    ],
+    [
+      0.002813,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100735,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000215,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100816,
+      "cd /space/git/shutit-training-lvm/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000204,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050505,
+      "bash"
+    ],
+    [
+      0.050123,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "bash\r\r\n"
+    ],
+    [
+      0.187976,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.032801,
+      "imiell@rothko:/space/git/shutit-training-lvm/shutit-library/vagrant$ "
+    ],
+    [
+      0.100906,
+      " export SHUTIT_BACKUP_PS1_6AEYVnyN=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001158,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100893,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000277,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100655,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000204,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000239,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100626,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001858,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000409,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100747,
+      "cd\r\r\n"
+    ],
+    [
+      0.000377,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100678,
+      "command -v vagrant\r\r\n"
+    ],
+    [
+      0.000227,
+      "/usr/bin/vagrant\r\r\n"
+    ],
+    [
+      0.000231,
+      "tk.shutit.vagrant.vagrant.vagrant#8a9Unuuj\u003e "
+    ],
+    [
+      0.100747,
+      "exit\r\r\n"
+    ],
+    [
+      0.000201,
+      "exit\r\r\n"
+    ],
+    [
+      0.002670,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100681,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000242,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100895,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000199,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050591,
+      "bash"
+    ],
+    [
+      0.050188,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "bash\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.216617,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.030826,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101205,
+      " export SHUTIT_BACKUP_PS1_vNHcywuj=$PS1 \u0026\u0026 PS1='shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001611,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100969,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000013,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000220,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100631,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000210,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000246,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100612,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001903,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000526,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100761,
+      "cd\r\r\n"
+    ],
+    [
+      0.000489,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100763,
+      "rm -rf /tmp/lvm_vm\r\r\n"
+    ],
+    [
+      0.002246,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100736,
+      "mkdir -p /tmp/lvm_vm\r\r\n"
+    ],
+    [
+      0.002198,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100835,
+      "cd /tmp/lvm_vm\r\r\n"
+    ],
+    [
+      0.000486,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100740,
+      "vagrant init ianmiell/centos7_lvm"
+    ],
+    [
+      0.000175,
+      "\r\r\n"
+    ],
+    [
+      0.170123,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.355040,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.243046,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.065509,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100671,
+      "vagrant up --provider virtualbox\r\r\n"
+    ],
+    [
+      0.170534,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.352787,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.739595,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.236596,
+      "\u001b[1m==\u003e default: Importing base box 'ianmiell/centos7_lvm'...\u001b[0m\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.525420,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000183,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      1.411047,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000216,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      1.109938,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.704823,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000223,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      11.045330,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      0.509835,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000556,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\r\n"
+    ],
+    [
+      0.313124,
+      "\u001b[1m==\u003e default: Checking if box 'ianmiell/centos7_lvm' is up to date...\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.144733,
+      "\u001b[1m==\u003e default: Setting the name of the VM: lvm_vm_default_1450297581417_11749\u001b[0m\r\r\n"
+    ],
+    [
+      0.553067,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2200.\u001b[0m\r\r\n"
+    ],
+    [
+      0.392875,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.126459,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.118110,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\r\n"
+    ],
+    [
+      0.073550,
+      "\u001b[0m    default: 22 =\u003e 2200 (adapter 1)\u001b[0m\r\r\n"
+    ],
+    [
+      0.486548,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.446343,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.282953,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2200\u001b[0m\r\r\n"
+    ],
+    [
+      0.000201,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\r\n"
+    ],
+    [
+      15.123455,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      0.781799,
+      "\u001b[0m    default: \r"
+    ],
+    [
+      0.000007,
+      "\r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\r\n"
+    ],
+    [
+      1.759949,
+      "\u001b[0m    default: \r\r\n    default: Inserting generated public key within guest...\u001b[0m\r\r\n"
+    ],
+    [
+      0.469038,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\r\n"
+    ],
+    [
+      0.292325,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\r\n"
+    ],
+    [
+      1.341087,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\r\n"
+    ],
+    [
+      0.000479,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.167244,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000453,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/lvm_vm\u001b[0m\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.875663,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.050607,
+      "vagrant ssh"
+    ],
+    [
+      0.050126,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "vagrant ssh\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.172418,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.286243,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.805656,
+      "Last login: Thu Dec 10 03:58:48 2015 from 10.0.2.2\r\r\r\n"
+    ],
+    [
+      0.006956,
+      "\u001bkvagrant@localhost:~\u001b\\"
+    ],
+    [
+      0.101090,
+      "[vagrant@localhost ~]$  export SHUTIT_BACKUP_PS1_lxiUkv4x=$PS1 \u0026\u0026 PS1='lxiUkv4x#rW52aPAO\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.000785,
+      "\r\r\n"
+    ],
+    [
+      0.002365,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100875,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000800,
+      "\r\r\n"
+    ],
+    [
+      0.000012,
+      "FILNEXIST-FILFIN\r\r\nlxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100681,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000878,
+      "\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000014,
+      "\r\nlxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100674,
+      " cat /etc/issue"
+    ],
+    [
+      0.001109,
+      "\r\r\n"
+    ],
+    [
+      0.001287,
+      "\\S\r\r\nKernel \\r on an \\m\r"
+    ],
+    [
+      0.000013,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.000372,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100626,
+      " test -a /etc/os-release \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000961,
+      "\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000014,
+      "\r\nlxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100607,
+      " cat /etc/os-release | grep ^NAME"
+    ],
+    [
+      0.001213,
+      "\r\r\n"
+    ],
+    [
+      0.002199,
+      "\u001b[01;31m\u001b[KNAME\u001b[m\u001b[K=\"CentOS Linux\"\r\r\n"
+    ],
+    [
+      0.000189,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100777,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id"
+    ],
+    [
+      0.001258,
+      "\r\r\n"
+    ],
+    [
+      0.002476,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100776,
+      "chmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.001324,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001936,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100681,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/UFj1lHPz"
+    ],
+    [
+      0.001214,
+      "\r\r\n"
+    ],
+    [
+      0.001351,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100779,
+      "cd"
+    ],
+    [
+      0.001048,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\nlxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.050592,
+      "sudo su -"
+    ],
+    [
+      0.050082,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "sudo su -"
+    ],
+    [
+      0.001052,
+      "\r\r\n"
+    ],
+    [
+      0.052624,
+      "\u001bkroot@localhost:~\u001b\\[root@localhost ~]# "
+    ],
+    [
+      0.101087,
+      " export SHUTIT_BACKUP_PS1_cssMa5S6=$PS1 \u0026\u0026 PS1='cssMa5S6#YF5VDADb\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001162,
+      "\r\r\n"
+    ],
+    [
+      0.001423,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.100810,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000925,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "FILEXIST-FILFIN\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.100567,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001084,
+      "\r\r\nFILEXIST-FILFIN\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.100637,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id"
+    ],
+    [
+      0.001250,
+      "\r\r\n"
+    ],
+    [
+      0.002221,
+      "UFj1lHPz\r\r\n"
+    ],
+    [
+      0.000278,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.100631,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001018,
+      "\r\r\nFILNEXIST-FILFIN\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.100736,
+      "cd"
+    ],
+    [
+      0.001122,
+      "\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      0.000282,
+      "\r\n\u001b[31m\r\n================================================================================\r\nList the available disks. We have 4 drives that are un-mounted and un-partitioned - sda,sdb,...\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000019,
+      "\tls /dev/sd*\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105618,
+      "ls /dev/sd*"
+    ],
+    [
+      0.001713,
+      "\r\r\n"
+    ],
+    [
+      0.002069,
+      "\u001b[0m\u001b[40;33;01m/dev/sda\u001b[0m  \u001b[40;33;01m/dev/sda1\u001b[0m  \u001b[40;33;01m/dev/sda2\u001b[0m  \u001b[40;33;01m/dev/sdb\u001b[0m  \u001b[40;33;01m/dev/sdc\u001b[0m  \u001b[40;33;01m/dev/sdd\u001b[0m\r\r\n"
+    ],
+    [
+      0.000237,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005369,
+      "\r\n\u001b[31m\r\n================================================================================\r\nNow show the physical volumes (the lowest layer of lvm) we have in our volume management. pv/vg/lvdisplay are good default commands to run when you are stuck.\r\n================================================================================\r\nCommand is:\r\n"
+    ],
+    [
+      0.000035,
+      "\r\n\tpvdisplay\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105561,
+      "pvdisplay"
+    ],
+    [
+      0.001333,
+      "\r\r\n"
+    ],
+    [
+      0.008916,
+      "  --- Physical volume ---\r\r\n  PV Name               /dev/sda2\r\r\n  VG Name               centos\r\r\n  PV Size               38.57 GiB / not usable 3.00 MiB\r\r\n  Allocatable           yes \r\r\n  PE Size               4.00 MiB\r\r\n  Total PE              9874\r\r\n  Free PE               11\r\r\n  Allocated PE          9863\r\r\n  PV UUID               1b85F0-q7Mi-4M4f-wugy-HB8z-f7w6-N4D298\r\r\n   \r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005385,
+      "\r\n\u001b[31m\r\n================================================================================\r\nUse pbcreate to give sdb to the physical volume (pv) manager to manage.\r\n================================================================================"
+    ],
+    [
+      0.000019,
+      "\r\nCommand is:\r\n\r\n\tpvcreate /dev/sdb\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.101392,
+      "pvcreate /dev/sdb"
+    ],
+    [
+      0.001339,
+      "\r\r\n"
+    ],
+    [
+      0.109927,
+      "  Physical volume \"/dev/sdb\" successfully created\r\r\n"
+    ],
+    [
+      0.000013,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.004357,
+      "\r\n\u001b[31m\r\n================================================================================\r\nUse pvscan to scan disks for physical volumes. sdb is not assigned to a volume group, whereas the sda5 partition is assigned to the vagrant volume group.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\tpvscan\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.103909,
+      "pvscan"
+    ],
+    [
+      0.001290,
+      "\r\r\n"
+    ],
+    [
+      0.008403,
+      "  PV /dev/sda2   VG centos   lvm2 [38.57 GiB / 44.00 MiB free]\r\r\n  PV /dev/sdb                lvm2 [2.00 GiB]\r\r\n"
+    ],
+    [
+      0.000016,
+      "  Total: 2 [40.57 GiB] / in use: 1 [38.57 GiB] / in no VG: 1 [2.00 GiB]\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005400,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDisplay the current status in longer form\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000028,
+      "\tpvdisplay\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105644,
+      "pvdisplay"
+    ],
+    [
+      0.001202,
+      "\r\r\n"
+    ],
+    [
+      0.009313,
+      "  --- Physical volume ---\r\r\n  PV Name               /dev/sda2\r\r\n  VG Name               centos\r\r\n  PV Size               38.57 GiB / not usable 3.00 MiB\r\r\n  Allocatable           yes \r\r\n  PE Size               4.00 MiB\r\r\n  Total PE              9874\r\r\n  Free PE               11\r"
+    ],
+    [
+      0.000014,
+      "\r\n  Allocated PE          9863\r\r\n  PV UUID               1b85F0-q7Mi-4M4f-wugy-HB8z-f7w6-N4D298\r\r\n   \r\r\n  \"/dev/sdb\" is a new physical volume of \"2.00 GiB\"\r\r\n  --- NEW Physical volume ---\r\r\n  PV Name               /dev/sdb\r\r\n  VG Name               \r"
+    ],
+    [
+      0.000010,
+      "\r\n  PV Size               2.00 GiB\r\r\n  Allocatable           NO\r\r\n"
+    ],
+    [
+      0.000007,
+      "  PE Size               0   \r\r\n  Total PE              0\r\r\n"
+    ],
+    [
+      0.000007,
+      "  Free PE               0\r\r\n  Allocated PE          0\r"
+    ],
+    [
+      0.000007,
+      "\r\n  PV UUID               dbV957-f06O-jF5u-YK1S-1u9y-9ge7-BZPnQM\r\r\n"
+    ],
+    [
+      0.000006,
+      "   \r\r\n"
+    ],
+    [
+      0.000024,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.004333,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a new volume group (the next level up in the hierarchy), giving it the sdb physical disk to manage.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "\tvgcreate newvg1 /dev/sdb\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.104418,
+      "vgcreate newvg1 /dev/sdb"
+    ],
+    [
+      0.001288,
+      "\r\r\n"
+    ],
+    [
+      0.014878,
+      "  Volume group \"newvg1\" successfully created\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.004075,
+      "\r\n\u001b[31m\r\n================================================================================\r\nnewvg1 has been added to the volume groups\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\tvgdisplay newvg1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105834,
+      "vgdisplay newvg1"
+    ],
+    [
+      0.001152,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.008320,
+      "  --- Volume group ---\r\r\n"
+    ],
+    [
+      0.000016,
+      "  VG Name               newvg1\r\r\n  System ID             \r\r\n  Format                lvm2\r\r\n  Metadata Areas        1\r\r\n  Metadata Sequence No  1\r"
+    ],
+    [
+      0.000013,
+      "\r\n  VG Access             read/write\r\r\n"
+    ],
+    [
+      0.000021,
+      "  VG Status             resizable\r\r\n  MAX LV                0\r"
+    ],
+    [
+      0.000010,
+      "\r\n  Cur LV                0\r"
+    ],
+    [
+      0.000009,
+      "\r\n  Open LV               0\r"
+    ],
+    [
+      0.000009,
+      "\r\n  Max PV                0\r\r\n"
+    ],
+    [
+      0.000008,
+      "  Cur PV                1\r\r\n"
+    ],
+    [
+      0.000009,
+      "  Act PV                1\r\r\n"
+    ],
+    [
+      0.000009,
+      "  VG Size               2.00 GiB\r\r\n"
+    ],
+    [
+      0.000009,
+      "  PE Size               4.00 MiB\r\r\n"
+    ],
+    [
+      0.000009,
+      "  Total PE              511\r\r\n"
+    ],
+    [
+      0.000009,
+      "  Alloc PE / Size       0 / 0   \r\r\n"
+    ],
+    [
+      0.000009,
+      "  Free  PE / Size       511 / 2.00 GiB\r\r\n"
+    ],
+    [
+      0.000009,
+      "  VG UUID               WByb9f-SsDs-GYvH-5216-9LCT-lBH5-Egz373\r\r\n"
+    ],
+    [
+      0.000011,
+      "   \r\r\n"
+    ],
+    [
+      0.000026,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.004104,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a logical volume (logical volumes are at the top of the lvm hierarchy) within this new volume group\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "\tlvcreate -L +100M -n newvol1 newvg1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105524,
+      "lvcreate -L +100M -n newvol1 newvg1"
+    ],
+    [
+      0.001477,
+      "\r\r\n"
+    ],
+    [
+      0.066886,
+      "  Logical volume \"newvol1\" created.\r\r\n"
+    ],
+    [
+      0.000016,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005423,
+      "\r\n\u001b[31m\r\n================================================================================\r\nAllocate any remaining free space to another volume using the 100%FREE specifier. Note this is -l, not -L.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\tlvcreate -l +100%FREE -n newvol2 newvg1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105612,
+      "lvcreate -l +100%FREE -n newvol2 newvg1"
+    ],
+    [
+      0.001462,
+      "\r\r\n"
+    ],
+    [
+      0.054344,
+      "  Logical volume \"newvol2\" created.\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005402,
+      "\r\n\u001b[31m\r\n================================================================================\r\nShow the new state of the volume group we have created.\r\n================================================================================\r\nCommand is:\r\n\r\n\tvgdisplay newvg1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105593,
+      "vgdisplay newvg1"
+    ],
+    [
+      0.001478,
+      "\r\r\n"
+    ],
+    [
+      0.008091,
+      "  --- Volume group ---\r\r\n  VG Name               newvg1\r\r\n  System ID             \r\r\n  Format                lvm2\r\r\n  Metadata Areas        1\r\r\n  Metadata Sequence No  3\r\r\n  VG Access             read/write\r\r\n  VG Status             resizable\r\r\n  MAX LV                0\r\r\n  Cur LV                2\r\r\n  Open LV               0\r\r\n  Max PV                0\r\r\n  Cur PV                1\r\r\n  Act PV                1\r\r\n  VG Size               2.00 GiB\r\r\n  PE Size               4.00 MiB\r\r\n  Total PE              511\r\r\n  Alloc PE / Size       511 / 2.00 GiB\r\r\n  Free  PE / Size       0 / 0   \r\r\n  VG UUID               WByb9f-SsDs-GYvH-5216-9LCT-lBH5-Egz373\r\r\n   \r\r\n"
+    ],
+    [
+      0.000201,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005395,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRemove the smaller logical volume we just created\r\n================================================================================\r\n\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105810,
+      "lvremove /dev/mapper/newvg1-newvol1"
+    ],
+    [
+      0.000995,
+      "\r\r\n"
+    ],
+    [
+      0.007654,
+      "Do you really want to remove active logical volume newvol1? [y/n]: "
+    ],
+    [
+      0.100765,
+      "y"
+    ],
+    [
+      0.000727,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.029664,
+      "  Logical volume \"newvol1\" successfully removed\r\r\n"
+    ],
+    [
+      0.000012,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005447,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRemove the larger logical volume we just created\r\n================================================================================\r\n\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105620,
+      "lvremove /dev/mapper/newvg1-newvol2"
+    ],
+    [
+      0.001464,
+      "\r\r\n"
+    ],
+    [
+      0.007650,
+      "Do you really want to remove active logical volume newvol2? [y/n]: "
+    ],
+    [
+      0.100714,
+      "y"
+    ],
+    [
+      0.000823,
+      "\r\r\n"
+    ],
+    [
+      0.021511,
+      "  Logical volume \"newvol2\" successfully removed\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005429,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a thin pool of size 1 Gigabyte. A thin pool can have thinly-provisioned volumes placed in it. Thinly-provisioned volumes are given a virtual size, and take up no \"real\" space until you put data in them.\r\n================================================================================\r\nCommand is:\r\n\r\n\tlvcreate -L 1.95G -T newvg1/newthinpool\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105573,
+      "lvcreate -L 1.95G -T newvg1/newthinpool"
+    ],
+    [
+      0.001478,
+      "\r\r\n"
+    ],
+    [
+      0.032167,
+      "  Rounding up size to full physical extent 1.95 GiB\r\r\n"
+    ],
+    [
+      0.139433,
+      "  Logical volume \"newthinpool\" created.\r\r\n"
+    ],
+    [
+      0.001101,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005397,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a thin device within that pool (takes up no space, in the pool in rootvg with virtual 100M and named virtualvol1).\r\n================================================================================\r\nCommand is:\r\n\r\n\tlvcreate --thin newvg1/newthinpool -V 100M -n virtualvol1\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105623,
+      "lvcreate --thin newvg1/newthinpool -V 100M -n virtualvol1"
+    ],
+    [
+      0.001542,
+      "\r\r\n"
+    ],
+    [
+      0.185799,
+      "  Logical volume \"virtualvol1\" created.\r\r\n"
+    ],
+    [
+      0.008741,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.000487,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate another thin device within that pool.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "\tlvcreate --thin newvg1/newthinpool -V 1G -n virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.101824,
+      "lvcreate --thin newvg1/newthinpool -V 1G -n virtualvol2"
+    ],
+    [
+      0.001293,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.076979,
+      "  Logical volume \"virtualvol2\" created.\r\r\n"
+    ],
+    [
+      0.007613,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.004946,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000015,
+      "\r\n================================================================================\r\nMake a directory to mount that volume onto\r\n================================================================================\r\nCommand is:\r\n\r\n\tmkdir /mnt/thinvol2_dir"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102444,
+      "mkdir /mnt/thinvol2_dir"
+    ],
+    [
+      0.001281,
+      "\r\r\n"
+    ],
+    [
+      0.002132,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005380,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSet up the filesystem for the thin pool\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "\tmkfs.ext4 /dev/mapper/newvg1-virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105557,
+      "mkfs.ext4 /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.001122,
+      "\r\r\n"
+    ],
+    [
+      0.014603,
+      "mke2fs 1.42.9 (28-Dec-2013)\r\r\n"
+    ],
+    [
+      0.011755,
+      "Discarding device blocks:   4096/262144\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.014608,
+      "             \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008done                            \r\r\n"
+    ],
+    [
+      0.007850,
+      "Filesystem label=\r\r\nOS type: Linux\r\r\nBlock size=4096 (log=2)\r\r\nFragment size=4096 (log=2)\r\r\nStride=16 blocks, Stripe width=16 blocks\r\r\n65536 inodes, 262144 blocks\r\r\n13107 blocks (5.00%) reserved for the super user\r\r\nFirst data block=0\r\r\nMaximum filesystem blocks=268435456\r\r\n8 block groups\r\r\n32768 blocks per group, 32768 fragments per group\r\r\n8192 inodes per group\r\r\nSuperblock backups stored on blocks: \r\r\n\t32768, 98304, 163840, 229376\r\r\n\r\r\nAllocating group tables: 0/8\u0008\u0008\u0008   \u0008\u0008\u0008done                            \r\r\nWriting inode tables: 0/8\u0008\u0008\u0008   \u0008\u0008\u0008done                            \r\r\nCreating journal (8192 blocks): "
+    ],
+    [
+      0.030128,
+      "done\r\r\nWriting superblocks and filesystem accounting information: 0/8\u0008\u0008\u0008"
+    ],
+    [
+      0.001180,
+      "   \u0008\u0008\u0008"
+    ],
+    [
+      0.799382,
+      "done\r\r\n\r\r\n"
+    ],
+    [
+      0.000304,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005383,
+      "\r\n\u001b[31m\r\n================================================================================\r\nMount the thin volume onto the mount point we created.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000009,
+      "\tmount -t auto /dev/mapper/newvg1-virtualvol2 /mnt/thinvol2_dir\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105634,
+      "mount -t auto /dev/mapper/newvg1-virtualvol2 /mnt/thinvol2_dir"
+    ],
+    [
+      0.001440,
+      "\r\r\n"
+    ],
+    [
+      0.066805,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005401,
+      "\r\n\u001b[31m\r\n================================================================================\r\nNow we will try and overfill this thin volume with ~1.1GiB, which is more than the virtual size of 1GiB, but less than the physical space allocated to the thin pool it was placed in (1.5GiB). It should fail.\r\n================================================================================\r\nCommand is:\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n\tdd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105652,
+      "dd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100"
+    ],
+    [
+      0.001276,
+      "\r\r\n"
+    ],
+    [
+      56.051753,
+      "dd: error writing ‘/mnt/thinvol2_dir/afile’: No space left on device\r\r\n958+0 records in\r\r\n957+0 records out\r\r\n1003896832 bytes (1.0 GB) copied, 56.0765 s, 17.9 MB/s\r\r\n"
+    ],
+    [
+      0.000378,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005419,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRemove the file.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000018,
+      "\trm -f /mnt/thinvol2_dir/afile\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105634,
+      "rm -f /mnt/thinvol2_dir/afile"
+    ],
+    [
+      0.001173,
+      "\r\r\n"
+    ],
+    [
+      0.169494,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005408,
+      "\r\n\u001b[31m\r\n================================================================================\r\nresize the logical volume to add 0.4G to it\r\n================================================================================\r\nCommand is:\r\n\r\n\tlvresize -L +0.4G newvg1/virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102404,
+      "lvresize -L +0.4G newvg1/virtualvol2"
+    ],
+    [
+      0.001636,
+      "\r\r\n"
+    ],
+    [
+      0.008999,
+      "  Rounding size to boundary between physical extents: 412.00 MiB\r\r\n  Size of logical volume newvg1/virtualvol2 changed from 1.00 GiB (256 extents) to 1.40 GiB (359 extents).\r\r\n"
+    ],
+    [
+      0.068395,
+      "  Logical volume virtualvol2 successfully resized\r\r\n"
+    ],
+    [
+      0.019493,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005396,
+      "\r\n\u001b[31m\r\n================================================================================\r\nEven though we have resized the logical volume, the filesystem (df) still gives us the same size as previously ~1G.\r\n================================================================================\r\nCommand is:\r\n\r\n\tdf -kh /dev/mapper/newvg1-virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102356,
+      "df -kh /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.001447,
+      "\r\r\n"
+    ],
+    [
+      0.002879,
+      "Filesystem                      Size  Used Avail Use% Mounted on\r\r\n/dev/mapper/newvg1-virtualvol2  976M  2.6M  907M   1% /mnt/thinvol2_dir\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005381,
+      "\r\n\u001b[31m\r\n================================================================================\r\nResize the filesystem to reflect the new size of the logical volume. You could also add -r/--resize to the lvresize command.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "\tresize2fs /dev/mapper/newvg1-virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.102106,
+      "resize2fs /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.001540,
+      "\r\r\n"
+    ],
+    [
+      0.004217,
+      "resize2fs 1.42.9 (28-Dec-2013)\r"
+    ],
+    [
+      0.000013,
+      "\r\nFilesystem at /dev/mapper/newvg1-virtualvol2 is mounted on /mnt/thinvol2_dir; on-line resizing required\r\r\nold_desc_blocks = 1, new_desc_blocks = 1\r\r\n"
+    ],
+    [
+      0.058444,
+      "The filesystem on /dev/mapper/newvg1-virtualvol2 is now 367616 blocks long.\r\r\n\r\r\ncssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005364,
+      "\r\n\u001b[31m\r\n================================================================================\r\nThe size of the logical volume is now reflected in the filesystem\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "\tdf -kh /dev/mapper/newvg1-virtualvol2\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.100848,
+      "df -kh /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.001417,
+      "\r\r\n"
+    ],
+    [
+      0.002082,
+      "Filesystem                      Size  Used Avail Use% Mounted on\r\r\n/dev/mapper/newvg1-virtualvol2  1.4G  3.0M  1.3G   1% /mnt/thinvol2_dir\r\r\n"
+    ],
+    [
+      0.000362,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.005414,
+      "\r\n\u001b[31m\r\n================================================================================\r\nNow the file creation should work.\r\n================================================================================\r\nCommand is:\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "\tdd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100\r\n================================================================================\u001b[0m\r\n"
+    ],
+    [
+      5.105630,
+      "dd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100"
+    ],
+    [
+      0.001414,
+      "\r\r\n"
+    ],
+    [
+      65.079812,
+      "1100+0 records in\r\r\n1100+0 records out\r\r\n1153433600 bytes (1.2 GB) copied, 65.1108 s, 17.7 MB/s\r\r\n"
+    ],
+    [
+      0.000207,
+      "cssMa5S6#YF5VDADb\u003e "
+    ],
+    [
+      5.105813,
+      "exit"
+    ],
+    [
+      0.001898,
+      "\r\r\nlogout\r\r\n"
+    ],
+    [
+      0.003042,
+      "lxiUkv4x#rW52aPAO\u003e "
+    ],
+    [
+      0.100773,
+      "exit"
+    ],
+    [
+      0.001743,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\nlogout\r\r\n"
+    ],
+    [
+      0.000859,
+      "Connection to 127.0.0.1 closed.\r\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000974,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100803,
+      "vagrant destroy -f\r\r\n"
+    ],
+    [
+      0.170183,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.353496,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.281684,
+      "\u001b[1m==\u003e default: Forcing shutdown of VM...\u001b[0m\r\r\n"
+    ],
+    [
+      3.859643,
+      "\u001b[1m==\u003e default: Destroying VM and associated drives...\u001b[0m\r\r\n"
+    ],
+    [
+      0.737731,
+      "shutit.training_lvm.training_lvm.training_lvm#bZ3VLRDZ\u003e "
+    ],
+    [
+      0.100763,
+      "exit\r\r\n"
+    ],
+    [
+      0.000253,
+      "exit\r\r\n"
+    ],
+    [
+      0.002985,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100774,
+      "cd /space/git/shutit-training-lvm\r\r\n"
+    ],
+    [
+      0.000393,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.100720,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000207,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000198,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.103661,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000232,
+      "FILNEXIST-FILFIN\r\r\ndefault#bkrHHP8M\u003e "
+    ],
+    [
+      0.055640,
+      "bash"
+    ],
+    [
+      0.050122,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "bash\r\r\n"
+    ],
+    [
+      0.304899,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.057893,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101066,
+      " export SHUTIT_BACKUP_PS1_jRy9rNn0=$PS1 \u0026\u0026 PS1='shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001536,
+      "shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e "
+    ],
+    [
+      0.100880,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000174,
+      "shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e "
+    ],
+    [
+      0.100631,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000202,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000226,
+      "shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e "
+    ],
+    [
+      0.100602,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001714,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000482,
+      "shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e "
+    ],
+    [
+      0.100736,
+      "cd\r\r\n"
+    ],
+    [
+      0.000437,
+      "shutit.training_lvm.training_lvm.training_lvm#T0xrLTnl\u003e "
+    ],
+    [
+      0.100698,
+      "exit\r\r\n"
+    ],
+    [
+      0.000186,
+      "exit\r\r\n"
+    ],
+    [
+      0.002769,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050684,
+      "bash"
+    ],
+    [
+      0.050119,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "bash\r\r\n"
+    ],
+    [
+      0.202033,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.028701,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101008,
+      " export SHUTIT_BACKUP_PS1_4Eb271xW=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001178,
+      "tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e "
+    ],
+    [
+      0.100779,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000200,
+      "tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e "
+    ],
+    [
+      0.100555,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000242,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000206,
+      "tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e "
+    ],
+    [
+      0.100595,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001857,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000458,
+      "tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e "
+    ],
+    [
+      0.100748,
+      "cd\r\r\n"
+    ],
+    [
+      0.000237,
+      "tk.shutit.vagrant.vagrant.vagrant#4k0PfsD6\u003e "
+    ],
+    [
+      0.100777,
+      "exit\r\r\n"
+    ],
+    [
+      0.000208,
+      "exit\r\r\n"
+    ],
+    [
+      0.002744,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050664,
+      "bash"
+    ],
+    [
+      0.050119,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "bash\r\r\n"
+    ],
+    [
+      0.214234,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.033453,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101222,
+      " export SHUTIT_BACKUP_PS1_shSOKGW5=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001408,
+      "shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e "
+    ],
+    [
+      0.100928,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000175,
+      "shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e "
+    ],
+    [
+      0.100634,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000153,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000258,
+      "shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e "
+    ],
+    [
+      0.100504,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001724,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000495,
+      "shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e "
+    ],
+    [
+      0.100819,
+      "cd\r\r\n"
+    ],
+    [
+      0.000463,
+      "shutit-library.virtualbox.virtualbox.virtualbox#vsZiqxUj\u003e "
+    ],
+    [
+      0.100734,
+      "exit\r\r\n"
+    ],
+    [
+      0.000304,
+      "exit\r\r\n"
+    ],
+    [
+      0.002725,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050768,
+      "bash"
+    ],
+    [
+      0.050112,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "bash\r\r\n"
+    ],
+    [
+      0.214054,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.031393,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101101,
+      " export SHUTIT_BACKUP_PS1_S74O0W2u=$PS1 \u0026\u0026 PS1='shutit.tk.setup#HwIGMg6Q\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001457,
+      "shutit.tk.setup#HwIGMg6Q\u003e "
+    ],
+    [
+      0.100887,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000234,
+      "shutit.tk.setup#HwIGMg6Q\u003e "
+    ],
+    [
+      0.100587,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000222,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000223,
+      "shutit.tk.setup#HwIGMg6Q\u003e "
+    ],
+    [
+      0.100613,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001774,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000356,
+      "shutit.tk.setup#HwIGMg6Q\u003e "
+    ],
+    [
+      0.100792,
+      "cd\r\r\n"
+    ],
+    [
+      0.000220,
+      "shutit.tk.setup#HwIGMg6Q\u003e "
+    ],
+    [
+      0.100684,
+      "exit\r\r\n"
+    ],
+    [
+      0.000228,
+      "exit\r\r\n"
+    ],
+    [
+      0.002811,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.055589,
+      "bash"
+    ],
+    [
+      0.050111,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "bash\r\r\n"
+    ],
+    [
+      0.213705,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.027170,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.100910,
+      " export SHUTIT_BACKUP_PS1_vUfimWW2=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001489,
+      "tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e "
+    ],
+    [
+      0.100908,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000010,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000178,
+      "tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e "
+    ],
+    [
+      0.100686,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000168,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000011,
+      "tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e "
+    ],
+    [
+      0.100645,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001871,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000413,
+      "tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e "
+    ],
+    [
+      0.100759,
+      "cd\r\r\n"
+    ],
+    [
+      0.000293,
+      "tk.shutit.vagrant.vagrant.vagrant#4VuNJp18\u003e "
+    ],
+    [
+      0.100751,
+      "exit\r\r\n"
+    ],
+    [
+      0.000224,
+      "exit\r\r\n"
+    ],
+    [
+      0.002732,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050556,
+      "bash"
+    ],
+    [
+      0.050132,
+      "\r\n"
+    ],
+    [
+      0.000247,
+      "bash\r\r\n"
+    ],
+    [
+      0.215169,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.029331,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.101252,
+      " export SHUTIT_BACKUP_PS1_EP4tjfd7=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001706,
+      "shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e "
+    ],
+    [
+      0.100905,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000203,
+      "shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e "
+    ],
+    [
+      0.100596,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000203,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000208,
+      "shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e "
+    ],
+    [
+      0.100561,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001695,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000516,
+      "shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e "
+    ],
+    [
+      0.100723,
+      "cd\r\r\n"
+    ],
+    [
+      0.000378,
+      "shutit-library.virtualbox.virtualbox.virtualbox#K9mrndBX\u003e "
+    ],
+    [
+      0.100701,
+      "exit\r\r\n"
+    ],
+    [
+      0.000242,
+      "exit\r\r\n"
+    ],
+    [
+      0.002614,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050699,
+      "bash"
+    ],
+    [
+      0.050125,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "bash\r\r\n"
+    ],
+    [
+      0.214705,
+      "/dev/pts/89: 1 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.027530,
+      "imiell@rothko:/space/git/shutit-training-lvm$ "
+    ],
+    [
+      0.100951,
+      " export SHUTIT_BACKUP_PS1_uUhrYk9n=$PS1 \u0026\u0026 PS1='shutit.tk.setup#cgbRTLFV\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001733,
+      "shutit.tk.setup#cgbRTLFV\u003e "
+    ],
+    [
+      0.100856,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000246,
+      "shutit.tk.setup#cgbRTLFV\u003e "
+    ],
+    [
+      0.100614,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000177,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000214,
+      "shutit.tk.setup#cgbRTLFV\u003e "
+    ],
+    [
+      0.100670,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\r\n"
+    ],
+    [
+      0.001889,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  pZLgNPKG\r\r\n"
+    ],
+    [
+      0.000238,
+      "shutit.tk.setup#cgbRTLFV\u003e "
+    ],
+    [
+      0.100671,
+      "cd\r\r\n"
+    ],
+    [
+      0.000224,
+      "shutit.tk.setup#cgbRTLFV\u003e "
+    ],
+    [
+      0.100696,
+      "exit\r\r\n"
+    ],
+    [
+      0.000164,
+      "exit\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.002701,
+      "default#bkrHHP8M\u003e "
+    ],
+    [
+      0.050356,
+      "exit"
+    ],
+    [
+      0.050123,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b[32m################################################################################\r\n# COMMAND HISTORY BEGIN rothko_imiell_1450297549.26.256251\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\nchmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000019,
+      "\r\ntouch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/ORIGIN_ENV\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id\r\nchmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/pZLgNPKG\r\n"
+    ],
+    [
+      0.000037,
+      "bash\r\ncd\r\n"
+    ],
+    [
+      0.000019,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\nexit\r\ncd /space/git/shutit-training-lvm\r\n"
+    ],
+    [
+      0.000007,
+      "bash\r\n"
+    ],
+    [
+      0.000007,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-training-lvm/shutit-library/virtualbox"
+    ],
+    [
+      0.000007,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-training-lvm\r\n"
+    ],
+    [
+      0.000007,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-training-lvm/shutit-library/vagrant"
+    ],
+    [
+      0.000006,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "cd /space/git/shutit-training-lvm\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\ncd"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-training-lvm\r\n"
+    ],
+    [
+      0.000006,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\ncd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\ncd"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000007,
+      "cd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000006,
+      "\r\nc"
+    ],
+    [
+      0.000024,
+      "d /space/git/shutit-training-lvm/shutit-library/virtualbox"
+    ],
+    [
+      0.000007,
+      "\r\nbash"
+    ],
+    [
+      0.000007,
+      "\r\ncd"
+    ],
+    [
+      0.000028,
+      "\r\nexit"
+    ],
+    [
+      0.000022,
+      "\r\ncd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000007,
+      "\r\ncd /space/git/shutit-training-lvm/shutit-library/vagrant\r\n"
+    ],
+    [
+      0.000017,
+      "bash"
+    ],
+    [
+      0.000007,
+      "\r\ncd"
+    ],
+    [
+      0.000006,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "cd /space/git/shutit-training-lvm\r\n"
+    ],
+    [
+      0.000007,
+      "cd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000007,
+      "\r\nbash"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "rm -rf /tmp/lvm_vm"
+    ],
+    [
+      0.000007,
+      "\r\nmkdir -p /tmp/lvm_vm"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd /tmp/lvm_vm\r\n"
+    ],
+    [
+      0.000007,
+      "vagrant init ianmiell/centos7_lvm"
+    ],
+    [
+      0.000006,
+      "\r\nvagrant up --provider virtualbox"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "vagrant ssh\r\n"
+    ],
+    [
+      0.000007,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id"
+    ],
+    [
+      0.000007,
+      "\r\nchmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/environment_id/UFj1lHPz\r\n"
+    ],
+    [
+      0.000006,
+      "cd"
+    ],
+    [
+      0.000006,
+      "\r\nsudo su -"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "ls /dev/sd*"
+    ],
+    [
+      0.000006,
+      "\r\npvdisplay"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "pvcreate /dev/sdb\r\n"
+    ],
+    [
+      0.000006,
+      "pvscan"
+    ],
+    [
+      0.000006,
+      "\r\npvdisplay"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "vgcreate newvg1 /dev/sdb\r\n"
+    ],
+    [
+      0.000007,
+      "vgdisplay newvg1"
+    ],
+    [
+      0.000007,
+      "\r\nlvcreate -L +100M -n newvol1 newvg1"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "lvcreate -l +100%FREE -n newvol2 newvg1\r\n"
+    ],
+    [
+      0.000006,
+      "vgdisplay newvg1\r\n"
+    ],
+    [
+      0.000006,
+      "lvremove /dev/mapper/newvg1-newvol1"
+    ],
+    [
+      0.000006,
+      "\r\ny"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "lvremove /dev/mapper/newvg1-newvol2\r\n"
+    ],
+    [
+      0.000006,
+      "y\r\n"
+    ],
+    [
+      0.000007,
+      "lvcreate -L 1.95G -T newvg1/newthinpool"
+    ],
+    [
+      0.000006,
+      "\r\nlvcreate --thin newvg1/newthinpool -V 100M -n virtualvol1"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "lvcreate --thin newvg1/newthinpool -V 1G -n virtualvol2\r\n"
+    ],
+    [
+      0.000006,
+      "mkdir /mnt/thinvol2_dir"
+    ],
+    [
+      0.000006,
+      "\r\nmkfs.ext4 /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "mount -t auto /dev/mapper/newvg1-virtualvol2 /mnt/thinvol2_dir\r\n"
+    ],
+    [
+      0.000006,
+      "dd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100"
+    ],
+    [
+      0.000007,
+      "\r\nrm -f /mnt/thinvol2_dir/afile"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "lvresize -L +0.4G newvg1/virtualvol2\r\n"
+    ],
+    [
+      0.000006,
+      "df -kh /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.000006,
+      "\r\nresize2fs /dev/mapper/newvg1-virtualvol2"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "df -kh /dev/mapper/newvg1-virtualvol2\r\n"
+    ],
+    [
+      0.000007,
+      "dd if=/dev/urandom of=/mnt/thinvol2_dir/afile bs=1M count=1100"
+    ],
+    [
+      0.000007,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "vagrant destroy -f\r\n"
+    ],
+    [
+      0.000006,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\ncd /space/git/shutit-training-lvm"
+    ],
+    [
+      0.000007,
+      "\r\nbash"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000007,
+      "bash"
+    ],
+    [
+      0.000007,
+      "\r\ncd"
+    ],
+    [
+      0.000007,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\nbash"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\ncd"
+    ],
+    [
+      0.000006,
+      "\r\nexit"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "bash\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\ncd"
+    ],
+    [
+      0.000006,
+      "\r\nexit"
+    ],
+    [
+      0.000006,
+      "\r\nbash"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000006,
+      "# COMMAND HISTORY END rothko_imiell_1450297549.26.256251\r\n"
+    ],
+    [
+      0.000006,
+      "################################################################################"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "################################################################################\r\n"
+    ],
+    [
+      0.000006,
+      "# BUILD REPORT FOR BUILD BEGIN rothko_imiell_1450297549.26.256251\r\n"
+    ],
+    [
+      0.000007,
+      "# #Module: N/A (END)"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "Building: shutit.tk.setup with run order: 0\r\n"
+    ],
+    [
+      0.000007,
+      "Completed module: shutit.tk.setup\r\n"
+    ],
+    [
+      0.000006,
+      "Building: shutit-library.virtualbox.virtualbox.v"
+    ],
+    [
+      0.000020,
+      "irtualbox with run order: 0.80242509019999996855432300435495562851428985595703125"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Completed module: shutit-library.virtualbox.virtualbox.virtualbox\r\n"
+    ],
+    [
+      0.000007,
+      "Building: tk.shutit.vagrant.vagrant.vagrant with run order: 0.94124715199999997583546473833848722279071807861328125"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Completed module: tk.shutit.vagrant.vagrant.vagrant"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Building: shutit.training_lvm.training_lvm.training_lvm with run order: 237902401\r\n"
+    ],
+    [
+      0.000007,
+      "Completed module: shutit.training_lvm.training_lvm.training_lvm"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "# BUILD REPORT FOR BUILD END rothko_imiell_1450297549.26.256251"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "###############################################################################\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[31mBuild log file: /tmp/shutit_imiell/rothko_imiell_1450297549.26.256251/shutit_build.log\u001b[0m\r\n"
+    ]
+  ]
+}
