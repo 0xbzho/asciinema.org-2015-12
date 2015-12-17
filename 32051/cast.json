@@ -1,0 +1,1122 @@
+{
+  "version": 1,
+  "width": 154,
+  "height": 42,
+  "duration": 46.776636,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.551912,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:01 \u001b[0m$ "
+    ],
+    [
+      1.599945,
+      "r"
+    ],
+    [
+      2.143871,
+      "v"
+    ],
+    [
+      0.888136,
+      "m"
+    ],
+    [
+      0.319769,
+      " "
+    ],
+    [
+      0.280223,
+      "u"
+    ],
+    [
+      0.167426,
+      "s"
+    ],
+    [
+      0.248488,
+      "e"
+    ],
+    [
+      0.264037,
+      " "
+    ],
+    [
+      0.280258,
+      "1"
+    ],
+    [
+      0.295690,
+      "."
+    ],
+    [
+      0.368076,
+      "9"
+    ],
+    [
+      0.823667,
+      "\r\n"
+    ],
+    [
+      0.010131,
+      "Warning! PATH is not properly set up, '/home/ksuszynski/.rvm/gems/ruby-1.9.3-p547/bin' is not at first place,\r\n         usually this is caused by shell initialization files - check them for 'PATH=...' entries,\r\n         it might also help to re-add RVM to your dotfiles: 'rvm get stable --auto-dotfiles',\r\n"
+    ],
+    [
+      0.000018,
+      "         to fix temporarily in this shell session run: 'rvm use ruby-1.9.3-p547'.\r\n"
+    ],
+    [
+      0.274660,
+      "\u001b[32mUsing /home/ksuszynski/.rvm/gems/ruby-1.9.3-p547\u001b[0m\r\n"
+    ],
+    [
+      0.091139,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:01 \u001b[0m$ "
+    ],
+    [
+      2.088256,
+      "r"
+    ],
+    [
+      0.215988,
+      "u"
+    ],
+    [
+      0.247986,
+      "b"
+    ],
+    [
+      0.208104,
+      "y"
+    ],
+    [
+      0.143995,
+      " "
+    ],
+    [
+      0.375948,
+      "-"
+    ],
+    [
+      0.183840,
+      "-"
+    ],
+    [
+      0.200266,
+      "v"
+    ],
+    [
+      0.191893,
+      "e"
+    ],
+    [
+      0.183153,
+      "r"
+    ],
+    [
+      0.240908,
+      "s"
+    ],
+    [
+      0.143974,
+      "i"
+    ],
+    [
+      0.176080,
+      "o"
+    ],
+    [
+      0.239263,
+      "n"
+    ],
+    [
+      0.624525,
+      "\r\n"
+    ],
+    [
+      0.009097,
+      "ruby 1.9.3p547 (2014-05-14 revision 45962) [x86_64-linux]\r\n"
+    ],
+    [
+      0.064247,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:02 \u001b[0m$ "
+    ],
+    [
+      1.742641,
+      "r"
+    ],
+    [
+      0.312081,
+      "m"
+    ],
+    [
+      0.280115,
+      " "
+    ],
+    [
+      1.415966,
+      "G"
+    ],
+    [
+      0.232016,
+      "e"
+    ],
+    [
+      0.279965,
+      "m"
+    ],
+    [
+      0.895906,
+      "f"
+    ],
+    [
+      0.281113,
+      "\u0007"
+    ],
+    [
+      0.000019,
+      "ile"
+    ],
+    [
+      0.751195,
+      "."
+    ],
+    [
+      0.471743,
+      "l"
+    ],
+    [
+      0.208203,
+      "o"
+    ],
+    [
+      0.160404,
+      "ck "
+    ],
+    [
+      0.615302,
+      "\r\n"
+    ],
+    [
+      0.076639,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:02 \u001b[0m$ "
+    ],
+    [
+      1.115363,
+      "b"
+    ],
+    [
+      0.175703,
+      "u"
+    ],
+    [
+      0.232289,
+      "n"
+    ],
+    [
+      0.176101,
+      "d"
+    ],
+    [
+      0.168335,
+      "l"
+    ],
+    [
+      0.175601,
+      "e"
+    ],
+    [
+      1.167910,
+      "\r\n"
+    ],
+    [
+      0.874481,
+      "Fetching gem metadata from https://rubygems.org/"
+    ],
+    [
+      0.000037,
+      "."
+    ],
+    [
+      0.510735,
+      "."
+    ],
+    [
+      0.545051,
+      "."
+    ],
+    [
+      0.622520,
+      "."
+    ],
+    [
+      0.263618,
+      "."
+    ],
+    [
+      0.128185,
+      "."
+    ],
+    [
+      0.134725,
+      "."
+    ],
+    [
+      0.121683,
+      "."
+    ],
+    [
+      0.120493,
+      "."
+    ],
+    [
+      1.868350,
+      "\r\n"
+    ],
+    [
+      0.222997,
+      "Resolving dependencies..."
+    ],
+    [
+      0.040122,
+      "\r\n"
+    ],
+    [
+      0.011952,
+      "Using rake 10.4.2\r\n"
+    ],
+    [
+      0.000035,
+      "Using PriorityQueue 0.1.2\r\n"
+    ],
+    [
+      0.000069,
+      "Using i18n 0.7.0\r\n"
+    ],
+    [
+      0.000071,
+      "Using json 1.8.3\r\n"
+    ],
+    [
+      0.000076,
+      "Using minitest 5.8.3\r\n"
+    ],
+    [
+      0.000041,
+      "Using thread_safe 0.3.5\r\n"
+    ],
+    [
+      0.000043,
+      "Using tzinfo 1.2.2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Using activesupport 4.2.5"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "Using backports 3.6.7"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using deep_merge 1.0.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "Using diff-lcs 1.2.5"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Using docile 1.1.5"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using tilt 2.0.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Using haml 4.0.7"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Using lrucache 0.1.4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using multi_json 1.11.2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "Using multipart-post 2.0.0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using open4 1.3.4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "Using open_uri_redirections 0.2.1"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using rack 1.5.5"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Using rack-mount 0.8.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using redcarpet 3.3.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using rack-protection 1.5.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using sinatra 1.4.6"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using rack-test 0.6.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "Using sinatra-contrib 1.4.6"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.047609,
+      "Using puppet-forge-server 1.8.0 from source at .\r\n"
+    ],
+    [
+      0.000067,
+      "Using rspec-support 3.4.1\r\n"
+    ],
+    [
+      0.000088,
+      "Using rspec-core 3.4.1\r\n"
+    ],
+    [
+      0.000034,
+      "Using rspec-expectations 3.4.0\r\n"
+    ],
+    [
+      0.000072,
+      "Using rspec-mocks 3.4.0\r\n"
+    ],
+    [
+      0.000041,
+      "Using rspec 3.4.0\r\n"
+    ],
+    [
+      0.000046,
+      "Using rspec-stopwatch 0.1.3\r\n"
+    ],
+    [
+      0.000047,
+      "Using simplecov-html 0.10.0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "Using simplecov 0.11.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "Using bundler 1.6.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002050,
+      "\u001b[32mYour bundle is complete!\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[32mUse `bundle show [gemname]` to see where a bundled gem is installed.\u001b[0m\r\n"
+    ],
+    [
+      0.061834,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:02 \u001b[0m$ "
+    ],
+    [
+      4.117725,
+      "b"
+    ],
+    [
+      0.183494,
+      "u"
+    ],
+    [
+      0.231914,
+      "n"
+    ],
+    [
+      0.168801,
+      "d"
+    ],
+    [
+      0.159914,
+      "l"
+    ],
+    [
+      0.167261,
+      "e"
+    ],
+    [
+      0.192858,
+      " "
+    ],
+    [
+      0.287971,
+      "e"
+    ],
+    [
+      0.247886,
+      "x"
+    ],
+    [
+      0.200058,
+      "e"
+    ],
+    [
+      0.247780,
+      "c"
+    ],
+    [
+      0.192246,
+      " "
+    ],
+    [
+      0.231698,
+      "r"
+    ],
+    [
+      0.272339,
+      "a"
+    ],
+    [
+      0.223922,
+      "k"
+    ],
+    [
+      0.191668,
+      "e"
+    ],
+    [
+      0.208162,
+      " "
+    ],
+    [
+      0.304243,
+      "t"
+    ],
+    [
+      0.264163,
+      "e"
+    ],
+    [
+      0.223136,
+      "s"
+    ],
+    [
+      0.296685,
+      "t"
+    ],
+    [
+      0.511917,
+      ":"
+    ],
+    [
+      0.199449,
+      "a"
+    ],
+    [
+      0.312357,
+      "l"
+    ],
+    [
+      0.176194,
+      "l"
+    ],
+    [
+      1.111787,
+      "\r\n"
+    ],
+    [
+      0.838653,
+      "/home/ksuszynski/.rvm/rubies/ruby-1.9.3-p547/bin/ruby -I/home/ksuszynski/.rvm/gems/ruby-1.9.3-p547/gems/rspec-core-3.4.1/lib:/home/ksuszynski/.rvm/gems/ruby-1.9.3-p547/gems/rspec-support-3.4.1/lib /home/ksuszynski/.rvm/gems/ruby-1.9.3-p547/gems/rspec-core-3.4.1/exe/rspec --pattern spec/\\*\\*/\\*_spec.rb\r\n"
+    ],
+    [
+      0.644614,
+      "\r\nPuppetForgeServer::App::Version1\r\n"
+    ],
+    [
+      0.000076,
+      "  #get /api/v1/releases.json\r\n"
+    ],
+    [
+      0.061464,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"GET /api/v1/releases.json?module=bogus_author%2Fbogus_name \" 200 106 0.0137\r\n"
+    ],
+    [
+      0.000037,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"GET /api/v1/releases.json?module=bogus_author%2Fbogus_name \" 200 106 0.0140\r\n"
+    ],
+    [
+      0.002822,
+      "\u001b[32m    should get bogus release json\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      "  #get /modules.json\r\n"
+    ],
+    [
+      0.002566,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"GET /modules.json?q=bogus_author%2Fbogus_name \" 200 205 0.0008\r\n"
+    ],
+    [
+      0.000015,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"GET /modules.json?q=bogus_author%2Fbogus_name \" 200 205 0.0009"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[32m    should get bogus modules json\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "PuppetForgeServer::App::Version2"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "  #post /v2/releases"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003265,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"POST /v2/releases \" 200 - 0.0017"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"POST /v2/releases \" 200 - 0.0018\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[32m    file upload should succeed\u001b[0m\r\n"
+    ],
+    [
+      0.002557,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"POST /v2/releases \" 412 - 0.0006\r\n"
+    ],
+    [
+      0.000058,
+      "127.0.0.1 - - [17/Dec/2015 21:02:32] \"POST /v2/releases \" 412 - 0.0007\r\n"
+    ],
+    [
+      0.000195,
+      "\u001b[32m    file upload should fail\u001b[0m\r\n"
+    ],
+    [
+      0.000132,
+      "\r\nPuppetForgeServer::Backends::Directory\r\n"
+    ],
+    [
+      0.000076,
+      "  #query_metadata\r\n"
+    ],
+    [
+      0.001636,
+      "\u001b[32m    query metadata should return file metadata array\u001b[0m\r\n"
+    ],
+    [
+      0.000083,
+      "  #get_metadata\r\n"
+    ],
+    [
+      0.001495,
+      "\u001b[32m    get_metadata without version should return file metadata array\u001b[0m\r\n"
+    ],
+    [
+      0.001450,
+      "\u001b[32m    get_metadata with version should return file metadata array\u001b[0m\r\n"
+    ],
+    [
+      0.000093,
+      "  #upload\r\n"
+    ],
+    [
+      0.001728,
+      "\u001b[32m    upload when file does not exist should return true\u001b[0m\r\n"
+    ],
+    [
+      0.001670,
+      "\u001b[32m    upload when file exists should return false\u001b[0m\r\n"
+    ],
+    [
+      0.000179,
+      "\r\nPuppetForgeServer::Http::HttpClient\r\n"
+    ],
+    [
+      0.000068,
+      "  #download\r\n"
+    ],
+    [
+      0.000072,
+      "    with 1sec LRU cache\r\n"
+    ],
+    [
+      0.067397,
+      "\u001b[32m      should run for \u003c 10.0 ms\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.019626,
+      "\u001b[32m      should not be nil\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.019495,
+      "\u001b[32m      should not be closed\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "    with default cache"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.056911,
+      "\u001b[32m      should run for \u003c 10.0 ms\u001b[0m\r\n"
+    ],
+    [
+      0.019318,
+      "\u001b[32m      should not be nil\u001b[0m\r\n"
+    ],
+    [
+      0.019698,
+      "\u001b[32m      should not be closed\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000376,
+      "  #get\r\n"
+    ],
+    [
+      0.000196,
+      "    with 1sec LRU cache"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.040238,
+      "\u001b[32m      should eq \"Hello!\"\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.058985,
+      "\u001b[32m      should run for \u003c 10.0 ms\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "    with default cache"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.018533,
+      "\u001b[32m      should eq \"Hello!\"\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.058631,
+      "\u001b[32m      should run for \u003c 10.0 ms\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "PuppetForgeServer::Logger"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "  #info"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004616,
+      "\u001b[32m    should log message on level info\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "  #error"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000869,
+      "\u001b[32m    should log message on level error\u001b[0m\r\n"
+    ],
+    [
+      0.000091,
+      "  #warn\r\n"
+    ],
+    [
+      0.000817,
+      "\u001b[32m    should log message on level warn\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      "  #debug\r\n"
+    ],
+    [
+      0.000842,
+      "\u001b[32m    should log message on level debug\u001b[0m\r\n"
+    ],
+    [
+      0.000073,
+      "  #puts\r\n"
+    ],
+    [
+      0.000759,
+      "\u001b[32m    should log message\u001b[0m\r\n"
+    ],
+    [
+      0.000072,
+      "  #\u003c\u003c\r\n"
+    ],
+    [
+      0.000737,
+      "\u001b[32m    should log message\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "  #flush\r\n"
+    ],
+    [
+      0.000670,
+      "\u001b[32m    should respond to flush\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "  #non_existing\r\n"
+    ],
+    [
+      0.003410,
+      "\u001b[32m    should fail on non existing method\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "PuppetForgeServer::Models::Dependency\r\n"
+    ],
+    [
+      0.000166,
+      "  #initialize"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000650,
+      "\u001b[32m    should create a dependency instance\u001b[0m\r\n"
+    ],
+    [
+      0.000101,
+      "  #hash\r\n"
+    ],
+    [
+      0.000608,
+      "\u001b[32m    should calculate hash from name and version_requirement\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "  #eql?\r\n"
+    ],
+    [
+      0.000661,
+      "\u001b[32m    should be equal based only on name and version_requirement\u001b[0m\r\n"
+    ],
+    [
+      0.000167,
+      "\r\nPuppetForgeServer::Models::Metadata\r\n"
+    ],
+    [
+      0.000119,
+      "  #initialize"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000648,
+      "\u001b[32m    should create a metadata instance\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "  #hash"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000624,
+      "\u001b[32m    should calculate hash from name, author and version\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "  #eql?"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000638,
+      "\u001b[32m    should be equal based only on name, author and version\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "PuppetForgeServer::Server"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "  #build"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.246113,
+      "\u001b[32m    builds rack routeset\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "\r\nFinished in 0.72852 seconds (files took 0.33674 seconds to load)"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[32m34 examples, 0 failures\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.074396,
+      "Coverage report generated for RSpec to /fasthome/ksuszynski/git/puppet-forge-server/coverage. 308 / 556 LOC (55.4%) covered."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.154855,
+      "[\u001b[1;32m0\u001b[0m] \u001b[1;32mksuszynski\u001b[0m@\u001b[0;33msuszynskik \u001b[0;34m~/git/puppet-forge-server\u001b[0m \u001b[0;33mgit\u001b[0m [\u001b[1;95mfeature/add-cache-for-remote\u001b[0m|\u001b[1;32m✔\u001b[0m] \u001b[37m09:02 \u001b[0m$ "
+    ],
+    [
+      2.750430,
+      "logout\r\n"
+    ]
+  ]
+}
