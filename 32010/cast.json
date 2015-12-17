@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 68.819924,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.153292,
+      "\u001b]0;davep@Ariel.home - [/Users/davep]\u0007"
+    ],
+    [
+      0.000105,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000016,
+      "\u001b[1mdavep@Ariel:~$\u001b[0m "
+    ],
+    [
+      1.341685,
+      "e"
+    ],
+    [
+      0.078472,
+      "g"
+    ],
+    [
+      1.113671,
+      "\r\n"
+    ],
+    [
+      0.079931,
+      "\u001b[?1049h\u001b[1;25r\u001b[4l\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1;25r\u001b[H\u001b[2J\u001b[1;1H\u001b[47m                      MrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[K\r\n \u001b[97m\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\u001b[K\r\n\u001b[97m\u001b[41m Changes\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\r\n 1.20......something - Minor upgrade                                         .\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\r\n 1.10.105 - Major update                                                     .\u001b[K\r\n 1.00.75f - minor update fix\u001b[K\r\n 1.00.75e - Bug Fix - Release\u001b[K\r\n 1.00.75d - Intermediate release\u001b[K\r\n 1.00.75c - Intermediate release\u001b[K\r\n 1.00.75b - Original Release Version\u001b[K\r\n 1.00.75a - Failed Release Candidate\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[47meg v1.01: /Users/davep/Google Drive/Norton Guides/MRDEBUG.NG\u001b[K\u001b[25;80H"
+    ],
+    [
+      2.613662,
+      "\u001b[4;20H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b[5;20Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41mAccounting For Clipper                  \u001b(0\u001b[30m\u001b[47mx\u001b[6;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceBase Library For Clipper 5.2 v1.10   \u001b(0\u001b[30m\u001b[47mx\u001b[7;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Cars System Version 1.00\ufffdr25    \u001b(0\u001b[30m\u001b[47mx\u001b[8;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Simple EPOS System Version 1.00\ufffd\u001b(0\u001b[30m\u001b[47mx\u001b[9;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Technical Book v1.00\ufffdr3         \u001b(0\u001b[30m\u001b[47mx\u001b[10;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b(0\u001b[30m\u001b[47mx\u001b[11;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAdvantage Xbase Server v3.51            \u001b(0\u001b[30m\u001b[47mx\u001b[12;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mArea Codes                              \u001b(0\u001b[30m\u001b[47mx\u001b[13;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAssembly Language                       \u001b(0\u001b[30m\u001b[47mx\u001b[14;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBAFTP - The BA File Transport Protocol  \u001b(0\u001b[30m\u001b[47mx\u001b[15;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b(0\u001b[30m\u001b[47mx\u001b[16;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1) "
+    ],
+    [
+      0.000011,
+      "   \u001b(0\u001b[30m\u001b[47mx\u001b[17;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b(0\u001b[30m\u001b[47mx\u001b[18;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBIOS ref.                               \u001b(0\u001b[30m\u001b[47mx\u001b[19;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBlinker 3.2 Online Reference            \u001b(0\u001b[30m\u001b[47mx\u001b[20;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBroker System - Clarke Roxburgh         \u001b(0\u001b[30m\u001b[47mx\u001b[21;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mCA-Clipper 5.2 Internal Errors          \u001b(0\u001b[30m\u001b[47mx\u001b[22;20Hmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\r\n\n\n\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m\u001b[K\u001b[25;80H"
+    ],
+    [
+      1.199275,
+      "\u001b[5;21HAccounting For Clipper                  \u001b[6;21H\u001b[97m\u001b[41mAceBase Library For Clipper 5.2 v1.10   \u001b[25;80H"
+    ],
+    [
+      0.325962,
+      "\u001b[6;21H\u001b[30m\u001b[47mAceBase Library For Clipper 5.2 v1.10   \u001b[7;21H\u001b[97m\u001b[41mAceMake Cars System Version 1.00\ufffdr25    \u001b[25;80H"
+    ],
+    [
+      0.213755,
+      "\u001b[7;21H\u001b[30m\u001b[47mAceMake Cars System Version 1.00\ufffdr25    \u001b[8;21H\u001b[97m\u001b[41mAceMake Simple EPOS System Version 1.00\ufffd\u001b[25;80H"
+    ],
+    [
+      0.146047,
+      "\u001b[8;21H\u001b[30m\u001b[47mAceMake Simple EPOS System Version 1.00\ufffd\u001b[9;21H\u001b[97m\u001b[41mAceMake Technical Book v1.00\ufffdr3         \u001b[25;80H"
+    ],
+    [
+      0.180253,
+      "\u001b[9;21H\u001b[30m\u001b[47mAceMake Technical Book v1.00\ufffdr3         \u001b[10;21H\u001b[97m\u001b[41mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b[25;80H"
+    ],
+    [
+      0.501046,
+      "\u001b[10;21H\u001b[30m\u001b[47mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b[11;21H\u001b[97m\u001b[41mAdvantage Xbase Server v3.51            \u001b[25;80H"
+    ],
+    [
+      0.084846,
+      "\u001b[11;21H\u001b[30m\u001b[47mAdvantage Xbase Server v3.51            \u001b[12;21H\u001b[97m\u001b[41mArea Codes                              \u001b[25;80H"
+    ],
+    [
+      0.084432,
+      "\u001b[12;21H\u001b[30m\u001b[47mArea Codes                              \u001b[13;21H\u001b[97m\u001b[41mAssembly Language                       \u001b[25;80H"
+    ],
+    [
+      0.084200,
+      "\u001b[13;21H\u001b[30m\u001b[47mAssembly Language                       \u001b[14;21H\u001b[97m\u001b[41mBAFTP - The BA File Transport Protocol  \u001b[25;80H"
+    ],
+    [
+      0.084411,
+      "\u001b[14;21H\u001b[30m\u001b[47mBAFTP - The BA File Transport Protocol  \u001b[15;21H\u001b[97m\u001b[41mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b[25;80H"
+    ],
+    [
+      0.084342,
+      "\u001b[15;21H\u001b[30m\u001b[47mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b[16;21H\u001b[97m\u001b[41mBandIT Reporter Version 2.0 (beta 1)    \u001b[25;80H"
+    ],
+    [
+      0.084400,
+      "\u001b[16;21H\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b[17;21H\u001b[97m\u001b[41mBandIT Reporter Version 2.0 (beta 1)    \u001b[25;80H"
+    ],
+    [
+      0.083612,
+      "\u001b[17;21H\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b[18;21H\u001b[97m\u001b[41mBIOS ref.                               \u001b[25;80H"
+    ],
+    [
+      0.083656,
+      "\u001b[18;21H\u001b[30m\u001b[47mBIOS ref.                               \u001b[19;21H\u001b[97m\u001b[41mBlinker 3.2 Online Reference            \u001b[25;80H"
+    ],
+    [
+      0.084288,
+      "\u001b[19;21H\u001b[30m\u001b[47mBlinker 3.2 Online Reference            \u001b[20;21H\u001b[97m\u001b[41mBroker System - Clarke Roxburgh         \u001b[25;80H"
+    ],
+    [
+      0.084499,
+      "\u001b[20;21H\u001b[30m\u001b[47mBroker System - Clarke Roxburgh         \u001b[21;21H\u001b[97m\u001b[41mCA-Clipper 5.2 Internal Errors          \u001b[25;80H"
+    ],
+    [
+      0.084447,
+      "\u001b[5;23H\u001b[30m\u001b[47meBase Library For Clipper 5.2 v1.10\u001b[6;24HMake Cars System Version 1.00\ufffdr25 \u001b[7;29HSimple EPOS System Version 1.00\ufffd\u001b[8;29HTechnical Book v1.00\ufffdr3         \u001b[9;29HWWW Setup Utility v1.00\ufffdr0\u001b[10;22Hdvantage Xbase Server v3.51      \u001b[11;22Hrea Codes                  \u001b[12;22Hssembly Language\u001b[13;21HBAFTP - The BA File Transport Protocol\u001b[14;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[15;22HandIT Reporter Version 2.0 (beta 1)  \u001b[17;22HIOS ref.                           \u001b[18;22Hlinker 3.2 Online Reference\u001b[19;22Hroker System - Clarke Roxburgh\u001b[20;21HCA-Clipper 5.2 Internal Errors \u001b[21;36H\u001b[97m\u001b[41m\ufffd Drivers Guide\u001b[25;80H"
+    ],
+    [
+      0.084444,
+      "\u001b[5;24H\u001b[30m\u001b[47mMake Cars System Version 1.00\ufffdr25 \u001b[6;29HSimple EPOS System Version 1.00\ufffd\u001b[7;29HTechnical Book v1.00\ufffdr3         \u001b[8;29HWWW Setup Utility v1.00\ufffdr0\u001b[9;22Hdvantage Xbase Server v3.51      \u001b[10;22Hrea Codes                  \u001b[11;22Hssembly Language\u001b[12;21HBAFTP - The BA File Transport Protocol\u001b[13;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[14;22HandIT Reporter Version 2.0 (beta 1)  \u001b[16;22HIOS ref.                           \u001b[17;22Hlinker 3.2 Online Reference\u001b[18;22Hroker System - Clarke Roxburgh\u001b[19;21HCA-Clipper 5.2 Internal Errors \u001b[20;36H\ufffd Drivers Guide\u001b[21;38H\u001b[97m\u001b[41mError Messages\u001b[25;80H"
+    ],
+    [
+      0.242394,
+      "\u001b[5;29H\u001b[30m\u001b[47mSimple EPOS System Version 1.00\ufffd\u001b[6;29HTechnical Book v1.00\ufffdr3         \u001b[7;29HWWW Setup Utility v1.00\ufffdr0\u001b[8;22Hdvantage Xbase Server v3.51      \u001b[9;22Hrea Codes                  \u001b[10;22Hssembly Language\u001b[11;21HBAFTP - The BA File Transport Protocol\u001b[12;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[13;22HandIT Reporter Version 2.0 (beta 1)  \u001b[15;22HIOS ref.                           \u001b[16;22Hlinker 3.2 Online Reference\u001b[17;22Hroker System - Clarke Roxburgh\u001b[18;21HCA-Clipper 5.2 Internal Errors \u001b[19;36H\ufffd Drivers Guide\u001b[20;38HError Messages\u001b[21;38H\u001b[97m\u001b[41mGuide To CA-Clipper\u001b[25;80H"
+    ],
+    [
+      0.202672,
+      "\u001b[5;29H\u001b[30m\u001b[47mTechnical Book v1.00\ufffdr3         \u001b[6;29HWWW Setup Utility v1.00\ufffdr0\u001b[7;22Hdvantage Xbase Server v3.51      \u001b[8;22Hrea Codes                  \u001b[9;22Hssembly Language\u001b[10;21HBAFTP - The BA File Transport Protocol\u001b[11;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[12;22HandIT Reporter Version 2.0 (beta 1)  \u001b[14;22HIOS ref.                           \u001b[15;22Hlinker 3.2 Online Reference\u001b[16;22Hroker System - Clarke Roxburgh\u001b[17;21HCA-Clipper 5.2 Internal Errors \u001b[18;36H\ufffd Drivers Guide\u001b[19;38HError Messages\u001b[20;38HGuide To CA-Clipper\u001b[21;38H\u001b[97m\u001b[41mRelease Notes      \u001b[25;80H"
+    ],
+    [
+      0.179966,
+      "\u001b[5;29H\u001b[30m\u001b[47mWWW Setup Utility v1.00\ufffdr0\u001b[6;22Hdvantage Xbase Server v3.51      \u001b[7;22Hrea Codes                  \u001b[8;22Hssembly Language\u001b[9;21HBAFTP - The BA File Transport Protocol\u001b[10;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[11;22HandIT Reporter Version 2.0 (beta 1)  \u001b[13;22HIOS ref.                           \u001b[14;22Hlinker 3.2 Online Reference\u001b[15;22Hroker System - Clarke Roxburgh\u001b[16;21HCA-Clipper 5.2 Internal Errors \u001b[17;36H\ufffd Drivers Guide\u001b[18;38HError Messages\u001b[19;38HGuide To CA-Clipper\u001b[20;38HRelease Notes      \u001b[21;38H\u001b[97m\u001b[41mSample Reference\u001b[25;80H"
+    ],
+    [
+      0.179794,
+      "\u001b[5;22H\u001b[30m\u001b[47mdvantage Xbase Server v3.51      \u001b[6;22Hrea Codes                  \u001b[7;22Hssembly Language\u001b[8;21HBAFTP - The BA File Transport Protocol\u001b[9;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[10;22HandIT Reporter Version 2.0 (beta 1)  \u001b[12;22HIOS ref.                           \u001b[13;22Hlinker 3.2 Online Reference\u001b[14;22Hroker System - Clarke Roxburgh\u001b[15;21HCA-Clipper 5.2 Internal Errors \u001b[16;36H\ufffd Drivers Guide\u001b[17;38HError Messages\u001b[18;38HGuide To CA-Clipper\u001b[19;38HRelease Notes      \u001b[20;38HSample Reference\u001b[21;38H\u001b[97m\u001b[41mTechnical Reference\u001b[25;80H"
+    ],
+    [
+      0.180094,
+      "\u001b[5;22H\u001b[30m\u001b[47mrea Codes                  \u001b[6;22Hssembly Language\u001b[7;21HBAFTP - The BA File Transport Protocol\u001b[8;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[9;22HandIT Reporter Version 2.0 (beta 1)  \u001b[11;22HIOS ref.                           \u001b[12;22Hlinker 3.2 Online Reference\u001b[13;22Hroker System - Clarke Roxburgh\u001b[14;21HCA-Clipper 5.2 Internal Errors \u001b[15;36H\ufffd Drivers Guide\u001b[16;38HError Messages\u001b[17;38HGuide To CA-Clipper\u001b[18;38HRelease Notes      \u001b[19;38HSample Reference\u001b[20;38HTechnical Reference\u001b[21;38H\u001b[97m\u001b[41mUtilities          \u001b[25;80H"
+    ],
+    [
+      0.191634,
+      "\u001b[5;22H\u001b[30m\u001b[47mssembly Language\u001b[6;21HBAFTP - The BA File Transport Protocol\u001b[7;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[8;22HandIT Reporter Version 2.0 (beta 1)  \u001b[10;22HIOS ref.                           \u001b[11;22Hlinker 3.2 Online Reference\u001b[12;22Hroker System - Clarke Roxburgh\u001b[13;21HCA-Clipper 5.2 Internal Errors \u001b[14;36H\ufffd Drivers Guide\u001b[15;38HError Messages\u001b[16;38HGuide To CA-Clipper\u001b[17;38HRelease Notes      \u001b[18;38HSample Reference\u001b[19;38HTechnical Reference\u001b[20;38HUtilities          \u001b[21;34H\u001b[97m\u001b[41m3 \ufffd Error Messages\u001b[25;80H"
+    ],
+    [
+      0.460746,
+      "\u001b[20;21HCA-Clipper 5.2 \ufffd Utilities              \u001b[21;21H\u001b[30m\u001b[47mCA-Clipper 5.3 \ufffd Error Messages         \u001b[25;80H"
+    ],
+    [
+      0.224983,
+      "\u001b[19;21H\u001b[97m\u001b[41mCA-Clipper 5.2 \ufffd Technical Reference    \u001b[20;21H\u001b[30m\u001b[47mCA-Clipper 5.2 \ufffd Utilities              \u001b[25;80H"
+    ],
+    [
+      0.191248,
+      "\u001b[18;21H\u001b[97m\u001b[41mCA-Clipper 5.2 \ufffd Sample Reference       \u001b[19;21H\u001b[30m\u001b[47mCA-Clipper 5.2 \ufffd Technical Reference    \u001b[25;80H"
+    ],
+    [
+      0.180105,
+      "\u001b[17;21H\u001b[97m\u001b[41mCA-Clipper 5.2 \ufffd Release Notes          \u001b[18;21H\u001b[30m\u001b[47mCA-Clipper 5.2 \ufffd Sample Reference       \u001b[25;80H"
+    ],
+    [
+      0.157457,
+      "\u001b[16;21H\u001b[97m\u001b[41mCA-Clipper 5.2 \ufffd Guide To CA-Clipper    \u001b[17;21H\u001b[30m\u001b[47mCA-Clipper 5.2 \ufffd Release Notes          \u001b[25;80H"
+    ],
+    [
+      0.629259,
+      "\u001b[1;23HCA-Clipper 5.2 \ufffd Guide To CA-Clipper\u001b[2;10HLanguage  Tables  Glossary\u001b[K\u001b[3;2H\u001b[97m\u001b[41mAADD() \u001b[9CAdd a new element to the end of an array\r\n\u001b[44m ABS()           Return the absolute value of a numeric expression\u001b[K\u001b[5;2HACHOICE()       Execute a pop-up menu\u001b[K\r\n ACLONE()        Duplicate a nested or multidimensional array\u001b[K\u001b[7;2HACOPY()         Copy elements from one array to another\u001b[K\u001b[8;2HADEL()          Delete an array element\u001b[K\u001b[9;2HADIR()*         Fill a series of arrays with directory information\u001b[10;2HAEVAL()         Execute a code block for each element in an array\u001b[11;2HAFIELDS()*      Fill arrays with the structure of the current database file\u001b[12;2HAFILL()         Fill an array with a specified value\u001b[K\u001b[13;2HAINS()          Insert a NIL element into an array\u001b[K\u001b[14;2HALERT()\u001b[9CDisplay a simple modal dialog box\u001b[K\u001b[15;2HALIAS()\u001b[9CReturn a specified work area alias\u001b[K\u001b[16;2HALLTRIM()\u001b[7CRemove leading and trailing spaces from a character string\u001b[17;2HALTD()\u001b[10CInvoke The CA-Clipper Deb"
+    ],
+    [
+      0.000016,
+      "ugger\u001b[K\u001b[18;2HARRAY()\u001b[9CCreate an uninitialized array of specified length\u001b[19;2HASC()\u001b[11CConvert a character to its ASCII value\u001b[K\u001b[20;2HASCAN()\u001b[9CScan an array for a value or until block returns true (.T.)\u001b[21;2HASIZE()\u001b[9CGrow or shrink an array\u001b[K\u001b[22;2HASORT()\u001b[9CSort an array\u001b[K\u001b[23;2HAT()\u001b[12CReturn the position of a substring within a character string\u001b[24;2HATAIL()\u001b[9CReturn the highest numbered element of an array\r\n\u001b[30m\u001b[47meg v1.01: /Users/davep/Google Drive/Norton Guides/C52G01B.NG\u001b[25;80H"
+    ],
+    [
+      1.080886,
+      "\u001b[2;2HExpand  \u001b[97m\u001b[41mLanguage\u001b[3;10H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqk\u001b[4;10Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Functions  \u001b(0\u001b[30m\u001b[47mx\u001b[5;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Commands   \u001b(0\u001b[30m\u001b[47mx\u001b[6;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Classes    \u001b(0\u001b[30m\u001b[47mx\u001b[7;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Statements \u001b(0\u001b[30m\u001b[47mx\u001b[8;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Operators  \u001b(0\u001b[30m\u001b[47mx\u001b[9;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Directives \u001b(0\u001b[30m\u001b[47mx\u001b[10;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Get System \u001b(0\u001b[30m\u001b[47mx\u001b[11;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Drivers    \u001b(0\u001b[30m\u001b[47mx\u001b[12;10Hmqqqqqqqqqqqqj\u001b[25;1H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.438793,
+      "\u001b[2;10HLanguage  \u001b[97m\u001b[41mTables\u001b[3;10H        Ad\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b[4;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Re\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Inkey Codes             \u001b(0\u001b[30m\u001b[47mx\u001b[5;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m)       Ex\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Colors                  \u001b(0\u001b[30m\u001b[47mx\u001b[6;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Du\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Picture Codes           \u001b(0\u001b[30m\u001b[47mx\u001b[7;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Co\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m ASCII Chart             \u001b(0\u001b[30m\u001b[47mx\u001b[8;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        De\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Box Characters          \u001b(0\u001b[30m\u001b[47mx\u001b[9;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Fi\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Special Characters      \u001b(0\u001b[30m\u001b[47mx\u001b[10;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Ex\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Reserved Words          \u001b(0\u001b[30m\u001b[47mx\u001b[11;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m)*      Fi\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Unsupported dBASE Items \u001b(0\u001b[30m\u001b[47mx\u001b[12;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m        Fi\u001b(0\u001b[30m\u001b[47mmqqqqqqqqqqqqqqqqq"
+    ],
+    [
+      0.000017,
+      "qqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      0.787447,
+      "\u001b[2;20H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mTables  \u001b[97m\u001b[41mGlossary\u001b[3;20Hd a new \u001b(0\u001b[30m\u001b[47ml\u001b[17Cqqk\u001b[4;20H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mturn the\u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Glossary\u001b[8C  \u001b(0\u001b[30m\u001b[47mx\u001b[5;20H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mecute a \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Categories\u001b[6C  \u001b(0\u001b[30m\u001b[47mx\u001b[6;20H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mplicate \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m License Agreement \u001b(0\u001b[30m\u001b[47mx\u001b[7;20H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mpy eleme\u001b(0\u001b[30m\u001b[47mmqqqqqqqqqqqqqqqqqqqj\u001b[8;20H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mlete an array element\u001b[K\u001b[9;20Hll a series of arrays with \u001b[10;20Hecute a code block for each\u001b[11;20Hll arrays with the structur\u001b[12;20Hll an array with a specifie\u001b[25;80H"
+    ],
+    [
+      0.708714,
+      "\u001b[2;2H\u001b[41mExpand\u001b[20C\u001b[30m\u001b[47mGlossary\u001b[3;28H\u001b[97m\u001b[41melement to the end of\u001b[4;28H\u001b[44m absolute value of a \u001b[5;28Hpop-up menu\u001b[K\u001b[6;28Ha nested or multidime\u001b[7;28Hnts from one array to\u001b[25;80H"
+    ],
+    [
+      1.023611,
+      "\u001b[3;1H AADD()          Add a new element to the end of an array\u001b[K\r\n\u001b[41m ABS()           Return the absolute value of a numeric expression\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.281279,
+      "\u001b[4;1H\u001b[44m ABS()           Return the absolute value of a numeric expression\u001b[K\r\n\u001b[41m ACHOICE()       Execute a pop-up menu\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.225125,
+      "\u001b[5;1H\u001b[44m ACHOICE()       Execute a pop-up menu\u001b[K\r\n\u001b[41m ACLONE()        Duplicate a nested or multidimensional array\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.202395,
+      "\u001b[6;1H\u001b[44m ACLONE()        Duplicate a nested or multidimensional array\u001b[K\r\n\u001b[41m ACOPY()         Copy elements from one array to another\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.183147,
+      "\u001b[7;1H\u001b[44m ACOPY()         Copy elements from one array to another\u001b[K\r\n\u001b[41m ADEL()          Delete an array element\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.176708,
+      "\u001b[8;1H\u001b[44m ADEL()          Delete an array element\u001b[K\r\n\u001b[41m ADIR()*         Fill a series of arrays with directory information\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.191331,
+      "\u001b[9;1H\u001b[44m ADIR()*         Fill a series of arrays with directory information\u001b[K\r\n\u001b[41m AEVAL()         Execute a code block for each element in an array\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.225017,
+      "\u001b[10;1H\u001b[44m AEVAL()         Execute a code block for each element in an array\u001b[K\r\n\u001b[41m AFIELDS()*      Fill arrays with the structure of the current database file\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.607543,
+      "\u001b[10;1H AEVAL()         Execute a code block for each element in an array\u001b[K\r\n\u001b[44m AFIELDS()*      Fill arrays with the structure of the current database file\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.778836,
+      "\u001b[2;2H\u001b[41mSee also\u001b[30m\u001b[47m\u001b[K\u001b[3;2H\u001b[93m\u001b[44mAEVAL()\u001b[97m\u001b[K\u001b[4;2HExecute a code block for each element in an array\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[6;2H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mSyntax\u001b[97m\u001b[K\u001b[7;2H\u001b[K\u001b[8;2H    \u001b[93mAEVAL(\u003caArray\u003e, \u003cbBlock\u003e,\u001b[97m\u001b[K\u001b[9;2H    \u001b[93m   [\u003cnStart\u003e], [\u003cnCount\u003e]) --\u003e aArray\u001b[97m\u001b[K\r\n\u001b[K\u001b[11;2H\u001b[93mArguments\u001b[97m\u001b[K\u001b[12;2H\u001b[K\u001b[13;2H    \u001b[93m\u003caArray\u003e\u001b[97m is the array to traverse.\u001b[K\u001b[14;2H\u001b[K\u001b[15;2H    \u001b[93m\u003cbBlock\u003e\u001b[97m is a code block to execute for each element encountered.\u001b[16;2H\u001b[K\u001b[17;2H    \u001b[93m\u003cnStart\u003e\u001b[97m is the starting element.  If not specified, the default is\u001b[18;2H    element one.\u001b[K\u001b[19;2H\u001b[K\u001b[20;2H    \u001b[93m\u003cnCount\u003e\u001b[97m is the number of elements to process from \u003cnStart\u003e.  If not\u001b[K\u001b[21;2H    specified, the default is all elements to the end of the array.\u001b[22;2H\u001b[K\u001b[23;2H\u001b[93mReturns\u001b[97m\u001b[K\u001b[24;2H\u001b[K\u001b[25;80H"
+    ],
+    [
+      1.336239,
+      "\u001b[3;2H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqk\u001b[4;2Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m DBEVAL() \u001b(0\u001b[30m\u001b[47mx\u001b[5;2Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m EVAL()   \u001b(0\u001b[30m\u001b[47mx\u001b[6;2Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m QOUT()   \u001b(0\u001b[30m\u001b[47mx\u001b[7;2Hmqqqqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      1.023713,
+      "\u001b[4;3H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m DBEVAL() \u001b[5;3H\u001b[97m\u001b[41m EVAL()   \u001b[25;80H"
+    ],
+    [
+      0.619424,
+      "\u001b[3;2H\u001b[93m\u001b[44mEVAL()\u001b[97m\u001b[K\u001b[4;2HEvaluate a code block\u001b[K\u001b[5;2H\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqq\u001b[6;2H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mSyntax\u001b[97m\u001b[K\u001b[7;2H\u001b[K\u001b[8;6H\u001b[93mEVAL(\u003cbBlock\u003e, [\u003cBlockArg list\u003e]) --\u003e LastBlockValue\u001b[9;6H\u001b[97m\u001b[K\u001b[10;2H\u001b[93mArguments\u001b[11;2H\u001b[97m\u001b[K\u001b[12;6H\u001b[93m\u003cbBlock\u003e\u001b[97m is the code block to evaluate.\u001b[13;6H\u001b[K\u001b[14;6H\u001b[93m\u003cBlockArg list\u003e\u001b[97m is a list of arguments to send to the code block\u001b[15;6Hbefore it is evaluated.\u001b[K\u001b[17;2H\u001b[93mReturns\u001b[97m\u001b[K\u001b[18;6H\u001b[K\u001b[19;6HEVAL() returns the value of the last expression within the block.  A\u001b[20;6Hcode block can return a value of any type.\u001b[K\u001b[21;6H\u001b[K\u001b[22;2H\u001b[93mDescription\u001b[23;2H\u001b[97m\u001b[K\u001b[24;6HEVAL() is a code block function.  It is the most basic code block\u001b[25;80H"
+    ],
+    [
+      1.698176,
+      "\u001b[4;20H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b[5;20Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41mAccounting For Clipper                  \u001b(0\u001b[30m\u001b[47mx\u001b[6;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceBase Library For Clipper 5.2 v1.10   \u001b(0\u001b[30m\u001b[47mx\u001b[7;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Cars System Version 1.00\ufffdr25    \u001b(0\u001b[30m\u001b[47mx\u001b[8;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Simple EPOS System Version 1.00\ufffd\u001b(0\u001b[30m\u001b[47mx\u001b[9;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake Technical Book v1.00\ufffdr3         \u001b(0\u001b[30m\u001b[47mx\u001b[10;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b(0\u001b[30m\u001b[47mx\u001b[11;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAdvantage Xbase Server v3.51            \u001b(0\u001b[30m\u001b[47mx\u001b[12;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mArea Codes                              \u001b(0\u001b[30m\u001b[47mx\u001b[13;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAssembly Language                       \u001b(0\u001b[30m\u001b[47mx\u001b[14;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBAFTP - The BA File Transport Protocol  \u001b(0\u001b[30m\u001b[47mx\u001b[15;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b(0\u001b[30m\u001b[47mx\u001b[16;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1) "
+    ],
+    [
+      0.000007,
+      "   \u001b(0\u001b[30m\u001b[47mx\u001b[17;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b(0\u001b[30m\u001b[47mx\u001b[18;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBIOS ref.                               \u001b(0\u001b[30m\u001b[47mx\u001b[19;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBlinker 3.2 Online Reference            \u001b(0\u001b[30m\u001b[47mx\u001b[20;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mBroker System - Clarke Roxburgh         \u001b(0\u001b[30m\u001b[47mx\u001b[21;20Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mCA-Clipper 5.2 Internal Errors          \u001b(0\u001b[30m\u001b[47mx\u001b[22;20Hmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      0.933775,
+      "\u001b[5;21H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mAccounting For Clipper                  \u001b[6;21H\u001b[97m\u001b[41mAceBase Library For Clipper 5.2 v1.10   \u001b[25;80H"
+    ],
+    [
+      0.500969,
+      "\u001b[6;21H\u001b[30m\u001b[47mAceBase Library For Clipper 5.2 v1.10   \u001b[7;21H\u001b[97m\u001b[41mAceMake Cars System Version 1.00\ufffdr25    \u001b[25;80H"
+    ],
+    [
+      0.083323,
+      "\u001b[7;21H\u001b[30m\u001b[47mAceMake Cars System Version 1.00\ufffdr25    \u001b[8;21H\u001b[97m\u001b[41mAceMake Simple EPOS System Version 1.00\ufffd\u001b[25;80H"
+    ],
+    [
+      0.083587,
+      "\u001b[8;21H\u001b[30m\u001b[47mAceMake Simple EPOS System Version 1.00\ufffd\u001b[9;21H\u001b[97m\u001b[41mAceMake Technical Book v1.00\ufffdr3         \u001b[25;80H"
+    ],
+    [
+      0.083297,
+      "\u001b[9;21H\u001b[30m\u001b[47mAceMake Technical Book v1.00\ufffdr3         \u001b[10;21H\u001b[97m\u001b[41mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b[25;80H"
+    ],
+    [
+      0.084460,
+      "\u001b[10;21H\u001b[30m\u001b[47mAceMake WWW Setup Utility v1.00\ufffdr0      \u001b[11;21H\u001b[97m\u001b[41mAdvantage Xbase Server v3.51            \u001b[25;80H"
+    ],
+    [
+      0.084408,
+      "\u001b[11;21H\u001b[30m\u001b[47mAdvantage Xbase Server v3.51            \u001b[12;21H\u001b[97m\u001b[41mArea Codes                              \u001b[25;80H"
+    ],
+    [
+      0.084462,
+      "\u001b[12;21H\u001b[30m\u001b[47mArea Codes                              \u001b[13;21H\u001b[97m\u001b[41mAssembly Language                       \u001b[25;80H"
+    ],
+    [
+      0.084331,
+      "\u001b[13;21H\u001b[30m\u001b[47mAssembly Language                       \u001b[14;21H\u001b[97m\u001b[41mBAFTP - The BA File Transport Protocol  \u001b[25;80H"
+    ],
+    [
+      0.084406,
+      "\u001b[14;21H\u001b[30m\u001b[47mBAFTP - The BA File Transport Protocol  \u001b[15;21H\u001b[97m\u001b[41mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b[25;80H"
+    ],
+    [
+      0.084362,
+      "\u001b[15;21H\u001b[30m\u001b[47mBAL CoreLib Build 216 11/11/96 - 16:44  \u001b[16;21H\u001b[97m\u001b[41mBandIT Reporter Version 2.0 (beta 1)    \u001b[25;80H"
+    ],
+    [
+      0.084382,
+      "\u001b[16;21H\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b[17;21H\u001b[97m\u001b[41mBandIT Reporter Version 2.0 (beta 1)    \u001b[25;80H"
+    ],
+    [
+      0.083573,
+      "\u001b[17;21H\u001b[30m\u001b[47mBandIT Reporter Version 2.0 (beta 1)    \u001b[18;21H\u001b[97m\u001b[41mBIOS ref.                               \u001b[25;80H"
+    ],
+    [
+      0.084418,
+      "\u001b[18;21H\u001b[30m\u001b[47mBIOS ref.                               \u001b[19;21H\u001b[97m\u001b[41mBlinker 3.2 Online Reference            \u001b[25;80H"
+    ],
+    [
+      0.084796,
+      "\u001b[19;21H\u001b[30m\u001b[47mBlinker 3.2 Online Reference            \u001b[20;21H\u001b[97m\u001b[41mBroker System - Clarke Roxburgh         \u001b[25;80H"
+    ],
+    [
+      0.084028,
+      "\u001b[20;21H\u001b[30m\u001b[47mBroker System - Clarke Roxburgh         \u001b[21;21H\u001b[97m\u001b[41mCA-Clipper 5.2 Internal Errors          \u001b[25;80H"
+    ],
+    [
+      0.084409,
+      "\u001b[5;23H\u001b[30m\u001b[47meBase Library For Clipper 5.2 v1.10\u001b[6;24HMake Cars System Version 1.00\ufffdr25 \u001b[7;29HSimple EPOS System Version 1.00\ufffd\u001b[8;29HTechnical Book v1.00\ufffdr3         \u001b[9;29HWWW Setup Utility v1.00\ufffdr0\u001b[10;22Hdvantage Xbase Server v3.51      \u001b[11;22Hrea Codes                  \u001b[12;22Hssembly Language\u001b[13;21HBAFTP - The BA File Transport Protocol\u001b[14;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[15;22HandIT Reporter Version 2.0 (beta 1)  \u001b[17;22HIOS ref.                           \u001b[18;22Hlinker 3.2 Online Reference\u001b[19;22Hroker System - Clarke Roxburgh\u001b[20;21HCA-Clipper 5.2 Internal Errors \u001b[21;36H\u001b[97m\u001b[41m\ufffd Drivers Guide\u001b[25;80H"
+    ],
+    [
+      0.084376,
+      "\u001b[5;24H\u001b[30m\u001b[47mMake Cars System Version 1.00\ufffdr25 \u001b[6;29HSimple EPOS System Version 1.00\ufffd\u001b[7;29HTechnical Book v1.00\ufffdr3         \u001b[8;29HWWW Setup Utility v1.00\ufffdr0\u001b[9;22Hdvantage Xbase Server v3.51      \u001b[10;22Hrea Codes                  \u001b[11;22Hssembly Language\u001b[12;21HBAFTP - The BA File Transport Protocol\u001b[13;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[14;22HandIT Reporter Version 2.0 (beta 1)  \u001b[16;22HIOS ref.                           \u001b[17;22Hlinker 3.2 Online Reference\u001b[18;22Hroker System - Clarke Roxburgh\u001b[19;21HCA-Clipper 5.2 Internal Errors \u001b[20;36H\ufffd Drivers Guide\u001b[21;38H\u001b[97m\u001b[41mError Messages\u001b[25;80H"
+    ],
+    [
+      0.084538,
+      "\u001b[5;29H\u001b[30m\u001b[47mSimple EPOS System Version 1.00\ufffd\u001b[6;29HTechnical Book v1.00\ufffdr3         \u001b[7;29HWWW Setup Utility v1.00\ufffdr0\u001b[8;22Hdvantage Xbase Server v3.51      \u001b[9;22Hrea Codes                  \u001b[10;22Hssembly Language\u001b[11;21HBAFTP - The BA File Transport Protocol\u001b[12;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[13;22HandIT Reporter Version 2.0 (beta 1)  \u001b[15;22HIOS ref.                           \u001b[16;22Hlinker 3.2 Online Reference\u001b[17;22Hroker System - Clarke Roxburgh\u001b[18;21HCA-Clipper 5.2 Internal Errors \u001b[19;36H\ufffd Drivers Guide\u001b[20;38HError Messages\u001b[21;38H\u001b[97m\u001b[41mGuide To CA-Clipper\u001b[25;80H"
+    ],
+    [
+      0.085493,
+      "\u001b[5;29H\u001b[30m\u001b[47mTechnical Book v1.00\ufffdr3         \u001b[6;29HWWW Setup Utility v1.00\ufffdr0\u001b[7;22Hdvantage Xbase Server v3.51      \u001b[8;22Hrea Codes                  \u001b[9;22Hssembly Language\u001b[10;21HBAFTP - The BA File Transport Protocol\u001b[11;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[12;22HandIT Reporter Version 2.0 (beta 1)  \u001b[14;22HIOS ref.                           \u001b[15;22Hlinker 3.2 Online Reference\u001b[16;22Hroker System - Clarke Roxburgh\u001b[17;21HCA-Clipper 5.2 Internal Errors \u001b[18;36H\ufffd Drivers Guide\u001b[19;38HError Messages\u001b[20;38HGuide To CA-Clipper\u001b[21;38H\u001b[97m\u001b[41mRelease Notes      \u001b[25;80H"
+    ],
+    [
+      0.083842,
+      "\u001b[5;29H\u001b[30m\u001b[47mWWW Setup Utility v1.00\ufffdr0\u001b[6;22Hdvantage Xbase Server v3.51      \u001b[7;22Hrea Codes                  \u001b[8;22Hssembly Language\u001b[9;21HBAFTP - The BA File Transport Protocol\u001b[10;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[11;22HandIT Reporter Version 2.0 (beta 1)  \u001b[13;22HIOS ref.                           \u001b[14;22Hlinker 3.2 Online Reference\u001b[15;22Hroker System - Clarke Roxburgh\u001b[16;21HCA-Clipper 5.2 Internal Errors \u001b[17;36H\ufffd Drivers Guide\u001b[18;38HError Messages\u001b[19;38HGuide To CA-Clipper\u001b[20;38HRelease Notes      \u001b[21;38H\u001b[97m\u001b[41mSample Reference\u001b[25;80H"
+    ],
+    [
+      0.083499,
+      "\u001b[5;22H\u001b[30m\u001b[47mdvantage Xbase Server v3.51      \u001b[6;22Hrea Codes                  \u001b[7;22Hssembly Language\u001b[8;21HBAFTP - The BA File Transport Protocol\u001b[9;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[10;22HandIT Reporter Version 2.0 (beta 1)  \u001b[12;22HIOS ref.                           \u001b[13;22Hlinker 3.2 Online Reference\u001b[14;22Hroker System - Clarke Roxburgh\u001b[15;21HCA-Clipper 5.2 Internal Errors \u001b[16;36H\ufffd Drivers Guide\u001b[17;38HError Messages\u001b[18;38HGuide To CA-Clipper\u001b[19;38HRelease Notes      \u001b[20;38HSample Reference\u001b[21;38H\u001b[97m\u001b[41mTechnical Reference\u001b[25;80H"
+    ],
+    [
+      0.083261,
+      "\u001b[5;22H\u001b[30m\u001b[47mrea Codes                  \u001b[6;22Hssembly Language\u001b[7;21HBAFTP - The BA File Transport Protocol\u001b[8;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[9;22HandIT Reporter Version 2.0 (beta 1)  \u001b[11;22HIOS ref.                           \u001b[12;22Hlinker 3.2 Online Reference\u001b[13;22Hroker System - Clarke Roxburgh\u001b[14;21HCA-Clipper 5.2 Internal Errors \u001b[15;36H\ufffd Drivers Guide\u001b[16;38HError Messages\u001b[17;38HGuide To CA-Clipper\u001b[18;38HRelease Notes      \u001b[19;38HSample Reference\u001b[20;38HTechnical Reference\u001b[21;38H\u001b[97m\u001b[41mUtilities          \u001b[25;80H"
+    ],
+    [
+      0.084482,
+      "\u001b[5;22H\u001b[30m\u001b[47mssembly Language\u001b[6;21HBAFTP - The BA File Transport Protocol\u001b[7;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[8;22HandIT Reporter Version 2.0 (beta 1)  \u001b[10;22HIOS ref.                           \u001b[11;22Hlinker 3.2 Online Reference\u001b[12;22Hroker System - Clarke Roxburgh\u001b[13;21HCA-Clipper 5.2 Internal Errors \u001b[14;36H\ufffd Drivers Guide\u001b[15;38HError Messages\u001b[16;38HGuide To CA-Clipper\u001b[17;38HRelease Notes      \u001b[18;38HSample Reference\u001b[19;38HTechnical Reference\u001b[20;38HUtilities          \u001b[21;34H\u001b[97m\u001b[41m3 \ufffd Error Messages\u001b[25;80H"
+    ],
+    [
+      0.084362,
+      "\u001b[5;21H\u001b[30m\u001b[47mBAFTP - The BA File Transport Protocol\u001b[6;23HL CoreLib Build 216 11/11/96 - 16:44\u001b[7;22HandIT Reporter Version 2.0 (beta 1)  \u001b[9;22HIOS ref.                           \u001b[10;22Hlinker 3.2 Online Reference\u001b[11;22Hroker System - Clarke Roxburgh\u001b[12;21HCA-Clipper 5.2 Internal Errors \u001b[13;36H\ufffd Drivers Guide\u001b[14;38HError Messages\u001b[15;38HGuide To CA-Clipper\u001b[16;38HRelease Notes      \u001b[17;38HSample Reference\u001b[18;38HTechnical Reference\u001b[19;38HUtilities          \u001b[20;34H3 \ufffd Error Messages\u001b[21;38H\u001b[97m\u001b[41mGuide To CA-Clipper\u001b[25;80H"
+    ],
+    [
+      0.084611,
+      "\u001b[5;23H\u001b[30m\u001b[47mL CoreLib Build 216 11/11/96 - 16:44\u001b[6;22HandIT Reporter Version 2.0 (beta 1)  \u001b[8;22HIOS ref.                           \u001b[9;22Hlinker 3.2 Online Reference\u001b[10;22Hroker System - Clarke Roxburgh\u001b[11;21HCA-Clipper 5.2 Internal Errors \u001b[12;36H\ufffd Drivers Guide\u001b[13;38HError Messages\u001b[14;38HGuide To CA-Clipper\u001b[15;38HRelease Notes      \u001b[16;38HSample Reference\u001b[17;38HTechnical Reference\u001b[18;38HUtilities          \u001b[19;34H3 \ufffd Error Messages\u001b[20;38HGuide To CA-Clipper\u001b[21;38H\u001b[97m\u001b[41mTechnical Reference\u001b[25;80H"
+    ],
+    [
+      0.084243,
+      "\u001b[5;22H\u001b[30m\u001b[47mandIT Reporter Version 2.0 (beta 1)  \u001b[7;22HIOS ref.                           \u001b[8;22Hlinker 3.2 Online Reference\u001b[9;22Hroker System - Clarke Roxburgh\u001b[10;21HCA-Clipper 5.2 Internal Errors \u001b[11;36H\ufffd Drivers Guide\u001b[12;38HError Messages\u001b[13;38HGuide To CA-Clipper\u001b[14;38HRelease Notes      \u001b[15;38HSample Reference\u001b[16;38HTechnical Reference\u001b[17;38HUtilities          \u001b[18;34H3 \ufffd Error Messages\u001b[19;38HGuide To CA-Clipper\u001b[20;38HTechnical Reference\u001b[21;38H\u001b[97m\u001b[41mUtilities          \u001b[25;80H"
+    ],
+    [
+      0.084366,
+      "\u001b[6;22H\u001b[30m\u001b[47mIOS ref.                           \u001b[7;22Hlinker 3.2 Online Reference\u001b[8;22Hroker System - Clarke Roxburgh\u001b[9;21HCA-Clipper 5.2 Internal Errors \u001b[10;36H\ufffd Drivers Guide\u001b[11;38HError Messages\u001b[12;38HGuide To CA-Clipper\u001b[13;38HRelease Notes      \u001b[14;38HSample Reference\u001b[15;38HTechnical Reference\u001b[16;38HUtilities          \u001b[17;34H3 \ufffd Error Messages\u001b[18;38HGuide To CA-Clipper\u001b[19;38HTechnical Reference\u001b[20;38HUtilities          \u001b[21;32H\u001b[97m\u001b[41mTools \ufffd Book 4-Appendices\u001b[25;80H"
+    ],
+    [
+      0.084404,
+      "\u001b[5;22H\u001b[30m\u001b[47mIOS ref.                           \u001b[6;22Hlinker 3.2 Online Reference\u001b[7;22Hroker System - Clarke Roxburgh\u001b[8;21HCA-Clipper 5.2 Internal Errors \u001b[9;36H\ufffd Drivers Guide\u001b[10;38HError Messages\u001b[11;38HGuide To CA-Clipper\u001b[12;38HRelease Notes      \u001b[13;38HSample Reference\u001b[14;38HTechnical Reference\u001b[15;38HUtilities          \u001b[16;34H3 \ufffd Error Messages\u001b[17;38HGuide To CA-Clipper\u001b[18;38HTechnical Reference\u001b[19;38HUtilities          \u001b[20;32HTools \ufffd Book 4-Appendices\u001b[21;44H\u001b[97m\u001b[41ms 1-3        \u001b[25;80H"
+    ],
+    [
+      0.084209,
+      "\u001b[5;22H\u001b[30m\u001b[47mlinker 3.2 Online Reference\u001b[6;22Hroker System - Clarke Roxburgh\u001b[7;21HCA-Clipper 5.2 Internal Errors \u001b[8;36H\ufffd Drivers Guide\u001b[9;38HError Messages\u001b[10;38HGuide To CA-Clipper\u001b[11;38HRelease Notes      \u001b[12;38HSample Reference\u001b[13;38HTechnical Reference\u001b[14;38HUtilities          \u001b[15;34H3 \ufffd Error Messages\u001b[16;38HGuide To CA-Clipper\u001b[17;38HTechnical Reference\u001b[18;38HUtilities          \u001b[19;32HTools \ufffd Book 4-Appendices\u001b[20;44Hs 1-3        \u001b[21;32H\u001b[97m\u001b[41mUser Group Directory\u001b[25;80H"
+    ],
+    [
+      0.084421,
+      "\u001b[5;22H\u001b[30m\u001b[47mroker System - Clarke Roxburgh\u001b[6;21HCA-Clipper 5.2 Internal Errors \u001b[7;36H\ufffd Drivers Guide\u001b[8;38HError Messages\u001b[9;38HGuide To CA-Clipper\u001b[10;38HRelease Notes      \u001b[11;38HSample Reference\u001b[12;38HTechnical Reference\u001b[13;38HUtilities          \u001b[14;34H3 \ufffd Error Messages\u001b[15;38HGuide To CA-Clipper\u001b[16;38HTechnical Reference\u001b[17;38HUtilities          \u001b[18;32HTools \ufffd Book 4-Appendices\u001b[19;44Hs 1-3        \u001b[20;32HUser Group Directory\u001b[21;22H\u001b[97m\u001b[41mlick! 2.00 Source Code Reformatter\u001b[25;80H"
+    ],
+    [
+      0.083873,
+      "\u001b[5;21H\u001b[30m\u001b[47mCA-Clipper 5.2 Internal Errors \u001b[6;36H\ufffd Drivers Guide\u001b[7;38HError Messages\u001b[8;38HGuide To CA-Clipper\u001b[9;38HRelease Notes      \u001b[10;38HSample Reference\u001b[11;38HTechnical Reference\u001b[12;38HUtilities          \u001b[13;34H3 \ufffd Error Messages\u001b[14;38HGuide To CA-Clipper\u001b[15;38HTechnical Reference\u001b[16;38HUtilities          \u001b[17;32HTools \ufffd Book 4-Appendices\u001b[18;44Hs 1-3        \u001b[19;32HUser Group Directory\u001b[20;22Hlick! 2.00 Source Code Reformatter\u001b[21;24H\u001b[97m\u001b[41mpMore 3.0 Reference Manual      \u001b[25;80H"
+    ],
+    [
+      0.083588,
+      "\u001b[5;36H\u001b[30m\u001b[47m\ufffd Drivers Guide\u001b[6;38HError Messages\u001b[7;38HGuide To CA-Clipper\u001b[8;38HRelease Notes      \u001b[9;38HSample Reference\u001b[10;38HTechnical Reference\u001b[11;38HUtilities          \u001b[12;34H3 \ufffd Error Messages\u001b[13;38HGuide To CA-Clipper\u001b[14;38HTechnical Reference\u001b[15;38HUtilities          \u001b[16;32HTools \ufffd Book 4-Appendices\u001b[17;44Hs 1-3        \u001b[18;32HUser Group Directory\u001b[19;22Hlick! 2.00 Source Code Reformatter\u001b[20;24HpMore 3.0 Reference Manual      \u001b[21;30H\u001b[97m\u001b[41mManual              \u001b[25;80H"
+    ],
+    [
+      0.083581,
+      "\u001b[5;38H\u001b[30m\u001b[47mError Messages\u001b[6;38HGuide To CA-Clipper\u001b[7;38HRelease Notes      \u001b[8;38HSample Reference\u001b[9;38HTechnical Reference\u001b[10;38HUtilities          \u001b[11;34H3 \ufffd Error Messages\u001b[12;38HGuide To CA-Clipper\u001b[13;38HTechnical Reference\u001b[14;38HUtilities          \u001b[15;32HTools \ufffd Book 4-Appendices\u001b[16;44Hs 1-3        \u001b[17;32HUser Group Directory\u001b[18;22Hlick! 2.00 Source Code Reformatter\u001b[19;24HpMore 3.0 Reference Manual      \u001b[20;30HManual              \u001b[21;25H\u001b[97m\u001b[41mper 5.00a \ufffd Internal Errors  V1.01\u001b[25;80H"
+    ],
+    [
+      0.084373,
+      "\u001b[5;38H\u001b[30m\u001b[47mGuide To CA-Clipper\u001b[6;38HRelease Notes      \u001b[7;38HSample Reference\u001b[8;38HTechnical Reference\u001b[9;38HUtilities          \u001b[10;34H3 \ufffd Error Messages\u001b[11;38HGuide To CA-Clipper\u001b[12;38HTechnical Reference\u001b[13;38HUtilities          \u001b[14;32HTools \ufffd Book 4-Appendices\u001b[15;44Hs 1-3        \u001b[16;32HUser Group Directory\u001b[17;22Hlick! 2.00 Source Code Reformatter\u001b[18;24HpMore 3.0 Reference Manual      \u001b[19;30HManual              \u001b[20;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[21;58H\u001b[97m\u001b[41m4\u001b[25;80H"
+    ],
+    [
+      0.084344,
+      "\u001b[5;38H\u001b[30m\u001b[47mRelease Notes      \u001b[6;38HSample Reference\u001b[7;38HTechnical Reference\u001b[8;38HUtilities          \u001b[9;34H3 \ufffd Error Messages\u001b[10;38HGuide To CA-Clipper\u001b[11;38HTechnical Reference\u001b[12;38HUtilities          \u001b[13;32HTools \ufffd Book 4-Appendices\u001b[14;44Hs 1-3        \u001b[15;32HUser Group Directory\u001b[16;22Hlick! 2.00 Source Code Reformatter\u001b[17;24HpMore 3.0 Reference Manual      \u001b[18;30HManual              \u001b[19;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[20;58H4\u001b[21;32H\u001b[97m\u001b[41m1 vs 1.29 Anomalies (#04)  \u001b[25;80H"
+    ],
+    [
+      0.084419,
+      "\u001b[5;38H\u001b[30m\u001b[47mSample Reference\u001b[6;38HTechnical Reference\u001b[7;38HUtilities          \u001b[8;34H3 \ufffd Error Messages\u001b[9;38HGuide To CA-Clipper\u001b[10;38HTechnical Reference\u001b[11;38HUtilities          \u001b[12;32HTools \ufffd Book 4-Appendices\u001b[13;44Hs 1-3        \u001b[14;32HUser Group Directory\u001b[15;22Hlick! 2.00 Source Code Reformatter\u001b[16;24HpMore 3.0 Reference Manual      \u001b[17;30HManual              \u001b[18;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[19;58H4\u001b[20;32H1 vs 1.29 Anomalies (#04)  \u001b[21;33H\u001b[97m\u001b[41ma \ufffd Release Notes       \u001b[25;80H"
+    ],
+    [
+      0.084302,
+      "\u001b[5;38H\u001b[30m\u001b[47mTechnical Reference\u001b[6;38HUtilities          \u001b[7;34H3 \ufffd Error Messages\u001b[8;38HGuide To CA-Clipper\u001b[9;38HTechnical Reference\u001b[10;38HUtilities          \u001b[11;32HTools \ufffd Book 4-Appendices\u001b[12;44Hs 1-3        \u001b[13;32HUser Group Directory\u001b[14;22Hlick! 2.00 Source Code Reformatter\u001b[15;24HpMore 3.0 Reference Manual      \u001b[16;30HManual              \u001b[17;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[18;58H4\u001b[19;32H1 vs 1.29 Anomalies (#04)  \u001b[20;33Ha \ufffd Release Notes       \u001b[21;31H\u001b[97m\u001b[41m2c \ufffd Anomalies \u0026 IE's v0.99\u001b[25;80H"
+    ],
+    [
+      0.083969,
+      "\u001b[5;38H\u001b[30m\u001b[47mUtilities          \u001b[6;34H3 \ufffd Error Messages\u001b[7;38HGuide To CA-Clipper\u001b[8;38HTechnical Reference\u001b[9;38HUtilities          \u001b[10;32HTools \ufffd Book 4-Appendices\u001b[11;44Hs 1-3        \u001b[12;32HUser Group Directory\u001b[13;22Hlick! 2.00 Source Code Reformatter\u001b[14;24HpMore 3.0 Reference Manual      \u001b[15;30HManual              \u001b[16;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[17;58H4\u001b[18;32H1 vs 1.29 Anomalies (#04)  \u001b[19;33Ha \ufffd Release Notes       \u001b[20;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[21;22H\u001b[97m\u001b[41momix 3.0 Reference Manual           \u001b[25;80H"
+    ],
+    [
+      0.084434,
+      "\u001b[5;34H\u001b[30m\u001b[47m3 \ufffd Error Messages\u001b[6;38HGuide To CA-Clipper\u001b[7;38HTechnical Reference\u001b[8;38HUtilities          \u001b[9;32HTools \ufffd Book 4-Appendices\u001b[10;44Hs 1-3        \u001b[11;32HUser Group Directory\u001b[12;22Hlick! 2.00 Source Code Reformatter\u001b[13;24HpMore 3.0 Reference Manual      \u001b[14;30HManual              \u001b[15;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[16;58H4\u001b[17;32H1 vs 1.29 Anomalies (#04)  \u001b[18;33Ha \ufffd Release Notes       \u001b[19;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[20;22Homix 3.0 Reference Manual           \u001b[21;24H\u001b[97m\u001b[41mpuTill TXT Parser Library\u001b[25;80H"
+    ],
+    [
+      0.083456,
+      "\u001b[5;38H\u001b[30m\u001b[47mGuide To CA-Clipper\u001b[6;38HTechnical Reference\u001b[7;38HUtilities          \u001b[8;32HTools \ufffd Book 4-Appendices\u001b[9;44Hs 1-3        \u001b[10;32HUser Group Directory\u001b[11;22Hlick! 2.00 Source Code Reformatter\u001b[12;24HpMore 3.0 Reference Manual      \u001b[13;30HManual              \u001b[14;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[15;58H4\u001b[16;32H1 vs 1.29 Anomalies (#04)  \u001b[17;33Ha \ufffd Release Notes       \u001b[18;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[19;22Homix 3.0 Reference Manual           \u001b[20;24HpuTill TXT Parser Library\u001b[21;22H\u001b[97m\u001b[41mreating Your Own Database  \u001b[25;80H"
+    ],
+    [
+      0.083371,
+      "\u001b[5;38H\u001b[30m\u001b[47mTechnical Reference\u001b[6;38HUtilities          \u001b[7;32HTools \ufffd Book 4-Appendices\u001b[8;44Hs 1-3        \u001b[9;32HUser Group Directory\u001b[10;22Hlick! 2.00 Source Code Reformatter\u001b[11;24HpMore 3.0 Reference Manual      \u001b[12;30HManual              \u001b[13;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[14;58H4\u001b[15;32H1 vs 1.29 Anomalies (#04)  \u001b[16;33Ha \ufffd Release Notes       \u001b[17;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[18;22Homix 3.0 Reference Manual           \u001b[19;24HpuTill TXT Parser Library\u001b[20;22Hreating Your Own Database  \u001b[21;22H\u001b[97m\u001b[41mustomer Marketing Public API\u001b[25;80H"
+    ],
+    [
+      0.083424,
+      "\u001b[5;38H\u001b[30m\u001b[47mUtilities          \u001b[6;32HTools \ufffd Book 4-Appendices\u001b[7;44Hs 1-3        \u001b[8;32HUser Group Directory\u001b[9;22Hlick! 2.00 Source Code Reformatter\u001b[10;24HpMore 3.0 Reference Manual      \u001b[11;30HManual              \u001b[12;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[13;58H4\u001b[14;32H1 vs 1.29 Anomalies (#04)  \u001b[15;33Ha \ufffd Release Notes       \u001b[16;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[17;22Homix 3.0 Reference Manual           \u001b[18;24HpuTill TXT Parser Library\u001b[19;22Hreating Your Own Database  \u001b[20;22Hustomer Marketing Public API\u001b[21;21H\u001b[97m\u001b[41mdb_VISTA III                 \u001b[25;80H"
+    ],
+    [
+      0.084679,
+      "\u001b[5;32H\u001b[30m\u001b[47mTools \ufffd Book 4-Appendices\u001b[6;44Hs 1-3        \u001b[7;32HUser Group Directory\u001b[8;22Hlick! 2.00 Source Code Reformatter\u001b[9;24HpMore 3.0 Reference Manual      \u001b[10;30HManual              \u001b[11;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[12;58H4\u001b[13;32H1 vs 1.29 Anomalies (#04)  \u001b[14;33Ha \ufffd Release Notes       \u001b[15;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[16;22Homix 3.0 Reference Manual           \u001b[17;24HpuTill TXT Parser Library\u001b[18;22Hreating Your Own Database  \u001b[19;22Hustomer Marketing Public API\u001b[20;21Hdb_VISTA III                 \u001b[21;23H\u001b[97m\u001b[41mReport 1.1 \ufffd Report Engine\u001b[25;80H"
+    ],
+    [
+      0.083714,
+      "\u001b[5;44H\u001b[30m\u001b[47ms 1-3        \u001b[6;32HUser Group Directory\u001b[7;22Hlick! 2.00 Source Code Reformatter\u001b[8;24HpMore 3.0 Reference Manual      \u001b[9;30HManual              \u001b[10;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[11;58H4\u001b[12;32H1 vs 1.29 Anomalies (#04)  \u001b[13;33Ha \ufffd Release Notes       \u001b[14;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[15;22Homix 3.0 Reference Manual           \u001b[16;24HpuTill TXT Parser Library\u001b[17;22Hreating Your Own Database  \u001b[18;22Hustomer Marketing Public API\u001b[19;21Hdb_VISTA III                 \u001b[20;23HReport 1.1 \ufffd Report Engine\u001b[21;21H\u001b[97m\u001b[41mDD Manager                  \u001b[25;80H"
+    ],
+    [
+      0.083420,
+      "\u001b[5;32H\u001b[30m\u001b[47mUser Group Directory\u001b[6;22Hlick! 2.00 Source Code Reformatter\u001b[7;24HpMore 3.0 Reference Manual      \u001b[8;30HManual              \u001b[9;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[10;58H4\u001b[11;32H1 vs 1.29 Anomalies (#04)  \u001b[12;33Ha \ufffd Release Notes       \u001b[13;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[14;22Homix 3.0 Reference Manual           \u001b[15;24HpuTill TXT Parser Library\u001b[16;22Hreating Your Own Database  \u001b[17;22Hustomer Marketing Public API\u001b[18;21Hdb_VISTA III                 \u001b[19;23HReport 1.1 \ufffd Report Engine\u001b[20;21HDD Manager                  \u001b[21;22H\u001b[97m\u001b[41mEBUG     \u001b[25;80H"
+    ],
+    [
+      0.083429,
+      "\u001b[5;22H\u001b[30m\u001b[47mlick! 2.00 Source Code Reformatter\u001b[6;24HpMore 3.0 Reference Manual      \u001b[7;30HManual              \u001b[8;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[9;58H4\u001b[10;32H1 vs 1.29 Anomalies (#04)  \u001b[11;33Ha \ufffd Release Notes       \u001b[12;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[13;22Homix 3.0 Reference Manual           \u001b[14;24HpuTill TXT Parser Library\u001b[15;22Hreating Your Own Database  \u001b[16;22Hustomer Marketing Public API\u001b[17;21Hdb_VISTA III                 \u001b[18;23HReport 1.1 \ufffd Report Engine\u001b[19;21HDD Manager                  \u001b[20;22HEBUG     \u001b[21;22H\u001b[97m\u001b[41mialog Library\u001b[25;80H"
+    ],
+    [
+      0.085122,
+      "\u001b[5;24H\u001b[30m\u001b[47mpMore 3.0 Reference Manual      \u001b[6;30HManual              \u001b[7;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[8;58H4\u001b[9;32H1 vs 1.29 Anomalies (#04)  \u001b[10;33Ha \ufffd Release Notes       \u001b[11;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[12;22Homix 3.0 Reference Manual           \u001b[13;24HpuTill TXT Parser Library\u001b[14;22Hreating Your Own Database  \u001b[15;22Hustomer Marketing Public API\u001b[16;21Hdb_VISTA III                 \u001b[17;23HReport 1.1 \ufffd Report Engine\u001b[18;21HDD Manager                  \u001b[19;22HEBUG     \u001b[20;22Hialog Library\u001b[21;22H\u001b[97m\u001b[41mPMI v1 Norton Guide\u001b[25;80H"
+    ],
+    [
+      0.084439,
+      "\u001b[5;30H\u001b[30m\u001b[47mManual              \u001b[6;25Hper 5.00a \ufffd Internal Errors  V1.01\u001b[7;58H4\u001b[8;32H1 vs 1.29 Anomalies (#04)  \u001b[9;33Ha \ufffd Release Notes       \u001b[10;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[11;22Homix 3.0 Reference Manual           \u001b[12;24HpuTill TXT Parser Library\u001b[13;22Hreating Your Own Database  \u001b[14;22Hustomer Marketing Public API\u001b[15;21Hdb_VISTA III                 \u001b[16;23HReport 1.1 \ufffd Report Engine\u001b[17;21HDD Manager                  \u001b[18;22HEBUG     \u001b[19;22Hialog Library\u001b[20;22HPMI v1 Norton Guide\u001b[21;21H\u001b[97m\u001b[41mEDLIN               \u001b[25;80H"
+    ],
+    [
+      0.083452,
+      "\u001b[5;25H\u001b[30m\u001b[47mper 5.00a \ufffd Internal Errors  V1.01\u001b[6;58H4\u001b[7;32H1 vs 1.29 Anomalies (#04)  \u001b[8;33Ha \ufffd Release Notes       \u001b[9;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[10;22Homix 3.0 Reference Manual           \u001b[11;24HpuTill TXT Parser Library\u001b[12;22Hreating Your Own Database  \u001b[13;22Hustomer Marketing Public API\u001b[14;21Hdb_VISTA III                 \u001b[15;23HReport 1.1 \ufffd Report Engine\u001b[16;21HDD Manager                  \u001b[17;22HEBUG     \u001b[18;22Hialog Library\u001b[19;22HPMI v1 Norton Guide\u001b[20;21HEDLIN               \u001b[21;22H\u001b[97m\u001b[41mxpert Help Manual (v1.09 DK1)\u001b[25;80H"
+    ],
+    [
+      0.083857,
+      "\u001b[5;58H\u001b[30m\u001b[47m4\u001b[6;32H1 vs 1.29 Anomalies (#04)  \u001b[7;33Ha \ufffd Release Notes       \u001b[8;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[9;22Homix 3.0 Reference Manual           \u001b[10;24HpuTill TXT Parser Library\u001b[11;22Hreating Your Own Database  \u001b[12;22Hustomer Marketing Public API\u001b[13;21Hdb_VISTA III                 \u001b[14;23HReport 1.1 \ufffd Report Engine\u001b[15;21HDD Manager                  \u001b[16;22HEBUG     \u001b[17;22Hialog Library\u001b[18;22HPMI v1 Norton Guide\u001b[19;21HEDLIN               \u001b[20;22Hxpert Help Manual (v1.09 DK1)\u001b[21;33H\u001b[97m\u001b[41mOn-Line Manual v1.09\u001b[25;80H"
+    ],
+    [
+      0.083520,
+      "\u001b[5;32H\u001b[30m\u001b[47m1 vs 1.29 Anomalies (#04)  \u001b[6;33Ha \ufffd Release Notes       \u001b[7;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[8;22Homix 3.0 Reference Manual           \u001b[9;24HpuTill TXT Parser Library\u001b[10;22Hreating Your Own Database  \u001b[11;22Hustomer Marketing Public API\u001b[12;21Hdb_VISTA III                 \u001b[13;23HReport 1.1 \ufffd Report Engine\u001b[14;21HDD Manager                  \u001b[15;22HEBUG     \u001b[16;22Hialog Library\u001b[17;22HPMI v1 Norton Guide\u001b[18;21HEDLIN               \u001b[19;22Hxpert Help Manual (v1.09 DK1)\u001b[20;33HOn-Line Manual v1.09\u001b[21;21H\u001b[97m\u001b[41mFerns' Graphics Library V 1.5   \u001b[25;80H"
+    ],
+    [
+      0.083788,
+      "\u001b[5;33H\u001b[30m\u001b[47ma \ufffd Release Notes       \u001b[6;31H2c \ufffd Anomalies \u0026 IE's v0.99\u001b[7;22Homix 3.0 Reference Manual           \u001b[8;24HpuTill TXT Parser Library\u001b[9;22Hreating Your Own Database  \u001b[10;22Hustomer Marketing Public API\u001b[11;21Hdb_VISTA III                 \u001b[12;23HReport 1.1 \ufffd Report Engine\u001b[13;21HDD Manager                  \u001b[14;22HEBUG     \u001b[15;22Hialog Library\u001b[16;22HPMI v1 Norton Guide\u001b[17;21HEDLIN               \u001b[18;22Hxpert Help Manual (v1.09 DK1)\u001b[19;33HOn-Line Manual v1.09\u001b[20;21HFerns' Graphics Library V 1.5   \u001b[21;22H\u001b[97m\u001b[41mlexFile Reference Guide     \u001b[25;80H"
+    ],
+    [
+      0.083527,
+      "\u001b[5;31H\u001b[30m\u001b[47m2c \ufffd Anomalies \u0026 IE's v0.99\u001b[6;22Homix 3.0 Reference Manual           \u001b[7;24HpuTill TXT Parser Library\u001b[8;22Hreating Your Own Database  \u001b[9;22Hustomer Marketing Public API\u001b[10;21Hdb_VISTA III                 \u001b[11;23HReport 1.1 \ufffd Report Engine\u001b[12;21HDD Manager                  \u001b[13;22HEBUG     \u001b[14;22Hialog Library\u001b[15;22HPMI v1 Norton Guide\u001b[16;21HEDLIN               \u001b[17;22Hxpert Help Manual (v1.09 DK1)\u001b[18;33HOn-Line Manual v1.09\u001b[19;21HFerns' Graphics Library V 1.5   \u001b[20;22HlexFile Reference Guide     \u001b[21;22H\u001b[97m\u001b[41mortress Client Reference 1.0 [Clipper]\u001b[25;80H"
+    ],
+    [
+      0.083952,
+      "\u001b[5;22H\u001b[30m\u001b[47momix 3.0 Reference Manual           \u001b[6;24HpuTill TXT Parser Library\u001b[7;22Hreating Your Own Database  \u001b[8;22Hustomer Marketing Public API\u001b[9;21Hdb_VISTA III                 \u001b[10;23HReport 1.1 \ufffd Report Engine\u001b[11;21HDD Manager                  \u001b[12;22HEBUG     \u001b[13;22Hialog Library\u001b[14;22HPMI v1 Norton Guide\u001b[15;21HEDLIN               \u001b[16;22Hxpert Help Manual (v1.09 DK1)\u001b[17;33HOn-Line Manual v1.09\u001b[18;21HFerns' Graphics Library V 1.5   \u001b[19;22HlexFile Reference Guide     \u001b[20;22Hortress Client Reference 1.0 [Clipper]\u001b[21;30H\u001b[97m\u001b[41mOptimizer 1.0 [Clipper]       \u001b[25;80H"
+    ],
+    [
+      0.084379,
+      "\u001b[5;24H\u001b[30m\u001b[47mpuTill TXT Parser Library\u001b[6;22Hreating Your Own Database  \u001b[7;22Hustomer Marketing Public API\u001b[8;21Hdb_VISTA III                 \u001b[9;23HReport 1.1 \ufffd Report Engine\u001b[10;21HDD Manager                  \u001b[11;22HEBUG     \u001b[12;22Hialog Library\u001b[13;22HPMI v1 Norton Guide\u001b[14;21HEDLIN               \u001b[15;22Hxpert Help Manual (v1.09 DK1)\u001b[16;33HOn-Line Manual v1.09\u001b[17;21HFerns' Graphics Library V 1.5   \u001b[18;22HlexFile Reference Guide     \u001b[19;22Hortress Client Reference 1.0 [Clipper]\u001b[20;30HOptimizer 1.0 [Clipper]       \u001b[21;30H\u001b[97m\u001b[41mServer Reference 1.0   \u001b[25;80H"
+    ],
+    [
+      0.084371,
+      "\u001b[5;22H\u001b[30m\u001b[47mreating Your Own Database  \u001b[6;22Hustomer Marketing Public API\u001b[7;21Hdb_VISTA III                 \u001b[8;23HReport 1.1 \ufffd Report Engine\u001b[9;21HDD Manager                  \u001b[10;22HEBUG     \u001b[11;22Hialog Library\u001b[12;22HPMI v1 Norton Guide\u001b[13;21HEDLIN               \u001b[14;22Hxpert Help Manual (v1.09 DK1)\u001b[15;33HOn-Line Manual v1.09\u001b[16;21HFerns' Graphics Library V 1.5   \u001b[17;22HlexFile Reference Guide     \u001b[18;22Hortress Client Reference 1.0 [Clipper]\u001b[19;30HOptimizer 1.0 [Clipper]       \u001b[20;30HServer Reference 1.0   \u001b[21;22H\u001b[97m\u001b[41mUNCky                       \u001b[25;80H"
+    ],
+    [
+      0.084432,
+      "\u001b[5;22H\u001b[30m\u001b[47mustomer Marketing Public API\u001b[6;21Hdb_VISTA III                 \u001b[7;23HReport 1.1 \ufffd Report Engine\u001b[8;21HDD Manager                  \u001b[9;22HEBUG     \u001b[10;22Hialog Library\u001b[11;22HPMI v1 Norton Guide\u001b[12;21HEDLIN               \u001b[13;22Hxpert Help Manual (v1.09 DK1)\u001b[14;33HOn-Line Manual v1.09\u001b[15;21HFerns' Graphics Library V 1.5   \u001b[16;22HlexFile Reference Guide     \u001b[17;22Hortress Client Reference 1.0 [Clipper]\u001b[18;30HOptimizer 1.0 [Clipper]       \u001b[19;30HServer Reference 1.0   \u001b[20;22HUNCky                       \u001b[21;28H\u001b[97m\u001b[41mII Clipper Surface Guides\u001b[25;80H"
+    ],
+    [
+      0.083731,
+      "\u001b[5;21H\u001b[30m\u001b[47mdb_VISTA III                 \u001b[6;23HReport 1.1 \ufffd Report Engine\u001b[7;21HDD Manager                  \u001b[8;22HEBUG     \u001b[9;22Hialog Library\u001b[10;22HPMI v1 Norton Guide\u001b[11;21HEDLIN               \u001b[12;22Hxpert Help Manual (v1.09 DK1)\u001b[13;33HOn-Line Manual v1.09\u001b[14;21HFerns' Graphics Library V 1.5   \u001b[15;22HlexFile Reference Guide     \u001b[16;22Hortress Client Reference 1.0 [Clipper]\u001b[17;30HOptimizer 1.0 [Clipper]       \u001b[18;30HServer Reference 1.0   \u001b[19;22HUNCky                       \u001b[20;28HII Clipper Surface Guides\u001b[21;21H\u001b[97m\u001b[41mGrumpfish Library               \u001b[25;80H"
+    ],
+    [
+      0.083824,
+      "\u001b[5;23H\u001b[30m\u001b[47mReport 1.1 \ufffd Report Engine\u001b[6;21HDD Manager                  \u001b[7;22HEBUG     \u001b[8;22Hialog Library\u001b[9;22HPMI v1 Norton Guide\u001b[10;21HEDLIN               \u001b[11;22Hxpert Help Manual (v1.09 DK1)\u001b[12;33HOn-Line Manual v1.09\u001b[13;21HFerns' Graphics Library V 1.5   \u001b[14;22HlexFile Reference Guide     \u001b[15;22Hortress Client Reference 1.0 [Clipper]\u001b[16;30HOptimizer 1.0 [Clipper]       \u001b[17;30HServer Reference 1.0   \u001b[18;22HUNCky                       \u001b[19;28HII Clipper Surface Guides\u001b[20;21HGrumpfish Library               \u001b[21;26H\u001b[97m\u001b[41mFish Speller Version 1.0\u001b[25;80H"
+    ],
+    [
+      0.084397,
+      "\u001b[5;21H\u001b[30m\u001b[47mDD Manager                  \u001b[6;22HEBUG     \u001b[7;22Hialog Library\u001b[8;22HPMI v1 Norton Guide\u001b[9;21HEDLIN               \u001b[10;22Hxpert Help Manual (v1.09 DK1)\u001b[11;33HOn-Line Manual v1.09\u001b[12;21HFerns' Graphics Library V 1.5   \u001b[13;22HlexFile Reference Guide     \u001b[14;22Hortress Client Reference 1.0 [Clipper]\u001b[15;30HOptimizer 1.0 [Clipper]       \u001b[16;30HServer Reference 1.0   \u001b[17;22HUNCky                       \u001b[18;28HII Clipper Surface Guides\u001b[19;21HGrumpfish Library               \u001b[20;26HFish Speller Version 1.0\u001b[21;22H\u001b[97m\u001b[41mT_LIB v1.0 Reference Guide Release 2.0\u001b[25;80H"
+    ],
+    [
+      0.084071,
+      "\u001b[5;22H\u001b[30m\u001b[47mEBUG     \u001b[6;22Hialog Library\u001b[7;22HPMI v1 Norton Guide\u001b[8;21HEDLIN               \u001b[9;22Hxpert Help Manual (v1.09 DK1)\u001b[10;33HOn-Line Manual v1.09\u001b[11;21HFerns' Graphics Library V 1.5   \u001b[12;22HlexFile Reference Guide     \u001b[13;22Hortress Client Reference 1.0 [Clipper]\u001b[14;30HOptimizer 1.0 [Clipper]       \u001b[15;30HServer Reference 1.0   \u001b[16;22HUNCky                       \u001b[17;28HII Clipper Surface Guides\u001b[18;21HGrumpfish Library               \u001b[19;26HFish Speller Version 1.0\u001b[20;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[21;22H\u001b[97m\u001b[41mully System Version 1.02              \u001b[25;80H"
+    ],
+    [
+      0.083445,
+      "\u001b[5;22H\u001b[30m\u001b[47mialog Library\u001b[6;22HPMI v1 Norton Guide\u001b[7;21HEDLIN               \u001b[8;22Hxpert Help Manual (v1.09 DK1)\u001b[9;33HOn-Line Manual v1.09\u001b[10;21HFerns' Graphics Library V 1.5   \u001b[11;22HlexFile Reference Guide     \u001b[12;22Hortress Client Reference 1.0 [Clipper]\u001b[13;30HOptimizer 1.0 [Clipper]       \u001b[14;30HServer Reference 1.0   \u001b[15;22HUNCky                       \u001b[16;28HII Clipper Surface Guides\u001b[17;21HGrumpfish Library               \u001b[18;26HFish Speller Version 1.0\u001b[19;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[20;22Hully System Version 1.02              \u001b[21;21H\u001b[97m\u001b[41miAPx86                   \u001b[25;80H"
+    ],
+    [
+      0.083630,
+      "\u001b[5;22H\u001b[30m\u001b[47mPMI v1 Norton Guide\u001b[6;21HEDLIN               \u001b[7;22Hxpert Help Manual (v1.09 DK1)\u001b[8;33HOn-Line Manual v1.09\u001b[9;21HFerns' Graphics Library V 1.5   \u001b[10;22HlexFile Reference Guide     \u001b[11;22Hortress Client Reference 1.0 [Clipper]\u001b[12;30HOptimizer 1.0 [Clipper]       \u001b[13;30HServer Reference 1.0   \u001b[14;22HUNCky                       \u001b[15;28HII Clipper Surface Guides\u001b[16;21HGrumpfish Library               \u001b[17;26HFish Speller Version 1.0\u001b[18;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[19;22Hully System Version 1.02              \u001b[20;21HiAPx86                   \u001b[21;21H\u001b[97m\u001b[41mInternal Guide for Clipper 5.X   \ufffd Guide\u001b[25;80H"
+    ],
+    [
+      0.084449,
+      "\u001b[5;21H\u001b[30m\u001b[47mEDLIN               \u001b[6;22Hxpert Help Manual (v1.09 DK1)\u001b[7;33HOn-Line Manual v1.09\u001b[8;21HFerns' Graphics Library V 1.5   \u001b[9;22HlexFile Reference Guide     \u001b[10;22Hortress Client Reference 1.0 [Clipper]\u001b[11;30HOptimizer 1.0 [Clipper]       \u001b[12;30HServer Reference 1.0   \u001b[13;22HUNCky                       \u001b[14;28HII Clipper Surface Guides\u001b[15;21HGrumpfish Library               \u001b[16;26HFish Speller Version 1.0\u001b[17;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[18;22Hully System Version 1.02              \u001b[19;21HiAPx86                   \u001b[20;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[21;21H\u001b[97m\u001b[41mLamaura Dynamic Data Dictionary: Clipper\u001b[25;80H"
+    ],
+    [
+      0.083395,
+      "\u001b[5;22H\u001b[30m\u001b[47mxpert Help Manual (v1.09 DK1)\u001b[6;33HOn-Line Manual v1.09\u001b[7;21HFerns' Graphics Library V 1.5   \u001b[8;22HlexFile Reference Guide     \u001b[9;22Hortress Client Reference 1.0 [Clipper]\u001b[10;30HOptimizer 1.0 [Clipper]       \u001b[11;30HServer Reference 1.0   \u001b[12;22HUNCky                       \u001b[13;28HII Clipper Surface Guides\u001b[14;21HGrumpfish Library               \u001b[15;26HFish Speller Version 1.0\u001b[16;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[17;22Hully System Version 1.02              \u001b[18;21HiAPx86                   \u001b[19;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[20;21HLamaura Dynamic Data Dictionary: Clipper\u001b[21;21H\u001b[97m\u001b[41mMach SIx v2.0 - Reference Guide         \u001b[25;80H"
+    ],
+    [
+      0.083569,
+      "\u001b[5;33H\u001b[30m\u001b[47mOn-Line Manual v1.09\u001b[6;21HFerns' Graphics Library V 1.5   \u001b[7;22HlexFile Reference Guide     \u001b[8;22Hortress Client Reference 1.0 [Clipper]\u001b[9;30HOptimizer 1.0 [Clipper]       \u001b[10;30HServer Reference 1.0   \u001b[11;22HUNCky                       \u001b[12;28HII Clipper Surface Guides\u001b[13;21HGrumpfish Library               \u001b[14;26HFish Speller Version 1.0\u001b[15;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[16;22Hully System Version 1.02              \u001b[17;21HiAPx86                   \u001b[18;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[19;21HLamaura Dynamic Data Dictionary: Clipper\u001b[20;21HMach SIx v2.0 - Reference Guide         \u001b[21;22H\u001b[97m\u001b[41microsoft C                    \u001b[25;80H"
+    ],
+    [
+      0.084382,
+      "\u001b[5;21H\u001b[30m\u001b[47mFerns' Graphics Library V 1.5   \u001b[6;22HlexFile Reference Guide     \u001b[7;22Hortress Client Reference 1.0 [Clipper]\u001b[8;30HOptimizer 1.0 [Clipper]       \u001b[9;30HServer Reference 1.0   \u001b[10;22HUNCky                       \u001b[11;28HII Clipper Surface Guides\u001b[12;21HGrumpfish Library               \u001b[13;26HFish Speller Version 1.0\u001b[14;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[15;22Hully System Version 1.02              \u001b[16;21HiAPx86                   \u001b[17;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[18;21HLamaura Dynamic Data Dictionary: Clipper\u001b[19;21HMach SIx v2.0 - Reference Guide         \u001b[20;22Hicrosoft C                    \u001b[21;22H\u001b[97m\u001b[41more Clipper Part One\u001b[25;80H"
+    ],
+    [
+      0.084117,
+      "\u001b[5;22H\u001b[30m\u001b[47mlexFile Reference Guide     \u001b[6;22Hortress Client Reference 1.0 [Clipper]\u001b[7;30HOptimizer 1.0 [Clipper]       \u001b[8;30HServer Reference 1.0   \u001b[9;22HUNCky                       \u001b[10;28HII Clipper Surface Guides\u001b[11;21HGrumpfish Library               \u001b[12;26HFish Speller Version 1.0\u001b[13;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[14;22Hully System Version 1.02              \u001b[15;21HiAPx86                   \u001b[16;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[17;21HLamaura Dynamic Data Dictionary: Clipper\u001b[18;21HMach SIx v2.0 - Reference Guide         \u001b[19;22Hicrosoft C                    \u001b[20;22Hore Clipper Part One\u001b[21;22H\u001b[97m\u001b[41mrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[25;80H"
+    ],
+    [
+      0.083745,
+      "\u001b[5;22H\u001b[30m\u001b[47mortress Client Reference 1.0 [Clipper]\u001b[6;30HOptimizer 1.0 [Clipper]       \u001b[7;30HServer Reference 1.0   \u001b[8;22HUNCky                       \u001b[9;28HII Clipper Surface Guides\u001b[10;21HGrumpfish Library               \u001b[11;26HFish Speller Version 1.0\u001b[12;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[13;22Hully System Version 1.02              \u001b[14;21HiAPx86                   \u001b[15;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[16;21HLamaura Dynamic Data Dictionary: Clipper\u001b[17;21HMach SIx v2.0 - Reference Guide         \u001b[18;22Hicrosoft C                    \u001b[19;22Hore Clipper Part One\u001b[20;22HrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[21;21H\u001b[97m\u001b[41mNanforum Toolkit v3.05 Reference Guide\u001b[25;80H"
+    ],
+    [
+      0.083332,
+      "\u001b[5;30H\u001b[30m\u001b[47mOptimizer 1.0 [Clipper]       \u001b[6;30HServer Reference 1.0   \u001b[7;22HUNCky                       \u001b[8;28HII Clipper Surface Guides\u001b[9;21HGrumpfish Library               \u001b[10;26HFish Speller Version 1.0\u001b[11;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[12;22Hully System Version 1.02              \u001b[13;21HiAPx86                   \u001b[14;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[15;21HLamaura Dynamic Data Dictionary: Clipper\u001b[16;21HMach SIx v2.0 - Reference Guide         \u001b[17;22Hicrosoft C                    \u001b[18;22Hore Clipper Part One\u001b[19;22HrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[20;21HNanforum Toolkit v3.05 Reference Guide\u001b[21;22H\u001b[97m\u001b[41mANTUCKET TOOLS II for Clipper 5.01   \u001b[25;80H"
+    ],
+    [
+      0.084357,
+      "\u001b[5;30H\u001b[30m\u001b[47mServer Reference 1.0   \u001b[6;22HUNCky                       \u001b[7;28HII Clipper Surface Guides\u001b[8;21HGrumpfish Library               \u001b[9;26HFish Speller Version 1.0\u001b[10;22HT_LIB v1.0 Reference Guide Release 2.0\u001b[11;22Hully System Version 1.02              \u001b[12;21HiAPx86                   \u001b[13;21HInternal Guide for Clipper 5.X   \ufffd Guide\u001b[14;21HLamaura Dynamic Data Dictionary: Clipper\u001b[15;21HMach SIx v2.0 - Reference Guide         \u001b[16;22Hicrosoft C                    \u001b[17;22Hore Clipper Part One\u001b[18;22HrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[19;21HNanforum Toolkit v3.05 Reference Guide\u001b[20;22HANTUCKET TOOLS II for Clipper 5.01   \u001b[21;22H\u001b[97m\u001b[41mEC P6 Steuerzeichen               \u001b[25;80H"
+    ],
+    [
+      0.387606,
+      "\u001b[20;21HNANTUCKET TOOLS II for Clipper 5.01     \u001b[21;21H\u001b[30m\u001b[47mNEC P6 Steuerzeichen                    \u001b[25;80H"
+    ],
+    [
+      0.371010,
+      "\u001b[19;21H\u001b[97m\u001b[41mNanforum Toolkit v3.05 Reference Guide  \u001b[20;21H\u001b[30m\u001b[47mNANTUCKET TOOLS II for Clipper 5.01     \u001b[25;80H"
+    ],
+    [
+      0.236369,
+      "\u001b[18;21H\u001b[97m\u001b[41mMrDebug for CA-Clipper Ver 1.20.147\ufffd    \u001b[19;21H\u001b[30m\u001b[47mNanforum Toolkit v3.05 Reference Guide  \u001b[25;80H"
+    ],
+    [
+      0.990444,
+      "\u001b[1;23HMrDebug for CA-Clipper Ver 1.20.147\ufffd\u001b[2;2H\u001b[97m\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\r\n\u001b[97m\u001b[41m How our Menus Work\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m The \u001b[93mFile\u001b[97m Menu\u001b[K\u001b[6;2HThe \u001b[93mRun\u001b[97m Menu\u001b[K\u001b[7;2HThe \u001b[93mSearch\u001b[97m Menu\u001b[K\u001b[8;2HThe \u001b[93mView\u001b[97m Menu\u001b[K\u001b[9;2HThe \u001b[93mVariables\u001b[97m Menu\u001b[K\u001b[10;2HThe \u001b[93mPoint\u001b[97m Menu\u001b[K\u001b[11;2HThe \u001b[93mProfiler\u001b[97m Menu\u001b[K\u001b[12;2HThe \u001b[93mOptions\u001b[97m Menu\u001b[K\u001b[13;2HThe \u001b[93mWindow\u001b[97m Menu\u001b[K\u001b[14;6H\u001b[K\u001b[15;6H\u001b[K\u001b[16;20H\u001b[K\u001b[17;2H\u001b[K\u001b[18;20H\u001b[K\u001b[19;6H\u001b[K\u001b[20;6H\u001b[K\u001b[21;20H\u001b[K\u001b[22;2H\u001b[K\u001b[24;6H\u001b[K\r\n\u001b[30m\u001b[47meg v1.01: /Users/davep/Google Drive/Norton Guides/MRDEBUG.NG\u001b[25;80H"
+    ],
+    [
+      1.293366,
+      "\u001b[2;2HExpand  \u001b[97m\u001b[41mReference\u001b[3;10H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqqqqqqqqqqk\u001b[4;10Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Menus               \u001b(0\u001b[30m\u001b[47mx\u001b[5;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Keys                \u001b(0\u001b[30m\u001b[47mx\u001b[6;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Windows             \u001b(0\u001b[30m\u001b[47mx\u001b[7;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Mouse Support       \u001b(0\u001b[30m\u001b[47mx\u001b[8;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m The Colour Settings \u001b(0\u001b[30m\u001b[47mx\u001b[9;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Index               \u001b(0\u001b[30m\u001b[47mx\u001b[10;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Tables              \u001b(0\u001b[30m\u001b[47mx\u001b[11;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Utilities           \u001b(0\u001b[30m\u001b[47mx\u001b[12;10Hmqqqqqqqqqqqqqqqqqqqqqj\u001b[25;1H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.810044,
+      "\u001b[2;10HReference  \u001b[97m\u001b[41mOverView\u001b[3;10HMenus Work \u001b(0\u001b[30m\u001b[47ml\u001b[10Cqqqqqqqqqqqqqk\u001b[4;10H\u001b[97m\u001b[44mqqqqqqqqqqq\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Introduction          \u001b(0\u001b[30m\u001b[47mx\u001b[5;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m Menu      \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Questions and Answers \u001b(0\u001b[30m\u001b[47mx\u001b[6;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mMenu       \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Technical Support     \u001b(0\u001b[30m\u001b[47mx\u001b[7;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mch\u001b[97m Menu    \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Versions              \u001b(0\u001b[30m\u001b[47mx\u001b[8;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m Menu      \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Acknowledgements      \u001b(0\u001b[30m\u001b[47mx\u001b[9;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mables\u001b[97m Menu \u001b(0\u001b[30m\u001b[47mmqqqqqqqqqqqqqqqqqqqqqqqj\u001b[10;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mt\u001b[97m Menu\u001b[K\u001b[11;10H\u001b[93miler\u001b[97m Menu\u001b[K\u001b[12;10H\u001b[93mons\u001b[97m Menu\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.765036,
+      "\u001b[2;21H\u001b[30m\u001b[47mOverView  \u001b[97m\u001b[41mTutorial\u001b[3;21H          \u001b(0\u001b[30m\u001b[47ml\u001b[13Cqqqqqqqqqqqqqk\u001b[4;21H\u001b[97m\u001b[44mqqqqqqqqqq\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Getting Started          \u001b(0\u001b[30m\u001b[47mx\u001b[5;21H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m          \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Working with Source code \u001b(0\u001b[30m\u001b[47mx\u001b[6;21H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m          \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Inspecting Variables     \u001b(0\u001b[30m\u001b[47mx\u001b[7;21H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m          \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Accessing your Database  \u001b(0\u001b[30m\u001b[47mx\u001b[8;21H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m          \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Using the Profiler       \u001b(0\u001b[30m\u001b[47mx\u001b[9;21H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m          \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Assertion Checking       \u001b(0\u001b[30m\u001b[47mx\u001b[10;31Hmqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      0.787363,
+      "\u001b[2;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41mExpand\u001b[23C\u001b[30m\u001b[47mTutorial\u001b[3;31H\u001b[97m\u001b[41m\u001b[K\u001b[4;31H\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[5;31H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\u001b[6;31H\u001b[K\u001b[7;31H\u001b[K\u001b[8;31H\u001b[K\u001b[9;31H\u001b[K\u001b[10;31H\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.990044,
+      "\u001b[4;8H\u001b(0\u001b[97m\u001b[46mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b[5;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46mExpert Guide v1.01                                               \u001b(0\u001b[97m\u001b[46mx\u001b[6;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46mCopyright (C) 1997-2015 David A Pearson \u003cdavep@davep.org\u003e        \u001b(0\u001b[97m\u001b[46mx\u001b[7;8Htqqqqqqqqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu\u001b[8;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m\u003cSpace\u003e \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Case insensitive text search                           \u001b(0\u001b[97m\u001b[46mx\u001b[9;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m      / \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Case insensitive regular expression search             \u001b(0\u001b[97m\u001b[46mx\u001b[10;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m      \\ \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Case sensitive regular expression search               \u001b(0\u001b[97m\u001b[46mx\u001b[11;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m      | \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Pipe page via external utility                         \u001b(0\u001b[97m\u001b[46mx\u001b[12;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m    d D \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Guide directory (d = display, D = re"
+    ],
+    [
+      0.000039,
+      "scan \u0026 display)    \u001b(0\u001b[97m\u001b[46mx\u001b[13;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m      r \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Read in a new guide                                    \u001b(0\u001b[97m\u001b[46mx\u001b[14;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  w s S \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Save page to file (w = source, s = ASCII, S = raw)     \u001b(0\u001b[97m\u001b[46mx\u001b[15;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m      v \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Show eg version and guide filename                     \u001b(0\u001b[97m\u001b[46mx\u001b[16;8Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  F10 0 \u001b(0\u001b[97m\u001b[46mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m Quick exit                                             \u001b(0\u001b[97m\u001b[46mx\u001b[17;8Htqqqqqqqqvqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu\u001b[18;8Hxx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  MrDebug for CA-Clipper                                        \u001b(0\u001b[97m\u001b[46mx\u001b[19;8Hxx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  (c) Dark Black Software Ltd, 1993-95                          \u001b(0\u001b[97m\u001b[46mx\u001b[20;8Hxx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  Ver 1.20.147. Internal Revision 4476                          \u001b(0\u001b[97m\u001b[46mx\u001b[21;8Hxx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m                   "
+    ],
+    [
+      0.000019,
+      "                                             \u001b(0\u001b[97m\u001b[46mx\u001b[22;8Hxx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[46m  MrDebug is a trademark of Dark Black Software Ltd             \u001b(0\u001b[97m\u001b[46mx\u001b[23;8Hmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      3.071302,
+      "\u001b[4;8H\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[5;8H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mle\u001b[97m Menu\u001b[K\u001b[6;8H\u001b[93mn\u001b[97m Menu\u001b[K\u001b[7;8H\u001b[93march\u001b[97m Menu\u001b[K\u001b[8;8H\u001b[93mew\u001b[97m Menu\u001b[K\u001b[9;8H\u001b[93mriables\u001b[97m Menu\u001b[K\u001b[10;8H\u001b[93mint\u001b[97m Menu\u001b[K\u001b[11;8H\u001b[93mofiler\u001b[97m Menu\u001b[K\u001b[12;8H\u001b[93mtions\u001b[97m Menu\u001b[K\u001b[13;8H\u001b[93mndow\u001b[97m Menu\u001b[K\u001b[14;8H\u001b[K\u001b[15;8H\u001b[K\u001b[16;8H\u001b[K\u001b[17;8H\u001b[K\u001b[18;8H\u001b[K\u001b[19;8H\u001b[K\u001b[20;8H\u001b[K\u001b[21;8H\u001b[K\u001b[22;8H\u001b[K\u001b[23;8H\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.551656,
+      "\u001b[2;2H\u001b[30m\u001b[47mExpand  \u001b[97m\u001b[41mReference\u001b[3;10H\u001b(0\u001b[30m\u001b[47mlqqqqqqqqqqqqqqqqqqqqqk\u001b[4;10Hx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Menus               \u001b(0\u001b[30m\u001b[47mx\u001b[5;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Keys                \u001b(0\u001b[30m\u001b[47mx\u001b[6;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Windows             \u001b(0\u001b[30m\u001b[47mx\u001b[7;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Mouse Support       \u001b(0\u001b[30m\u001b[47mx\u001b[8;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m The Colour Settings \u001b(0\u001b[30m\u001b[47mx\u001b[9;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Index               \u001b(0\u001b[30m\u001b[47mx\u001b[10;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Tables              \u001b(0\u001b[30m\u001b[47mx\u001b[11;10Hx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Utilities           \u001b(0\u001b[30m\u001b[47mx\u001b[12;10Hmqqqqqqqqqqqqqqqqqqqqqj\u001b[25;80H"
+    ],
+    [
+      0.719572,
+      "\u001b[2;10H\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47mReference  \u001b[97m\u001b[41mOverView\u001b[3;10HMenus Work \u001b(0\u001b[30m\u001b[47ml\u001b[10Cqqqqqqqqqqqqqk\u001b[4;10H\u001b[97m\u001b[44mqqqqqqqqqqq\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m Introduction          \u001b(0\u001b[30m\u001b[47mx\u001b[5;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m Menu      \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Questions and Answers \u001b(0\u001b[30m\u001b[47mx\u001b[6;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44mMenu       \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Technical Support     \u001b(0\u001b[30m\u001b[47mx\u001b[7;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mch\u001b[97m Menu    \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Versions              \u001b(0\u001b[30m\u001b[47mx\u001b[8;10H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m Menu      \u001b(0\u001b[30m\u001b[47mx\u001b(B\u001b[m\u001b(B\u001b[30m\u001b[47m Acknowledgements      \u001b(0\u001b[30m\u001b[47mx\u001b[9;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mables\u001b[97m Menu \u001b(0\u001b[30m\u001b[47mmqqqqqqqqqqqqqqqqqqqqqqqj\u001b[10;10H\u001b(B\u001b[m\u001b(B\u001b[93m\u001b[44mt\u001b[97m Menu\u001b[K\u001b[11;10H\u001b[93miler\u001b[97m Menu\u001b[K\u001b[12;10H\u001b[93mons\u001b[97m Menu\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.922428,
+      "\u001b[4;22H\u001b[30m\u001b[47m Introduction          \u001b[5;22H\u001b[97m\u001b[41m Questions and Answers \u001b[25;80H"
+    ],
+    [
+      0.247428,
+      "\u001b[5;22H\u001b[30m\u001b[47m Questions and Answers \u001b[6;22H\u001b[97m\u001b[41m Technical Support     \u001b[25;80H"
+    ],
+    [
+      0.168756,
+      "\u001b[6;22H\u001b[30m\u001b[47m Technical Support     \u001b[7;22H\u001b[97m\u001b[41m Versions              \u001b[25;80H"
+    ],
+    [
+      1.338852,
+      "\u001b[2;2HExpand\u001b[13C\u001b[30m\u001b[47mOverView\u001b[3;2H\u001b[97m\u001b[41mChanges\u001b[K\u001b[4;21H\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[5;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.20......something - Minor upgrade         \u001b[32C.\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[7;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.10.105 - Major update                     \u001b[32C.\u001b[8;2H1.00.75f - minor update fix\u001b[K\u001b[9;2H1.00.75e - Bug Fix - Release\u001b[K\u001b[10;2H1.00.75d - Intermediate release\u001b[11;2H1.00.75c - Intermediate release\u001b[12;2H1.00.75b - Original Release Version\u001b[13;2H1.00.75a - Failed Release Candidate\u001b[25;80H"
+    ],
+    [
+      3.690038,
+      "\u001b[3;1H Changes\u001b[K\r\n\u001b(0\u001b[97m\u001b[41mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.157787,
+      "\u001b[4;1H\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\r\n\u001b[41m 1.20......something - Minor upgrade                                         .\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.157072,
+      "\u001b[5;1H\u001b[44m 1.20......something - Minor upgrade                                         .\u001b[K\r\n\u001b(0\u001b[97m\u001b[41mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[41m\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.168735,
+      "\u001b[6;1H\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\r\n\u001b[41m 1.10.105 - Major update                                                     .\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.157528,
+      "\u001b[7;1H\u001b[44m 1.10.105 - Major update                                                     .\u001b[K\r\n\u001b[41m 1.00.75f - minor update fix\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.168747,
+      "\u001b[8;1H\u001b[44m 1.00.75f - minor update fix\u001b[K\r\n\u001b[41m 1.00.75e - Bug Fix - Release\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.168716,
+      "\u001b[9;1H\u001b[44m 1.00.75e - Bug Fix - Release\u001b[K\r\n\u001b[41m 1.00.75d - Intermediate release\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.169181,
+      "\u001b[10;1H\u001b[44m 1.00.75d - Intermediate release\u001b[K\r\n\u001b[41m 1.00.75c - Intermediate release\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.168475,
+      "\u001b[11;1H\u001b[44m 1.00.75c - Intermediate release\u001b[K\r\n\u001b[41m 1.00.75b - Original Release Version\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.168658,
+      "\u001b[12;1H\u001b[44m 1.00.75b - Original Release Version\u001b[K\r\n\u001b[41m 1.00.75a - Failed Release Candidate\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.778615,
+      "\u001b[2;2H\u001b[30m\u001b[47m\u001b[K\u001b[3;2H\u001b[93m\u001b[44m1.00.75a - Failed Release Candidate\r\n\u001b[97m Release Candidate\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\u001b[7;2HThis was the last of the beta candidates. This version was never publicly\u001b[K\u001b[8;2Hreleased and remains, to this day, a much sort after collectors item.\u001b[9;2H\u001b[K\u001b[10;2H\u001b[K\u001b[11;2H\u001b[K\u001b[12;2H\u001b[K\r\n\u001b[K\u001b[25;80H"
+    ],
+    [
+      6.095446,
+      "\u001b[2;2H\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\u001b[3;2H\u001b[97m\u001b[44mChanges\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m 1.20......something - Minor upgrade                                         .\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[7;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.10.105 - Major update                                                     .\u001b[8;2H1.00.75f - minor update fix\u001b[K\u001b[9;2H1.00.75e - Bug Fix - Release\u001b[10;2H1.00.75d - Intermediate release\u001b[11;2H1.00.75c - Intermediate release\u001b[12;2H1.00.75b - Original Release Version\r\n\u001b[41m 1.00.75a - Failed Release Candidate\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.449664,
+      "\u001b[12;1H 1.00.75b - Original Release Version\u001b[K\r\n\u001b[44m 1.00.75a - Failed Release Candidate\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.630093,
+      "\u001b[2;2H\u001b[30m\u001b[47m\u001b[K\u001b[3;2H\u001b[93m\u001b[44m1.00.75b - Original Release Version\r\n\u001b[97m First Release\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\u001b[7;2HThis was the first public release version of MrDebug.\u001b[K\u001b[8;2H\u001b[K\u001b[9;2H\u001b[K\u001b[10;2H\u001b[K\u001b[11;2H\u001b[K\r\n\u001b[K\u001b[13;2H\u001b[K\u001b[25;80H"
+    ],
+    [
+      1.350082,
+      "\u001b[2;2H\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\u001b[3;2H\u001b[97m\u001b[44mChanges\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m 1.20......something - Minor upgrade                                         .\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[7;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.10.105 - Major update                              \u001b[23C.\u001b[8;2H1.00.75f - minor update fix\u001b[9;2H1.00.75e - Bug Fix - Release\u001b[10;2H1.00.75d - Intermediate release\u001b[11;2H1.00.75c - Intermediate release\r\n\u001b[41m 1.00.75b - Original Release Version\u001b[K\u001b[13;2H\u001b[44m1.00.75a - Failed Release Candidate\u001b[25;80H"
+    ],
+    [
+      0.382354,
+      "\u001b[11;1H\u001b[41m 1.00.75c - Intermediate release\u001b[K\r\n\u001b[44m 1.00.75b - Original Release Version\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.686327,
+      "\u001b[2;2H\u001b[30m\u001b[47m\u001b[K\u001b[3;2H\u001b[93m\u001b[44m1.00.75c - Intermediate Release\r\n\u001b[97m Intermediate Release\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\u001b[7;2HThis was an intermediate release version.\u001b[K\u001b[8;2H\u001b[K\u001b[9;2H\u001b[K\u001b[10;2H\u001b[K\r\n\u001b[K\u001b[12;2H\u001b[K\u001b[13;2H\u001b[K\u001b[25;80H"
+    ],
+    [
+      1.440138,
+      "\u001b[2;2H\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\u001b[3;2H\u001b[97m\u001b[44mChanges\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m 1.20......something - Minor upgrade                                         .\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[7;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.10.105 - Major update                  \u001b[35C.\u001b[8;2H1.00.75f - minor update fix\u001b[9;2H1.00.75e - Bug Fix - Release\u001b[10;2H1.00.75d - Intermediate release\r\n\u001b[41m 1.00.75c - Intermediate release\u001b[K\u001b[12;2H\u001b[44m1.00.75b - Original Release Version\u001b[13;2H1.00.75a - Failed Release Candidate\u001b[25;80H"
+    ],
+    [
+      0.314790,
+      "\u001b[10;1H\u001b[41m 1.00.75d - Intermediate release\u001b[K\r\n\u001b[44m 1.00.75c - Intermediate release\u001b[K\u001b[25;80H"
+    ],
+    [
+      0.337535,
+      "\u001b[2;2H\u001b[30m\u001b[47m\u001b[K\u001b[3;2H\u001b[93m\u001b[44m1.00.75d - Intermediate Release\r\n\u001b[97m Intermediate Release\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m\u001b[K\u001b[7;2HThis was an intermediate release version and fixed the following problems:\u001b[K\u001b[8;2H\u001b[K\u001b[9;4H GPF whilst trying to start a program in 80x50 mode. The program would\r\n    start-up fine in 132x50, but in 80x50, or 80x43 a GPF would occur.\u001b[K\u001b[11;2H\u001b[K\u001b[12;2H2. Private label missing from Dump file. There was no entry in the dump file\u001b[13;2H   for the name \"Private\" as a header for the private variables in the\u001b[14;5Hvariable section.\u001b[16;2H3. The dbfList screen would not allow you to edit a record in a file that\u001b[17;5Hwas FLOCKED - this now works.\u001b[25;80H"
+    ],
+    [
+      2.643848,
+      "\u001b[2;2H\u001b[41mExpand\u001b[30m\u001b[47m  Reference  OverView  Tutorial\u001b[3;2H\u001b[97m\u001b[44mChanges\u001b[K\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\r\n\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m 1.20......something - Minor upgrade                                         .\r\n\u001b(0\u001b[97m\u001b[44mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[7;2H\u001b(B\u001b[m\u001b(B\u001b[97m\u001b[44m1.10.105 - Major update                                                     .\u001b[8;2H1.00.75f - minor update fix\u001b[9;4H00.75e - Bug Fix - Release\u001b[K\r\n\u001b[41m 1.00.75d - Intermediate release\u001b[K\u001b[11;2H\u001b[44m1.00.75c - Intermediate release\u001b[12;2H1.00.75b - Original Release Version\u001b[K\u001b[13;2H1.00.75a - Failed Release Candidate\u001b[K\u001b[14;5H\u001b[K\u001b[16;2H\u001b[K\u001b[17;5H\u001b[K\u001b[25;80H"
+    ],
+    [
+      2.216271,
+      "\u001b[30m\u001b[40m\u001b[1;25r\u001b[H\u001b[2J\u001b[25;80H"
+    ],
+    [
+      0.000161,
+      "\r\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.000479,
+      "\u001b]0;davep@Ariel.home - [/Users/davep]\u0007"
+    ],
+    [
+      0.000130,
+      "\u001b[1mdavep@Ariel:~$\u001b[0m "
+    ],
+    [
+      0.741817,
+      "e"
+    ],
+    [
+      0.213663,
+      "x"
+    ],
+    [
+      0.213675,
+      "i"
+    ],
+    [
+      0.123715,
+      "t"
+    ],
+    [
+      0.281174,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "logout\r\n"
+    ],
+    [
+      0.000132,
+      "Saving session..."
+    ],
+    [
+      0.064764,
+      "\r\n...copying shared history..."
+    ],
+    [
+      0.011552,
+      "\r\n...saving history..."
+    ],
+    [
+      0.024902,
+      "truncating history files..."
+    ],
+    [
+      0.000174,
+      "\r\n..."
+    ],
+    [
+      0.000111,
+      "completed.\r\n"
+    ]
+  ]
+}
