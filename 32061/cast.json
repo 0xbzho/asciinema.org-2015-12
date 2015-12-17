@@ -1,0 +1,1186 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 28,
+  "duration": 58.370142,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008857,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000040,
+      "bash-3.2$ "
+    ],
+    [
+      1.522744,
+      "\r\u001b[12@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.202466,
+      "\u0008\u0008\u0008s': source ~/miniconda3/bin/activate env\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.123235,
+      "\u0008\u0008\u0008\u001b[1@o\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.056770,
+      "\u0008\u0008\u0008\u001b[1@u\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.078900,
+      "\u0008\u0008\u0008\u001b[1@r\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.371268,
+      "\r\u001b[16Pbash-3.2$\u001b[C\r\n"
+    ],
+    [
+      0.179501,
+      "discarding /Users/legaultmarc/miniconda3/envs/env/bin from PATH\r\n"
+    ],
+    [
+      0.156456,
+      "prepending /Users/legaultmarc/miniconda3/envs/env/bin to PATH\r\n"
+    ],
+    [
+      0.092839,
+      "(env)bash-3.2$ "
+    ],
+    [
+      0.437177,
+      "."
+    ],
+    [
+      0.213144,
+      "/"
+    ],
+    [
+      0.135160,
+      "c"
+    ],
+    [
+      0.123956,
+      "o"
+    ],
+    [
+      0.179861,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "hort_"
+    ],
+    [
+      0.652782,
+      "r"
+    ],
+    [
+      0.067229,
+      "e"
+    ],
+    [
+      0.191035,
+      "pl.py "
+    ],
+    [
+      0.405685,
+      "\r\n"
+    ],
+    [
+      1.262984,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      0.368770,
+      "b"
+    ],
+    [
+      0.168343,
+      "u"
+    ],
+    [
+      0.416042,
+      "i"
+    ],
+    [
+      0.236200,
+      "l"
+    ],
+    [
+      0.113442,
+      "d"
+    ],
+    [
+      0.078229,
+      " "
+    ],
+    [
+      0.089685,
+      "m"
+    ],
+    [
+      0.135528,
+      "h"
+    ],
+    [
+      0.089753,
+      "i"
+    ],
+    [
+      0.236659,
+      "."
+    ],
+    [
+      0.100479,
+      "y"
+    ],
+    [
+      0.056167,
+      "a"
+    ],
+    [
+      0.124605,
+      "m"
+    ],
+    [
+      0.055635,
+      "l"
+    ],
+    [
+      0.315617,
+      "\r\n"
+    ],
+    [
+      0.047316,
+      "WARNING:cohort_manager.parser:Deleting directory 'MHI_Biobank'.\r\n"
+    ],
+    [
+      0.001846,
+      "INFO:cohort_manager.core:Creating tables...\r\n"
+    ],
+    [
+      0.004673,
+      "INFO:cohort_manager.core:Detecting cohorts... [NEW COHORT]\r\n"
+    ],
+    [
+      0.000029,
+      "INFO:cohort_manager.core:Database file is: /Users/legaultmarc/projects/StatGen/cohort/MHI_Biobank/phenotypes.db\r\n"
+    ],
+    [
+      0.000051,
+      "INFO:cohort_manager.core:Data file is: /Users/legaultmarc/projects/StatGen/cohort/MHI_Biobank/data.hdf5\r\n"
+    ],
+    [
+      0.140478,
+      "INFO:cohort_manager.core:Making sure that data is available for all phenotypes in the database.\r\n"
+    ],
+    [
+      0.000396,
+      "INFO:cohort_manager.core:Reclassifying case/control data with respect to the hierarchical structure in the phenotype description.\r\n"
+    ],
+    [
+      0.009197,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      1.641071,
+      "l"
+    ],
+    [
+      0.180081,
+      "i"
+    ],
+    [
+      0.088891,
+      "s"
+    ],
+    [
+      0.090346,
+      "t"
+    ],
+    [
+      1.036035,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "HistoryOfArrhythmia\r\n\t - AgeAtFirstArrhythmia\r\n\t - YearOfLastArrhymia\r\n"
+    ],
+    [
+      0.000008,
+      "\t - AtrialFibrillation\r\n\t\t + AtrialFibrillationType\r\n"
+    ],
+    [
+      0.000012,
+      "\t\t + YearOfLastAtrialFibrillation\r\n"
+    ],
+    [
+      0.000003,
+      "\t - SupraventricularTachycardia\r\n"
+    ],
+    [
+      0.000021,
+      "\t\t + AtrioventricularNodalReentrantTachycardia\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t + WolffParkinsonWhite\r\n"
+    ],
+    [
+      0.000004,
+      "\t\t + AtrialTachycardia\r\n"
+    ],
+    [
+      0.000025,
+      "\t\t + OtherSupraventricularTachycardia\r\n"
+    ],
+    [
+      0.000005,
+      "\t - AtrialFlutter\r\n\t - VencticularTachycardia\r\n"
+    ],
+    [
+      0.000016,
+      "\t - SickSinusSyndrome\r\n"
+    ],
+    [
+      0.000003,
+      "\t - AtrioventricularBlock\r\n"
+    ],
+    [
+      0.000017,
+      "\t - OtherArrhythmia\r\n"
+    ],
+    [
+      0.000004,
+      "Fainting\r\n"
+    ],
+    [
+      0.000009,
+      "\t - FaintingAge\r\n"
+    ],
+    [
+      0.000034,
+      "HistoryOfCardiacArrest\r\nPalpitations\r\n\t - Palpitations frequency\r\nHistoryOfTreatmentForArrhythmia\r\n\t - Pacemaker\r\n"
+    ],
+    [
+      0.000017,
+      "\t\t + PacemakerYear\r\n"
+    ],
+    [
+      0.000005,
+      "\t - ImplantableCardiovertorDefibrillator\r\n"
+    ],
+    [
+      0.000011,
+      "\t\t + ImplCardiovertorDefib\r\n"
+    ],
+    [
+      0.000003,
+      "Weight\r\n"
+    ],
+    [
+      0.000111,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      0.966696,
+      "i"
+    ],
+    [
+      0.100460,
+      "n"
+    ],
+    [
+      0.067844,
+      "f"
+    ],
+    [
+      0.124182,
+      "o"
+    ],
+    [
+      0.078115,
+      " "
+    ],
+    [
+      0.214475,
+      "W"
+    ],
+    [
+      0.224535,
+      "e"
+    ],
+    [
+      0.112979,
+      "i"
+    ],
+    [
+      0.135220,
+      "g"
+    ],
+    [
+      0.134858,
+      "h"
+    ],
+    [
+      0.100259,
+      "t"
+    ],
+    [
+      0.248408,
+      "\r\n"
+    ],
+    [
+      0.000979,
+      "Phenotype meta data:\r\n"
+    ],
+    [
+      0.000053,
+      "\t\u001b[32mname\u001b[0m                 Weight\r\n"
+    ],
+    [
+      0.000006,
+      "\t\u001b[32mparent\u001b[0m               None\r\n\t\u001b[32micd10\u001b[0m                None\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[32mquestion\u001b[0m             None\r\n"
+    ],
+    [
+      0.000016,
+      "\t\u001b[32mcrf_page\u001b[0m             None\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[32mcode_name\u001b[0m            None\r\n"
+    ],
+    [
+      0.000028,
+      "\t\u001b[32mvariable_type\u001b[0m        continuous\r\n\r\nSummary statistics:\r\n"
+    ],
+    [
+      0.000701,
+      "\t13 / 11998 missing values (0.108%)\r\n"
+    ],
+    [
+      0.000516,
+      "\tµ = 79.7548579057, σ = 17.1599861571\r\n"
+    ],
+    [
+      0.000087,
+      "\tmin = 37.0, max = 217.5\r\n"
+    ],
+    [
+      0.000069,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      3.710037,
+      "v"
+    ],
+    [
+      0.078101,
+      "i"
+    ],
+    [
+      0.113364,
+      "r"
+    ],
+    [
+      0.156755,
+      "t"
+    ],
+    [
+      0.101230,
+      "u"
+    ],
+    [
+      0.135727,
+      "a"
+    ],
+    [
+      0.146094,
+      "l"
+    ],
+    [
+      0.810139,
+      " "
+    ],
+    [
+      0.382407,
+      "l"
+    ],
+    [
+      0.146306,
+      "o"
+    ],
+    [
+      0.101176,
+      "g"
+    ],
+    [
+      0.258884,
+      "W"
+    ],
+    [
+      0.292314,
+      "e"
+    ],
+    [
+      0.134789,
+      "i"
+    ],
+    [
+      0.112669,
+      "g"
+    ],
+    [
+      0.157751,
+      "h"
+    ],
+    [
+      0.066487,
+      "t"
+    ],
+    [
+      0.135968,
+      " "
+    ],
+    [
+      0.731334,
+      "c"
+    ],
+    [
+      0.044023,
+      "o"
+    ],
+    [
+      0.169649,
+      "n"
+    ],
+    [
+      0.089480,
+      "t"
+    ],
+    [
+      0.124468,
+      "i"
+    ],
+    [
+      0.213257,
+      "n"
+    ],
+    [
+      0.089208,
+      "u"
+    ],
+    [
+      0.236851,
+      "o"
+    ],
+    [
+      0.101754,
+      "u"
+    ],
+    [
+      0.134727,
+      "s"
+    ],
+    [
+      0.089730,
+      " "
+    ],
+    [
+      0.247133,
+      "'"
+    ],
+    [
+      0.158299,
+      "'"
+    ],
+    [
+      0.191368,
+      "\u0008"
+    ],
+    [
+      0.168256,
+      "v'\u0008"
+    ],
+    [
+      0.518160,
+      "('\u0008"
+    ],
+    [
+      0.404767,
+      ")'\u0008"
+    ],
+    [
+      0.303297,
+      "\u0008"
+    ],
+    [
+      0.382900,
+      "\")'\u0008\u0008"
+    ],
+    [
+      0.145967,
+      "\")'\u0008\u0008"
+    ],
+    [
+      0.146148,
+      "\u0008"
+    ],
+    [
+      0.349356,
+      "W\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.224680,
+      "e\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.123434,
+      "i\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.113263,
+      "g\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.135011,
+      "h\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.089387,
+      "t\")'\u0008\u0008\u0008"
+    ],
+    [
+      0.270649,
+      "\u001b[C"
+    ],
+    [
+      0.190747,
+      "\u001b[C"
+    ],
+    [
+      0.236608,
+      ".'\u0008"
+    ],
+    [
+      0.190981,
+      "l'\u0008"
+    ],
+    [
+      0.157499,
+      "o'\u0008"
+    ],
+    [
+      0.112396,
+      "g'\u0008"
+    ],
+    [
+      0.259323,
+      "('\u0008"
+    ],
+    [
+      0.168734,
+      ")'\u0008"
+    ],
+    [
+      0.595522,
+      "\r\n"
+    ],
+    [
+      0.005595,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      1.873485,
+      "i"
+    ],
+    [
+      0.326411,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191157,
+      "l"
+    ],
+    [
+      0.168515,
+      "i"
+    ],
+    [
+      0.089960,
+      "s"
+    ],
+    [
+      0.089518,
+      "t"
+    ],
+    [
+      0.270995,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "Weight\r\n"
+    ],
+    [
+      0.000009,
+      "Fainting\r\n"
+    ],
+    [
+      0.000005,
+      "\t - FaintingAge\r\n"
+    ],
+    [
+      0.000027,
+      "Palpitations\r\n"
+    ],
+    [
+      0.000006,
+      "\t - Palpitations frequency\r\n"
+    ],
+    [
+      0.000007,
+      "HistoryOfCardiacArrest\r\n"
+    ],
+    [
+      0.000003,
+      "HistoryOfArrhythmia\r\n"
+    ],
+    [
+      0.000013,
+      "\t - AgeAtFirstArrhythmia\r\n"
+    ],
+    [
+      0.000013,
+      "\t - YearOfLastArrhymia\r\n"
+    ],
+    [
+      0.000013,
+      "\t - AtrialFibrillation\r\n"
+    ],
+    [
+      0.000003,
+      "\t\t + AtrialFibrillationType\r\n"
+    ],
+    [
+      0.000013,
+      "\t\t + YearOfLastAtrialFibrillation\r\n"
+    ],
+    [
+      0.000011,
+      "\t - SupraventricularTachycardia\r\n"
+    ],
+    [
+      0.000014,
+      "\t\t + AtrioventricularNodalReentrantTachycardia\r\n"
+    ],
+    [
+      0.000015,
+      "\t\t + WolffParkinsonWhite\r\n"
+    ],
+    [
+      0.000029,
+      "\t\t + AtrialTachycardia\r\n\t\t + OtherSupraventricularTachycardia\r\n"
+    ],
+    [
+      0.000004,
+      "\t - AtrialFlutter\r\n"
+    ],
+    [
+      0.000004,
+      "\t - VencticularTachycardia\r\n"
+    ],
+    [
+      0.000026,
+      "\t - SickSinusSyndrome\r\n"
+    ],
+    [
+      0.000006,
+      "\t - AtrioventricularBlock\r\n\t - OtherArrhythmia\r\n"
+    ],
+    [
+      0.000008,
+      "HistoryOfTreatmentForArrhythmia\r\n"
+    ],
+    [
+      0.000011,
+      "\t - Pacemaker\r\n"
+    ],
+    [
+      0.000029,
+      "\t\t + PacemakerYear\r\n"
+    ],
+    [
+      0.000006,
+      "\t - ImplantableCardiovertorDefibrillator\r\n\t\t + ImplCardiovertorDefib\r\n"
+    ],
+    [
+      0.000020,
+      "logWeight\r\n"
+    ],
+    [
+      0.000109,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      0.763873,
+      "u"
+    ],
+    [
+      0.180236,
+      "p"
+    ],
+    [
+      0.067175,
+      "d"
+    ],
+    [
+      0.067460,
+      "a"
+    ],
+    [
+      0.145964,
+      "t"
+    ],
+    [
+      0.067458,
+      "e"
+    ],
+    [
+      0.078739,
+      " "
+    ],
+    [
+      0.078561,
+      "l"
+    ],
+    [
+      0.169776,
+      "o"
+    ],
+    [
+      0.112660,
+      "g"
+    ],
+    [
+      0.314537,
+      "W"
+    ],
+    [
+      0.247869,
+      "e"
+    ],
+    [
+      0.146214,
+      "i"
+    ],
+    [
+      0.078326,
+      "g"
+    ],
+    [
+      0.180039,
+      "h"
+    ],
+    [
+      0.078399,
+      "t"
+    ],
+    [
+      2.340625,
+      "\r\n"
+    ],
+    [
+      0.000968,
+      "(json)\u003e\u003e\u003e "
+    ],
+    [
+      0.000077,
+      "{\"parent\": null, \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"vari\riable_type\": \"continuous\"}"
+    ],
+    [
+      1.664142,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.213830,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.157211,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.157829,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.168712,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.157543,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.157012,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.146666,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.168169,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.146954,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.179425,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.169321,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.157220,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.168816,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.551601,
+      "\u001b[C"
+    ],
+    [
+      0.190915,
+      "\u001b[C"
+    ],
+    [
+      0.180256,
+      "\u001b[C"
+    ],
+    [
+      0.146270,
+      "\u001b[C"
+    ],
+    [
+      0.258731,
+      "\u0008, \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"varia\u001b[1P\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.168920,
+      "\u0008, \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"variab\u001b[1P\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.168673,
+      "\u0008, \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"variabl\u001b[1P\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.146139,
+      "\u0008, \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"variable\u001b[1P\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.336894,
+      "\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"variabl\u001b[1@e\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.135275,
+      "\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"variab\u001b[1@l\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.202300,
+      "\u0008"
+    ],
+    [
+      0.281389,
+      "W\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"varia\u001b[1@b\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.270495,
+      "e\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"vari\u001b[1@a\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.135124,
+      "i\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"var\u001b[1@i\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.123244,
+      "g\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"va\u001b[1@r\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.135328,
+      "h\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"v\u001b[1@a\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.101311,
+      "t\", \"icd10\": null, \"question\": null, \"crf_page\": null, \"code_name\": null, \"\u001b[1@v\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.303491,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.003502,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      0.828923,
+      "l"
+    ],
+    [
+      0.169102,
+      "i"
+    ],
+    [
+      0.032829,
+      "s"
+    ],
+    [
+      0.078814,
+      "t"
+    ],
+    [
+      0.360421,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "Weight\r\n"
+    ],
+    [
+      0.000013,
+      "\t - logWeight\r\n"
+    ],
+    [
+      0.000003,
+      "HistoryOfArrhythmia\r\n"
+    ],
+    [
+      0.000013,
+      "\t - AgeAtFirstArrhythmia\r\n"
+    ],
+    [
+      0.000004,
+      "\t - YearOfLastArrhymia\r\n"
+    ],
+    [
+      0.000022,
+      "\t - AtrialFibrillation\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t + AtrialFibrillationType\r\n\t\t + YearOfLastAtrialFibrillation\r\n"
+    ],
+    [
+      0.000012,
+      "\t - SupraventricularTachycardia\r\n"
+    ],
+    [
+      0.000003,
+      "\t\t + AtrioventricularNodalReentrantTachycardia\r\n"
+    ],
+    [
+      0.000011,
+      "\t\t + WolffParkinsonWhite\r\n"
+    ],
+    [
+      0.000003,
+      "\t\t + AtrialTachycardia\r\n"
+    ],
+    [
+      0.000023,
+      "\t\t + OtherSupraventricularTachycardia\r\n\t - AtrialFlutter\r\n"
+    ],
+    [
+      0.000003,
+      "\t - VencticularTachycardia\r\n"
+    ],
+    [
+      0.000002,
+      "\t - SickSinusSyndrome\r\n"
+    ],
+    [
+      0.000010,
+      "\t - AtrioventricularBlock\r\n"
+    ],
+    [
+      0.000010,
+      "\t - OtherArrhythmia\r\n"
+    ],
+    [
+      0.000004,
+      "Fainting\r\n"
+    ],
+    [
+      0.000010,
+      "\t - FaintingAge\r\n"
+    ],
+    [
+      0.000031,
+      "Palpitations\r\n\t - Palpitations frequency\r\nHistoryOfTreatmentForArrhythmia\r\n\t - Pacemaker\r\n\t\t + PacemakerYear\r\n"
+    ],
+    [
+      0.000003,
+      "\t - ImplantableCardiovertorDefibrillator\r\n"
+    ],
+    [
+      0.000013,
+      "\t\t + ImplCardiovertorDefib\r\n"
+    ],
+    [
+      0.000003,
+      "HistoryOfCardiacArrest\r\n"
+    ],
+    [
+      0.000090,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      0.866090,
+      "i"
+    ],
+    [
+      0.100473,
+      "n"
+    ],
+    [
+      0.089814,
+      "f"
+    ],
+    [
+      0.124469,
+      "o"
+    ],
+    [
+      0.146499,
+      " "
+    ],
+    [
+      2.125524,
+      "l"
+    ],
+    [
+      0.147047,
+      "o"
+    ],
+    [
+      0.089199,
+      "g"
+    ],
+    [
+      0.304111,
+      "W"
+    ],
+    [
+      0.619212,
+      "e"
+    ],
+    [
+      0.135132,
+      "i"
+    ],
+    [
+      0.100682,
+      "g"
+    ],
+    [
+      0.135566,
+      "h"
+    ],
+    [
+      0.077727,
+      "t"
+    ],
+    [
+      0.214463,
+      "\r\n"
+    ],
+    [
+      0.000888,
+      "Phenotype meta data:\r\n"
+    ],
+    [
+      0.000032,
+      "\t\u001b[32mname\u001b[0m                 logWeight\r\n"
+    ],
+    [
+      0.000006,
+      "\t\u001b[32mparent\u001b[0m               Weight\r\n"
+    ],
+    [
+      0.000025,
+      "\t\u001b[32micd10\u001b[0m                None\r\n"
+    ],
+    [
+      0.000006,
+      "\t\u001b[32mquestion\u001b[0m             None\r\n\t\u001b[32mcrf_page\u001b[0m             None\r\n"
+    ],
+    [
+      0.000011,
+      "\t\u001b[32mcode_name\u001b[0m            None\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[32mvariable_type\u001b[0m        continuous\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Summary statistics:\r\n"
+    ],
+    [
+      0.000658,
+      "\t13 / 11998 missing values (0.108%)\r\n"
+    ],
+    [
+      0.000475,
+      "\tµ = 4.35645625896, σ = 0.212006260664\r\n"
+    ],
+    [
+      0.000091,
+      "\tmin = 3.61091791264, max = 5.38219885053\r\n"
+    ],
+    [
+      0.000092,
+      "[\u001b[34mcohort repl\u001b[0m]\u003e "
+    ],
+    [
+      5.319351,
+      "\r\n"
+    ],
+    [
+      0.049461,
+      "(env)bash-3.2$ "
+    ],
+    [
+      0.714701,
+      "exit\r\n"
+    ]
+  ]
+}
