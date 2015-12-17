@@ -1,0 +1,1434 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 34,
+  "duration": 45.662832,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.766791,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000120,
+      "\u001bk..l/migonzalvar\u001b\\"
+    ],
+    [
+      0.014901,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mmigonzalvar \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.722193,
+      "\u001b[H\u001b[J\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mmigonzalvar \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      1.956218,
+      "g\u0008git clone git@github.com:migonzalvar/pythonvigo.git\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000891,
+      "\u001bkgit\u001b\\"
+    ],
+    [
+      0.009173,
+      "Cloning into 'pythonvigo'...\r\n"
+    ],
+    [
+      1.616237,
+      "remote: Counting objects: 53, done.\u001b[K\r\n"
+    ],
+    [
+      0.000189,
+      "remote: Compressing objects:   2% (1/39)   \u001b[K\rremote: Compressing objects:   5% (2/39)   \u001b[K\rremote: Compressing objects:   7% (3/39)   \u001b[K\rremote: Compressing objects:  10% (4/39)   \u001b[K\rremote: Compressing objects:  12% (5/39)   \u001b[K\rremote: Compressing objects:  15% (6/39)   \u001b[K\rremote: Compressing objects:  17% (7/39)   \u001b[K\rremote: Compressing objects:  20% (8/39)   \u001b[K\r"
+    ],
+    [
+      0.000793,
+      "remote: Compressing objects:  23% (9/39)   \u001b[K\rremote: Compressing objects:  25% (10/39)   \u001b[K\rremote: Compressing objects:  28% (11/39)   \u001b[K\rremote: Compressing objects:  30% (12/39)   \u001b[K\rremote: Compressing objects:  33% (13/39)   \u001b[K\rremote: Compressing objects:  35% (14/39)   \u001b[K\rremote: Compressing objects:  38% (15/39)   \u001b[K\rremote: Compressing objects:  41% (16/39)   \u001b[K\rremote: Compressing objects:  43% (17/39)   \u001b[K\rremote: Compressing objects:  46% (18/39)   \u001b[K\rremote: Compressing objects:  48% (19/39)   \u001b[K\rremote: Compressing objects:  51% (20/39)   \u001b[K\rremote: Compressing objects:  53% (21/39)   \u001b[K\rremote: Compressing objects:  56% (22/39)   \u001b[K\rremote: Compressing objects:  58% (23/39)   \u001b[K\r"
+    ],
+    [
+      0.001444,
+      "remote: Compressing objects:  61% (24/39)   \u001b[K\rremote: Compressing objects:  64% (25/39)   \u001b[K\rremote: Compressing objects:  66% (26/39)   \u001b[K\rremote: Compressing objects:  69% (27/39)   \u001b[K\rremote: Compressing objects:  71% (28/39)   \u001b[K\rremote: Compressing objects:  74% (29/39)   \u001b[K\rremote: Compressing objects:  76% (30/39)   \u001b[K\rremote: Compressing objects:  79% (31/39)   \u001b[K\rremote: Compressing objects:  82% (32/39)   \u001b[K\rremote: Compressing objects:  84% (33/39)   \u001b[K\rremote: Compressing objects:  87% (34/39)   \u001b[K\rremote: Compressing objects:  89% (35/39)   \u001b[K\rremote: Compressing objects:  92% (36/39)   \u001b[K\rremote: Compressing objects:  94% (37/39)   \u001b[K\rremote: Compressing objects:  97% (38/39)   \u001b[K\rremote: Compressing objects: 100% (39/39)   \u001b[K\rremote: Compressing objects: 100% (39/39), done.\u001b[K\r\n"
+    ],
+    [
+      0.127026,
+      "remote: Total 53 (delta 12), reused 51 (delta 10), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.000630,
+      "Receiving objects:   1% (1/53)   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:   3% (2/53)   \r"
+    ],
+    [
+      0.000120,
+      "Receiving objects:   5% (3/53)   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:   7% (4/53)   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:   9% (5/53)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  11% (6/53)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  13% (7/53)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  15% (8/53)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  16% (9/53)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  18% (10/53)   \r"
+    ],
+    [
+      0.000090,
+      "Receiving objects:  20% (11/53)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  22% (12/53)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  24% (13/53)   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  26% (14/53)   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  28% (15/53)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  30% (16/53)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  32% (17/53)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  33% (18/53)   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  35% (19/53)   \r"
+    ],
+    [
+      0.000157,
+      "Receiving objects:  37% (20/53)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  39% (21/53)   \r"
+    ],
+    [
+      0.000907,
+      "Receiving objects:  41% (22/53)   \rReceiving objects:  43% (23/53)   \rReceiving objects:  45% (24/53)   \rReceiving objects:  47% (25/53)   \rReceiving objects:  49% (26/53)   \rReceiving objects:  50% (27/53)   \rReceiving objects:  52% (28/53)   \rReceiving objects:  54% (29/53)   \rReceiving objects:  56% (30/53)   \rReceiving objects:  58% (31/53)   \rReceiving objects:  60% (32/53)   \rReceiving objects:  62% (33/53)   \rReceiving objects:  64% (34/53)   \rReceiving objects:  66% (35/53)   \rReceiving objects:  67% (36/53)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  69% (37/53)   \r"
+    ],
+    [
+      0.000271,
+      "Receiving objects:  71% (38/53)   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:  73% (39/53)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  75% (40/53)   \r"
+    ],
+    [
+      0.000504,
+      "Receiving objects:  77% (41/53)   \rReceiving objects:  79% (42/53)   \rReceiving objects:  81% (43/53)   \rReceiving objects:  83% (44/53)   \rReceiving objects:  84% (45/53)   \r"
+    ],
+    [
+      0.000197,
+      "Receiving objects:  86% (46/53)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  88% (47/53)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  90% (48/53)   \r"
+    ],
+    [
+      0.000207,
+      "Receiving objects:  92% (49/53)   \r"
+    ],
+    [
+      0.000104,
+      "Receiving objects:  94% (50/53)   \r"
+    ],
+    [
+      0.000135,
+      "Receiving objects:  96% (51/53)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  98% (52/53)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects: 100% (53/53)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects: 100% (53/53), 7.25 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000810,
+      "Resolving deltas:   0% (0/12)   \r"
+    ],
+    [
+      0.000016,
+      "Resolving deltas:   8% (1/12)   \rResolving deltas:  16% (2/12)   \rResolving deltas:  25% (3/12)   \r"
+    ],
+    [
+      0.000469,
+      "Resolving deltas:  33% (4/12)   \rResolving deltas:  58% (7/12)   \r"
+    ],
+    [
+      0.000118,
+      "Resolving deltas:  75% (9/12)   \r"
+    ],
+    [
+      0.000190,
+      "Resolving deltas:  83% (10/12)   \r"
+    ],
+    [
+      0.000239,
+      "Resolving deltas: 100% (12/12)   \r"
+    ],
+    [
+      0.000149,
+      "Resolving deltas: 100% (12/12), done.\r\n"
+    ],
+    [
+      0.141308,
+      "Checking connectivity... "
+    ],
+    [
+      0.008747,
+      "done.\r\n"
+    ],
+    [
+      0.002596,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000508,
+      "\u001bk..l/migonzalvar\u001b\\"
+    ],
+    [
+      0.011747,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mmigonzalvar \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000325,
+      "c"
+    ],
+    [
+      0.000141,
+      "\u0008cd"
+    ],
+    [
+      0.000068,
+      " "
+    ],
+    [
+      0.000193,
+      "p"
+    ],
+    [
+      0.000174,
+      "y"
+    ],
+    [
+      0.000196,
+      "t"
+    ],
+    [
+      0.000167,
+      "h"
+    ],
+    [
+      0.000153,
+      "o"
+    ],
+    [
+      0.000139,
+      "n"
+    ],
+    [
+      0.000159,
+      "v"
+    ],
+    [
+      0.000158,
+      "i"
+    ],
+    [
+      0.000171,
+      "g"
+    ],
+    [
+      0.000175,
+      "o"
+    ],
+    [
+      0.000081,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000033,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001603,
+      "\u001bkcd\u001b\\"
+    ],
+    [
+      0.004631,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000505,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.019086,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000118,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000053,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000760,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000164,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.016263,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000108,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000662,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000151,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.015241,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000107,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000199,
+      "\r\r\n"
+    ],
+    [
+      0.000495,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000145,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.013959,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000164,
+      "p"
+    ],
+    [
+      0.000145,
+      "\u0008py"
+    ],
+    [
+      0.000113,
+      "t"
+    ],
+    [
+      0.000130,
+      "h"
+    ],
+    [
+      0.000096,
+      "o"
+    ],
+    [
+      0.000140,
+      "n"
+    ],
+    [
+      0.000074,
+      "3"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.000123,
+      "-"
+    ],
+    [
+      0.000101,
+      "m"
+    ],
+    [
+      0.000063,
+      " "
+    ],
+    [
+      0.000125,
+      "v"
+    ],
+    [
+      0.000103,
+      "e"
+    ],
+    [
+      0.000132,
+      "n"
+    ],
+    [
+      0.000091,
+      "v"
+    ],
+    [
+      0.000054,
+      " "
+    ],
+    [
+      0.000117,
+      "."
+    ],
+    [
+      0.000143,
+      "v"
+    ],
+    [
+      0.000111,
+      "e"
+    ],
+    [
+      0.000127,
+      "n"
+    ],
+    [
+      0.000115,
+      "v"
+    ],
+    [
+      0.000050,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000044,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000930,
+      "\u001bkpython3\u001b\\"
+    ],
+    [
+      2.401684,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.017376,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000170,
+      "s"
+    ],
+    [
+      0.000064,
+      "\u0008so"
+    ],
+    [
+      0.000079,
+      "u"
+    ],
+    [
+      0.000057,
+      "r"
+    ],
+    [
+      0.000072,
+      "c"
+    ],
+    [
+      0.000113,
+      "e"
+    ],
+    [
+      0.000129,
+      " "
+    ],
+    [
+      0.000165,
+      "."
+    ],
+    [
+      0.000107,
+      "v"
+    ],
+    [
+      0.000143,
+      "e"
+    ],
+    [
+      0.000132,
+      "n"
+    ],
+    [
+      0.000146,
+      "v"
+    ],
+    [
+      0.000152,
+      "/"
+    ],
+    [
+      0.000159,
+      "b"
+    ],
+    [
+      0.000136,
+      "i"
+    ],
+    [
+      0.000124,
+      "n"
+    ],
+    [
+      0.000107,
+      "/"
+    ],
+    [
+      0.000094,
+      "a"
+    ],
+    [
+      0.000121,
+      "c"
+    ],
+    [
+      0.000102,
+      "t"
+    ],
+    [
+      0.000096,
+      "i"
+    ],
+    [
+      0.000096,
+      "v"
+    ],
+    [
+      0.000102,
+      "a"
+    ],
+    [
+      0.000112,
+      "t"
+    ],
+    [
+      0.000110,
+      "e"
+    ],
+    [
+      0.000060,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000030,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001175,
+      "\u001bksource\u001b\\"
+    ],
+    [
+      0.001398,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000126,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.028688,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000114,
+      "p"
+    ],
+    [
+      0.000072,
+      "\u0008pi"
+    ],
+    [
+      0.000068,
+      "p"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000099,
+      "i"
+    ],
+    [
+      0.000056,
+      "n"
+    ],
+    [
+      0.000066,
+      "s"
+    ],
+    [
+      0.000062,
+      "t"
+    ],
+    [
+      0.000062,
+      "a"
+    ],
+    [
+      0.000077,
+      "l"
+    ],
+    [
+      0.000054,
+      "l"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000079,
+      "d"
+    ],
+    [
+      0.000077,
+      "j"
+    ],
+    [
+      0.000052,
+      "a"
+    ],
+    [
+      0.000063,
+      "n"
+    ],
+    [
+      0.000063,
+      "g"
+    ],
+    [
+      0.000061,
+      "o"
+    ],
+    [
+      0.000029,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.001036,
+      "\u001bkpip\u001b\\"
+    ],
+    [
+      0.394873,
+      "Collecting django\r\n"
+    ],
+    [
+      0.831049,
+      "  Using cached Django-1.9-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.819325,
+      "Installing collected packages: django\r\n"
+    ],
+    [
+      2.776612,
+      "Successfully installed django-1.9\r\n"
+    ],
+    [
+      0.864739,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.046654,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000133,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000913,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000208,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.035159,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000293,
+      "\u001b[?1h\u001b=g"
+    ],
+    [
+      0.000128,
+      "\u0008gi"
+    ],
+    [
+      0.000141,
+      "t"
+    ],
+    [
+      0.000051,
+      " "
+    ],
+    [
+      0.000250,
+      "c"
+    ],
+    [
+      0.000036,
+      "h"
+    ],
+    [
+      0.000099,
+      "e"
+    ],
+    [
+      0.000099,
+      "c"
+    ],
+    [
+      0.000126,
+      "k"
+    ],
+    [
+      0.000129,
+      "o"
+    ],
+    [
+      0.000173,
+      "u"
+    ],
+    [
+      0.000093,
+      "t"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000099,
+      "S"
+    ],
+    [
+      0.000121,
+      "T"
+    ],
+    [
+      0.000098,
+      "E"
+    ],
+    [
+      0.000116,
+      "P"
+    ],
+    [
+      0.000111,
+      "_"
+    ],
+    [
+      0.000096,
+      "1"
+    ],
+    [
+      0.000062,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.001066,
+      "\u001bkgit\u001b\\"
+    ],
+    [
+      0.007678,
+      "Note: checking out 'STEP_1'.\r\n\r\n"
+    ],
+    [
+      0.000019,
+      "You are in 'detached HEAD' state. You can look around, make experimental\r\nchanges and commit them, and you can discard any commits you make in this\r\nstate without impacting any branches by performing another checkout.\r\n\r\nIf you want to create a new branch to retain commits you create, you may\r\ndo so (now or later) by using -b with the checkout command again. Example:\r\n\r\n  git checkout -b \u003cnew-branch-name\u003e\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "HEAD is now at f87332a... Fix recipient_list"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000137,
+      "\u001bk..ar/pythonvigo\u001b\\"
+    ],
+    [
+      0.015451,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mf87332a\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.000273,
+      "c"
+    ],
+    [
+      0.000093,
+      "\u0008cd"
+    ],
+    [
+      0.000066,
+      " "
+    ],
+    [
+      0.000081,
+      "p"
+    ],
+    [
+      0.000098,
+      "y"
+    ],
+    [
+      0.000100,
+      "t"
+    ],
+    [
+      0.000099,
+      "h"
+    ],
+    [
+      0.000109,
+      "o"
+    ],
+    [
+      0.000086,
+      "n"
+    ],
+    [
+      0.000099,
+      "v"
+    ],
+    [
+      0.000112,
+      "i"
+    ],
+    [
+      0.000084,
+      "g"
+    ],
+    [
+      0.000100,
+      "o"
+    ],
+    [
+      0.000053,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.000972,
+      "\u001bkcd\u001b\\"
+    ],
+    [
+      0.003578,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000173,
+      "\u001bk..go/pythonvigo\u001b\\"
+    ],
+    [
+      0.030873,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mf87332a\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000163,
+      "."
+    ],
+    [
+      0.000088,
+      "\u0008./"
+    ],
+    [
+      0.000081,
+      "m"
+    ],
+    [
+      0.000100,
+      "a"
+    ],
+    [
+      0.000066,
+      "n"
+    ],
+    [
+      0.000086,
+      "a"
+    ],
+    [
+      0.000079,
+      "g"
+    ],
+    [
+      0.000082,
+      "e"
+    ],
+    [
+      0.000079,
+      "."
+    ],
+    [
+      0.000076,
+      "p"
+    ],
+    [
+      0.000074,
+      "y"
+    ],
+    [
+      0.000055,
+      " "
+    ],
+    [
+      0.000080,
+      "m"
+    ],
+    [
+      0.000079,
+      "i"
+    ],
+    [
+      0.000077,
+      "g"
+    ],
+    [
+      0.000076,
+      "r"
+    ],
+    [
+      0.000076,
+      "a"
+    ],
+    [
+      0.000075,
+      "t"
+    ],
+    [
+      0.000075,
+      "e"
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000915,
+      "\u001bk./manage.py\u001b\\"
+    ],
+    [
+      0.489311,
+      "\u001b[36;1mOperations to perform:\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m  Apply all migrations: \u001b[0madmin, auth, contenttypes, sessions\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[36;1mRunning migrations:\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000463,
+      "  Rendering model states..."
+    ],
+    [
+      0.000192,
+      "\u001b[32;1m DONE\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "  Applying contenttypes.0001_initial..."
+    ],
+    [
+      0.026930,
+      "\u001b[32;1m OK\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "  Applying auth.0001_initial..."
+    ],
+    [
+      0.054314,
+      "\u001b[32;1m OK\u001b[0m\r\n  Applying admin.0001_initial..."
+    ],
+    [
+      0.028671,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000257,
+      "  Applying admin.0002_logentry_remove_auto_add..."
+    ],
+    [
+      0.040052,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "  Applying contenttypes.0002_remove_content_type_name..."
+    ],
+    [
+      0.076267,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000026,
+      "  Applying auth.0002_alter_permission_name_max_length..."
+    ],
+    [
+      0.044014,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "  Applying auth.0003_alter_user_email_max_length..."
+    ],
+    [
+      0.043053,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "  Applying auth.0004_alter_user_username_opts..."
+    ],
+    [
+      0.040941,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "  Applying auth.0005_alter_user_last_login_null..."
+    ],
+    [
+      0.037673,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "  Applying auth.0006_require_contenttypes_0002..."
+    ],
+    [
+      0.010216,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "  Applying auth.0007_alter_validators_add_error_messages..."
+    ],
+    [
+      0.048336,
+      "\u001b[32;1m OK\u001b[0m\r\n  Applying sessions.0001_initial..."
+    ],
+    [
+      0.019483,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.256838,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r\u001bk..go/pythonvigo\u001b\\"
+    ],
+    [
+      0.029577,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mf87332a\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.000129,
+      "."
+    ],
+    [
+      0.000054,
+      "\u0008./"
+    ],
+    [
+      0.000062,
+      "m"
+    ],
+    [
+      0.000060,
+      "a"
+    ],
+    [
+      0.000066,
+      "n"
+    ],
+    [
+      0.000067,
+      "a"
+    ],
+    [
+      0.000058,
+      "g"
+    ],
+    [
+      0.000058,
+      "e"
+    ],
+    [
+      0.000057,
+      "."
+    ],
+    [
+      0.000066,
+      "p"
+    ],
+    [
+      0.000049,
+      "y"
+    ],
+    [
+      0.000030,
+      " "
+    ],
+    [
+      0.000075,
+      "r"
+    ],
+    [
+      0.000053,
+      "u"
+    ],
+    [
+      0.000058,
+      "n"
+    ],
+    [
+      0.000057,
+      "s"
+    ],
+    [
+      0.000066,
+      "e"
+    ],
+    [
+      0.000050,
+      "r"
+    ],
+    [
+      0.000056,
+      "v"
+    ],
+    [
+      0.000056,
+      "e"
+    ],
+    [
+      0.000067,
+      "r"
+    ],
+    [
+      0.000014,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.000889,
+      "\u001bk./manage.py\u001b\\"
+    ],
+    [
+      0.869201,
+      "Performing system checks...\r\n\r\n"
+    ],
+    [
+      0.018317,
+      "System check identified no issues (0 silenced).\r\n"
+    ],
+    [
+      0.016399,
+      "December 17, 2015 - 16:08:29\r\n"
+    ],
+    [
+      0.000073,
+      "Django version 1.9, using settings 'pythonvigo.settings'\r\nStarting development server at http://127.0.0.1:8000/\r\n"
+    ],
+    [
+      0.000006,
+      "Quit the server with CONTROL-C.\r\n"
+    ],
+    [
+      8.457634,
+      "Not Found: /\r\n"
+    ],
+    [
+      0.008819,
+      "\u001b[33m[17/Dec/2015 16:08:37] \"GET / HTTP/1.1\" 404 2157\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      6.212271,
+      "\u001b[m[17/Dec/2015 16:08:43] \"GET /contact/ HTTP/1.1\" 200 617"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      4.657979,
+      "MIME-Version: 1.0\r\nContent-Type: text/plain; charset=\"utf-8\"\r\nContent-Transfer-Encoding: 7bit\r\nSubject: Contact form\r\nFrom: contact@python-vigo.es\r\n"
+    ],
+    [
+      0.000015,
+      "To: migonzalvar@gmail.com\r\nDate: Thu, 17 Dec 2015 16:08:48 -0000\r\nMessage-ID: \u003c20151217160848.2694.305@localhost.localdomain\u003e\r\n\r\nThank you\r\n"
+    ],
+    [
+      0.000005,
+      "-------------------------------------------------------------------------------\r\n"
+    ],
+    [
+      3.005730,
+      "\u001b[32m[17/Dec/2015 16:08:51] \"POST /contact/ HTTP/1.1\" 302 0\r\n\u001b[0m"
+    ],
+    [
+      0.007862,
+      "\u001b[m[17/Dec/2015 16:08:51] \"GET /thanks/ HTTP/1.1\" 200 155\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      3.773010,
+      "^C"
+    ],
+    [
+      0.135469,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                               \r \r\u001bk..go/pythonvigo\u001b\\"
+    ],
+    [
+      0.027969,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.venv) \u001b[01;32m➜ \u001b[01;30m \u001b[30mpythonvigo \u001b[01;34mgit:(\u001b[31mf87332a\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.408514,
+      "\r\r\n"
+    ]
+  ]
+}
