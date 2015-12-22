@@ -1,0 +1,3026 @@
+{
+  "version": 1,
+  "width": 180,
+  "height": 35,
+  "duration": 89.4182,
+  "command": "ssh localhost",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.145330,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      0.735621,
+      "s"
+    ],
+    [
+      0.111877,
+      "e"
+    ],
+    [
+      0.064945,
+      "n"
+    ],
+    [
+      0.095187,
+      "z"
+    ],
+    [
+      0.200026,
+      "a"
+    ],
+    [
+      0.087994,
+      " "
+    ],
+    [
+      0.144524,
+      "i"
+    ],
+    [
+      0.055358,
+      "n"
+    ],
+    [
+      0.119924,
+      "i"
+    ],
+    [
+      0.184559,
+      "t"
+    ],
+    [
+      0.127683,
+      " "
+    ],
+    [
+      0.176257,
+      "s"
+    ],
+    [
+      0.168189,
+      "p"
+    ],
+    [
+      0.053134,
+      "i"
+    ],
+    [
+      0.154779,
+      "l"
+    ],
+    [
+      0.112196,
+      "o"
+    ],
+    [
+      0.335921,
+      "."
+    ],
+    [
+      0.183946,
+      "y"
+    ],
+    [
+      0.103421,
+      "a"
+    ],
+    [
+      0.144660,
+      "m"
+    ],
+    [
+      0.183890,
+      "l"
+    ],
+    [
+      0.160279,
+      "\r\n"
+    ],
+    [
+      0.704515,
+      "Please select the project template\u001b[0m\r\n1) bgapp: Background app with single EC2 instance\u001b[0m\r\n2) postgresapp: HA Postgres app, which needs an S3 bucket to store WAL files\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "3) rediscluster: Elasticache cluster running multiple redis nodes, with replication / HA\u001b[0m\r\n4) redisnode: Elasticache node running redis, without replication / HA (for caching)\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\r\n5) webapp: HTTP app with auto scaling, ELB and DNS\u001b[0m\r\nPlease select (1-5) [5]: "
+    ],
+    [
+      0.991060,
+      "2"
+    ],
+    [
+      0.792203,
+      "\r\n"
+    ],
+    [
+      0.000711,
+      "Do you want to set the docker image now? [No] [y/N]: "
+    ],
+    [
+      0.974982,
+      "y"
+    ],
+    [
+      0.304098,
+      "\r\n"
+    ],
+    [
+      0.155443,
+      "Docker Image Version [registry.opensource.example.com/team/spilo-9.4:0.76-p1]: "
+    ],
+    [
+      1.276372,
+      "\r\n"
+    ],
+    [
+      0.452526,
+      "Postgres WAL S3 bucket to use [example-team-eu-west-1-spilo-app]: "
+    ],
+    [
+      0.995157,
+      "\r\n"
+    ],
+    [
+      0.000410,
+      "EC2 instance type [t2.micro]: "
+    ],
+    [
+      1.528323,
+      "t"
+    ],
+    [
+      0.287383,
+      "2"
+    ],
+    [
+      0.152145,
+      "."
+    ],
+    [
+      0.143944,
+      "n"
+    ],
+    [
+      0.103906,
+      "a"
+    ],
+    [
+      0.144503,
+      "n"
+    ],
+    [
+      0.111782,
+      "o"
+    ],
+    [
+      0.312114,
+      "\r\n"
+    ],
+    [
+      0.554194,
+      "Please select the domain\u001b[0m"
+    ],
+    [
+      0.000310,
+      "\r\n"
+    ],
+    [
+      0.000348,
+      "1) team.example.com\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.000360,
+      "2) vpc\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "Please select (1-2): "
+    ],
+    [
+      1.772040,
+      "2"
+    ],
+    [
+      0.871728,
+      "\u0008 \u0008"
+    ],
+    [
+      0.359997,
+      "1"
+    ],
+    [
+      0.312688,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "ETCD Discovery Domain [postgres.team.example.com]: "
+    ],
+    [
+      1.927365,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "Database volume size (GB, 10 or more) [10]: "
+    ],
+    [
+      2.216556,
+      "\r\nDatabase volume type (gp2, io1 or standard) [gp2]: "
+    ],
+    [
+      1.719439,
+      "\r\nFilesystem for the data partition [ext4]: "
+    ],
+    [
+      1.424089,
+      "\r\nFilesystem mount options (comma-separated) [noatime,nodiratime,nobarrier]: "
+    ],
+    [
+      1.496907,
+      "\r\nAccount key for your scalyr account []: "
+    ],
+    [
+      1.822949,
+      "t"
+    ],
+    [
+      0.104422,
+      "u"
+    ],
+    [
+      0.199624,
+      "t"
+    ],
+    [
+      0.104194,
+      "o"
+    ],
+    [
+      0.207786,
+      "r"
+    ],
+    [
+      0.136049,
+      "i"
+    ],
+    [
+      0.120405,
+      "a"
+    ],
+    [
+      0.144078,
+      "l"
+    ],
+    [
+      0.191996,
+      "-"
+    ],
+    [
+      0.223979,
+      "d"
+    ],
+    [
+      0.087510,
+      "u"
+    ],
+    [
+      0.136498,
+      "m"
+    ],
+    [
+      0.167502,
+      "m"
+    ],
+    [
+      0.095985,
+      "y"
+    ],
+    [
+      0.216618,
+      "-"
+    ],
+    [
+      0.103432,
+      "s"
+    ],
+    [
+      0.264031,
+      "c"
+    ],
+    [
+      0.248004,
+      "a"
+    ],
+    [
+      0.184571,
+      "l"
+    ],
+    [
+      0.111701,
+      "a"
+    ],
+    [
+      0.263948,
+      "r"
+    ],
+    [
+      2.896292,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144038,
+      "\u0008 \u0008"
+    ],
+    [
+      0.255855,
+      "y"
+    ],
+    [
+      0.111775,
+      "r"
+    ],
+    [
+      0.276871,
+      "\r\n\u001b[1mChecking security group app-spilo..\u001b[0m"
+    ],
+    [
+      0.539726,
+      "\u001b[32m\u001b[1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.225605,
+      "\u001b[1mChecking S3 bucket example-team-eu-west-1-spilo-app..\u001b[0m"
+    ],
+    [
+      0.172183,
+      "\u001b[32m\u001b[1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b[1mGenerating Senza definition file spilo.yaml..\u001b[0m"
+    ],
+    [
+      0.002960,
+      "\u001b[32m\u001b[1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.169682,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      2.429259,
+      "s"
+    ],
+    [
+      0.071831,
+      "e"
+    ],
+    [
+      0.056027,
+      "n"
+    ],
+    [
+      0.112443,
+      "z"
+    ],
+    [
+      0.199633,
+      "a"
+    ],
+    [
+      0.103595,
+      " "
+    ],
+    [
+      0.159929,
+      "c"
+    ],
+    [
+      0.160003,
+      "r"
+    ],
+    [
+      0.088457,
+      "e"
+    ],
+    [
+      0.079916,
+      "a"
+    ],
+    [
+      0.111690,
+      "t"
+    ],
+    [
+      0.063990,
+      "e"
+    ],
+    [
+      0.080494,
+      " "
+    ],
+    [
+      0.128002,
+      "s"
+    ],
+    [
+      0.152123,
+      "p"
+    ],
+    [
+      0.055847,
+      "i"
+    ],
+    [
+      0.151478,
+      "l"
+    ],
+    [
+      0.080111,
+      "o"
+    ],
+    [
+      0.384564,
+      "."
+    ],
+    [
+      0.287873,
+      "y"
+    ],
+    [
+      0.223986,
+      "a"
+    ],
+    [
+      0.151555,
+      "m"
+    ],
+    [
+      0.184554,
+      "l"
+    ],
+    [
+      0.111975,
+      " "
+    ],
+    [
+      0.655533,
+      "t"
+    ],
+    [
+      0.087909,
+      "u"
+    ],
+    [
+      0.096535,
+      "t"
+    ],
+    [
+      0.127925,
+      "o"
+    ],
+    [
+      0.232320,
+      "r"
+    ],
+    [
+      0.103275,
+      "i"
+    ],
+    [
+      0.120038,
+      "a"
+    ],
+    [
+      0.120049,
+      "l"
+    ],
+    [
+      0.920360,
+      "\r\n"
+    ],
+    [
+      0.766088,
+      "\u001b[1mGenerating Cloud Formation template..\u001b[0m"
+    ],
+    [
+      1.681612,
+      "\u001b[32m\u001b[1m OK\u001b[0m"
+    ],
+    [
+      0.000292,
+      "\r\n"
+    ],
+    [
+      0.003597,
+      "\u001b[1mCreating Cloud Formation stack spilo-tutorial..\u001b[0m"
+    ],
+    [
+      0.669343,
+      "\u001b[32m\u001b[1m OK\u001b[0m"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.157002,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      0.229171,
+      "s"
+    ],
+    [
+      0.143294,
+      "e"
+    ],
+    [
+      0.056353,
+      "n"
+    ],
+    [
+      0.095391,
+      "z"
+    ],
+    [
+      0.176538,
+      "a"
+    ],
+    [
+      0.088063,
+      " "
+    ],
+    [
+      0.152036,
+      "e"
+    ],
+    [
+      0.103448,
+      "v"
+    ],
+    [
+      0.104098,
+      "e"
+    ],
+    [
+      0.072445,
+      "n"
+    ],
+    [
+      0.071873,
+      "t"
+    ],
+    [
+      0.496145,
+      "s"
+    ],
+    [
+      0.167435,
+      " "
+    ],
+    [
+      0.176264,
+      "s"
+    ],
+    [
+      0.184229,
+      "p"
+    ],
+    [
+      0.071973,
+      "i"
+    ],
+    [
+      0.183829,
+      "l"
+    ],
+    [
+      0.136269,
+      "o"
+    ],
+    [
+      0.440230,
+      "."
+    ],
+    [
+      0.247356,
+      "y"
+    ],
+    [
+      0.127911,
+      "a"
+    ],
+    [
+      0.136515,
+      "m"
+    ],
+    [
+      0.239394,
+      "l"
+    ],
+    [
+      0.320852,
+      " "
+    ],
+    [
+      0.295405,
+      "t"
+    ],
+    [
+      0.071889,
+      "u"
+    ],
+    [
+      0.128457,
+      "t"
+    ],
+    [
+      0.095722,
+      "o"
+    ],
+    [
+      0.143899,
+      "r"
+    ],
+    [
+      0.112524,
+      "i"
+    ],
+    [
+      0.127384,
+      "a"
+    ],
+    [
+      0.096510,
+      "l"
+    ],
+    [
+      0.400434,
+      "\r\n"
+    ],
+    [
+      1.224949,
+      "\u001b[30m\u001b[47mStack Name\u001b[0m"
+    ],
+    [
+      0.000334,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000354,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000307,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000345,
+      "\u001b[30m\u001b[47mResource Type                     \u001b[0m"
+    ],
+    [
+      0.000270,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\u001b[30m\u001b[47mResource ID                 \u001b[0m"
+    ],
+    [
+      0.000400,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000328,
+      "\u001b[30m\u001b[47mStatus            \u001b[0m"
+    ],
+    [
+      0.000325,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\u001b[30m\u001b[47mStatus Reason              \u001b[0m"
+    ],
+    [
+      0.000312,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000280,
+      "\u001b[30m\u001b[47mEvent Time\u001b[0m"
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.000310,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000344,
+      " "
+    ],
+    [
+      0.000300,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000278,
+      " "
+    ],
+    [
+      0.000301,
+      "CloudFormation::Stack             \u001b[0m"
+    ],
+    [
+      0.000332,
+      " "
+    ],
+    [
+      0.000289,
+      "spilo-tutorial              \u001b[0m"
+    ],
+    [
+      0.000235,
+      " "
+    ],
+    [
+      0.000289,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000241,
+      " "
+    ],
+    [
+      0.000269,
+      "User Initiated             \u001b[0m"
+    ],
+    [
+      0.000285,
+      " "
+    ],
+    [
+      0.000466,
+      "\u001b[32m\u001b[1m    1m ago\u001b[0m"
+    ],
+    [
+      0.000233,
+      " "
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000245,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000217,
+      " "
+    ],
+    [
+      0.000286,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000282,
+      " "
+    ],
+    [
+      0.000281,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000274,
+      " "
+    ],
+    [
+      0.000286,
+      "PostgresReplicaLoadBalancer \u001b[0m"
+    ],
+    [
+      0.000222,
+      " "
+    ],
+    [
+      0.000279,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000195,
+      " "
+    ],
+    [
+      0.000302,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000210,
+      " "
+    ],
+    [
+      0.000338,
+      "\u001b[32m\u001b[1m   65s ago\u001b[0m"
+    ],
+    [
+      0.000298,
+      " "
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000266,
+      " "
+    ],
+    [
+      0.000261,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000265,
+      " "
+    ],
+    [
+      0.000262,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000312,
+      " "
+    ],
+    [
+      0.000284,
+      "PostgresReplicaLoadBalancer \u001b[0m"
+    ],
+    [
+      0.000202,
+      " "
+    ],
+    [
+      0.000275,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000319,
+      " "
+    ],
+    [
+      0.000303,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000266,
+      " "
+    ],
+    [
+      0.000311,
+      "\u001b[32m\u001b[1m   64s ago\u001b[0m"
+    ],
+    [
+      0.000263,
+      " "
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000267,
+      " "
+    ],
+    [
+      0.000295,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000274,
+      " "
+    ],
+    [
+      0.000351,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000285,
+      "PostgresLoadBalancer        \u001b[0m"
+    ],
+    [
+      0.000211,
+      " "
+    ],
+    [
+      0.000296,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000237,
+      " "
+    ],
+    [
+      0.000254,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000283,
+      " "
+    ],
+    [
+      0.000308,
+      "\u001b[32m\u001b[1m   64s ago\u001b[0m"
+    ],
+    [
+      0.000275,
+      " "
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000325,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000272,
+      " "
+    ],
+    [
+      0.000238,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000208,
+      " "
+    ],
+    [
+      0.000212,
+      "IAM::Role                         \u001b[0m"
+    ],
+    [
+      0.000249,
+      " "
+    ],
+    [
+      0.000368,
+      "PostgresAccessRole          \u001b[0m"
+    ],
+    [
+      0.000357,
+      " "
+    ],
+    [
+      0.000397,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000344,
+      " "
+    ],
+    [
+      0.000378,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000288,
+      " "
+    ],
+    [
+      0.000450,
+      "\u001b[32m\u001b[1m   64s ago\u001b[0m"
+    ],
+    [
+      0.000266,
+      " "
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.000286,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000275,
+      " "
+    ],
+    [
+      0.000301,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000267,
+      " "
+    ],
+    [
+      0.000250,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000262,
+      " "
+    ],
+    [
+      0.000252,
+      "PostgresReplicaLoadBalancer \u001b[0m"
+    ],
+    [
+      0.000231,
+      " "
+    ],
+    [
+      0.000273,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000301,
+      " "
+    ],
+    [
+      0.000272,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000243,
+      " "
+    ],
+    [
+      0.000337,
+      "\u001b[32m\u001b[1m   63s ago\u001b[0m"
+    ],
+    [
+      0.000229,
+      " "
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000334,
+      " "
+    ],
+    [
+      0.000291,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000257,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000262,
+      " "
+    ],
+    [
+      0.000274,
+      "PostgresLoadBalancer        \u001b[0m"
+    ],
+    [
+      0.000277,
+      " "
+    ],
+    [
+      0.000264,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000257,
+      " "
+    ],
+    [
+      0.000255,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000412,
+      "\u001b[32m\u001b[1m   63s ago\u001b[0m"
+    ],
+    [
+      0.000591,
+      " "
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.000327,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000293,
+      " "
+    ],
+    [
+      0.000277,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000232,
+      " "
+    ],
+    [
+      0.000237,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000238,
+      "PostgresLoadBalancer        \u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000241,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000196,
+      " "
+    ],
+    [
+      0.000237,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000224,
+      " "
+    ],
+    [
+      0.000382,
+      "\u001b[32m\u001b[1m   61s ago\u001b[0m"
+    ],
+    [
+      0.000235,
+      " "
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000279,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000191,
+      " "
+    ],
+    [
+      0.000246,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000197,
+      " "
+    ],
+    [
+      0.000259,
+      "Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000238,
+      " "
+    ],
+    [
+      0.000254,
+      "PostgresReplicaRoute53Record\u001b[0m"
+    ],
+    [
+      0.000256,
+      " "
+    ],
+    [
+      0.000260,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000241,
+      " "
+    ],
+    [
+      0.000230,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000195,
+      " "
+    ],
+    [
+      0.000273,
+      "\u001b[32m\u001b[1m   58s ago\u001b[0m"
+    ],
+    [
+      0.000191,
+      " "
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000161,
+      " "
+    ],
+    [
+      0.000271,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000192,
+      " "
+    ],
+    [
+      0.000238,
+      "Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000230,
+      " "
+    ],
+    [
+      0.000221,
+      "PostgresReplicaRoute53Record\u001b[0m"
+    ],
+    [
+      0.000248,
+      " "
+    ],
+    [
+      0.000286,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000248,
+      " "
+    ],
+    [
+      0.000254,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000305,
+      " "
+    ],
+    [
+      0.000401,
+      "\u001b[32m\u001b[1m   57s ago\u001b[0m"
+    ],
+    [
+      0.000251,
+      " "
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000290,
+      " "
+    ],
+    [
+      0.000664,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000538,
+      " "
+    ],
+    [
+      0.000366,
+      "Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000440,
+      " "
+    ],
+    [
+      0.000314,
+      "PostgresRoute53Record       \u001b[0m"
+    ],
+    [
+      0.000330,
+      " "
+    ],
+    [
+      0.000358,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000278,
+      " "
+    ],
+    [
+      0.000329,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000665,
+      " "
+    ],
+    [
+      0.001726,
+      "\u001b[32m\u001b[1m   56s ago\u001b[0m"
+    ],
+    [
+      0.000539,
+      " "
+    ],
+    [
+      0.000408,
+      "\r\n"
+    ],
+    [
+      0.000632,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000297,
+      " "
+    ],
+    [
+      0.000320,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000242,
+      "Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000192,
+      " "
+    ],
+    [
+      0.000255,
+      "PostgresRoute53Record       \u001b[0m"
+    ],
+    [
+      0.000233,
+      " "
+    ],
+    [
+      0.000265,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000233,
+      " "
+    ],
+    [
+      0.000232,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000221,
+      " "
+    ],
+    [
+      0.000412,
+      "\u001b[32m\u001b[1m   55s ago\u001b[0m"
+    ],
+    [
+      0.000200,
+      " "
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000259,
+      " "
+    ],
+    [
+      0.000250,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000228,
+      " "
+    ],
+    [
+      0.000250,
+      "IAM::Role                         \u001b[0m"
+    ],
+    [
+      0.000221,
+      " "
+    ],
+    [
+      0.000209,
+      "PostgresAccessRole          \u001b[0m"
+    ],
+    [
+      0.000223,
+      " "
+    ],
+    [
+      0.000240,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000202,
+      " "
+    ],
+    [
+      0.000213,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000210,
+      " "
+    ],
+    [
+      0.000302,
+      "\u001b[32m\u001b[1m   53s ago\u001b[0m"
+    ],
+    [
+      0.000209,
+      " "
+    ],
+    [
+      0.000289,
+      "\r\n"
+    ],
+    [
+      0.000295,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000294,
+      " "
+    ],
+    [
+      0.000335,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000293,
+      "IAM::Role                         \u001b[0m"
+    ],
+    [
+      0.000205,
+      " "
+    ],
+    [
+      0.000278,
+      "PostgresAccessRole          \u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000278,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000263,
+      " "
+    ],
+    [
+      0.000282,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000221,
+      " "
+    ],
+    [
+      0.000383,
+      "\u001b[32m\u001b[1m   41s ago\u001b[0m"
+    ],
+    [
+      0.000338,
+      " "
+    ],
+    [
+      0.000381,
+      "\r\n"
+    ],
+    [
+      0.000375,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000282,
+      " "
+    ],
+    [
+      0.000236,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000188,
+      " "
+    ],
+    [
+      0.000312,
+      "IAM::InstanceProfile              \u001b[0m"
+    ],
+    [
+      0.000261,
+      " "
+    ],
+    [
+      0.000250,
+      "AppServerInstanceProfile    \u001b[0m"
+    ],
+    [
+      0.000258,
+      " "
+    ],
+    [
+      0.000255,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000256,
+      " "
+    ],
+    [
+      0.000237,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000206,
+      " "
+    ],
+    [
+      0.000317,
+      "\u001b[32m\u001b[1m   37s ago\u001b[0m"
+    ],
+    [
+      0.000288,
+      " "
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000288,
+      " "
+    ],
+    [
+      0.000300,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000260,
+      " "
+    ],
+    [
+      0.000270,
+      "IAM::InstanceProfile              \u001b[0m"
+    ],
+    [
+      0.000269,
+      " "
+    ],
+    [
+      0.000244,
+      "AppServerInstanceProfile    \u001b[0m"
+    ],
+    [
+      0.000251,
+      " "
+    ],
+    [
+      0.000274,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000280,
+      " "
+    ],
+    [
+      0.000297,
+      "Resource creation Initiated\u001b[0m"
+    ],
+    [
+      0.000295,
+      " "
+    ],
+    [
+      0.000327,
+      "\u001b[32m\u001b[1m   36s ago\u001b[0m"
+    ],
+    [
+      0.000229,
+      " "
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000289,
+      " "
+    ],
+    [
+      0.000264,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000281,
+      "Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000256,
+      " "
+    ],
+    [
+      0.000290,
+      "PostgresReplicaRoute53Record\u001b[0m"
+    ],
+    [
+      0.000212,
+      " "
+    ],
+    [
+      0.000339,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000253,
+      " "
+    ],
+    [
+      0.000258,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000248,
+      " "
+    ],
+    [
+      0.000330,
+      "\u001b[32m\u001b[1m   25s ago\u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000258,
+      "\r\n"
+    ],
+    [
+      0.000325,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000284,
+      " "
+    ],
+    [
+      0.000263,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.000125,
+      "Route53::RecordSet                \u001b[0m PostgresRoute53Record       \u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000265,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000158,
+      "                            \u001b[0m"
+    ],
+    [
+      0.000319,
+      " "
+    ],
+    [
+      0.000369,
+      "\u001b[32m\u001b[1m   23s ago\u001b[0m \r\n"
+    ],
+    [
+      0.087446,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      10.501944,
+      "s"
+    ],
+    [
+      0.096309,
+      "e"
+    ],
+    [
+      0.046506,
+      "n"
+    ],
+    [
+      0.113589,
+      "z"
+    ],
+    [
+      0.215298,
+      "a"
+    ],
+    [
+      0.088360,
+      " "
+    ],
+    [
+      0.151776,
+      "e"
+    ],
+    [
+      0.136614,
+      "v"
+    ],
+    [
+      0.087818,
+      "e"
+    ],
+    [
+      0.080157,
+      "n"
+    ],
+    [
+      0.127359,
+      "t"
+    ],
+    [
+      0.256336,
+      "s"
+    ],
+    [
+      0.111653,
+      " "
+    ],
+    [
+      0.224537,
+      "s"
+    ],
+    [
+      0.127545,
+      "p"
+    ],
+    [
+      0.072491,
+      "i"
+    ],
+    [
+      0.127778,
+      "l"
+    ],
+    [
+      0.144329,
+      "o"
+    ],
+    [
+      0.400060,
+      "."
+    ],
+    [
+      0.191446,
+      "y"
+    ],
+    [
+      0.111860,
+      "a"
+    ],
+    [
+      0.120034,
+      "m"
+    ],
+    [
+      0.192007,
+      "l"
+    ],
+    [
+      0.072160,
+      " "
+    ],
+    [
+      0.263867,
+      "t"
+    ],
+    [
+      0.080528,
+      "u"
+    ],
+    [
+      0.119430,
+      "t"
+    ],
+    [
+      0.111970,
+      "o"
+    ],
+    [
+      0.168406,
+      "r"
+    ],
+    [
+      0.144241,
+      "i"
+    ],
+    [
+      0.135539,
+      "a"
+    ],
+    [
+      0.136581,
+      "l"
+    ],
+    [
+      0.295660,
+      "\r\n"
+    ],
+    [
+      1.310804,
+      "\u001b[30m\u001b[47mStack Name\u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mVer.    \u001b[0m\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\u001b[30m\u001b[47mResource Type                     \u001b[0m"
+    ],
+    [
+      0.000242,
+      "\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mResource ID                 \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mStatus            \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mStatus Reason                                   \u001b[0m"
+    ],
+    [
+      0.000204,
+      "\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mEvent Time\u001b[0m\r\nspilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000248,
+      "CloudFormation::Stack             \u001b[0m spilo-tutorial              \u001b[0m "
+    ],
+    [
+      0.000181,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m User Initiated                                  \u001b[0m"
+    ],
+    [
+      0.000171,
+      " "
+    ],
+    [
+      0.000252,
+      "\u001b[32m\u001b[1m    9m ago\u001b[0m \r\nspilo     \u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000204,
+      " ElasticLoadBalancing::LoadBalancer\u001b[0m "
+    ],
+    [
+      0.000170,
+      "PostgresReplicaLoadBalancer \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000140,
+      "                                                \u001b[0m \u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000168,
+      "spilo     \u001b[0m "
+    ],
+    [
+      0.000157,
+      "tutorial\u001b[0m ElasticLoadBalancing::LoadBalancer\u001b[0m "
+    ],
+    [
+      0.000304,
+      "PostgresReplicaLoadBalancer \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000174,
+      "Resource creation Initiated                     \u001b[0m \u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000181,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m PostgresLoadBalancer        \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000158,
+      "                                                \u001b[0m"
+    ],
+    [
+      0.000175,
+      " \u001b[32m\u001b[1m    8m ago\u001b[0m "
+    ],
+    [
+      0.000213,
+      "\r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000186,
+      "tutorial\u001b[0m IAM::Role                         \u001b[0m PostgresAccessRole          \u001b[0m "
+    ],
+    [
+      0.000179,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000194,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000206,
+      "spilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000187,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m PostgresReplicaLoadBalancer \u001b[0m "
+    ],
+    [
+      0.000179,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000172,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m "
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "spilo     \u001b[0m tutorial\u001b[0m ElasticLoadBalancing::LoadBalancer\u001b[0m"
+    ],
+    [
+      0.000166,
+      " PostgresLoadBalancer        \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000161,
+      " Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000160,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000190,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000208,
+      " tutorial\u001b[0m "
+    ],
+    [
+      0.000083,
+      "ElasticLoadBalancing::LoadBalancer\u001b[0m PostgresLoadBalancer        \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000310,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m "
+    ],
+    [
+      0.000199,
+      "\r\nspilo     \u001b[0m tutorial\u001b[0m Route53::RecordSet                \u001b[0m PostgresReplicaRoute53Record\u001b[0m "
+    ],
+    [
+      0.000212,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000157,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000161,
+      " \r\nspilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000232,
+      "Route53::RecordSet                \u001b[0m "
+    ],
+    [
+      0.000194,
+      "PostgresReplicaRoute53Record\u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m"
+    ],
+    [
+      0.000210,
+      " \u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000185,
+      "spilo     \u001b[0m tutorial\u001b[0m Route53::RecordSet                \u001b[0m PostgresRoute53Record       \u001b[0m"
+    ],
+    [
+      0.000150,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000210,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m "
+    ],
+    [
+      0.000167,
+      "\r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000171,
+      "tutorial\u001b[0m Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000188,
+      " PostgresRoute53Record       \u001b[0m "
+    ],
+    [
+      0.000184,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m"
+    ],
+    [
+      0.000164,
+      " "
+    ],
+    [
+      0.000162,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000164,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.000154,
+      "IAM::Role                         \u001b[0m "
+    ],
+    [
+      0.000170,
+      "PostgresAccessRole          \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000159,
+      "Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000218,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000180,
+      "tutorial\u001b[0m IAM::Role                         \u001b[0m "
+    ],
+    [
+      0.000163,
+      "PostgresAccessRole          \u001b[0m "
+    ],
+    [
+      0.000207,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000178,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000170,
+      "spilo     \u001b[0m tutorial\u001b[0m IAM::InstanceProfile              \u001b[0m"
+    ],
+    [
+      0.000162,
+      " AppServerInstanceProfile    \u001b[0m"
+    ],
+    [
+      0.000206,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m"
+    ],
+    [
+      0.000181,
+      " \u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m"
+    ],
+    [
+      0.000136,
+      " tutorial\u001b[0m IAM::InstanceProfile              \u001b[0m AppServerInstanceProfile    \u001b[0m"
+    ],
+    [
+      0.000139,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000178,
+      " Resource creation Initiated                     \u001b[0m"
+    ],
+    [
+      0.000166,
+      " "
+    ],
+    [
+      0.000162,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000157,
+      "tutorial\u001b[0m Route53::RecordSet                \u001b[0m"
+    ],
+    [
+      0.000220,
+      " PostgresReplicaRoute53Record\u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m"
+    ],
+    [
+      0.000167,
+      "                                                 \u001b[0m "
+    ],
+    [
+      0.000189,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000175,
+      "tutorial\u001b[0m Route53::RecordSet                \u001b[0m PostgresRoute53Record       \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m "
+    ],
+    [
+      0.000185,
+      "                                                \u001b[0m \u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000168,
+      " \r\nspilo     \u001b[0m tutorial\u001b[0m IAM::InstanceProfile              \u001b[0m "
+    ],
+    [
+      0.000158,
+      "AppServerInstanceProfile    \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000151,
+      "\u001b[32m\u001b[1m    6m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000249,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000156,
+      " tutorial\u001b[0m AutoScaling::LaunchConfiguration  \u001b[0m "
+    ],
+    [
+      0.000250,
+      "AppServerConfig             \u001b[0m "
+    ],
+    [
+      0.000184,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m \u001b[32m\u001b[1m    6m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000206,
+      "spilo     \u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000200,
+      " AutoScaling::LaunchConfiguration  \u001b[0m AppServerConfig             \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m "
+    ],
+    [
+      0.000182,
+      "                                                \u001b[0m \u001b[32m\u001b[1m    6m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000156,
+      "spilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000168,
+      "AutoScaling::LaunchConfiguration  \u001b[0m AppServerConfig             \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000191,
+      " Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000203,
+      "\u001b[32m\u001b[1m    6m ago\u001b[0m \r\nspilo     \u001b[0m"
+    ],
+    [
+      0.000127,
+      " tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m"
+    ],
+    [
+      0.000153,
+      " "
+    ],
+    [
+      0.000165,
+      "AppServer                   \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000251,
+      "\u001b[32m\u001b[1m    6m ago\u001b[0m \r\nspilo     \u001b[0m tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m"
+    ],
+    [
+      0.000177,
+      " AppServer                   \u001b[0m "
+    ],
+    [
+      0.000216,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m \u001b[32m\u001b[1m    6m ago\u001b[0m"
+    ],
+    [
+      0.000191,
+      " \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000199,
+      "tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m"
+    ],
+    [
+      0.000175,
+      " AppServer                   \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-f5dfb778\u001b[0m"
+    ],
+    [
+      0.000190,
+      " \u001b[32m\u001b[1m    3m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000236,
+      "tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m"
+    ],
+    [
+      0.000175,
+      " AppServer                   \u001b[0m"
+    ],
+    [
+      0.000165,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-266e54af\u001b[0m \u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000229,
+      " \r\n"
+    ],
+    [
+      0.000169,
+      "spilo     \u001b[0m tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m AppServer                   \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000155,
+      " Received SUCCESS signal with UniqueId i-bc286037\u001b[0m "
+    ],
+    [
+      0.000157,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000164,
+      "spilo     \u001b[0m tutorial\u001b[0m AutoScaling::AutoScalingGroup     \u001b[0m AppServer                   \u001b[0m "
+    ],
+    [
+      0.000178,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000223,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000203,
+      " \r\nspilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000185,
+      "AutoScaling::ScalingPolicy        \u001b[0m AppServerScaleDown          \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000166,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000162,
+      "spilo     \u001b[0m tutorial\u001b[0m AutoScaling::ScalingPolicy        \u001b[0m "
+    ],
+    [
+      0.000209,
+      "AppServerScaleDown          \u001b[0m "
+    ],
+    [
+      0.000201,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000172,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\nspilo     \u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000135,
+      " AutoScaling::ScalingPolicy        \u001b[0m AppServerScaleDown          \u001b[0m "
+    ],
+    [
+      0.000149,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000208,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000181,
+      "tutorial\u001b[0m AutoScaling::ScalingPolicy        \u001b[0m "
+    ],
+    [
+      0.000157,
+      "AppServerScaleUp            \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000300,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\nspilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000172,
+      "AutoScaling::ScalingPolicy        \u001b[0m"
+    ],
+    [
+      0.000207,
+      " AppServerScaleUp            \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000137,
+      "Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000224,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000166,
+      " \r\nspilo     \u001b[0m tutorial\u001b[0m AutoScaling::ScalingPolicy        \u001b[0m"
+    ],
+    [
+      0.000239,
+      " "
+    ],
+    [
+      0.000147,
+      "AppServerScaleUp            \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000145,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000194,
+      "spilo     \u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000166,
+      "CloudFormation::Stack             \u001b[0m spilo-tutorial              \u001b[0m "
+    ],
+    [
+      0.000190,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000303,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.088486,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      2.576513,
+      "s"
+    ],
+    [
+      0.264551,
+      "i"
+    ],
+    [
+      0.104007,
+      "e"
+    ],
+    [
+      0.143495,
+      "z"
+    ],
+    [
+      0.440192,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144509,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159449,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.352282,
+      "e"
+    ],
+    [
+      0.064039,
+      "n"
+    ],
+    [
+      0.072068,
+      "z"
+    ],
+    [
+      0.183840,
+      "a"
+    ],
+    [
+      0.056291,
+      " "
+    ],
+    [
+      0.151960,
+      "i"
+    ],
+    [
+      0.063510,
+      "n"
+    ],
+    [
+      0.056907,
+      "s"
+    ],
+    [
+      0.051475,
+      "t"
+    ],
+    [
+      0.068075,
+      "a"
+    ],
+    [
+      0.088370,
+      "n"
+    ],
+    [
+      0.159723,
+      "c"
+    ],
+    [
+      0.087962,
+      "e"
+    ],
+    [
+      0.127493,
+      "s"
+    ],
+    [
+      0.096039,
+      " "
+    ],
+    [
+      0.696366,
+      "s"
+    ],
+    [
+      0.247576,
+      "p"
+    ],
+    [
+      0.312156,
+      "i"
+    ],
+    [
+      0.192093,
+      "l"
+    ],
+    [
+      0.064208,
+      "o"
+    ],
+    [
+      0.384283,
+      "y"
+    ],
+    [
+      0.487457,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.248247,
+      "."
+    ],
+    [
+      0.191671,
+      "y"
+    ],
+    [
+      0.104636,
+      "a"
+    ],
+    [
+      0.143481,
+      "m"
+    ],
+    [
+      0.160312,
+      "l"
+    ],
+    [
+      0.063686,
+      " "
+    ],
+    [
+      0.136183,
+      "t"
+    ],
+    [
+      0.063902,
+      "u"
+    ],
+    [
+      0.176284,
+      "t"
+    ],
+    [
+      0.271575,
+      "o"
+    ],
+    [
+      0.232457,
+      "r"
+    ],
+    [
+      0.088718,
+      "i"
+    ],
+    [
+      0.127372,
+      "a"
+    ],
+    [
+      0.128173,
+      "l"
+    ],
+    [
+      0.240456,
+      "\r\n"
+    ],
+    [
+      1.942739,
+      "\u001b[30m\u001b[47mStack Name\u001b[0m"
+    ],
+    [
+      0.000253,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000323,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000316,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000328,
+      "\u001b[30m\u001b[47mResource ID\u001b[0m"
+    ],
+    [
+      0.000388,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000314,
+      "\u001b[30m\u001b[47mInstance ID\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000285,
+      "\u001b[30m\u001b[47mPublic IP\u001b[0m"
+    ],
+    [
+      0.000400,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000355,
+      "\u001b[30m\u001b[47mPrivate IP    \u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[30m\u001b[47mState  \u001b[0m"
+    ],
+    [
+      0.000228,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[30m\u001b[47mLB Status     \u001b[0m"
+    ],
+    [
+      0.000277,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000242,
+      "\u001b[30m\u001b[47mLaunched\u001b[0m"
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000275,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000275,
+      " "
+    ],
+    [
+      0.000290,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000339,
+      " "
+    ],
+    [
+      0.000274,
+      "i-266e54af \u001b[0m"
+    ],
+    [
+      0.000206,
+      " "
+    ],
+    [
+      0.000249,
+      "         \u001b[0m"
+    ],
+    [
+      0.000254,
+      " "
+    ],
+    [
+      0.000310,
+      "172.31.150.241\u001b[0m"
+    ],
+    [
+      0.000222,
+      " "
+    ],
+    [
+      0.000317,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000224,
+      " "
+    ],
+    [
+      0.000270,
+      "\u001b[31mOUT_OF_SERVICE\u001b[0m"
+    ],
+    [
+      0.000190,
+      " "
+    ],
+    [
+      0.000442,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000239,
+      " "
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000285,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000295,
+      " "
+    ],
+    [
+      0.000253,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000249,
+      " "
+    ],
+    [
+      0.000248,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000198,
+      " "
+    ],
+    [
+      0.000347,
+      "i-bc286037 \u001b[0m"
+    ],
+    [
+      0.000315,
+      " "
+    ],
+    [
+      0.000292,
+      "         \u001b[0m"
+    ],
+    [
+      0.000269,
+      " "
+    ],
+    [
+      0.000246,
+      "172.31.172.196\u001b[0m"
+    ],
+    [
+      0.000251,
+      " "
+    ],
+    [
+      0.000296,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000185,
+      " "
+    ],
+    [
+      0.000260,
+      "\u001b[31mOUT_OF_SERVICE\u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000395,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000269,
+      " "
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.000265,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000286,
+      " "
+    ],
+    [
+      0.000319,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000238,
+      " "
+    ],
+    [
+      0.000262,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000273,
+      " "
+    ],
+    [
+      0.000320,
+      "i-f5dfb778 \u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000288,
+      "         \u001b[0m"
+    ],
+    [
+      0.000303,
+      " "
+    ],
+    [
+      0.000249,
+      "172.31.143.223\u001b[0m"
+    ],
+    [
+      0.000275,
+      " "
+    ],
+    [
+      0.000267,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000253,
+      " "
+    ],
+    [
+      0.000259,
+      "\u001b[31mOUT_OF_SERVICE\u001b[0m"
+    ],
+    [
+      0.000220,
+      " "
+    ],
+    [
+      0.000340,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000234,
+      " "
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.150090,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      2.992854,
+      "senza instances spilo.yaml tutorial"
+    ],
+    [
+      0.697020,
+      "\r\n"
+    ],
+    [
+      2.177367,
+      "\u001b[30m\u001b[47mStack Name\u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mVer.    \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mResource ID\u001b[0m\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000382,
+      "\u001b[30m\u001b[47mInstance ID\u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mPublic IP\u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mPrivate IP    \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mState  \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mLB Status     \u001b[0m\u001b[30m\u001b[47m│\u001b[0m\u001b[30m\u001b[47mLaunched\u001b[0m\r\nspilo     \u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000312,
+      " AppServer  \u001b[0m "
+    ],
+    [
+      0.000527,
+      "i-266e54af \u001b[0m          \u001b[0m 172.31.150.241\u001b[0m "
+    ],
+    [
+      0.000120,
+      "\u001b[32mRUNNING\u001b[0m \u001b[31mOUT_OF_SERVICE\u001b[0m"
+    ],
+    [
+      0.000203,
+      " "
+    ],
+    [
+      0.000181,
+      "\u001b[32m\u001b[1m  8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000208,
+      "spilo     \u001b[0m"
+    ],
+    [
+      0.000167,
+      " tutorial\u001b[0m AppServer  \u001b[0m i-bc286037 \u001b[0m"
+    ],
+    [
+      0.000258,
+      "          \u001b[0m "
+    ],
+    [
+      0.000198,
+      "172.31.172.196\u001b[0m \u001b[32mRUNNING\u001b[0m \u001b[31mOUT_OF_SERVICE\u001b[0m "
+    ],
+    [
+      0.000215,
+      "\u001b[32m\u001b[1m  8m ago\u001b[0m \r\nspilo     \u001b[0m "
+    ],
+    [
+      0.000231,
+      "tutorial\u001b[0m AppServer  \u001b[0m i-f5dfb778 \u001b[0m "
+    ],
+    [
+      0.000155,
+      "         \u001b[0m 172.31.143.223\u001b[0m "
+    ],
+    [
+      0.000226,
+      "\u001b[32mRUNNING\u001b[0m "
+    ],
+    [
+      0.000179,
+      "\u001b[32mIN_SERVICE    \u001b[0m \u001b[32m\u001b[1m  8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.155803,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ]
+  ]
+}
