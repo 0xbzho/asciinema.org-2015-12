@@ -1,0 +1,506 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 30,
+  "duration": 23.061184,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.060998,
+      "\u001b]0;bomba@gianplacido: ~\u0007bomba@gianplacido:~$ "
+    ],
+    [
+      1.299277,
+      "t"
+    ],
+    [
+      0.111937,
+      "i"
+    ],
+    [
+      0.256237,
+      "m"
+    ],
+    [
+      0.159947,
+      "e"
+    ],
+    [
+      0.351619,
+      " "
+    ],
+    [
+      0.288139,
+      "f"
+    ],
+    [
+      0.096500,
+      "i"
+    ],
+    [
+      0.255600,
+      "n"
+    ],
+    [
+      0.208609,
+      "d"
+    ],
+    [
+      0.671391,
+      " "
+    ],
+    [
+      0.528258,
+      "/"
+    ],
+    [
+      0.736305,
+      " "
+    ],
+    [
+      0.464016,
+      "-"
+    ],
+    [
+      0.400275,
+      "m"
+    ],
+    [
+      0.224056,
+      "o"
+    ],
+    [
+      0.224291,
+      "u"
+    ],
+    [
+      0.223504,
+      "n"
+    ],
+    [
+      0.127995,
+      "t"
+    ],
+    [
+      0.303948,
+      " "
+    ],
+    [
+      1.024899,
+      "-"
+    ],
+    [
+      0.319487,
+      "n"
+    ],
+    [
+      0.160108,
+      "a"
+    ],
+    [
+      0.144242,
+      "m"
+    ],
+    [
+      0.255828,
+      "e"
+    ],
+    [
+      0.224396,
+      " "
+    ],
+    [
+      0.256150,
+      "l"
+    ],
+    [
+      0.159871,
+      "s"
+    ],
+    [
+      0.592323,
+      "."
+    ],
+    [
+      0.384092,
+      "1"
+    ],
+    [
+      0.207454,
+      "."
+    ],
+    [
+      0.448096,
+      "g"
+    ],
+    [
+      0.352082,
+      "z"
+    ],
+    [
+      0.928469,
+      "\r\n"
+    ],
+    [
+      0.002341,
+      "find: `/root'"
+    ],
+    [
+      0.000019,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000470,
+      "find: `/var/spool/cron/crontabs': Permission denied"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "find: `/var/spool/cups': Permission denied"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "find: `/var/spool/rsyslog'"
+    ],
+    [
+      0.000012,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000195,
+      "find: `/var/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-rtkit-daemon.service-5AOW42'"
+    ],
+    [
+      0.000016,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000012,
+      "find: `/var/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-systemd-timesyncd.service-xhsAyc'"
+    ],
+    [
+      0.000013,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000025,
+      "find: "
+    ],
+    [
+      0.000012,
+      "`/var/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-colord.service-DXWnht': Permission denied"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      "find: "
+    ],
+    [
+      0.000019,
+      "`/var/lib/udisks2': Permission denied\r\n"
+    ],
+    [
+      0.001176,
+      "find: `/var/lib/sudo': Permission denied"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000658,
+      "find: `/var/lib/lightdm-data/spyderdev': Permission denied\r\n"
+    ],
+    [
+      0.000015,
+      "find: `/var/lib/lightdm-data/lightdm': Permission denied\r\n"
+    ],
+    [
+      0.016347,
+      "find: `/var/lib/machines': Permission denied\r\n"
+    ],
+    [
+      0.000724,
+      "find: `/var/lib/polkit-1': Permission denied\r\n"
+    ],
+    [
+      0.000092,
+      "find: `/var/lib/lightdm': Permission denied\r\n"
+    ],
+    [
+      0.000093,
+      "find: `/var/log/speech-dispatcher': Permission denied\r\n"
+    ],
+    [
+      0.002553,
+      "find: `/var/cache/cups': Permission denied\r\n"
+    ],
+    [
+      0.000974,
+      "find: "
+    ],
+    [
+      0.000009,
+      "`/var/cache/ldconfig': Permission denied\r\n"
+    ],
+    [
+      0.000023,
+      "find: `/var/cache/lightdm/dmrc'"
+    ],
+    [
+      0.000007,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.003461,
+      "find: `/etc/cups/ssl'"
+    ],
+    [
+      0.000024,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.001339,
+      "find: `/etc/polkit-1/localauthority'"
+    ],
+    [
+      0.000016,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000727,
+      "find: `/etc/ssl/private': Permission denied\r\n"
+    ],
+    [
+      0.000493,
+      "find: `/home/spyderdev/.config': Permission denied"
+    ],
+    [
+      0.000006,
+      "\r\nfind: "
+    ],
+    [
+      0.000005,
+      "`/home/spyderdev/.gconf': Permission denied"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "find: `/home/spyderdev/.compiz'"
+    ],
+    [
+      0.000007,
+      ": Permission denied\r\nfind: "
+    ],
+    [
+      0.000006,
+      "`/home/spyderdev/.cache': Permission denied"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "find: "
+    ],
+    [
+      0.000006,
+      "`/home/spyderdev/.local': Permission denied\r\n"
+    ],
+    [
+      0.000011,
+      "find: "
+    ],
+    [
+      0.000006,
+      "`/home/spyderdev/.mozilla': Permission denied\r\n"
+    ],
+    [
+      0.019672,
+      "find: `/lost+found'"
+    ],
+    [
+      0.000028,
+      ": Permission denied\r\n"
+    ],
+    [
+      0.000106,
+      "find: "
+    ],
+    [
+      0.000010,
+      "`/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-colord.service-sI29aL': Permission denied"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000227,
+      "find: `/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-systemd-timesyncd.service-OpuDZx': Permission denied\r\n"
+    ],
+    [
+      0.000062,
+      "find: "
+    ],
+    [
+      0.000012,
+      "`/tmp/systemd-private-782683be65a24bcc824e958f3e2737a6-rtkit-daemon.service-TW7IDl': Permission denied\r\n"
+    ],
+    [
+      0.224855,
+      "find: `/usr/share/doc/google-chrome-stable': Permission denied\r\n"
+    ],
+    [
+      0.074578,
+      "/usr/share/man/man1/ls.1.gz\r\n"
+    ],
+    [
+      0.025207,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "real\t0m0.377s\r\nuser\t0m0.152s\r\nsys\t0m0.216s\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b]0;bomba@gianplacido: ~\u0007bomba@gianplacido:~$ "
+    ],
+    [
+      1.687132,
+      "f"
+    ],
+    [
+      0.095502,
+      "i"
+    ],
+    [
+      0.144196,
+      "g"
+    ],
+    [
+      0.144365,
+      "l"
+    ],
+    [
+      0.143810,
+      "e"
+    ],
+    [
+      0.191915,
+      "t"
+    ],
+    [
+      0.192018,
+      " "
+    ],
+    [
+      0.992522,
+      "G"
+    ],
+    [
+      0.144269,
+      "O"
+    ],
+    [
+      0.255610,
+      "D"
+    ],
+    [
+      0.304067,
+      "B"
+    ],
+    [
+      0.143988,
+      "L"
+    ],
+    [
+      0.159965,
+      "E"
+    ],
+    [
+      0.224076,
+      "S"
+    ],
+    [
+      0.143869,
+      "S"
+    ],
+    [
+      1.120769,
+      "D"
+    ],
+    [
+      1.056465,
+      "\r\n"
+    ],
+    [
+      0.010879,
+      "  ____  ___  ____  ____  _     _____ ____ ____  ____  \r\n"
+    ],
+    [
+      0.000024,
+      " / ___|/ _ \\|  _ \\| __ )| |   | ____/ ___/ ___||  _ \\ \r\n| |  _| | | | | | |  _ \\| |   |  _| \\___ \\___ \\| | | |\r\n| |_| | |_| | |_| | |_) | |___| |___ ___) |__) | |_| |\r\n"
+    ],
+    [
+      0.000028,
+      " \\____|\\___/|____/|____/|_____|_____|____/____/|____/ \r\n"
+    ],
+    [
+      0.000014,
+      "                                                      \r\n"
+    ],
+    [
+      0.000534,
+      "\u001b]0;bomba@gianplacido: ~\u0007bomba@gianplacido:~$ "
+    ],
+    [
+      2.292888,
+      "e"
+    ],
+    [
+      0.255886,
+      "x"
+    ],
+    [
+      0.111608,
+      "i"
+    ],
+    [
+      0.192677,
+      "t"
+    ],
+    [
+      0.223370,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "exit"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ]
+  ]
+}
