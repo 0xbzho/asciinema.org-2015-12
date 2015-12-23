@@ -1,0 +1,6118 @@
+{
+  "version": 1,
+  "width": 174,
+  "height": 43,
+  "duration": 643.730732,
+  "command": "./run.sh --video 5",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.633860,
+      " export SHUTIT_BACKUP_PS1_origin_prompt=$PS1 \u0026\u0026 PS1='ORIGIN_ENV#arH0aLs1\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.090388,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$  "
+    ],
+    [
+      0.000196,
+      "export SHUT"
+    ],
+    [
+      0.000224,
+      "IT_BACKU"
+    ],
+    [
+      0.000188,
+      "P_PS1_or"
+    ],
+    [
+      0.000154,
+      "igin_p \rrompt"
+    ],
+    [
+      0.000151,
+      "=$PS1 \u0026\u0026 PS1='ORIGIN"
+    ],
+    [
+      0.000181,
+      "_ENV#arH0aLs1\u003e"
+    ],
+    [
+      0.000177,
+      " ' \u0026\u0026 unset"
+    ],
+    [
+      0.000228,
+      " PROMPT_COMMAN"
+    ],
+    [
+      0.000180,
+      "D \u0026\u0026 stty"
+    ],
+    [
+      0.000178,
+      " cols 3 \r20\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.086140,
+      "ORIGIN_ENV#arH0aLs1\u003e "
+    ],
+    [
+      0.101006,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000249,
+      "ORIGIN_ENV#arH0aLs1\u003e "
+    ],
+    [
+      0.101384,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002203,
+      "ORIGIN_ENV#arH0aLs1\u003e "
+    ],
+    [
+      0.100734,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      1.807813,
+      "ORIGIN_ENV#arH0aLs1\u003e "
+    ],
+    [
+      0.100735,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.001933,
+      "ORIGIN_ENV#arH0aLs1\u003e "
+    ],
+    [
+      0.101052,
+      " export SHUTIT_BACKUP_PS1_root=$PS \r1 \u0026\u0026 PS1='default#Z4Eoi95Q\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001760,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100929,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000231,
+      "FILEXIST-FILFIN\r\r\ndefault#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100741,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000121,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000247,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100622,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002050,
+      "ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.000289,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100651,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000143,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000184,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100742,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000006,
+      "\r\ndefault#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.101015,
+      " cat /etc/issue\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.035961,
+      "Ubuntu 15.10 \\n \\l\r"
+    ],
+    [
+      0.000009,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.000195,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100811,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002158,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100821,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.039634,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100740,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/ZfaRuKca\r\r\n"
+    ],
+    [
+      0.001717,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.103366,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000256,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000236,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100819,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000200,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000008,
+      "\r\ndefault#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.059077,
+      "bash"
+    ],
+    [
+      0.050057,
+      "\r\n"
+    ],
+    [
+      0.000860,
+      "bash\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.236471,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101038,
+      " export SHUTIT_BACKUP_PS1_iLrbVRP4=$PS1 \u0026\u0026 PS1='shutit.tk.setup#3ZQ5MTkN\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001757,
+      "shutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100963,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN"
+    ],
+    [
+      0.000178,
+      "\r\r\nshutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100664,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000183,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000229,
+      "shutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100684,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.001470,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000204,
+      "shutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100750,
+      "cd\r\r\n"
+    ],
+    [
+      0.000320,
+      "shutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100840,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000279,
+      "shutit.tk.setup#3ZQ5MTkN\u003e "
+    ],
+    [
+      0.100817,
+      "exit\r\r\n"
+    ],
+    [
+      0.000169,
+      "exit\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003647,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100832,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000299,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.052042,
+      "bash"
+    ],
+    [
+      0.050230,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "bash\r\r\n"
+    ],
+    [
+      0.253013,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.100964,
+      " export SHUTIT_BACKUP_PS1_Sfpn9kJI=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001351,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100890,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000258,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100664,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000164,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000382,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100650,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id"
+    ],
+    [
+      0.000241,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001947,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000381,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100914,
+      "cd\r\r\n"
+    ],
+    [
+      0.000445,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100667,
+      "cd /space/git/shutit-openshift-vm/shutit-library/virtualbox\r\r\n"
+    ],
+    [
+      0.000435,
+      "shutit-library.virtualbox.virtualbox.virtualbox#3Bxm6K1s\u003e "
+    ],
+    [
+      0.100778,
+      "exit\r\r\n"
+    ],
+    [
+      0.000114,
+      "exit\r\r\n"
+    ],
+    [
+      0.003311,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100750,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000335,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050531,
+      "bash"
+    ],
+    [
+      0.050166,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "bash\r\r\n"
+    ],
+    [
+      0.185650,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.100755,
+      " export SHUTIT_BACKUP_PS1_VCW2pU0D=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000997,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100891,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100622,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000161,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000165,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100662,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.001584,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000261,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100695,
+      "cd\r\r\n"
+    ],
+    [
+      0.000439,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100606,
+      "cd /space/git/shutit-openshift-vm/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000387,
+      "tk.shutit.vagrant.vagrant.vagrant#vmB0D5tL\u003e "
+    ],
+    [
+      0.100787,
+      "exit\r\r\n"
+    ],
+    [
+      0.000228,
+      "exit\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.003687,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100785,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000278,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050746,
+      "bash"
+    ],
+    [
+      0.050093,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "bash\r\r\n"
+    ],
+    [
+      0.258591,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101265,
+      " export SHUTIT_BACKUP_PS1_VLslvFsI=$PS1 \u0026\u0026 PS1='shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001816,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.101171,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.100663,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000226,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.100584,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002125,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000525,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.100799,
+      "cd\r\r\n"
+    ],
+    [
+      0.000501,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.100744,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000423,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#kzmrDEaQ\u003e "
+    ],
+    [
+      0.100929,
+      "exit\r\r\n"
+    ],
+    [
+      0.000228,
+      "exit\r\r\n"
+    ],
+    [
+      0.004108,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100739,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000363,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.115043,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000356,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050561,
+      "bash"
+    ],
+    [
+      0.050119,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "bash\r\r\n"
+    ],
+    [
+      0.236618,
+      "\u001b]0;imiell@rothko: ~/.local/lib/python2.7/site-packages\u0007imiell@rothko:~/.local/lib/python2.7/site-packages$ "
+    ],
+    [
+      0.100871,
+      " export SHUTIT_BACKUP_PS1_ykImK4o2=$PS1 \u0026\u0026 PS1='shutit.tk.setup#I2Q7cq4A\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001767,
+      "shutit.tk.setup#I2Q7cq4A\u003e "
+    ],
+    [
+      0.100949,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000288,
+      "FILEXIST-FILFIN\r\r\nshutit.tk.setup#I2Q7cq4A\u003e "
+    ],
+    [
+      0.100682,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000272,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000282,
+      "shutit.tk.setup#I2Q7cq4A\u003e "
+    ],
+    [
+      0.100644,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002086,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000309,
+      "shutit.tk.setup#I2Q7cq4A\u003e "
+    ],
+    [
+      0.100762,
+      "cd\r\r\n"
+    ],
+    [
+      0.000405,
+      "shutit.tk.setup#I2Q7cq4A\u003e "
+    ],
+    [
+      0.100856,
+      "exit\r\r\n"
+    ],
+    [
+      0.000167,
+      "exit\r\r\n"
+    ],
+    [
+      0.003793,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100794,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000279,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.102432,
+      "cd /space/git/shutit-openshift-vm/shutit-library/virtualbox\r\r\n"
+    ],
+    [
+      0.000419,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050553,
+      "bash"
+    ],
+    [
+      0.050140,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "bash\r\r\n"
+    ],
+    [
+      0.212891,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm/shutit-library/virtualbox\u0007imiell@rothko:/space/git/shutit-openshift-vm/shutit-library/virtualbox$ "
+    ],
+    [
+      0.101098,
+      " export SHUTIT_BACKUP_PS1_EVJF2mc9=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001774,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.101020,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000223,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.100714,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000193,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000404,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.100716,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002073,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000369,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.100780,
+      "cd\r\r\n"
+    ],
+    [
+      0.000466,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.100677,
+      "command -v VBoxManage\r\r\n"
+    ],
+    [
+      0.000253,
+      "/usr/bin/VBoxManage\r\r\n"
+    ],
+    [
+      0.000272,
+      "shutit-library.virtualbox.virtualbox.virtualbox#XjxS7fse\u003e "
+    ],
+    [
+      0.100768,
+      "exit\r\r\n"
+    ],
+    [
+      0.000261,
+      "exit\r\r\n"
+    ],
+    [
+      0.004272,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100774,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000317,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100850,
+      "cd /space/git/shutit-openshift-vm/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000184,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050566,
+      "bash"
+    ],
+    [
+      0.050140,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "bash\r\r\n"
+    ],
+    [
+      0.248023,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm/shutit-library/vagrant\u0007imiell@rothko:/space/git/shutit-openshift-vm/shutit-library/vagrant$ "
+    ],
+    [
+      0.101034,
+      " export SHUTIT_BACKUP_PS1_gFLE3fgW=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001733,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100966,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000205,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100643,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000257,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000236,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100592,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.002039,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000408,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100846,
+      "cd\r\r\n"
+    ],
+    [
+      0.000531,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100701,
+      "command -v vagrant\r\r\n"
+    ],
+    [
+      0.000222,
+      "/usr/bin/vagrant\r\r\n"
+    ],
+    [
+      0.000231,
+      "tk.shutit.vagrant.vagrant.vagrant#4rrrfFfO\u003e "
+    ],
+    [
+      0.100766,
+      "exit\r\r\n"
+    ],
+    [
+      0.000176,
+      "exit\r\r\n"
+    ],
+    [
+      0.004054,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100635,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000326,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100900,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000228,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050531,
+      "bash"
+    ],
+    [
+      0.050154,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "bash\r\r\n"
+    ],
+    [
+      0.246884,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101079,
+      " export SHUTIT_BACKUP_PS1_AUCjXHip=$PS1 \u0026\u0026 PS1='shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001681,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100958,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000010,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000228,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100663,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000199,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000301,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100621,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002128,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000377,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.101022,
+      "cd\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100912,
+      "rm -rf /tmp/openshift_vm\r\r\n"
+    ],
+    [
+      0.051993,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100781,
+      "mkdir -p /tmp/openshift_vm\r\r\n"
+    ],
+    [
+      0.002484,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100809,
+      "cd /tmp/openshift_vm\r\r\n"
+    ],
+    [
+      0.000540,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100741,
+      "vagrant init thesteve0/openshift-origin\r\r\n"
+    ],
+    [
+      0.326854,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.465245,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.394219,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.088779,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.100775,
+      "vagrant up --provider virtualbox\r\r\n"
+    ],
+    [
+      0.109107,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.334716,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.158794,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.431455,
+      "\u001b[1m==\u003e default: Importing base box 'thesteve0/openshift-origin'...\u001b[0m\r\r\n"
+    ],
+    [
+      29.987617,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000208,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      17.610599,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      30.356863,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      23.769232,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000390,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      10.127753,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000209,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      3.943478,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      2.020719,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000227,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      6.372549,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000183,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      1.008282,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000184,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      4.658853,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000462,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\r\n"
+    ],
+    [
+      0.316512,
+      "\u001b[1m==\u003e default: Checking if box 'thesteve0/openshift-origin' is up to date...\u001b[0m\r\r\n"
+    ],
+    [
+      0.842038,
+      "\u001b[1;33m==\u003e default: A newer version of the box 'thesteve0/openshift-origin' is available! You currently\r\r\n==\u003e default: have version '1.0.7'. The latest is version '1.1'. Run\r\r\n==\u003e default: `vagrant box update` to update.\u001b[0m\r\r\n"
+    ],
+    [
+      0.675299,
+      "\u001b[1m==\u003e default: Setting the name of the VM: openshift_vm_default_1450886591123_31399\u001b[0m\r\r\n"
+    ],
+    [
+      0.606817,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2201.\u001b[0m\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.491032,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.127433,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000238,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\r\n"
+    ],
+    [
+      0.119849,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\r\n"
+    ],
+    [
+      0.081759,
+      "\u001b[0m    default: 22 =\u003e 2201 (adapter 1)\u001b[0m\r\r\n"
+    ],
+    [
+      0.551339,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.795319,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\r\n"
+    ],
+    [
+      0.610906,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2201\u001b[0m\r\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\r\n"
+    ],
+    [
+      15.173471,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      10.224517,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.044012,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\r\n"
+    ],
+    [
+      0.000015,
+      "    default: prevent things such as shared folders from working properly. If you see\r\r\n    default: shared folder errors, please make sure the guest additions within the\r\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\r\n    default: your host and reload your VM.\r\r\n    default: \r\r\n    default: Guest Additions Version: 4.3.20\r\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\r\n"
+    ],
+    [
+      0.060547,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000261,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/openshift_vm\u001b[0m\r\r\n"
+    ],
+    [
+      1.971634,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.050554,
+      "vagrant ssh"
+    ],
+    [
+      0.050116,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "vagrant ssh\r\r\n"
+    ],
+    [
+      0.781885,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.126190,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      4.881895,
+      "Last login: Mon Nov  2 13:49:45 2015 from 10.0.2.2\r\r\r\n"
+    ],
+    [
+      0.589739,
+      "\u001b]0;vagrant@localhost:~\u0007"
+    ],
+    [
+      0.125027,
+      "[vagrant@localhost ~]$  export SHUTIT_BACKUP_PS1_9llKGAW1=$PS1 \u0026\u0026 PS1='9llKGAW1#oax33xQq\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.001262,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.018517,
+      "9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100756,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.001169,
+      "\r\r\nFILNEXIST-FILFIN\r\r\n9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.127423,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000587,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\nFILEXIST-FILFIN\r\r\n9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100715,
+      " cat /etc/issue"
+    ],
+    [
+      0.001647,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\nFedora release 21 (Twenty One)\r\r\nKernel \\r on an \\m (\\l)\r\r\n\r\r\n9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100697,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id"
+    ],
+    [
+      0.000897,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.001539,
+      "9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100738,
+      "chmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.001174,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.149665,
+      "9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100656,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/rsxexCpo"
+    ],
+    [
+      0.001613,
+      "\r\r\n"
+    ],
+    [
+      0.029087,
+      "9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100664,
+      "cd"
+    ],
+    [
+      0.000779,
+      "\r\r\n9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[31m\r\n================================================================================\r\nBecome root (there is a problem logging in as admin with the vagrant user\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000007,
+      "\tsudo su -\", as user: \"root\"\r\n================================================================================\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.051419,
+      "sudo su -"
+    ],
+    [
+      0.050130,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "sudo su -"
+    ],
+    [
+      0.003840,
+      "\r\r\n"
+    ],
+    [
+      0.314514,
+      "\u001b]0;root@localhost:~\u0007"
+    ],
+    [
+      0.100805,
+      "[root@localhost ~]#  export SHUTIT_BACKUP_PS1_YS0srUUz=$PS1 \u0026\u0026 PS1='YS0srUUz#3SFqANpr\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.000872,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001547,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.100723,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000838,
+      "\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000009,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.100572,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000938,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000595,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000006,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.100608,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id"
+    ],
+    [
+      0.001311,
+      "\r\r\n"
+    ],
+    [
+      0.139118,
+      "rsxexCpo\r\r\nYS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.100601,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000453,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\nFILNEXIST-FILFIN\r\r\nYS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.100776,
+      "cd"
+    ],
+    [
+      0.000434,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\nYS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005371,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000012,
+      "\r\nFind out who I am logged in as\r\n================================================================================\r\nCommand to be run is:\r\n\toc whoami\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102649,
+      "oc whoami"
+    ],
+    [
+      0.001535,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.157303,
+      "system:admin"
+    ],
+    [
+      0.000206,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001986,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.001727,
+      "\r\n\u001b[31m\r\n================================================================================\r\nLook up users on the system\r\n================================================================================\r\n"
+    ],
+    [
+      0.000017,
+      "Command to be run is:\r\n\toc describe users\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105507,
+      "oc describe users"
+    ],
+    [
+      0.000877,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.539961,
+      "Name:"
+    ],
+    [
+      0.000192,
+      "\t"
+    ],
+    [
+      0.000201,
+      "\t"
+    ],
+    [
+      0.000657,
+      "admin\r"
+    ],
+    [
+      0.000006,
+      "\r\nCreated:\t7 weeks ago\r\r\n"
+    ],
+    [
+      0.000005,
+      "Labels:\t"
+    ],
+    [
+      0.000667,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000006,
+      "\r\nIdentities:\tanypassword:admin\r\r\n\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002508,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005300,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nLook up groups on the system\r\n================================================================================\r\nCommand to be run is:\r\n\toc describe groups\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105461,
+      "oc describe groups"
+    ],
+    [
+      0.000606,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.217367,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.004760,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000009,
+      "\r\n================================================================================\r\nDescribe the policy of the system (will be useful as we set up users)\r\n================================================================================\r\nCommand to be run is:\r\n\toc describe policybindings\r\n================================================================================\r\n\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      5.105647,
+      "oc describe policybindings"
+    ],
+    [
+      0.001447,
+      "\r\r\n"
+    ],
+    [
+      0.491069,
+      "Name:"
+    ],
+    [
+      0.000007,
+      "\t\t\t"
+    ],
+    [
+      0.000194,
+      "\t\t"
+    ],
+    [
+      0.000354,
+      ":default\r"
+    ],
+    [
+      0.000006,
+      "\r\nCreated:\t"
+    ],
+    [
+      0.000611,
+      "\t\t"
+    ],
+    [
+      0.000170,
+      "\t7 weeks ago\r"
+    ],
+    [
+      0.000006,
+      "\r\nLabels:"
+    ],
+    [
+      0.000179,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      "\t\t\t\u003cnone\u003e"
+    ],
+    [
+      0.000313,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\nLast Modified:\t\t"
+    ],
+    [
+      0.000197,
+      "\t"
+    ],
+    [
+      0.000006,
+      "\t2015-10-30 19:38:54 +0000 UTC\r\r\n"
+    ],
+    [
+      0.000005,
+      "Policy:\t\t"
+    ],
+    [
+      0.000204,
+      "\t"
+    ],
+    [
+      0.000006,
+      "\t\t"
+    ],
+    [
+      0.000639,
+      "\u003cnone\u003e\r\r\n"
+    ],
+    [
+      0.000005,
+      "RoleBinding[cluster-admin]:\t\t \r\r\n\t\t"
+    ],
+    [
+      0.000005,
+      "\t\t\tRole:\t"
+    ],
+    [
+      0.000005,
+      "\t\tcluster-admin"
+    ],
+    [
+      0.000198,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "\t"
+    ],
+    [
+      0.000181,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t\t"
+    ],
+    [
+      0.000180,
+      "\t"
+    ],
+    [
+      0.000187,
+      "Users:"
+    ],
+    [
+      0.000197,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t\t\u003cnone\u003e"
+    ],
+    [
+      0.000182,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n\t\t"
+    ],
+    [
+      0.000183,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000779,
+      "\t"
+    ],
+    [
+      0.000007,
+      "Groups:\t\t\tsystem:authenticated\r\r\n\t"
+    ],
+    [
+      0.000004,
+      "\t\t\t\t"
+    ],
+    [
+      0.000003,
+      "ServiceAccounts:"
+    ],
+    [
+      0.000003,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000003,
+      "\r\n\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "Subjects:\t"
+    ],
+    [
+      0.000003,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "RoleBinding[system:deployer]:\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      " \r\r\n"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\tRole:"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      "system:deployer\r"
+    ],
+    [
+      0.000007,
+      "\r\n\t"
+    ],
+    [
+      0.000004,
+      "\t\t\t\t"
+    ],
+    [
+      0.000003,
+      "Users:\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "Groups:"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\u003cnone\u003e\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000192,
+      "\t\tServiceAccounts:\tdeployer, deployer\r"
+    ],
+    [
+      0.000004,
+      "\r\n\t"
+    ],
+    [
+      0.000601,
+      "\t\t"
+    ],
+    [
+      0.000007,
+      "\t\tSubjects:\t\t\u003cnone\u003e\r\r\n"
+    ],
+    [
+      0.000312,
+      "RoleBinding[system:image-builder]:"
+    ],
+    [
+      0.001790,
+      "\t"
+    ],
+    [
+      0.000192,
+      " "
+    ],
+    [
+      0.000189,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      "\t\t\tRole:"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000003,
+      "system:image-builder\r\r\n"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t\t\t"
+    ],
+    [
+      0.000010,
+      "\tUsers:\t\t"
+    ],
+    [
+      0.000584,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000007,
+      "\r\n\t\t\t\t\tGroups:\t\t\t"
+    ],
+    [
+      0.000006,
+      "\u003cnone\u003e\r\r\n\t"
+    ],
+    [
+      0.000005,
+      "\t\t\t"
+    ],
+    [
+      0.000005,
+      "\tServiceAccounts:\t"
+    ],
+    [
+      0.000005,
+      "builder, builder\r\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t\t"
+    ],
+    [
+      0.000006,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      "Subjects:\t\t"
+    ],
+    [
+      0.000005,
+      "\u003cnone\u003e\r\r\nRoleBinding[system:image-puller]:"
+    ],
+    [
+      0.000005,
+      "\t \r"
+    ],
+    [
+      0.000005,
+      "\r\n\t\t"
+    ],
+    [
+      0.000005,
+      "\t\t\t"
+    ],
+    [
+      0.000026,
+      "Role:\t\t\tsystem:image-puller\r"
+    ],
+    [
+      0.000004,
+      "\r\n\t\t\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "Users:\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\u003cnone\u003e\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "Groups:"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "system:serviceaccounts:default\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\tServiceAccounts:\t"
+    ],
+    [
+      0.000190,
+      "\u003cnone\u003e\r\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t\t\t\t"
+    ],
+    [
+      0.000005,
+      "Subjects:\t\t"
+    ],
+    [
+      0.000005,
+      "\u003cnone\u003e\r\r\n"
+    ],
+    [
+      0.000004,
+      "\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.001616,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.001153,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000020,
+      "\r\n================================================================================\r\nLog in as admin\r\n================================================================================\r\nCommand to be run is:\r\n\toc login -u admin -p anystringwilldo\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105059,
+      "oc login -u admin -p anystringwilldo"
+    ],
+    [
+      0.004339,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.087171,
+      "Login successful.\r"
+    ],
+    [
+      0.000009,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.041873,
+      "You have access to the following projects and can switch between them with 'oc project \u003cprojectname\u003e':\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n  * default (current)\r\r\n"
+    ],
+    [
+      0.000199,
+      "  * turbo\r"
+    ],
+    [
+      0.000004,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.000192,
+      "Using project \"default\".\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.358376,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.001736,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDisplay my login token\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000025,
+      "\toc whoami -t\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105504,
+      "oc whoami -t"
+    ],
+    [
+      0.001151,
+      "\r\r\n"
+    ],
+    [
+      0.036423,
+      "BF6rnJPbOjQIfldYbJIfpLdqG-FueLQjTzUfvye02oM"
+    ],
+    [
+      0.000200,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.101387,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005221,
+      "\r\n\u001b[31m\r\n================================================================================\r\nPut token into env variable.\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000013,
+      "TOKEN=$(oc whoami -t)\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102851,
+      "TOKEN=$(oc whoami -t)"
+    ],
+    [
+      0.000707,
+      "\r\r\n"
+    ],
+    [
+      0.021891,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.002708,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a new project\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-project hello-openshift --description=\"Example project\" --display-name=\"Hello openshift!\"\r\n================================================================================"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104068,
+      "oc new-project hello-openshift --description=\"Example project\" --display-name=\"Hello openshift!\""
+    ],
+    [
+      0.001226,
+      "\r\r\n"
+    ],
+    [
+      0.610977,
+      "Now using project \"hello-openshift\" on server \"https://10.0.2.15:8443\".\r\r\n"
+    ],
+    [
+      0.000961,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005397,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSwitch to that project\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000008,
+      "oc project new-project\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105502,
+      "oc project new-project"
+    ],
+    [
+      0.000889,
+      "\r\r\n"
+    ],
+    [
+      0.079520,
+      "error: You are not a member of project \"new-project\".\r\r\n"
+    ],
+    [
+      0.000011,
+      "Your projects are:\r\r\n* Hello openshift! (hello-openshift)\r\r\n* Turbo Sample (turbo)\r\r\n* default\r\r\nTo see projects on another server, pass '--server=\u003cserver\u003e'.\r\r\n"
+    ],
+    [
+      0.000760,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003222,
+      "\r\n\u001b[31m\r\n================================================================================\r\n"
+    ],
+    [
+      0.000011,
+      "Get information about the current project\r\n================================================================================\r\nCommand to be run is:\r\n\toc status\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104653,
+      "oc status"
+    ],
+    [
+      0.000868,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.444852,
+      "In project Hello openshift! (hello-openshift) on server https://10.0.2.15:8443\r\r\n"
+    ],
+    [
+      0.000020,
+      "\r\r\nYou have no services, deployment configs, or build configs.\r\r\nRun 'oc new-app' to create an application.\r\r\n"
+    ],
+    [
+      0.000988,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.001765,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nCreate an application from a github project, specifying a directory to work from.\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app https://github.com/openshift/sti-ruby.git --context-dir=2.0/test/puma-test-app\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103901,
+      "oc new-app https://github.com/openshift/sti-ruby.git --context-dir=2.0/test/puma-test-app"
+    ],
+    [
+      0.000680,
+      "\r\r\n"
+    ],
+    [
+      9.991792,
+      "--\u003e Found Docker image d84cfff (6 days old) from Docker Hub for \"ruby\"\r\r\n"
+    ],
+    [
+      0.000009,
+      "    * An image stream will be created as \"ruby:latest\" that will track this image\r\r\n    * The source repository appears to match: ruby\r\r\n    * A source build using source code from https://github.com/openshift/sti-ruby.git will be created\r\r\n      * The resulting image will be pushed to image stream \"sti-ruby:latest\"\r\r\n      * Every time \"ruby:latest\" changes a new build will be triggered\r\r\n    * This image will be deployed in deployment config \"sti-ruby\"\r\r\n    * The image does not expose any ports - if you want to load balance or send traffic to this component\r\r\n      you will need to create a service with 'expose dc/sti-ruby --port=[port]' later\r\r\n--\u003e Creating resources with label app=sti-ruby ...\r\r\n"
+    ],
+    [
+      0.004508,
+      "    "
+    ],
+    [
+      0.000196,
+      "ImageStream \"ruby\" created"
+    ],
+    [
+      0.000244,
+      "\r\r\n"
+    ],
+    [
+      0.008173,
+      "    ImageStream \"sti-ruby\" created\r\r\n"
+    ],
+    [
+      0.017193,
+      "    BuildConfig \"sti-ruby\" created\r\r\n"
+    ],
+    [
+      0.037212,
+      "    "
+    ],
+    [
+      0.000204,
+      "DeploymentConfig \"sti-ruby\" created"
+    ],
+    [
+      0.000194,
+      "\r\r\n"
+    ],
+    [
+      0.000183,
+      "--\u003e Success"
+    ],
+    [
+      0.000188,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "    Build scheduled for \"sti-ruby\" - use the build-logs command to track its progress."
+    ],
+    [
+      0.000177,
+      "\r\r\n"
+    ],
+    [
+      0.000179,
+      "    Run 'oc status' to view your app."
+    ],
+    [
+      0.000171,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002127,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.004937,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000018,
+      "\r\n================================================================================\r\nDelete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.105657,
+      "oc delete all"
+    ],
+    [
+      0.002786,
+      "\r\r\n"
+    ],
+    [
+      0.072681,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000886,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.002478,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000017,
+      "\r\n================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104447,
+      "oc get all"
+    ],
+    [
+      0.002255,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.605734,
+      "NAME               TYPE                                          FROM                                      LATEST\r"
+    ],
+    [
+      0.000019,
+      "\r\nsti-ruby           Source                                        Git                                       1\r\r\nNAME               TYPE                                          FROM                                      STATUS    STARTED         DURATION\r\r\nsti-ruby-1         Source                                        Git                                       Running   7 seconds ago   7s\r\r\nNAME               DOCKER REPO                                   TAGS                                      UPDATED\r\r\nruby               library/ruby                                  2.2.0-wheezy,onbuild,2.1.3 + 21 more...   2 seconds ago\r\r\nsti-ruby           172.30.193.76:5000/hello-openshift/sti-ruby                                             \r\r\nNAME               TRIGGERS                                      LATEST\r\r\nsti-ruby           ConfigChange, ImageChange                     0\r\r\nNAME               READY                                         STATUS    RESTARTS   AGE\r\r\nsti-ruby-1-build   1/1                                           Running   0          8s\r\r\n"
+    ],
+    [
+      0.001856,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005321,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000008,
+      "\r\n================================================================================\r\nCreate an application from git repo with a branch\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app https://github.com/openshift/ruby-hello-world.git#beta4"
+    ],
+    [
+      0.000008,
+      "\r\n================================================================================\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      5.105557,
+      "oc new-app https://github.com/openshift/ruby-hello-world.git#beta4"
+    ],
+    [
+      0.000921,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      9.076771,
+      "--\u003e Found Docker image 2defc80 (4 days old) from Docker Hub for \"openshift/ruby-20-centos7\"\r"
+    ],
+    [
+      0.000012,
+      "\r\n    * An image stream will be created as \"ruby-20-centos7:latest\" that will track this image\r\r\n    * The source repository appears to match: ruby\r\r\n    * A Docker build using source code from https://github.com/openshift/ruby-hello-world.git#beta4 will be created\r\r\n      * The resulting image will be pushed to image stream \"ruby-hello-world:latest\"\r\r\n      * Every time \"ruby-20-centos7:latest\" changes a new build will be triggered\r\r\n    * This image will be deployed in deployment config \"ruby-hello-world\"\r\r\n    * Port 8080 will be load balanced by service \"ruby-hello-world\"\r\r\n--\u003e Creating resources with label app=ruby-hello-world ...\r\r\n"
+    ],
+    [
+      0.006207,
+      "    ImageStream \"ruby-20-centos7\" created\r\r\n"
+    ],
+    [
+      0.024099,
+      "    ImageStream \"ruby-hello-world\" created\r\r\n"
+    ],
+    [
+      0.035458,
+      "    BuildConfig \"ruby-hello-world\" created\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.029707,
+      "    DeploymentConfig \"ruby-hello-world\" created\r\r\n"
+    ],
+    [
+      0.277536,
+      "    Service \"ruby-hello-world\" created\r"
+    ],
+    [
+      0.000008,
+      "\r\n--\u003e Success\r\r\n    Build scheduled for \"ruby-hello-world\" - use the build-logs command to track its progress.\r\r\n    Run 'oc status' to view your app.\r\r\n"
+    ],
+    [
+      0.001653,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005326,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDelete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102680,
+      "oc delete all"
+    ],
+    [
+      0.002994,
+      "\r\r\n"
+    ],
+    [
+      2.068091,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.005795,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.002701,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000009,
+      "================================================================================\r\n\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app TODO\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105576,
+      "oc new-app TODO"
+    ],
+    [
+      0.000702,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.420420,
+      "error: no match for \"TODO\", specify --allow-missing-images to use this image name.\r"
+    ],
+    [
+      0.000010,
+      "\r\n\r\r\nThe 'new-app' command will match arguments to the following types:\r\r\n\r\r\n  1. Images tagged into image streams in the current project or the 'openshift' project\r\r\n     - if you don't specify a tag, we'll add ':latest'\r\r\n  2. Images in the Docker Hub, on remote registries, or on the local Docker engine\r\r\n  3. Templates in the current project or the 'openshift' project\r\r\n  4. Git repository URLs or local paths that point to Git repositories\r"
+    ],
+    [
+      0.000020,
+      "\r\n\r\r\n--allow-missing-images can be used to point to an image that does not exist yet\r\r\nor is only on the local system.\r\r\n\r\r\nSee 'new-app' for examples.\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001486,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.000489,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000009,
+      "\r\n================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n"
+    ],
+    [
+      0.000094,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.105377,
+      "oc get all"
+    ],
+    [
+      0.000771,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.573756,
+      "NAME"
+    ],
+    [
+      0.000250,
+      "        "
+    ],
+    [
+      0.000266,
+      "       "
+    ],
+    [
+      0.000403,
+      "TYPE"
+    ],
+    [
+      0.000408,
+      "        "
+    ],
+    [
+      0.000332,
+      "        "
+    ],
+    [
+      0.000368,
+      "        "
+    ],
+    [
+      0.000225,
+      "                "
+    ],
+    [
+      0.000236,
+      "        "
+    ],
+    [
+      0.000192,
+      "  "
+    ],
+    [
+      0.001227,
+      "FROM                                                              LATEST\r"
+    ],
+    [
+      0.000018,
+      "\r\nruby-hello-world   Docker                                                Git@beta4                                                         0\r\r\nsti-ruby           Source                                                Git                                                               1\r"
+    ],
+    [
+      0.000006,
+      "\r\nNAME               TYPE                                                  FROM                                                              STATUS    STARTED              DURATION\r"
+    ],
+    [
+      0.000013,
+      "\r\nsti-ruby-1         Source                                                Git                                                               Running   About a minute ago   1m0s\r\r\nNAME               DOCKER REPO                                           TAGS                                                              UPDATED\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "ruby               library/ruby                                          1.9.3-p550-onbuild,2.0.0-p643-wheezy,2.1.3-onbuild + 71 more...   Less than a second ago\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "ruby-20-centos7    openshift/ruby-20-centos7                                                                                               \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "ruby-hello-world   172.30.193.76:5000/hello-openshift/ruby-hello-world                                                                     \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "sti-ruby           172.30.193.76:5000/hello-openshift/sti-ruby                                                                             \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "NAME               TRIGGERS                                              LATEST\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "ruby-hello-world   ConfigChange, ImageChange                             0\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "sti-ruby           ConfigChange, ImageChange                             0\r\r\n"
+    ],
+    [
+      0.000012,
+      "NAME               CLUSTER_IP                                            EXTERNAL_IP   PORT(S)    SELECTOR                                                 AGE\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "ruby-hello-world   172.30.162.89                                         \u003cnone\u003e        8080/TCP   app=ruby-hello-world,deploymentconfig=ruby-hello-world   35s\r"
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "NAME               READY                                                 STATUS        RESTARTS   AGE\r\r\n"
+    ],
+    [
+      0.000005,
+      "sti-ruby-1-build   1/1                                                   Running       0          1m\r\r\n"
+    ],
+    [
+      0.002066,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003112,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDelete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all"
+    ],
+    [
+      0.000035,
+      "\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.101016,
+      "oc delete all"
+    ],
+    [
+      0.000863,
+      "\r"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.042537,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r\r\n"
+    ],
+    [
+      0.001134,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005200,
+      "\r\n\u001b[31m\r\n================================================================================\r\nUse a publicly-available builder image to build a git repository's code\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app openshift/ruby-20-centos7:latest~https://github.com/openshift/ruby-hello-world.git"
+    ],
+    [
+      0.000028,
+      "\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103355,
+      "oc new-app openshift/ruby-20-centos7:latest~https://github.com/openshift/ruby-hello-world.git"
+    ],
+    [
+      0.000742,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      2.437897,
+      "--\u003e Found Docker image 2defc80 (4 days old) from Docker Hub for \"openshift/ruby-20-centos7:latest\""
+    ],
+    [
+      0.000234,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "    * An image stream will be created as \"ruby-20-centos7:latest\" that will track this image"
+    ],
+    [
+      0.000215,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000307,
+      "    * A source build using source code from https://github.com/openshift/ruby-hello-world.git will be created"
+    ],
+    [
+      0.000226,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000279,
+      "      * The resulting image will be pushed to image stream \"ruby-hello-world:latest\""
+    ],
+    [
+      0.000209,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "      * Every time \"ruby-20-centos7:latest\" changes a new build will be triggered"
+    ],
+    [
+      0.000265,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "    * This image will be deployed in deployment config \"ruby-hello-world\""
+    ],
+    [
+      0.000197,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "    * Port 8080/tcp will be load balanced by service \"ruby-hello-world\""
+    ],
+    [
+      0.000221,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000498,
+      "--\u003e Creating resources with label app=ruby-hello-world ..."
+    ],
+    [
+      0.000272,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.029837,
+      "    error: imageStream \"ruby-20-centos7\" already exists\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.010453,
+      "    error: imageStream \"ruby-hello-world\" already exists\r\r\n"
+    ],
+    [
+      0.014848,
+      "    error: buildconfig \"ruby-hello-world\" already exists\r\r\n"
+    ],
+    [
+      0.034821,
+      "    error: deploymentConfig \"ruby-hello-world\" already exists\r\r\n"
+    ],
+    [
+      0.064856,
+      "    error: services \"ruby-hello-world\" already exists\r\r\n"
+    ],
+    [
+      0.001749,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003168,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n================================================================================\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.101748,
+      "oc get all"
+    ],
+    [
+      0.001163,
+      "\r\r\n"
+    ],
+    [
+      0.136160,
+      "NAME               TYPE                                                  FROM                                "
+    ],
+    [
+      0.000216,
+      "                  "
+    ],
+    [
+      0.000205,
+      "LATEST\r\r\n"
+    ],
+    [
+      0.000019,
+      "ruby-hello-world   "
+    ],
+    [
+      0.000151,
+      "Docker                                        "
+    ],
+    [
+      0.000184,
+      "        Git@beta4"
+    ],
+    [
+      0.000181,
+      "                                "
+    ],
+    [
+      0.000178,
+      "             0\r\r\n"
+    ],
+    [
+      0.000299,
+      "sti-ruby"
+    ],
+    [
+      0.000318,
+      "        "
+    ],
+    [
+      0.000193,
+      "   "
+    ],
+    [
+      0.000319,
+      "Source"
+    ],
+    [
+      0.000189,
+      "        "
+    ],
+    [
+      0.000331,
+      "        "
+    ],
+    [
+      0.000178,
+      "        "
+    ],
+    [
+      0.000182,
+      "        "
+    ],
+    [
+      0.000232,
+      "        "
+    ],
+    [
+      0.000238,
+      "        "
+    ],
+    [
+      0.000218,
+      "Git"
+    ],
+    [
+      0.000193,
+      "        "
+    ],
+    [
+      0.000357,
+      "        "
+    ],
+    [
+      0.000164,
+      "        "
+    ],
+    [
+      0.000172,
+      "        "
+    ],
+    [
+      0.000186,
+      "        "
+    ],
+    [
+      0.000176,
+      "        "
+    ],
+    [
+      0.000178,
+      "   "
+    ],
+    [
+      0.000187,
+      "1"
+    ],
+    [
+      0.000206,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "NAME"
+    ],
+    [
+      0.000146,
+      "        "
+    ],
+    [
+      0.000200,
+      "       "
+    ],
+    [
+      0.000179,
+      "TYPE"
+    ],
+    [
+      0.000176,
+      "        "
+    ],
+    [
+      0.000177,
+      "        "
+    ],
+    [
+      0.000182,
+      "        "
+    ],
+    [
+      0.000171,
+      "                "
+    ],
+    [
+      0.000173,
+      "          "
+    ],
+    [
+      0.000178,
+      "FROM"
+    ],
+    [
+      0.000179,
+      "        "
+    ],
+    [
+      0.000192,
+      "        "
+    ],
+    [
+      0.000165,
+      "                "
+    ],
+    [
+      0.000180,
+      "        "
+    ],
+    [
+      0.000182,
+      "          "
+    ],
+    [
+      0.000187,
+      "STATUS"
+    ],
+    [
+      0.000185,
+      "    "
+    ],
+    [
+      0.000174,
+      "STARTED"
+    ],
+    [
+      0.000258,
+      "              DURATION\r\r\n"
+    ],
+    [
+      0.000008,
+      "sti-ruby-1         Source                                                Git                                "
+    ],
+    [
+      0.000220,
+      "                   Failed    About a minute ago   1m9s\r"
+    ],
+    [
+      0.000004,
+      "\r\nNAME               DOCKER REPO"
+    ],
+    [
+      0.000272,
+      "                                           TAGS                        "
+    ],
+    [
+      0.000193,
+      "                          UPDATED\r\r\n"
+    ],
+    [
+      0.000346,
+      "ruby               library/ruby                                          2.1.8-onbuild,2.1-onbuild,1.9-onbuild + 101 more...   2 seconds ago\r\r\n"
+    ],
+    [
+      0.000019,
+      "ruby-20-centos7    openshift/ruby-20-centos7                        "
+    ],
+    [
+      0.000303,
+      "                                                           \r\r\n"
+    ],
+    [
+      0.000008,
+      "ruby-hello-world   172.30.193.76:5000/hello-openshift/ruby-hello-world                                                         \r\r\nsti-ruby           172.30.193.76:5000/hello-openshift/sti-ruby        "
+    ],
+    [
+      0.000508,
+      "                                                         \r\r\n"
+    ],
+    [
+      0.000009,
+      "NAME               TRIGGERS                                              LATEST\r\r\nruby-hello-world   ConfigChange, ImageChange                             0\r\r\nsti-ruby           ConfigChange, ImageChange                             0\r\r\nNAME               CLUSTER_IP                "
+    ],
+    [
+      0.000529,
+      "                            EXTERNAL_IP   PORT(S)    SELECTOR                                                 AGE\r\r\n"
+    ],
+    [
+      0.000005,
+      "ruby-hello-world   172.30.162.89                        "
+    ],
+    [
+      0.000176,
+      "        "
+    ],
+    [
+      0.000523,
+      "         \u003cnone\u003e        8080/TCP   app=ruby-hello-world,deploymentconfig=ruby-hello-world   1m\r\r\n"
+    ],
+    [
+      0.000004,
+      "NAME               READY                                                 STATUS        RESTARTS   AGE\r\r\nsti-ruby-1-build   0/1                                                   Error         0          1m\r\r\n"
+    ],
+    [
+      0.001654,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005366,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000008,
+      "\r\n================================================================================\r\nDelete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      5.105653,
+      "oc delete all"
+    ],
+    [
+      0.002336,
+      "\r\r\n"
+    ],
+    [
+      0.160191,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001579,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.001069,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate an application from a docker image\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000013,
+      "\toc new-app mysql\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104421,
+      "oc new-app mysql"
+    ],
+    [
+      0.000801,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      3.818840,
+      "--\u003e Found Docker image 54c7cf6 (6 days old) from Docker Hub for \"mysql\""
+    ],
+    [
+      0.000381,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000255,
+      "    * An image stream will be created as \"mysql:latest\" that will track this image"
+    ],
+    [
+      0.000420,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000554,
+      "    * This image will be deployed in deployment config \"mysql\""
+    ],
+    [
+      0.000172,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000333,
+      "    * Port 3306/tcp will be load balanced by service \"mysql\""
+    ],
+    [
+      0.000472,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000921,
+      "--\u003e Creating resources with label app=mysql ..."
+    ],
+    [
+      0.000223,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.011131,
+      "    ImageStream \"mysql\" created\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.050605,
+      "    DeploymentConfig \"mysql\" created\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.088095,
+      "    Service \"mysql\" created\r\r\n"
+    ],
+    [
+      0.000007,
+      "--\u003e Success\r\r\n    Run 'oc status' to view your app.\r\r\n"
+    ],
+    [
+      0.005411,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005295,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000018,
+      "\r\n================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n================================================================================\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.105581,
+      "oc get all"
+    ],
+    [
+      0.001945,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.177502,
+      "NAME"
+    ],
+    [
+      0.000207,
+      "        "
+    ],
+    [
+      0.000218,
+      "        "
+    ],
+    [
+      0.000298,
+      "       "
+    ],
+    [
+      0.000249,
+      "TYPE"
+    ],
+    [
+      0.000193,
+      "        "
+    ],
+    [
+      0.000179,
+      "        "
+    ],
+    [
+      0.000189,
+      "        "
+    ],
+    [
+      0.000196,
+      "        "
+    ],
+    [
+      0.000182,
+      "        "
+    ],
+    [
+      0.000195,
+      "        "
+    ],
+    [
+      0.000181,
+      "  "
+    ],
+    [
+      0.000192,
+      "FROM"
+    ],
+    [
+      0.000203,
+      "        "
+    ],
+    [
+      0.002114,
+      "        "
+    ],
+    [
+      0.000186,
+      "        "
+    ],
+    [
+      0.000193,
+      "        "
+    ],
+    [
+      0.000185,
+      "   "
+    ],
+    [
+      0.000195,
+      "LATEST"
+    ],
+    [
+      0.000180,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "ruby-hello-world"
+    ],
+    [
+      0.000265,
+      "        "
+    ],
+    [
+      0.000189,
+      "   "
+    ],
+    [
+      0.000199,
+      "Docker"
+    ],
+    [
+      0.000807,
+      "        "
+    ],
+    [
+      0.000185,
+      "        "
+    ],
+    [
+      0.000195,
+      "        "
+    ],
+    [
+      0.000974,
+      "        "
+    ],
+    [
+      0.000190,
+      "        "
+    ],
+    [
+      0.000197,
+      "        "
+    ],
+    [
+      0.000213,
+      "Git@beta4"
+    ],
+    [
+      0.000286,
+      "        "
+    ],
+    [
+      0.000641,
+      "        "
+    ],
+    [
+      0.000324,
+      "        "
+    ],
+    [
+      0.000397,
+      "      "
+    ],
+    [
+      0.000197,
+      "1"
+    ],
+    [
+      0.000248,
+      "\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "sti-ruby"
+    ],
+    [
+      0.000705,
+      "        "
+    ],
+    [
+      0.000282,
+      "           Source                                                Git                                "
+    ],
+    [
+      0.000549,
+      "    1\r"
+    ],
+    [
+      0.000004,
+      "\r\nNAME                       TYPE                                                  FROM                                   STATUS    STARTED          DURATION\r\r\n"
+    ],
+    [
+      0.000016,
+      "ruby-hello-world-1         Docker                        "
+    ],
+    [
+      0.000755,
+      "                        Git@beta4                              Running   26 seconds ago   26s\r"
+    ],
+    [
+      0.000004,
+      "\r\nsti-ruby-1                 Source                                                Git                                    Failed"
+    ],
+    [
+      0.001353,
+      "    2 minutes ago    1m9s\r\r\nNAME                       DOCKER REPO                                           TAGS                                   UPDATED\r\r\nmysql                      library/mysql                                         5.7.5,5.5.47,5.6.28 + 6 more...        Less than a second ago\r\r\n"
+    ],
+    [
+      0.000007,
+      "ruby                       library/ruby                                          2.1.5,2.2,2.0.0-wheezy + 105 more...   32 seconds ago\r\r\nruby-20-centos7            openshift/ruby-20-centos7"
+    ],
+    [
+      0.000437,
+      "                             latest                                 28 seconds ago\r"
+    ],
+    [
+      0.000005,
+      "\r\nruby-hello-world           172.30.193.76:5000/hello-openshift/ruby-hello-world                   "
+    ],
+    [
+      0.000539,
+      "                       \r\r\n"
+    ],
+    [
+      0.000007,
+      "sti-ruby                   172.30.193.76:5000/hello-openshift/sti-ruby                                                  \r\r\nNAME                       TRIGGERS"
+    ],
+    [
+      0.000561,
+      "                                              LATEST\r\r\n"
+    ],
+    [
+      0.000007,
+      "mysql                      ConfigChange, ImageChange                             0\r\r\nruby-hello-world           ConfigChange, ImageChange                "
+    ],
+    [
+      0.000504,
+      "             0\r\r\n"
+    ],
+    [
+      0.000007,
+      "sti-ruby                   ConfigChange, ImageChange                             0"
+    ],
+    [
+      0.000441,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\nNAME                       CLUSTER_IP                                            EXTERNAL_IP   PORT(S)    SELECTOR                                                 AGE\r\r\nmysql                      172.30.0.197                                          \u003cnone\u003e        3306/TCP   app=mysql,deploymentconfig=mysql        "
+    ],
+    [
+      0.000703,
+      "                 10s\r\r\n"
+    ],
+    [
+      0.000006,
+      "ruby-hello-world           172.30.162.89                                         \u003cnone\u003e        8080/TCP   app=ruby-hello-world,deploymentconfig=ruby-hello-world   1m\r\r\nNAME                       READY                                                "
+    ],
+    [
+      0.000425,
+      " STATUS        RESTARTS   AGE\r"
+    ],
+    [
+      0.000007,
+      "\r\nruby-hello-world-1-build   1/1                "
+    ],
+    [
+      0.000222,
+      "                                   Running       0"
+    ],
+    [
+      0.002234,
+      "          28s\r"
+    ],
+    [
+      0.000007,
+      "\r\nsti-ruby-1-build           0/1                                                   Error         0          2m\r\r\n"
+    ],
+    [
+      0.000566,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005337,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000016,
+      "\r\n================================================================================\r\nDelete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104549,
+      "oc delete all"
+    ],
+    [
+      0.002392,
+      "\r\r\n"
+    ],
+    [
+      0.063834,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)"
+    ],
+    [
+      0.000258,
+      "\r\r\n"
+    ],
+    [
+      0.002109,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005292,
+      "\r\n\u001b[31m\r\n================================================================================"
+    ],
+    [
+      0.000016,
+      "\r\nDeploy nginx and mysql to the same pod\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app nginx+mysql\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105494,
+      "oc new-app nginx+mysql"
+    ],
+    [
+      0.002143,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      4.029445,
+      "--\u003e Found Docker image a79db4b (6 days old) from Docker Hub for \"nginx\"\r\r\n"
+    ],
+    [
+      0.000008,
+      "    * An image stream will be created as \"nginx:latest\" that will track this image\r\r\n    * This image will be deployed in deployment config \"nginx\"\r\r\n    * Ports 443/tcp, 80/tcp will be load balanced by service \"nginx\"\r\r\n--\u003e Found image 54c7cf6 (6 days old) in image stream \"mysql\" under tag :latest for \"mysql\"\r\r\n    * This image will be deployed as part of deployment config \"nginx\"\r\r\n    * Port 3306/tcp will be load balanced by service \"nginx\"\r\r\n"
+    ],
+    [
+      0.027465,
+      "--\u003e Creating resources with label app=nginx ...\r"
+    ],
+    [
+      0.000013,
+      "\r\n    ImageStream \"nginx\" created\r\r\n"
+    ],
+    [
+      0.015309,
+      "    DeploymentConfig \"nginx\" created\r\r\n"
+    ],
+    [
+      0.085172,
+      "    Service \"nginx\" created\r\r\n"
+    ],
+    [
+      0.000008,
+      "--\u003e Success\r\r\n    Run 'oc status' to view your app.\r\r\n"
+    ],
+    [
+      0.002193,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.000935,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000012,
+      "================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105530,
+      "oc get all"
+    ],
+    [
+      0.000818,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.166952,
+      "NAME        "
+    ],
+    [
+      0.002969,
+      "               TYPE                                                "
+    ],
+    [
+      0.000012,
+      "  FROM                                   LATEST\r\r\nruby-hello-world           Docker                                                Git@beta4                              1\r\r\nsti-ruby                   Source                                                Git                                    1\r\r\nNAME                       TYPE                                                  FROM                                   STATUS    STARTED              DURATION\r\r\nruby-hello-world-1         Docker                                                Git@beta4                              Running   About a minute ago   1m1s\r\r\nsti-ruby-1                 Source                                                Git                                    Failed    2 minutes ago        1m9s\r\r\nNAME                       DOCKER REPO                                           TAGS                                   UPDATED\r\r\nmysql                      library/mysql                                         5.5.45,5.7.6,5.7.8 + 32 more...        15 seconds ago\r\r\nnginx                      library/nginx                                         1.9,1.7.9,1.7.7 + 4 more...            1 seconds ago\r\r\nruby                       library/ruby                                          2.1.5,2.0.0-wheezy,2.2 + 105 more...   About a minute ago\r\r\nruby-20-centos7            openshift/ruby-20-centos7                             latest                                 About a minute ago\r\r\nruby-hello-world           172.30.193.76:5000/hello-openshift/ruby-hello-world                                          \r\r\nsti-ruby                   172.30.193.76:5000/hello-openshift/sti-ruby                                                  \r\r\nNAME                       TRIGGERS                                              LATEST\r\r\nmysql                      ConfigChange, ImageChange                             1\r\r\nnginx                      ConfigChange, ImageChange                             0\r\r\nruby-hello-world           ConfigChange, ImageChange                             0\r\r\nsti-ruby                   ConfigChange, ImageChange                             0\r\r\nCONTROLLER                 CONTAINER(S)                                          IMAGE(S)                                                                                SELECTOR                                              REPLICAS                                                 AGE\r\r\nmysql-1                    mysql                                                 library/mysql@sha256:54c7cf6e7dfd6bfcc520b4ed2802d47fed0eccc5329c205b1c503e04ffc454ba   app=mysql,deployment=mysql-1,deploymentconfig=mysql   1                                                        32s\r\r\nNAME                       CLUSTER_IP                                            EXTERNAL_IP                                                                             PORT(S)                                               SELECTOR                                                 AGE\r\r\nmysql                      172.30.0.197                                          \u003cnone\u003e                                                                                  3306/TCP                                              app=mysql,deploymentconfig=mysql                         45s\r\r\nnginx                      172.30.91.129                                         \u003cnone\u003e                                                                                  80/TCP,443/TCP,3306/TCP                               app=nginx,deploymentconfig=nginx                         10s\r\r\nruby-hello-world           172.30.162.89                                         \u003cnone\u003e                                                                                  8080/TCP                                              app=ruby-hello-world,deploymentconfig=ruby-hello-world   2m\r\r\nNAME                       READY                                                 STATUS                                                                                  RESTARTS        "
+    ],
+    [
+      0.000103,
+      "                                      AGE\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "mysql-1-deploy             1/1                                                   Running                                                                                 0                        "
+    ],
+    [
+      0.000192,
+      "                             32s\r"
+    ],
+    [
+      0.000006,
+      "\r\nmysql-1-xqsmg              0/1                                                   Pending                                                                                "
+    ],
+    [
+      0.000208,
+      " 0                                                     27s\r\r\n"
+    ],
+    [
+      0.000005,
+      "ruby-hello-world-1-build"
+    ],
+    [
+      0.000196,
+      "   1/1                                                   Running                                                                                 0                                                     1m\r"
+    ],
+    [
+      0.000007,
+      "\r\nsti-ruby-1-build           0/1                                "
+    ],
+    [
+      0.000600,
+      "                   Error                                                                                   0                                                "
+    ],
+    [
+      0.000174,
+      "     2m\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003274,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003535,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDelete all entries, for clarity"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103255,
+      "oc delete all"
+    ],
+    [
+      0.003124,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.157590,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r\r\n"
+    ],
+    [
+      0.001380,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003226,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000016,
+      "\r\n================================================================================\r\nBuild a ruby image with some code, add a mysql image to the app and place them in the same pod.\r\n================================================================================\r\nCommand to be run is:\r\n\toc new-app ruby~https://github.com/openshift/ruby-hello-world mysql --group=ruby+mysql\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105429,
+      "oc new-app ruby~https://github.com/openshift/ruby-hello-world mysql --group=ruby+mysql"
+    ],
+    [
+      0.000858,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.449370,
+      "error: the resolved match \"ruby\" for component \"ruby\" cannot build source code - check whether this is the image you want to use, then use --strategy=source to build using source or --strategy=docker to treat this as a Docker base image and set up a layered Docker build\r\r\n"
+    ],
+    [
+      0.000796,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005368,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000019,
+      "\r\n================================================================================\r\nRetrieve information about central items in this project. Our new application is there.\r\n================================================================================\r\nCommand to be run is:\r\n\toc get all\r\n================================================================================"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      5.102808,
+      "oc get all"
+    ],
+    [
+      0.003003,
+      "\r\r\n"
+    ],
+    [
+      0.257875,
+      "NAME                       TYPE                        "
+    ],
+    [
+      0.000209,
+      "                          FROM                                   LATEST\r"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "ruby-hello-world           Docker"
+    ],
+    [
+      0.000197,
+      "                                                Git@beta4                              1\r"
+    ],
+    [
+      0.000004,
+      "\r\nsti-ruby        "
+    ],
+    [
+      0.000190,
+      "           Source                                                Git                                    1\r"
+    ],
+    [
+      0.000004,
+      "\r\nNAME        "
+    ],
+    [
+      0.000191,
+      "               TYPE                        "
+    ],
+    [
+      0.002480,
+      "                          FROM"
+    ],
+    [
+      0.000200,
+      "                                   STATUS    "
+    ],
+    [
+      0.000180,
+      "STARTED              DURATION\r"
+    ],
+    [
+      0.000004,
+      "\r\nruby-hello-world-1         Docker                                                Git@beta4                              Running   "
+    ],
+    [
+      0.000192,
+      "About a minute ago   1m32s\r"
+    ],
+    [
+      0.000006,
+      "\r\nsti-ruby-1                 Source        "
+    ],
+    [
+      0.000189,
+      "                                        Git                                    Failed    3 minutes ago        1m9s\r"
+    ],
+    [
+      0.000006,
+      "\r\nNAME                       DOCKER REPO                                        "
+    ],
+    [
+      0.000188,
+      "   TAGS                                   UPDATED\r"
+    ],
+    [
+      0.000006,
+      "\r\nmysql                      library/mysql                                         "
+    ],
+    [
+      0.000190,
+      "5.5.45,5.7.6,5.7.8 + 32 more...        46 seconds ago\r"
+    ],
+    [
+      0.000006,
+      "\r\nnginx                      library/nginx"
+    ],
+    [
+      0.000186,
+      "                                         1.7.8,1.9.1,1.7 + 20 more...           20 seconds ago\r"
+    ],
+    [
+      0.000007,
+      "\r\nruby                       library/ruby        "
+    ],
+    [
+      0.000186,
+      "                                  2.1.5,2.0.0-wheezy,2.2 + 105 more...   About a minute ago\r"
+    ],
+    [
+      0.000005,
+      "\r\nruby-20-centos7            openshift/ruby-20-centos7                             latest"
+    ],
+    [
+      0.000184,
+      "                                 About a minute ago\r"
+    ],
+    [
+      0.000004,
+      "\r\nruby-hello-world           172.30.193.76:5000/hello-openshift/ruby-hello-world                                          \r\r\n"
+    ],
+    [
+      0.000003,
+      "sti-ruby                   172.30.193.76:5000/hello-openshift/sti-ruby"
+    ],
+    [
+      0.000191,
+      "                                                  \r"
+    ],
+    [
+      0.000006,
+      "\r\nNAME                       TRIGGERS                                              "
+    ],
+    [
+      0.000192,
+      "LATEST\r\r\n"
+    ],
+    [
+      0.000007,
+      "mysql                      ConfigChange, ImageChange                             "
+    ],
+    [
+      0.000180,
+      "1\r"
+    ],
+    [
+      0.000004,
+      "\r\nnginx                      ConfigChange, ImageChange                             1\r\r\nruby-hello-world           ConfigChange, ImageChange                             0\r"
+    ],
+    [
+      0.000004,
+      "\r\nsti-ruby                   ConfigChange, ImageChange                             0\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "CONTROLLER                 CONTAINER(S)        "
+    ],
+    [
+      0.000193,
+      "                                  IMAGE(S)                                                                                SELECTOR                                              REPLICAS   "
+    ],
+    [
+      0.019852,
+      "AGE\r\r\nmysql-1                    mysql                                                 library/mysql@sha256:54c7cf6e7dfd6bfcc520b4ed2802d47fed0eccc5329c205b1c503e04ffc454ba   app=mysql,deployment=mysql-1,deploymentconfig=mysql   1          1m\r\r\nnginx-1                    nginx                                                 library/nginx@sha256:a79db4b83c0dbad9542d5442002ea294aa77014a3dfa67160d8a55874a5520cc   app=nginx,deployment=nginx-1,deploymentconfig=nginx   1          31s\r\r\n                           mysql                                                 library/mysql@sha256:54c7cf6e7dfd6bfcc520b4ed2802d47fed0eccc5329c205b1c503e04ffc454ba                                                         \r\r\nNAME                       CLUSTER_IP                                            EXTERNAL_IP                                                                             PORT(S)                                               SELECTOR                                                 AGE\r\r\nmysql                      172.30.0.197                                          \u003cnone\u003e                                                                                  3306/TCP                                              app=mysql,deploymentconfig=mysql                         1m\r\r\nnginx                      172.30.91.129                                         \u003cnone\u003e                                                                                  80/TCP,443/TCP,3306/TCP                               app=nginx,deploymentconfig=nginx                         41s\r\r\nruby-hello-world           172.30.162.89                                         \u003cnone\u003e                                                                                  8080/TCP                                              app=ruby-hello-world,deploymentconfig=ruby-hello-world   2m\r\r\nNAME                       READY                                                 STATUS                                                                                  RESTARTS                                              AGE\r\r\nmysql-1-deploy             0/1                                                   Terminating                                                                             0                                                     1m\r\r\nmysql-1-xqsmg              1/1                                                   Running                                                                                 1                                                     58s\r\r\nnginx-1-deploy             1/1                                                   Running                                                                                 0                                                     31s\r\r\nnginx-1-g8vip              1/2                                                   Error                                                                                   0                                                     28s\r\r\nruby-hello-world-1-build   1/1                                                   Running                                                                                 0                                                     1m\r\r\nsti-ruby-1-build           0/1                                                   Error                                                                                   0                                                     3m\r\r\nYS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      4.993145,
+      "\r\n\u001b[31m\r\n================================================================================\r\n"
+    ],
+    [
+      0.000011,
+      "Delete all entries, for clarity\r\n================================================================================\r\nCommand to be run is:\r\n\toc delete all\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.101304,
+      "oc delete all"
+    ],
+    [
+      0.002966,
+      "\r\r\n"
+    ],
+    [
+      0.061255,
+      "error: you must provide one or more resources by argument or filename (.json|.yaml|.yml|stdin)\r\r\n"
+    ],
+    [
+      0.001550,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005307,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000009,
+      "================================================================================\r\ncreate a secret username file\r\n================================================================================\r\nCommand to be run is:\r\n\tcat \u003e username \u003c\u003c END\r\nmysecretusername\r\nEND\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102793,
+      "cat \u003e username \u003c\u003c END\r\r\n\u003e mysecretusername\r\r\n\u003e END"
+    ],
+    [
+      0.001711,
+      "\r\r\n"
+    ],
+    [
+      0.039541,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003549,
+      "\r\n\u001b[31m\r\n================================================================================\r\ncreate a secret password file"
+    ],
+    [
+      0.000019,
+      "\r\n================================================================================\r\nCommand to be run is:\r\n\tcat \u003e password \u003c\u003c END\r\nmysecretpassword\r\nEND\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105447,
+      "cat \u003e password \u003c\u003c END\r\r\n\u003e mysecretpassword\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u003e END"
+    ],
+    [
+      0.002851,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.002681,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000013,
+      "================================================================================\r\ncreate a secret docker.cfg\r\n================================================================================\r\nCommand to be run is:\r\n\tcat \u003e docker.cfg \u003c\u003c END\r\nmy\r\nsecret\r\ncfg\r\nfile\r\nEND\r\n================================================================================\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.104344,
+      "cat \u003e docker.cfg \u003c\u003c END\r\r\n\u003e my\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u003e secret\r\r\n\u003e cfg\r\r\n\u003e file\r\r\n\u003e END"
+    ],
+    [
+      0.000739,
+      "\r\r\n"
+    ],
+    [
+      0.001275,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.102083,
+      "cat \u003e secret.json \u003c\u003c END\r\r\n\u003e {\r"
+    ],
+    [
+      0.000011,
+      "\r\n\u003e   \"apiversion\": \"v1\",\r\r\n\u003e   \"kind\": \"secret\",\r\r\n\u003e   \"name\": \"mysecret\",\r\r\n\u003e   \"namespace\": \"hello-openshift\",\r\r\n\u003e   \"data\": {\r\r\n\u003e  \"username\": \"$(base64 username)\",\r\r\n\u003e  \"password\": \"$(base64 password)\"\r\r\n\u003e   }\r\r\n\u003e }\r\r\n\u003e END"
+    ],
+    [
+      0.066653,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.040903,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      0.000231,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000006,
+      "\r\n================================================================================\r\ncreate the secret from the json file\r\n================================================================================\r\n"
+    ],
+    [
+      0.000005,
+      "Command to be run is:\r\n"
+    ],
+    [
+      0.000005,
+      "\toc create -f secret.json\r\n"
+    ],
+    [
+      0.000005,
+      "================================================================================"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.104081,
+      "oc create -f secret.json"
+    ],
+    [
+      0.001865,
+      "\r\r\n"
+    ],
+    [
+      0.073386,
+      "unable to recognize \"secret.json\": no kind named \"secret\" is registered in versions [\"v1\" \"v1\"]\r\r\n"
+    ],
+    [
+      0.001487,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.002903,
+      "\r\n\u001b[31m\r\n================================================================================\r\nTODO"
+    ],
+    [
+      0.000009,
+      "\r\n================================================================================\r\nCommand to be run is:\r\n\toc volume deploymentconfig --all --name myvolume -t emptyDir -m /mounteddir\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104292,
+      "oc volume deploymentconfig --all --name myvolume -t emptyDir -m /mounteddir"
+    ],
+    [
+      0.002806,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.106098,
+      "deploymentconfigs/mysql"
+    ],
+    [
+      0.000185,
+      "\r\r\n"
+    ],
+    [
+      0.000206,
+      "error: deploymentconfigs/mysql volume \"myvolume\" not found"
+    ],
+    [
+      0.000189,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000217,
+      "deploymentconfigs/nginx"
+    ],
+    [
+      0.000210,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "error: deploymentconfigs/nginx volume \"myvolume\" not found"
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "deploymentconfigs/ruby-hello-world"
+    ],
+    [
+      0.000205,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "error: deploymentconfigs/ruby-hello-world volume \"myvolume\" not found"
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "deploymentconfigs/sti-ruby"
+    ],
+    [
+      0.000199,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "error: deploymentconfigs/sti-ruby volume \"myvolume\" not found"
+    ],
+    [
+      0.000190,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001624,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005332,
+      "\r\n\u001b[31m\r\n================================================================================\r\nTODO\r\n================================================================================\r\nCommand to be run is:\r\n\toc volume deploymentconfig --all --name mysecretvolume -t secret -m /mountedsecretdir --secret-name mysecret\r\n================================================================================\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.105694,
+      "oc volume deploymentconfig --all --name mysecretvolume -t secret -m /mountedsecretdir --secret-name mysecret"
+    ],
+    [
+      0.001307,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.036958,
+      "error: --type|--path|--secret-name|--claim-name|--source|--overwrite are only valid for --add operation"
+    ],
+    [
+      0.000214,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "See 'oc volume -h' for help and examples."
+    ],
+    [
+      0.000198,
+      "\r\r\n"
+    ],
+    [
+      0.001636,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.005366,
+      "\r\n\u001b[31m\r\n================================================================================\r\nList all the volumes we have created"
+    ],
+    [
+      0.000012,
+      "\r\n================================================================================\r\nCommand to be run is:\r\n\toc volume deploymentconfig --all --list\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105592,
+      "oc volume deploymentconfig --all --list"
+    ],
+    [
+      0.004246,
+      "\r\r\n"
+    ],
+    [
+      0.062821,
+      "deploymentconfigs/mysql"
+    ],
+    [
+      0.000189,
+      "\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000313,
+      "  empty directory as mysql-volume-1"
+    ],
+    [
+      0.000180,
+      "\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "    mounted at /var/lib/mysql"
+    ],
+    [
+      0.000180,
+      "\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "deploymentconfigs/nginx"
+    ],
+    [
+      0.000182,
+      "\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "  empty directory as nginx-volume-1"
+    ],
+    [
+      0.000176,
+      "\r\r\n"
+    ],
+    [
+      0.000185,
+      "    mounted at /var/cache/nginx in container nginx"
+    ],
+    [
+      0.000238,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n  empty directory as mysql-volume-1"
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "    mounted at /var/lib/mysql in container mysql\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "deploymentconfigs/ruby-hello-world"
+    ],
+    [
+      0.000181,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "deploymentconfigs/sti-ruby"
+    ],
+    [
+      0.000184,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001405,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.003770,
+      "\r\n\u001b[31m\r\n================================================================================\r\n\r\n================================================================================\r\nCommand to be run is:\r\n\toc get rolebinding\r\n"
+    ],
+    [
+      0.000015,
+      "================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103479,
+      "oc get rolebinding"
+    ],
+    [
+      0.001178,
+      "\r\r\n"
+    ],
+    [
+      0.090595,
+      "NAME                    ROLE                    USERS     GROUPS                                   SERVICE ACCOUNTS   "
+    ],
+    [
+      0.000260,
+      "SUBJECTS\r\r\n"
+    ],
+    [
+      0.000011,
+      "system:deployers        /system:deployer                                                           deployer           \r\r\n"
+    ],
+    [
+      0.000233,
+      "system:image-builders   /system:image-builder                                                      builder"
+    ],
+    [
+      0.000206,
+      "            \r\r\n"
+    ],
+    [
+      0.000008,
+      "system:image-pullers    /system:image-puller              system:serviceaccounts:hello-openshift                      "
+    ],
+    [
+      0.000198,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "admins                  /admin                  admin                                             "
+    ],
+    [
+      0.000184,
+      "                    \r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001702,
+      "YS0srUUz#3SFqANpr\u003e "
+    ],
+    [
+      5.127131,
+      "exit"
+    ],
+    [
+      0.001753,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\nlogout\r\r\n"
+    ],
+    [
+      0.092733,
+      "9llKGAW1#oax33xQq\u003e "
+    ],
+    [
+      0.100614,
+      "exit"
+    ],
+    [
+      0.001035,
+      "\r\r\nlogout\r\r\n"
+    ],
+    [
+      0.070364,
+      "Connection to 127.0.0.1 closed.\r\r\r\n"
+    ],
+    [
+      0.268909,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#K1XbPY2Q\u003e "
+    ],
+    [
+      0.148856,
+      "exit\r\r\n"
+    ],
+    [
+      0.000182,
+      "exit\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.139641,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.100860,
+      "cd /space/git/shutit-openshift-vm\r\r\n"
+    ],
+    [
+      0.000520,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.208607,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.012941,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000253,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.101702,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000233,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000014,
+      "\r\ndefault#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.055414,
+      "bash"
+    ],
+    [
+      0.050196,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "bash\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      7.762025,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.146686,
+      " export SHUTIT_BACKUP_PS1_ug5Br4Wd=$PS1 \u0026\u0026 PS1='shutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.066638,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e "
+    ],
+    [
+      0.101323,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e "
+    ],
+    [
+      0.100801,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000239,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e "
+    ],
+    [
+      0.100673,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.021080,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000406,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e "
+    ],
+    [
+      0.100752,
+      "cd\r\r\n"
+    ],
+    [
+      0.000240,
+      "shutit.openshift_vm.openshift_vm.openshift_vm#cme3EkGn\u003e "
+    ],
+    [
+      0.100732,
+      "exit\r\r\n"
+    ],
+    [
+      0.000198,
+      "exit\r\r\n"
+    ],
+    [
+      0.003812,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050611,
+      "bash"
+    ],
+    [
+      0.050096,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "bash\r\r\n"
+    ],
+    [
+      0.243905,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.100903,
+      " export SHUTIT_BACKUP_PS1_xiIr5Z4G=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001077,
+      "tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e "
+    ],
+    [
+      0.100825,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000253,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000012,
+      "tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e "
+    ],
+    [
+      0.100661,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000161,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000191,
+      "tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e "
+    ],
+    [
+      0.100653,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002126,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000247,
+      "tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e "
+    ],
+    [
+      0.100921,
+      "cd\r\r\n"
+    ],
+    [
+      0.000445,
+      "tk.shutit.vagrant.vagrant.vagrant#9EsB2o53\u003e "
+    ],
+    [
+      0.100895,
+      "exit\r\r\n"
+    ],
+    [
+      0.000191,
+      "exit\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.003589,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050586,
+      "bash"
+    ],
+    [
+      0.050117,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "bash\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.220713,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101424,
+      " export SHUTIT_BACKUP_PS1_3WqisOhL=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001382,
+      "shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e "
+    ],
+    [
+      0.101347,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000208,
+      "shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e "
+    ],
+    [
+      0.100722,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000228,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000227,
+      "shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e "
+    ],
+    [
+      0.100723,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.001955,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000410,
+      "shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e "
+    ],
+    [
+      0.101000,
+      "cd\r\r\n"
+    ],
+    [
+      0.000365,
+      "shutit-library.virtualbox.virtualbox.virtualbox#lAbBJRog\u003e "
+    ],
+    [
+      0.100877,
+      "exit\r\r\n"
+    ],
+    [
+      0.000169,
+      "exit\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003247,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050688,
+      "bash"
+    ],
+    [
+      0.050122,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "bash\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.227882,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.100988,
+      " export SHUTIT_BACKUP_PS1_gnjLYStC=$PS1 \u0026\u0026 PS1='shutit.tk.setup#t8prn2EP\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001046,
+      "shutit.tk.setup#t8prn2EP\u003e "
+    ],
+    [
+      0.100857,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000012,
+      "shutit.tk.setup#t8prn2EP\u003e "
+    ],
+    [
+      0.100668,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000232,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000255,
+      "shutit.tk.setup#t8prn2EP\u003e "
+    ],
+    [
+      0.100562,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002015,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000423,
+      "shutit.tk.setup#t8prn2EP\u003e "
+    ],
+    [
+      0.100656,
+      "cd\r\r\n"
+    ],
+    [
+      0.000446,
+      "shutit.tk.setup#t8prn2EP\u003e "
+    ],
+    [
+      0.100656,
+      "exit\r\r\n"
+    ],
+    [
+      0.000202,
+      "exit\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004467,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.056306,
+      "bash"
+    ],
+    [
+      0.050126,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "bash\r\r\n"
+    ],
+    [
+      0.315545,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101073,
+      " export SHUTIT_BACKUP_PS1_Bb6Umls8=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001773,
+      "tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e "
+    ],
+    [
+      0.101049,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000218,
+      "tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e "
+    ],
+    [
+      0.100683,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000173,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000224,
+      "tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e "
+    ],
+    [
+      0.100664,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002112,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000407,
+      "tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e "
+    ],
+    [
+      0.100833,
+      "cd\r\r\n"
+    ],
+    [
+      0.000393,
+      "tk.shutit.vagrant.vagrant.vagrant#kFFTRgfw\u003e "
+    ],
+    [
+      0.100827,
+      "exit\r\r\n"
+    ],
+    [
+      0.000186,
+      "exit\r\r\n"
+    ],
+    [
+      0.003550,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050599,
+      "bash"
+    ],
+    [
+      0.050150,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "bash\r\r\n"
+    ],
+    [
+      0.234873,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.101047,
+      " export SHUTIT_BACKUP_PS1_aCYZRd4M=$PS1 \u0026\u0026 PS1='shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001780,
+      "shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e "
+    ],
+    [
+      0.100929,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000195,
+      "shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e "
+    ],
+    [
+      0.100664,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000197,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000183,
+      "shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e "
+    ],
+    [
+      0.100680,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.002096,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r\r\n"
+    ],
+    [
+      0.000426,
+      "shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e "
+    ],
+    [
+      0.100792,
+      "cd\r\r\n"
+    ],
+    [
+      0.000463,
+      "shutit-library.virtualbox.virtualbox.virtualbox#VF1A4TrU\u003e "
+    ],
+    [
+      0.100750,
+      "exit\r\r\n"
+    ],
+    [
+      0.000202,
+      "exit\r\r\n"
+    ],
+    [
+      0.003724,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050738,
+      "bash"
+    ],
+    [
+      0.050141,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "bash\r\r\n"
+    ],
+    [
+      0.250532,
+      "\u001b]0;imiell@rothko: /space/git/shutit-openshift-vm\u0007imiell@rothko:/space/git/shutit-openshift-vm$ "
+    ],
+    [
+      0.100995,
+      " export SHUTIT_BACKUP_PS1_yI2fXAGH=$PS1 \u0026\u0026 PS1='shutit.tk.setup#ykNRBD2v\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001497,
+      "shutit.tk.setup#ykNRBD2v\u003e "
+    ],
+    [
+      0.100905,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r"
+    ],
+    [
+      0.000011,
+      "\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000181,
+      "shutit.tk.setup#ykNRBD2v\u003e "
+    ],
+    [
+      0.100666,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000196,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000201,
+      "shutit.tk.setup#ykNRBD2v\u003e "
+    ],
+    [
+      0.100698,
+      " ls /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\r\n"
+    ],
+    [
+      0.001690,
+      "\u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m  ZfaRuKca\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "shutit.tk.setup#ykNRBD2v\u003e "
+    ],
+    [
+      0.100657,
+      "cd\r\r\n"
+    ],
+    [
+      0.000242,
+      "shutit.tk.setup#ykNRBD2v\u003e "
+    ],
+    [
+      0.100756,
+      "exit\r\r\n"
+    ],
+    [
+      0.000208,
+      "exit\r\r\n"
+    ],
+    [
+      0.004432,
+      "default#Z4Eoi95Q\u003e "
+    ],
+    [
+      0.050332,
+      "exit"
+    ],
+    [
+      0.050158,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b[32m################################################################################\r\n# COMMAND HISTORY BEGIN rothko_imiell_1450886441.35.352494\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\nchmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/ORIGIN_ENV"
+    ],
+    [
+      0.000014,
+      "\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id\r\nchmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/ZfaRuKca\r\nbash\r\ncd\r\ncd /home/imiell/.local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.000010,
+      "exit\r\ncd /space/git/shutit-openshift-vm"
+    ],
+    [
+      0.000009,
+      "\r\nbash\r\n"
+    ],
+    [
+      0.000007,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-openshift-vm/shutit-library/virtualbox\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000006,
+      "bash\r\n"
+    ],
+    [
+      0.000006,
+      "cd"
+    ],
+    [
+      0.000005,
+      "\r\ncd /space/git/shutit-openshift-vm/shutit-library/vagrant"
+    ],
+    [
+      0.000005,
+      "\r\nexit"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000006,
+      "bash\r\n"
+    ],
+    [
+      0.000005,
+      "cd"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm"
+    ],
+    [
+      0.000005,
+      "\r\ncd /home/imiell/.local/lib/python2.7/site-packages"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "bash\r\n"
+    ],
+    [
+      0.000006,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\ncd /space/git/shutit-openshift-vm"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.000005,
+      "d /space/git/shutit-openshift-vm/shutit-library/virtualbox"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "bash\r\n"
+    ],
+    [
+      0.000005,
+      "cd"
+    ],
+    [
+      0.000005,
+      "\r\nexit"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000006,
+      "cd /space/git/shutit-openshift-vm/shutit-library/vagrant"
+    ],
+    [
+      0.000005,
+      "\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "exit"
+    ],
+    [
+      0.000005,
+      "\r\ncd /space/git/shutit-openshift-vm"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000005,
+      "bash"
+    ],
+    [
+      0.000005,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "rm -rf /tmp/openshift_vm\r\n"
+    ],
+    [
+      0.000005,
+      "mkdir -p /tmp/openshift_vm"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /tmp/openshift_vm\r\n"
+    ],
+    [
+      0.000005,
+      "vagrant init thesteve0/openshift-origin"
+    ],
+    [
+      0.000005,
+      "\r\nvagrant up --provider virtualbox"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "vagrant ssh\r\n"
+    ],
+    [
+      0.000005,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "chmod -R 777 /tmp/shutit_imiell\r\n"
+    ],
+    [
+      0.000005,
+      "touch /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/environment_id/rsxexCpo"
+    ],
+    [
+      0.000006,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "sudo su -"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "oc whoami"
+    ],
+    [
+      0.000005,
+      "\r\noc describe users"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc describe groups\r\n"
+    ],
+    [
+      0.000005,
+      "oc describe policybindings"
+    ],
+    [
+      0.000006,
+      "\r\noc login -u admin -p anystringwilldo"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc whoami -t\r\n"
+    ],
+    [
+      0.000005,
+      "TOKEN=$(oc whoami -t)"
+    ],
+    [
+      0.000010,
+      "\r\noc new-project hello-openshift --description=\"Example project\" --display-name=\"Hello openshift!\""
+    ],
+    [
+      0.000006,
+      "\r\noc project new-project\r\n"
+    ],
+    [
+      0.000005,
+      "oc status\r\n"
+    ],
+    [
+      0.000005,
+      "oc new-app https://github.com/openshift/sti-ruby.git --context-dir=2.0/test/puma-test-app"
+    ],
+    [
+      0.000006,
+      "\r\noc delete all"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc new-app https://github.com/openshift/ruby-hello-world.git#beta4"
+    ],
+    [
+      0.000006,
+      "\r\noc delete all"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc new-app TODO\r\n"
+    ],
+    [
+      0.000005,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc delete all"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc new-app openshift/ruby-20-centos7:latest~https://github.com/openshift/ruby-hello-world.git\r\n"
+    ],
+    [
+      0.000006,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc delete all"
+    ],
+    [
+      0.000012,
+      "\r\noc new-app mysql\r\n"
+    ],
+    [
+      0.000006,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc delete all"
+    ],
+    [
+      0.000006,
+      "\r\noc new-app nginx+mysql"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc delete all"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "oc new-app ruby~https://github.com/openshift/ruby-hello-world mysql --group=ruby+mysql\r\n"
+    ],
+    [
+      0.000005,
+      "oc get all"
+    ],
+    [
+      0.000005,
+      "\r\noc delete all"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cat \u003e username \u003c\u003c END\r\n"
+    ],
+    [
+      0.000005,
+      "mysecretusername"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "END\r\n"
+    ],
+    [
+      0.000005,
+      "cat \u003e password \u003c\u003c END"
+    ],
+    [
+      0.000005,
+      "\r\nmysecretpassword"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "END\r\n"
+    ],
+    [
+      0.000005,
+      "cat \u003e docker.cfg \u003c\u003c END"
+    ],
+    [
+      0.000005,
+      "\r\nmy"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "secret\r\n"
+    ],
+    [
+      0.000006,
+      "cfg"
+    ],
+    [
+      0.000005,
+      "\r\nfile"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "END\r\n"
+    ],
+    [
+      0.000005,
+      "cat \u003e secret.json \u003c\u003c END"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "{\r\n"
+    ],
+    [
+      0.000005,
+      "  \"apiversion\": \"v1\","
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  \"kind\": \"secret\",\r\n"
+    ],
+    [
+      0.000005,
+      "  \"name\": \"mysecret\","
+    ],
+    [
+      0.000005,
+      "\r\n  \"namespace\": \"hello-openshift\","
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  \"data\": {\r\n"
+    ],
+    [
+      0.000005,
+      " \"username\": \"$(base64 username)\","
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " \"password\": \"$(base64 password)\"\r\n"
+    ],
+    [
+      0.000006,
+      "  }\r\n"
+    ],
+    [
+      0.000005,
+      "}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "END\r\n"
+    ],
+    [
+      0.000005,
+      "oc create -f secret.json"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc volume deploymentconfig --all --name myvolume -t emptyDir -m /mounteddir\r\n"
+    ],
+    [
+      0.000005,
+      "oc volume deploymentconfig --all --name mysecretvolume -t secret -m /mountedsecretdir --secret-name mysecret"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "oc volume deploymentconfig --all --list"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "oc get rolebinding\r\n"
+    ],
+    [
+      0.000005,
+      "exit"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\n"
+    ],
+    [
+      0.000005,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd /space/git/shutit-openshift-vm\r\n"
+    ],
+    [
+      0.000005,
+      "bash"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd"
+    ],
+    [
+      0.000005,
+      "\r\nexit"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000005,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "exit\r\n"
+    ],
+    [
+      0.000005,
+      "bash"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000005,
+      "exit"
+    ],
+    [
+      0.000005,
+      "\r\nbash"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd"
+    ],
+    [
+      0.000005,
+      "\r\nexit"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "bash"
+    ],
+    [
+      0.000005,
+      "\r\ncd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "exit\r\n"
+    ],
+    [
+      0.000005,
+      "bash"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd\r\n"
+    ],
+    [
+      0.000006,
+      "exit"
+    ],
+    [
+      0.000005,
+      "\r\n# COMMAND HISTORY END rothko_imiell_1450886441.35.352494"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "################################################################################\r\n"
+    ],
+    [
+      0.000006,
+      "################################################################################"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "# BUILD REPORT FOR BUILD BEGIN rothko_imiell_1450886441.35.352494\r\n"
+    ],
+    [
+      0.000005,
+      "# #Module: N/A (END)"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Building: shutit.tk.setup with run order: 0"
+    ],
+    [
+      0.000006,
+      "\r\nCompleted module: shutit.tk.setup"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Building: shutit-library.virtualbox.virtualbox.virtualbox with run order: 0.80242509019999996855432300435495562851428985595703125"
+    ],
+    [
+      0.000006,
+      "\r\nCompleted module: shutit-library.virtualbox.virtualbox.virtualbox"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Building: tk.shutit.vagrant.vagrant.vagrant with run order: 0.94124715199999997583546473833848722279071807861328125\r\n"
+    ],
+    [
+      0.000006,
+      "Completed module: tk.shutit.vagrant.vagrant.vagrant\r\n"
+    ],
+    [
+      0.000006,
+      "Building: shutit.openshift_vm.openshift_vm.openshift_vm with run order: 1418326706"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Completed module: shutit.ope"
+    ],
+    [
+      0.000005,
+      "nshift_vm.openshift_vm.openshift_vm"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "# BUILD REPORT FOR BUILD END rothko_imiell_1450886441.35.352494"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "###############################################################################"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[31mBuild log file: /tmp/shutit_imiell/rothko_imiell_1450886441.35.352494/shutit_build.log\u001b[0m\r\n"
+    ]
+  ]
+}
