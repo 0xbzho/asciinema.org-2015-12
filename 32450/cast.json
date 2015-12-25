@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 22,
+  "duration": 23.724326,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.094069,
+      "\u001b]0;yasoob@yasoob: ~/Desktop\u0007yasoob@yasoob:~/Desktop$ "
+    ],
+    [
+      1.380354,
+      "c"
+    ],
+    [
+      0.068064,
+      "d"
+    ],
+    [
+      0.147868,
+      " "
+    ],
+    [
+      0.242589,
+      "l"
+    ],
+    [
+      0.206092,
+      "o"
+    ],
+    [
+      0.172532,
+      "k"
+    ],
+    [
+      0.239369,
+      "l"
+    ],
+    [
+      0.153432,
+      "a"
+    ],
+    [
+      0.176640,
+      "k"
+    ],
+    [
+      0.330583,
+      "_"
+    ],
+    [
+      0.261489,
+      "s"
+    ],
+    [
+      0.112564,
+      "e"
+    ],
+    [
+      0.210875,
+      "r"
+    ],
+    [
+      0.269468,
+      "v"
+    ],
+    [
+      0.173705,
+      "e"
+    ],
+    [
+      0.084687,
+      "r"
+    ],
+    [
+      0.354639,
+      "\r\n"
+    ],
+    [
+      0.000450,
+      "\u001b]0;yasoob@yasoob: ~/Desktop/loklak_server\u0007yasoob@yasoob:~/Desktop/loklak_server$ "
+    ],
+    [
+      0.817028,
+      "a"
+    ],
+    [
+      0.142588,
+      "n"
+    ],
+    [
+      0.163233,
+      "t"
+    ],
+    [
+      0.150806,
+      "\r\n"
+    ],
+    [
+      0.006389,
+      "Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.126928,
+      "Buildfile: /home/yasoob/Desktop/loklak_server/build.xml"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.325447,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "init:"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.079670,
+      "\r\nbuild:"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.006113,
+      "   [delete] Deleting directory /home/yasoob/Desktop/loklak_server/classes"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.012595,
+      "    [mkdir] Created dir: /home/yasoob/Desktop/loklak_server/classes"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.003540,
+      "     [echo] loklak: /home/yasoob/Desktop/loklak_server/build.xml\r\n"
+    ],
+    [
+      0.043015,
+      "    [javac] Compiling 122 source files to /home/yasoob/Desktop/loklak_server/classes\r\n"
+    ],
+    [
+      0.329155,
+      "    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.7"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      4.491120,
+      "    [javac] Note: Some input files use or override a deprecated API."
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000311,
+      "    [javac] Note: Recompile with -Xlint:deprecation for details."
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "    [javac] Note: Some input files use unchecked or unsafe operations."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000281,
+      "    [javac] Note: Recompile with -Xlint:unchecked for details."
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.001024,
+      "    [javac] 1 warning"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.014482,
+      "\r\nBUILD SUCCESSFUL"
+    ],
+    [
+      0.000015,
+      "\r\nTotal time: 5 seconds\r\n"
+    ],
+    [
+      0.058460,
+      "\u001b]0;yasoob@yasoob: ~/Desktop/loklak_server\u0007yasoob@yasoob:~/Desktop/loklak_server$ "
+    ],
+    [
+      0.658702,
+      "b"
+    ],
+    [
+      0.082168,
+      "i"
+    ],
+    [
+      0.157922,
+      "n"
+    ],
+    [
+      0.795391,
+      "/"
+    ],
+    [
+      0.303440,
+      "s"
+    ],
+    [
+      0.266913,
+      "t"
+    ],
+    [
+      0.210043,
+      "a"
+    ],
+    [
+      0.082577,
+      "r"
+    ],
+    [
+      0.238223,
+      "t"
+    ],
+    [
+      0.910483,
+      "."
+    ],
+    [
+      0.353800,
+      "s"
+    ],
+    [
+      0.137226,
+      "h"
+    ],
+    [
+      0.369349,
+      "\r\n"
+    ],
+    [
+      0.007016,
+      "starting loklak\r\n"
+    ],
+    [
+      0.000177,
+      "loklak server started at port 9000, open your browser at http://localhost:9000"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000471,
+      "\u001b]0;yasoob@yasoob: ~/Desktop/loklak_server\u0007yasoob@yasoob:~/Desktop/loklak_server$ "
+    ],
+    [
+      2.713063,
+      "b"
+    ],
+    [
+      0.103569,
+      "i"
+    ],
+    [
+      0.153645,
+      "n"
+    ],
+    [
+      0.388168,
+      "/"
+    ],
+    [
+      0.376552,
+      "s"
+    ],
+    [
+      0.263872,
+      "t"
+    ],
+    [
+      0.203583,
+      "o"
+    ],
+    [
+      0.086855,
+      "p"
+    ],
+    [
+      0.264112,
+      "."
+    ],
+    [
+      0.331569,
+      "s"
+    ],
+    [
+      0.127536,
+      "h"
+    ],
+    [
+      0.474474,
+      "\r\n"
+    ],
+    [
+      0.002446,
+      "shut down of loklak"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.002870,
+      "loklak has been terminated\r\n"
+    ],
+    [
+      0.000461,
+      "\u001b]0;yasoob@yasoob: ~/Desktop/loklak_server\u0007yasoob@yasoob:~/Desktop/loklak_server$ "
+    ],
+    [
+      1.204179,
+      "exit\r\n"
+    ]
+  ]
+}
