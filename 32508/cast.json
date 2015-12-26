@@ -1,0 +1,646 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 35,
+  "duration": 51.188756,
+  "command": "/bin/bash",
+  "title": "Change jail boot order",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.030384,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.913095,
+      "c"
+    ],
+    [
+      0.143830,
+      "b"
+    ],
+    [
+      0.104007,
+      "s"
+    ],
+    [
+      0.080006,
+      "d"
+    ],
+    [
+      0.056007,
+      " "
+    ],
+    [
+      0.391952,
+      "j"
+    ],
+    [
+      0.040014,
+      "l"
+    ],
+    [
+      0.127971,
+      "s"
+    ],
+    [
+      0.144023,
+      "\r\n"
+    ],
+    [
+      0.103805,
+      "\u001b[1mJNAME  JID  IP4_ADDR                 HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n\u001b[0mbox1   0    10.0.0.7/16              box1.google.com  /usr/jails/jails/box1   Off\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0mbox2   9    10.0.0.10/16             box2.google.com  /usr/jails/jails/box2   On\r\n\u001b[0mbox3   10   10.0.0.12/16             box3.google.com  /usr/jails/jails/box3   On\r\n\u001b[0mjail1  0    10.0.0.4/24,10.0.0.3/24  example.com      /usr/jails/jails/jail1  Off\r\n"
+    ],
+    [
+      0.000973,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.103207,
+      "c"
+    ],
+    [
+      0.367863,
+      "b"
+    ],
+    [
+      0.111996,
+      "s"
+    ],
+    [
+      0.071988,
+      "d"
+    ],
+    [
+      0.056040,
+      " "
+    ],
+    [
+      0.927903,
+      "j"
+    ],
+    [
+      0.360014,
+      "o"
+    ],
+    [
+      0.208003,
+      "r"
+    ],
+    [
+      0.247968,
+      "d"
+    ],
+    [
+      0.119989,
+      "e"
+    ],
+    [
+      0.152011,
+      "r"
+    ],
+    [
+      0.783916,
+      "\r\n"
+    ],
+    [
+      0.015230,
+      "jail1 "
+    ],
+    [
+      0.000004,
+      "box1 box2 box3 "
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.005214,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      4.811115,
+      "c"
+    ],
+    [
+      1.543808,
+      "b"
+    ],
+    [
+      0.535941,
+      "s"
+    ],
+    [
+      0.080031,
+      "d"
+    ],
+    [
+      0.103677,
+      " "
+    ],
+    [
+      1.200229,
+      "j"
+    ],
+    [
+      0.991915,
+      "c"
+    ],
+    [
+      0.183610,
+      "o"
+    ],
+    [
+      0.072090,
+      "n"
+    ],
+    [
+      0.136013,
+      "f"
+    ],
+    [
+      0.031858,
+      "i"
+    ],
+    [
+      0.144106,
+      "g"
+    ],
+    [
+      3.423838,
+      "\r\n"
+    ],
+    [
+      0.116742,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.003439,
+      "\u001b[1m1 .. \u001b[0;32mbox1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m2 .. \u001b[0;32mbox2 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m3 .. \u001b[0;32mbox3 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m4 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1mEnter id 0-4 or jail name:\u001b[0m "
+    ],
+    [
+      2.159630,
+      "b"
+    ],
+    [
+      0.095777,
+      "o"
+    ],
+    [
+      0.208003,
+      "x"
+    ],
+    [
+      0.215980,
+      "2"
+    ],
+    [
+      2.615875,
+      "\r\n"
+    ],
+    [
+      0.308161,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003026,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000353,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000098,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000473,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m\u001b[K\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n                       \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m Config for box2 \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Jail is ONLINE. Only on-the-fly options printed. \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44mXIT\u001b[m\u001b[30m\u001b[47m               \u001b[37m\u001b[44m\u001b[1mEXIT\u001b[m\u001b[30m\u001b[47m                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[m\u001b[30m\u001b[47m         10.0.0.10/16            \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m cpuset\u001b[m\u001b[30m\u001b[47m           0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m           [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m exec_consolelog\u001b[m\u001b[30m\u001b[47m  0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m mount_src\u001b[m\u001b[30m\u001b[47m        [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b"
+    ],
+    [
+      0.000025,
+      "(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_kernel\u001b[m\u001b[30m\u001b[47m     [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m allow_mount\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m allow_nullfs\u001b[m\u001b[30m\u001b[47m     [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m allow_tmpfs\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m allow_procfs\u001b[m\u001b[30m\u001b[47m     [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m devfs_ruleset\u001b[m\u001b[30m\u001b[47m    4                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m jdomain\u001b[m\u001b[30m\u001b[47m          0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m b_order\u001b[m\u001b[30m\u001b[47m          10                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                      "
+    ],
+    [
+      0.000141,
+      " \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                  -                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mj\u001b[34m\u001b[47m\u001b[1mrctl\u001b[m\u001b[30m\u001b[47m              Rrtl config \u003e\u003e          \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mo\u001b[34m\u001b[47m\u001b[1mrder\u001b[m\u001b[30m\u001b[47m              Boot order \u003e\u003e           \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                  -                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m COMMIT\u001b[m\u001b[30m\u001b[47m           Save changes and quit   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                  \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                         \u001b[30m\u001b[40m                                                    \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m Exit jconstruct-tui\u001b[K\u001b[27;74H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000055,
+      "\u001b[29;38H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[7C\u001b[m\u001b[30m\u001b[47m\u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.871843,
+      "\u001b[7;30H\u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1mXIT\u001b[7;49H\u001b[m\u001b[30m\u001b[47mEXIT\u001b[8;30H\u001b[31m\u001b[44m\u001b[1mB\u001b[33m\u001b[44m ip4_addr\u001b[8;49H\u001b[37m\u001b[44m10.0.0.10/16\u001b[35;2H\u001b[m\u001b[37m\u001b[40mJail IP address from CBSD pool: 10.0.0.0/16 78.140.140.162/24. Use IP/PREFIX form. Comma-separated\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.667944,
+      "\u001b[8;30H\u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[8;49H\u001b[m\u001b[30m\u001b[47m10.0.0.10/16\u001b[9;30H\u001b[31m\u001b[44m\u001b[1mC\u001b[33m\u001b[44m cpuset\u001b[9;49H\u001b[37m\u001b[44m0\u001b[35;2H\u001b[m\u001b[37m\u001b[40mAssociate group of CPUs to jail. 0 - for all cores, See man 1 cpuset for valid value\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.042347,
+      "\u001b[9;30H\u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m cpuset\u001b[9;49H\u001b[m\u001b[30m\u001b[47m0\u001b[10;30H\u001b[31m\u001b[44m\u001b[1mD\u001b[33m\u001b[44m astart\u001b[10;49H\u001b[37m\u001b[44m[ ]\u001b[35;2H\u001b[m\u001b[37m\u001b[40m1,yes - Automatically start Jail when system boot\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.043542,
+      "\u001b[10;30H\u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m astart\u001b[10;49H\u001b[m\u001b[30m\u001b[47m[ ]\u001b[11;30H\u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44m exec_consolelog\u001b[m\u001b[30m\u001b[47m  \u001b[37m\u001b[44m\u001b[1m0\u001b[35;2H\u001b[m\u001b[37m\u001b[40mJail consolelog file for stdout/stderr output. Possible values: path_to_file, 0 - for disable log\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.040580,
+      "\u001b[11;30H\u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m exec_consolelog\u001b[m\u001b[30m\u001b[47m  0\u001b[12;30H\u001b[31m\u001b[44m\u001b[1mF\u001b[33m\u001b[44m mount_src\u001b[12;49H\u001b[37m\u001b[44m[ ]\u001b[35;2H\u001b[m\u001b[37m\u001b[40m1,yes - Jail have shared /usr/src tree in read-only\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.040360,
+      "\u001b[12;30H\u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m mount_src\u001b[12;49H\u001b[m\u001b[30m\u001b[47m[ ]\u001b[13;30H\u001b[31m\u001b[44m\u001b[1mG\u001b[33m\u001b[44m mount_ports\u001b[6C\u001b[37m\u001b[44m[X]\u001b[35;20H\u001b[m\u001b[37m\u001b[40m/usr/ports /usr/ports tree in read-only\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.040007,
+      "\u001b[13;30H\u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[6C\u001b[m\u001b[30m\u001b[47m[X]\u001b[14;30H\u001b[31m\u001b[44m\u001b[1mH\u001b[33m\u001b[44m mount_kernel\u001b[m\u001b[30m\u001b[47m     \u001b[37m\u001b[44m\u001b[1m[ ]\u001b[35;2H\u001b[m\u001b[37m\u001b[40mNo description\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.040629,
+      "\u001b[14;30H\u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_kernel\u001b[m\u001b[30m\u001b[47m     [ ]\u001b[15;30H\u001b[31m\u001b[44m\u001b[1mI\u001b[33m\u001b[44m allow_mount\u001b[6C\u001b[37m\u001b[44m[X]\u001b[35;2H\u001b[m\u001b[37m\u001b[40mAllow privileged users inside the jail mount and unmount file system\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.041481,
+      "\u001b[15;30H\u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m allow_mount\u001b[6C\u001b[m\u001b[30m\u001b[47m[X]\u001b[16;30H\u001b[31m\u001b[44m\u001b[1mJ\u001b[33m\u001b[44m allow_nullfs\u001b[m\u001b[30m\u001b[47m     \u001b[37m\u001b[44m\u001b[1m[X]\u001b[35;58H\u001b[m\u001b[37m\u001b[40m NULLFS file system\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.041005,
+      "\u001b[16;30H\u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m allow_nullfs\u001b[m\u001b[30m\u001b[47m     [X]\u001b[17;30H\u001b[31m\u001b[44m\u001b[1mK\u001b[33m\u001b[44m allow_tmpfs\u001b[6C\u001b[37m\u001b[44m[X]\u001b[35;59H\u001b[m\u001b[37m\u001b[40mTMP\u001b[1P\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.039954,
+      "\u001b[17;30H\u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m allow_tmpfs\u001b[6C\u001b[m\u001b[30m\u001b[47m[X]\u001b[18;30H\u001b[31m\u001b[44m\u001b[1mL\u001b[33m\u001b[44m allow_procfs\u001b[m\u001b[30m\u001b[47m     \u001b[37m\u001b[44m\u001b[1m[X]\u001b[35;59H\u001b[m\u001b[37m\u001b[40mPROCFS file system\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.041045,
+      "\u001b[18;30H\u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m allow_procfs\u001b[m\u001b[30m\u001b[47m     [X]\u001b[19;30H\u001b[31m\u001b[44m\u001b[1mM\u001b[33m\u001b[44m devfs_ruleset\u001b[m\u001b[30m\u001b[47m    \u001b[37m\u001b[44m\u001b[1m4\u001b[35;2H\u001b[m\u001b[37m\u001b[40mDEVFS ruleset number for Jail devfs\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.400844,
+      "\u001b[19;30H\u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m devfs_ruleset\u001b[m\u001b[30m\u001b[47m    4\u001b[20;30H\u001b[31m\u001b[44m\u001b[1mN\u001b[33m\u001b[44m jdomain\u001b[20;49H\u001b[37m\u001b[44m0\u001b[35;2H\u001b[m\u001b[37m\u001b[40mSpecify CBSD node group name for jail\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.119990,
+      "\u001b[20;30H\u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m jdomain\u001b[20;49H\u001b[m\u001b[30m\u001b[47m0\u001b[21;30H\u001b[31m\u001b[44m\u001b[1mO\u001b[33m\u001b[44m b_order\u001b[21;49H\u001b[37m\u001b[44m10\u001b[35;2H\u001b[m\u001b[37m\u001b[40mNo description\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.184095,
+      "\r\u001b[6B\u001b[37m\u001b[40m\u001b[J\u001b[21;30H\u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m b_order\u001b[21;49H\u001b[m\u001b[30m\u001b[47m10\u001b[22;30H\u001b[31m\u001b[44m\u001b[1m-\u001b[22;49H\u001b[37m\u001b[44m-\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.104052,
+      "\u001b[22;30H\u001b[31m\u001b[47m-\u001b[22;49H\u001b[30m\u001b[47m-\u001b[23;30H\u001b[31m\u001b[44m\u001b[1mj\u001b[33m\u001b[44mrctl\u001b[23;49H\u001b[37m\u001b[44mRrtl config \u003e\u003e\u001b[35;2H\u001b[m\u001b[37m\u001b[40mcbsd jrctl-tui\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.159964,
+      "\u001b[23;30H\u001b[31m\u001b[47mj\u001b[34m\u001b[47m\u001b[1mrctl\u001b[23;49H\u001b[m\u001b[30m\u001b[47mRrtl config \u003e\u003e\u001b[24;30H\u001b[31m\u001b[44m\u001b[1mo\u001b[33m\u001b[44mrder\u001b[24;49H\u001b[37m\u001b[44mBoot order \u003e\u003e\u001b[35;8H\u001b[m\u001b[37m\u001b[40morder-tui\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.775916,
+      "\u001b[H\n\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[35;100H\u001b[39;49m\u001b[m\u001b[?1000l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.182055,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002839,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000039,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000313,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000288,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[25B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jorder-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                           \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for select jail                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Less index weight value - earlier start \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44mXIT\u001b[m\u001b[30m\u001b[47m                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 jail1\u001b[m\u001b[30m\u001b[47m                \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box1\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box2\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box3\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x"
+    ],
+    [
+      0.000015,
+      "\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                         \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                             \u001b[30m\u001b[40m                                           \u001b[36m\u001b[44m\u001b[K\u001b[21;69H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000046,
+      "\u001b[23;38H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m     \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      3.726067,
+      "\u001b[15;44H\u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1mXIT\n\u0008\u0008\u0008\u0008\u001b[31m\u001b[44m-\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.191989,
+      "\u001b[16;44H\u001b[31m\u001b[47m-\n\u0008\u001b[31m\u001b[44m\u001b[1m1\u001b[33m\u001b[44m0 jail1\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.175506,
+      "\u001b[17;44H\u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 jail1\u001b[18;44H\u001b[31m\u001b[44m1\u001b[33m\u001b[44m0 box1\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.167979,
+      "\u001b[18;44H\u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box1\u001b[19;44H\u001b[31m\u001b[44m1\u001b[33m\u001b[44m0 box2\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      2.112157,
+      "\u001b[25;72H\u001b[?1000l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.013769,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002762,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000293,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000146,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[22B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jorder-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                    \u001b[m\u001b[30m\u001b[47m10                                                       \u001b[36m\u001b[44m\u001b[1m   \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                   \u001b[30m\u001b[40m                                                               \u001b[36m\u001b[44m\u001b[K\u001b[17;23H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000116,
+      "\u001b[14;18H\u001b[37m\u001b[47m\u001b(0\u001b[1mlqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m order \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b[39;49m\u001b(B\u001b[m\u001b[15;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m Enter weight. Lower weight = higher priority, first boot: 0 \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[16;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[17;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[17;78H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[18;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[19;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mtqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b[39;49m\u001b(B\u001b[m\u001b[20;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m         \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e                   \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[21;18H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mm\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[39;49m\u001b(B\u001b[m\u001b[17;23H\u001b[30m\u001b[47m\u001b(0\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.870416,
+      "\u0008\u001b[30m\u001b[47m \u0008\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.167978,
+      "\u0008\u001b[30m\u001b[47m \u0008\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.480218,
+      "\u001b[30m\u001b[47m5\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.375721,
+      "\u001b[22;82H"
+    ],
+    [
+      0.000002,
+      "\u001b[?1000l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.040063,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003007,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000048,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000309,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000268,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[25B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jorder-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                           \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m order \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for select jail                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Less index weight value - earlier start \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44mXIT\u001b[m\u001b[30m\u001b[47m                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m5\u001b[34m\u001b[47m\u001b[1m box2\u001b[m\u001b[30m\u001b[47m                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 jail1\u001b[m\u001b[30m\u001b[47m                \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box1\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B             \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m0 box3\u001b[m\u001b[30m\u001b[47m                 \u001b[37m\u001b[47m\u001b(0"
+    ],
+    [
+      0.000007,
+      "\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                         \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                             \u001b[30m\u001b[40m                                           \u001b[36m\u001b[44m\u001b[K\u001b[21;69H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000068,
+      "\u001b[23;38H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m     \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[23;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.988076,
+      "\u001b[25;72H"
+    ],
+    [
+      0.000003,
+      "\u001b[?1000l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.042837,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002989,
+      "\u001b[1;35r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000036,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000344,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000098,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000467,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m\u001b[K\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n                       \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m Config for box2 \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Jail is ONLINE. Only on-the-fly options printed. \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1mXIT\u001b[m\u001b[30m\u001b[47m               EXIT                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[m\u001b[30m\u001b[47m         10.0.0.10/16            \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m cpuset\u001b[m\u001b[30m\u001b[47m           0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m           [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m exec_consolelog\u001b[m\u001b[30m\u001b[47m  0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m mount_src\u001b[m\u001b[30m\u001b[47m        [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b"
+    ],
+    [
+      0.000025,
+      "[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_kernel\u001b[m\u001b[30m\u001b[47m     [ ]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m allow_mount\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m allow_nullfs\u001b[m\u001b[30m\u001b[47m     [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m allow_tmpfs\u001b[m\u001b[30m\u001b[47m      [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m allow_procfs\u001b[m\u001b[30m\u001b[47m     [X]                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m devfs_ruleset\u001b[m\u001b[30m\u001b[47m    4                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m jdomain\u001b[m\u001b[30m\u001b[47m          0                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m b_order\u001b[m\u001b[30m\u001b[47m          10                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b"
+    ],
+    [
+      0.000140,
+      "[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                  -                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47mj\u001b[34m\u001b[47m\u001b[1mrctl\u001b[m\u001b[30m\u001b[47m              Rrtl config \u003e\u003e          \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[44m\u001b[1mo\u001b[33m\u001b[44mrder\u001b[m\u001b[30m\u001b[47m              \u001b[37m\u001b[44m\u001b[1mBoot order \u003e\u003e\u001b[m\u001b[30m\u001b[47m           \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                  -                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B   \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m COMMIT\u001b[m\u001b[30m\u001b[47m           Save changes and quit   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                  \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                       \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                         \u001b[30m\u001b[40m                                                    \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m cbsd jorder-tui\u001b[K\u001b[27;74H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000054,
+      "\u001b[29;38H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[7C\u001b[m\u001b[30m\u001b[47m\u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.865011,
+      "\u001b[24;30H\u001b[31m\u001b[47mo\u001b[34m\u001b[47m\u001b[1mrder\u001b[24;49H\u001b[m\u001b[30m\u001b[47mBoot order \u003e\u003e\u001b[26;30H\u001b[31m\u001b[44m\u001b[1m1\u001b[33m\u001b[44m COMMIT\u001b[26;49H\u001b[37m\u001b[44mSave changes and quit\u001b[35;2H\u001b[m\u001b[37m\u001b[40mSave!\u001b[K\u001b[29;41H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.327983,
+      "\u001b[H\n\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[35;100H\u001b[39;49m\u001b[m\u001b[?1000l\u001b[35;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.013912,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.353750,
+      "c"
+    ],
+    [
+      0.255966,
+      "b"
+    ],
+    [
+      0.128001,
+      "s"
+    ],
+    [
+      0.088012,
+      "d"
+    ],
+    [
+      0.040002,
+      " "
+    ],
+    [
+      0.111794,
+      "j"
+    ],
+    [
+      0.080120,
+      "l"
+    ],
+    [
+      0.072076,
+      "s"
+    ],
+    [
+      0.143913,
+      "\r\n"
+    ],
+    [
+      0.125203,
+      "\u001b[1mJNAME  JID  IP4_ADDR                 HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0mbox1   0    10.0.0.7/16              box1.google.com  /usr/jails/jails/box1   Off\r\n\u001b[0mbox2   9    10.0.0.10/16             box2.google.com  /usr/jails/jails/box2   On\r\n\u001b[0mbox3   10   10.0.0.12/16             box3.google.com  /usr/jails/jails/box3   On\r\n\u001b[0mjail1  0    10.0.0.4/24,10.0.0.3/24  example.com      /usr/jails/jails/jail1  Off\r\n"
+    ],
+    [
+      0.001008,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.489827,
+      "c"
+    ],
+    [
+      0.207834,
+      "b"
+    ],
+    [
+      0.136119,
+      "s"
+    ],
+    [
+      0.063992,
+      "d"
+    ],
+    [
+      0.056043,
+      " "
+    ],
+    [
+      0.543911,
+      "j"
+    ],
+    [
+      0.271984,
+      "o"
+    ],
+    [
+      0.200077,
+      "r"
+    ],
+    [
+      0.247790,
+      "d"
+    ],
+    [
+      0.079953,
+      "e"
+    ],
+    [
+      0.144037,
+      "r"
+    ],
+    [
+      0.376073,
+      "\r\n"
+    ],
+    [
+      0.031328,
+      "box2 "
+    ],
+    [
+      0.000004,
+      "jail1 box1 "
+    ],
+    [
+      0.000002,
+      "box3 "
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000937,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      3.823396,
+      "exit\r\n"
+    ]
+  ]
+}
