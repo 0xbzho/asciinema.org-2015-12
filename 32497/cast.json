@@ -1,0 +1,1294 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 35,
+  "duration": 74.996081,
+  "command": "/bin/bash",
+  "title": "Jails start and stop",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.025084,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.510956,
+      "c"
+    ],
+    [
+      0.191828,
+      "b"
+    ],
+    [
+      0.120138,
+      "s"
+    ],
+    [
+      0.095986,
+      "d"
+    ],
+    [
+      0.047871,
+      " "
+    ],
+    [
+      0.119991,
+      "j"
+    ],
+    [
+      0.064004,
+      "l"
+    ],
+    [
+      0.136094,
+      "s"
+    ],
+    [
+      0.183993,
+      "\r\n"
+    ],
+    [
+      0.092327,
+      "\u001b[1mJNAME  JID  IP4_ADDR     HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0mjail1  0    10.0.0.3/16  jail1.my.domain  /usr/jails/jails/jail1  Off\r\n\u001b[0mjail2  0    10.0.0.4/16  jail2.my.domain  /usr/jails/jails/jail2  Off\r\n\u001b[0mnginx  0    10.0.0.7/16  nginx.my.domain  /usr/jails/jails/nginx  Off\r\n"
+    ],
+    [
+      0.001034,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.154623,
+      "c"
+    ],
+    [
+      0.335790,
+      "s"
+    ],
+    [
+      0.440164,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.287815,
+      "b"
+    ],
+    [
+      0.103266,
+      "s"
+    ],
+    [
+      0.080692,
+      "d"
+    ],
+    [
+      0.087968,
+      " "
+    ],
+    [
+      0.368021,
+      "j"
+    ],
+    [
+      0.208222,
+      "s"
+    ],
+    [
+      0.167731,
+      "t"
+    ],
+    [
+      0.080012,
+      "a"
+    ],
+    [
+      0.111967,
+      "r"
+    ],
+    [
+      0.159762,
+      "t"
+    ],
+    [
+      0.328222,
+      "\r\n"
+    ],
+    [
+      0.153529,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.003392,
+      "\u001b[1m1 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m2 .. \u001b[0;32mjail2 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m3 .. \u001b[0;32mnginx \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1mEnter id 0-3 or jail name:\u001b[0m "
+    ],
+    [
+      2.194905,
+      "1"
+    ],
+    [
+      0.920075,
+      "\r\n"
+    ],
+    [
+      2.171528,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.057404,
+      "\u001b[0;35mStarting jail: \u001b[0;32mjail1, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      0.005665,
+      "jail1: created\r\n"
+    ],
+    [
+      0.313315,
+      "Setting hostname: jail1.my.domain"
+    ],
+    [
+      0.000418,
+      ".\r\n"
+    ],
+    [
+      0.031337,
+      "ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/local/lib\r\n"
+    ],
+    [
+      0.001337,
+      "32-bit compatibility ldconfig path: /usr/lib32\r\n"
+    ],
+    [
+      0.033181,
+      "Generating host.conf.\r\n"
+    ],
+    [
+      0.073733,
+      "Creating and/or trimming log files"
+    ],
+    [
+      0.013684,
+      ".\r\n"
+    ],
+    [
+      0.017647,
+      "Starting syslogd.\r\n"
+    ],
+    [
+      0.215715,
+      "Starting casperd.\r\n"
+    ],
+    [
+      0.035225,
+      "Clearing /tmp (X related).\r\n"
+    ],
+    [
+      0.098129,
+      "Updating motd:"
+    ],
+    [
+      0.007397,
+      ".\r\n"
+    ],
+    [
+      0.207738,
+      "Starting sendmail_submit.\r\n"
+    ],
+    [
+      0.014321,
+      "Starting sendmail_msp_queue.\r\n"
+    ],
+    [
+      0.037472,
+      "Starting cron.\r\n"
+    ],
+    [
+      0.222477,
+      "\r\n"
+    ],
+    [
+      0.005882,
+      "December 26, 2015 at 11:22:02 PM MSK\r\n"
+    ],
+    [
+      0.124840,
+      "\u001b[0;35mSetup: \u001b[0;32mFW counter\u001b[0m\r\n"
+    ],
+    [
+      0.010658,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.508178,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.679759,
+      "c"
+    ],
+    [
+      0.199976,
+      "b"
+    ],
+    [
+      0.095974,
+      "s"
+    ],
+    [
+      0.064033,
+      "d"
+    ],
+    [
+      0.047954,
+      " "
+    ],
+    [
+      0.088013,
+      "j"
+    ],
+    [
+      0.064013,
+      "l"
+    ],
+    [
+      0.072019,
+      "s"
+    ],
+    [
+      0.199986,
+      "\r\n"
+    ],
+    [
+      0.105228,
+      "\u001b[1mJNAME  JID  IP4_ADDR     HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0mjail1  5    10.0.0.3/16  jail1.my.domain  /usr/jails/jails/jail1  On\r\n\u001b[0mjail2  0    10.0.0.4/16  jail2.my.domain  /usr/jails/jails/jail2  Off\r\n\u001b[0mnginx  0    10.0.0.7/16  nginx.my.domain  /usr/jails/jails/nginx  Off\r\n"
+    ],
+    [
+      0.000986,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.149726,
+      "c"
+    ],
+    [
+      0.239945,
+      "b"
+    ],
+    [
+      0.104000,
+      "s"
+    ],
+    [
+      0.063961,
+      "d"
+    ],
+    [
+      0.080038,
+      " "
+    ],
+    [
+      0.607955,
+      "j"
+    ],
+    [
+      0.335959,
+      "s"
+    ],
+    [
+      0.183967,
+      "t"
+    ],
+    [
+      0.095923,
+      "a"
+    ],
+    [
+      0.128111,
+      "r"
+    ],
+    [
+      0.160024,
+      "t"
+    ],
+    [
+      0.159958,
+      " "
+    ],
+    [
+      0.439827,
+      "2"
+    ],
+    [
+      0.928028,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119900,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.568087,
+      " "
+    ],
+    [
+      0.375964,
+      "j"
+    ],
+    [
+      0.095873,
+      "a"
+    ],
+    [
+      0.072004,
+      "i"
+    ],
+    [
+      0.199991,
+      "l"
+    ],
+    [
+      0.296096,
+      "2"
+    ],
+    [
+      0.703975,
+      "\r\n"
+    ],
+    [
+      2.306798,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.061451,
+      "\u001b[0;35mStarting jail: \u001b[0;32mjail2, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      0.005574,
+      "jail2: created\r\n"
+    ],
+    [
+      0.281548,
+      "Setting hostname: jail2.my.domain"
+    ],
+    [
+      0.000431,
+      ".\r\n"
+    ],
+    [
+      0.031649,
+      "ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/local/lib\r\n"
+    ],
+    [
+      0.001338,
+      "32-bit compatibility ldconfig path: /usr/lib32\r\n"
+    ],
+    [
+      0.017470,
+      "Starting local_unbound.\r\n"
+    ],
+    [
+      0.022455,
+      "[1451161335] unbound[73005:0] warning: IPv6 protocol not available\r\n"
+    ],
+    [
+      0.002212,
+      "Waiting for nameserver to start..."
+    ],
+    [
+      0.017016,
+      " good\r\n"
+    ],
+    [
+      0.016358,
+      "Generating host.conf.\r\n"
+    ],
+    [
+      0.073138,
+      "Creating and/or trimming log files"
+    ],
+    [
+      0.010586,
+      ".\r\n"
+    ],
+    [
+      0.019007,
+      "Starting syslogd.\r\n"
+    ],
+    [
+      0.207880,
+      "Starting casperd.\r\n"
+    ],
+    [
+      0.034498,
+      "Clearing /tmp (X related).\r\n"
+    ],
+    [
+      0.097988,
+      "Updating motd:"
+    ],
+    [
+      0.007334,
+      ".\r\n"
+    ],
+    [
+      0.053042,
+      "Generating RSA1 host key.\r\n"
+    ],
+    [
+      0.153816,
+      "2048 49:5c:e5:a8:3f:d4:11:bd:9f:2b:e8:70:f8:cd:02:6b  root@jail2.my.domain (RSA1)\r\n"
+    ],
+    [
+      0.001774,
+      "Generating RSA host key.\r\n"
+    ],
+    [
+      0.072675,
+      "2048 ef:ca:9c:35:9d:86:71:f2:77:31:cb:a4:3b:c0:39:02  root@jail2.my.domain (RSA)\r\n"
+    ],
+    [
+      0.001781,
+      "Generating DSA host key.\r\n"
+    ],
+    [
+      0.123190,
+      "1024 c6:bd:5b:b1:7b:cd:6c:e3:80:53:b9:48:12:40:d8:d6  root@jail2.my.domain (DSA)\r\n"
+    ],
+    [
+      0.001770,
+      "Generating ECDSA host key.\r\n"
+    ],
+    [
+      0.008080,
+      "256 db:1c:41:cc:72:79:70:82:65:8d:d3:83:96:cf:3b:8b  root@jail2.my.domain (ECDSA)\r\n"
+    ],
+    [
+      0.001711,
+      "Generating ED25519 host key.\r\n"
+    ],
+    [
+      0.007744,
+      "256 55:25:c3:0f:a6:83:90:cd:d2:a0:1f:79:54:ae:ca:ef  root@jail2.my.domain (ED25519)\r\n"
+    ],
+    [
+      0.000345,
+      "Performing sanity check on sshd configuration.\r\n"
+    ],
+    [
+      0.008219,
+      "Starting sshd.\r\n"
+    ],
+    [
+      0.328830,
+      "Starting sendmail_submit.\r\n"
+    ],
+    [
+      0.014885,
+      "Starting sendmail_msp_queue.\r\n"
+    ],
+    [
+      0.035367,
+      "Starting cron.\r\n"
+    ],
+    [
+      0.206632,
+      "\r\n"
+    ],
+    [
+      0.001207,
+      "December 26, 2015 at 11:22:16 PM MSK\r\n"
+    ],
+    [
+      0.129479,
+      "\u001b[0;35mSetup: \u001b[0;32mFW counter\u001b[0m\r\n"
+    ],
+    [
+      0.011790,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.702527,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.159612,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.343942,
+      "c"
+    ],
+    [
+      0.215955,
+      "b"
+    ],
+    [
+      0.143989,
+      "s"
+    ],
+    [
+      0.096013,
+      "d"
+    ],
+    [
+      0.119845,
+      " "
+    ],
+    [
+      0.288120,
+      "j"
+    ],
+    [
+      0.055992,
+      "l"
+    ],
+    [
+      0.087881,
+      "s"
+    ],
+    [
+      0.135977,
+      "\r\n"
+    ],
+    [
+      0.097179,
+      "\u001b[1mJNAME  JID  IP4_ADDR     HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0mjail1  5    10.0.0.3/16  jail1.my.domain  /usr/jails/jails/jail1  On\r\n\u001b[0mjail2  6    10.0.0.4/16  jail2.my.domain  /usr/jails/jails/jail2  On\r\n\u001b[0mnginx  0    10.0.0.7/16  nginx.my.domain  /usr/jails/jails/nginx  Off\r\n"
+    ],
+    [
+      0.000977,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.086171,
+      "c"
+    ],
+    [
+      0.463739,
+      "b"
+    ],
+    [
+      0.087818,
+      "s"
+    ],
+    [
+      0.112041,
+      "d"
+    ],
+    [
+      0.047947,
+      " "
+    ],
+    [
+      0.912115,
+      "j"
+    ],
+    [
+      0.191853,
+      "s"
+    ],
+    [
+      0.231983,
+      "t"
+    ],
+    [
+      0.095969,
+      "o"
+    ],
+    [
+      0.056055,
+      "p"
+    ],
+    [
+      0.543928,
+      "\r\n"
+    ],
+    [
+      0.162980,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.003373,
+      "\u001b[1m1 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m2 .. \u001b[0;32mjail2 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1mEnter id 0-2 or jail name:\u001b[0m "
+    ],
+    [
+      1.633515,
+      "0"
+    ],
+    [
+      0.583919,
+      "\r\n"
+    ],
+    [
+      0.000850,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.727096,
+      "c"
+    ],
+    [
+      0.136053,
+      "b"
+    ],
+    [
+      0.119976,
+      "s"
+    ],
+    [
+      0.087919,
+      "d"
+    ],
+    [
+      0.056013,
+      " "
+    ],
+    [
+      0.647932,
+      "j"
+    ],
+    [
+      0.999974,
+      "s"
+    ],
+    [
+      0.287999,
+      "t"
+    ],
+    [
+      0.127994,
+      "a"
+    ],
+    [
+      0.144012,
+      "r"
+    ],
+    [
+      0.223824,
+      "t"
+    ],
+    [
+      0.104087,
+      " "
+    ],
+    [
+      0.575992,
+      "n"
+    ],
+    [
+      0.255988,
+      "g"
+    ],
+    [
+      0.135849,
+      "i"
+    ],
+    [
+      0.096013,
+      "n"
+    ],
+    [
+      0.528069,
+      "x"
+    ],
+    [
+      0.616006,
+      "\r\n"
+    ],
+    [
+      2.207135,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.059523,
+      "\u001b[0;35mStarting jail: \u001b[0;32mnginx, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      0.005600,
+      "nginx: created\r\n"
+    ],
+    [
+      0.254817,
+      "ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/local/lib\r\n"
+    ],
+    [
+      0.001335,
+      "32-bit compatibility ldconfig path: /usr/lib32\r\n"
+    ],
+    [
+      0.027318,
+      "Setting hostname: nginx.my.domain"
+    ],
+    [
+      0.000419,
+      ".\r\n"
+    ],
+    [
+      0.047694,
+      "Generating host.conf.\r\n"
+    ],
+    [
+      0.073166,
+      "Creating and/or trimming log files"
+    ],
+    [
+      0.011757,
+      ".\r\n"
+    ],
+    [
+      0.018195,
+      "Starting syslogd.\r\n"
+    ],
+    [
+      0.138853,
+      "Starting casperd.\r\n"
+    ],
+    [
+      0.035365,
+      "Clearing /tmp (X related).\r\n"
+    ],
+    [
+      0.097187,
+      "Updating motd:"
+    ],
+    [
+      0.007325,
+      ".\r\n"
+    ],
+    [
+      0.363688,
+      "Starting sendmail_submit.\r\n"
+    ],
+    [
+      0.015649,
+      "Starting sendmail_msp_queue.\r\n"
+    ],
+    [
+      0.031515,
+      "Starting cron.\r\n"
+    ],
+    [
+      0.212684,
+      "\r\n"
+    ],
+    [
+      0.001263,
+      "December 26, 2015 at 11:22:34 PM MSK\r\n"
+    ],
+    [
+      0.119331,
+      "\u001b[0;35mSetup: \u001b[0;32mFW counter\u001b[0m\r\n"
+    ],
+    [
+      0.016733,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.029037,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.375627,
+      "c"
+    ],
+    [
+      0.136003,
+      "b"
+    ],
+    [
+      0.127972,
+      "s"
+    ],
+    [
+      0.071993,
+      "d"
+    ],
+    [
+      0.063981,
+      " "
+    ],
+    [
+      0.280019,
+      "j"
+    ],
+    [
+      0.159949,
+      "s"
+    ],
+    [
+      0.224054,
+      "t"
+    ],
+    [
+      0.103985,
+      "o"
+    ],
+    [
+      0.048182,
+      "p"
+    ],
+    [
+      0.375717,
+      "\r\n"
+    ],
+    [
+      0.172548,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.003351,
+      "\u001b[1m1 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m2 .. \u001b[0;32mjail2 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m3 .. \u001b[0;32mnginx \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1mEnter id 0-3 or jail name:\u001b[0m "
+    ],
+    [
+      3.423854,
+      "2"
+    ],
+    [
+      0.663946,
+      "\r\n"
+    ],
+    [
+      0.359203,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.059013,
+      "\u001b[0;35mStoping jail: \u001b[0;32mjail2, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      2.415256,
+      "Stopping cron.\r\n"
+    ],
+    [
+      0.000349,
+      "Waiting for PIDS: 73136"
+    ],
+    [
+      0.000922,
+      ".\r\n"
+    ],
+    [
+      0.018595,
+      "Stopping sshd.\r\n"
+    ],
+    [
+      0.000400,
+      "Waiting for PIDS: 73101"
+    ],
+    [
+      0.000892,
+      ".\r\n"
+    ],
+    [
+      0.127998,
+      "Stopping casperd.\r\n"
+    ],
+    [
+      0.000355,
+      "Waiting for PIDS: 73041"
+    ],
+    [
+      0.000893,
+      ".\r\n"
+    ],
+    [
+      0.168033,
+      "Stopping local_unbound.\r\n"
+    ],
+    [
+      0.000349,
+      "Waiting for PIDS: 73006"
+    ],
+    [
+      0.006820,
+      ".\r\n"
+    ],
+    [
+      0.001512,
+      ".\r\n"
+    ],
+    [
+      0.000060,
+      "Terminated\r\n"
+    ],
+    [
+      0.008751,
+      "jail2: removed\r\n"
+    ],
+    [
+      0.205212,
+      "\u001b[0;35mUpdating: \u001b[0;32mpkg info\u001b[0m\r\n"
+    ],
+    [
+      0.673178,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.503793,
+      "c"
+    ],
+    [
+      0.151964,
+      "b"
+    ],
+    [
+      0.119980,
+      "s"
+    ],
+    [
+      0.087997,
+      "d"
+    ],
+    [
+      0.088040,
+      " "
+    ],
+    [
+      0.264421,
+      "j"
+    ],
+    [
+      0.071361,
+      "l"
+    ],
+    [
+      0.127991,
+      "s"
+    ],
+    [
+      0.271980,
+      "\r\n"
+    ],
+    [
+      0.099708,
+      "\u001b[1mJNAME  JID  IP4_ADDR     HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0mjail1  5    10.0.0.3/16  jail1.my.domain  /usr/jails/jails/jail1  On\r\n\u001b[0mjail2  0    10.0.0.4/16  jail2.my.domain  /usr/jails/jails/jail2  Off\r\n\u001b[0mnginx  7    10.0.0.7/16  nginx.my.domain  /usr/jails/jails/nginx  On\r\n"
+    ],
+    [
+      0.001057,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      0.771339,
+      "c"
+    ],
+    [
+      0.167869,
+      "b"
+    ],
+    [
+      0.119951,
+      "s"
+    ],
+    [
+      0.080155,
+      "d"
+    ],
+    [
+      0.055919,
+      " "
+    ],
+    [
+      0.191939,
+      "j"
+    ],
+    [
+      0.135977,
+      "s"
+    ],
+    [
+      0.215971,
+      "t"
+    ],
+    [
+      0.112164,
+      "o"
+    ],
+    [
+      0.063865,
+      "p"
+    ],
+    [
+      0.079944,
+      " "
+    ],
+    [
+      0.168026,
+      "j"
+    ],
+    [
+      0.071987,
+      "a"
+    ],
+    [
+      0.104118,
+      "i"
+    ],
+    [
+      0.199850,
+      "l"
+    ],
+    [
+      0.063942,
+      "1"
+    ],
+    [
+      0.176094,
+      " "
+    ],
+    [
+      0.512096,
+      "n"
+    ],
+    [
+      0.167565,
+      "g"
+    ],
+    [
+      0.096277,
+      "i"
+    ],
+    [
+      0.079711,
+      "n"
+    ],
+    [
+      0.120024,
+      "x"
+    ],
+    [
+      0.600160,
+      "\r\n"
+    ],
+    [
+      0.441221,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.068517,
+      "\u001b[0;35mStoping jail: \u001b[0;32mjail1, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      2.357089,
+      "Stopping cron.\r\n"
+    ],
+    [
+      0.000365,
+      "Waiting for PIDS: 72378"
+    ],
+    [
+      0.000886,
+      ".\r\n"
+    ],
+    [
+      0.144431,
+      "Stopping casperd.\r\n"
+    ],
+    [
+      0.000354,
+      "Waiting for PIDS: 72311"
+    ],
+    [
+      0.000897,
+      ".\r\n"
+    ],
+    [
+      0.164304,
+      ".\r\n"
+    ],
+    [
+      0.000064,
+      "Terminated\r\n"
+    ],
+    [
+      0.004795,
+      "jail1: removed\r\n"
+    ],
+    [
+      0.209335,
+      "\u001b[0;35mUpdating: \u001b[0;32mpkg info\u001b[0m\r\n"
+    ],
+    [
+      1.185276,
+      "\u001b[0;35mNIC automatically selected: \u001b[0;32mbce1\u001b[0m\r\n"
+    ],
+    [
+      0.073144,
+      "\u001b[0;35mStoping jail: \u001b[0;32mnginx, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      2.454057,
+      "Stopping cron.\r\n"
+    ],
+    [
+      0.000357,
+      "Waiting for PIDS: 73963"
+    ],
+    [
+      0.000871,
+      ".\r\n"
+    ],
+    [
+      0.213667,
+      "Stopping casperd.\r\n"
+    ],
+    [
+      0.000357,
+      "Waiting for PIDS: 73890"
+    ],
+    [
+      0.000890,
+      ".\r\n"
+    ],
+    [
+      0.110546,
+      ".\r\n"
+    ],
+    [
+      0.000100,
+      "Terminated\r\n"
+    ],
+    [
+      0.003707,
+      "nginx: removed\r\n"
+    ],
+    [
+      0.222501,
+      "\u001b[0;35mUpdating: \u001b[0;32mpkg info\u001b[0m\r\n"
+    ],
+    [
+      0.290766,
+      "\u001b[0;35mMultiple stop: \u001b[0;32mdone\u001b[0m\r\n"
+    ],
+    [
+      0.001565,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.241179,
+      "c"
+    ],
+    [
+      0.175845,
+      "b"
+    ],
+    [
+      0.103986,
+      "s"
+    ],
+    [
+      0.079983,
+      "d"
+    ],
+    [
+      0.063992,
+      " "
+    ],
+    [
+      0.096018,
+      "j"
+    ],
+    [
+      0.063967,
+      "l"
+    ],
+    [
+      0.088024,
+      "s"
+    ],
+    [
+      0.159972,
+      "\r\n"
+    ],
+    [
+      0.119821,
+      "\u001b[1mJNAME  JID  IP4_ADDR     HOST_HOSTNAME    PATH                    STATUS\u001b[0m\r\n\u001b[0mjail1  0    10.0.0.3/16  jail1.my.domain  /usr/jails/jails/jail1  Off\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0mjail2  0    10.0.0.4/16  jail2.my.domain  /usr/jails/jails/jail2  Off\r\n\u001b[0mnginx  0    10.0.0.7/16  nginx.my.domain  /usr/jails/jails/nginx  Off\r\n"
+    ],
+    [
+      0.001004,
+      "[root@1-test-dtrace-01x /]# "
+    ],
+    [
+      1.023124,
+      "exit\r\n"
+    ]
+  ]
+}
