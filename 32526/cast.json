@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "width": 208,
+  "height": 48,
+  "duration": 17.832047,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      2.311159,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000085,
+      "\u001b]2;apple@localhost: ~/projects/hazelcast-code-samples/hazelcast-integration/springboot-caching\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;..gboot-caching\u0007"
+    ],
+    [
+      0.194336,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ...hazelcast-code-samples/hazelcast-integration/springboot-caching \u001b[47m\u001b[34m\u001b[30m  springboot ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000089,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000034,
+      "\u001b[?2004h"
+    ],
+    [
+      0.963169,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.101932,
+      "\u0008\u001b[39m\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.122622,
+      "\u0008\u0008\u001b[4m.\u001b[4m/\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.290159,
+      "\u0008\u001b[4ms\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.123500,
+      "\u0008\u001b[4mt\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.147181,
+      "\u0008\u001b[4ma\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.224471,
+      "\u0008\u001b[4mr\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.178095,
+      "\u001b[?7l"
+    ],
+    [
+      0.000005,
+      "\u001b[31m......\u001b[39m\u001b[?7h"
+    ],
+    [
+      0.046509,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ...hazelcast-code-samples/hazelcast-integration/springboot-caching \u001b[47m\u001b[34m\u001b[30m  springboot ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m\u001b[4m./startBootiful\u001b[24m\u001b[K"
+    ],
+    [
+      1.003379,
+      "\u0008\u001b[4ml\u001b[4mM\u001b[24m"
+    ],
+    [
+      0.221269,
+      "\u001b[?7l"
+    ],
+    [
+      0.000024,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\u001b[?7h"
+    ],
+    [
+      0.019177,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ...hazelcast-code-samples/hazelcast-integration/springboot-caching \u001b[47m\u001b[34m\u001b[30m  springboot ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[32m./startBootifulMember.sh\u001b[39m\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.659273,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000072,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001127,
+      "\u001b]2;./startBootifulMember.sh\u0007\u001b]1;./startBootifulMember.sh\u0007"
+    ],
+    [
+      0.976520,
+      " \u001b[0;1;34;94m_\u001b[0m   \u001b[0;1;34;94m_\u001b[0m               \u001b[0;34m_\u001b[0m               \u001b[0;37m_\u001b[0m        \u001b[0;37m__\u001b[0;1;30;90m____\u001b[0m             \u001b[0;1;34;94m_\u001b[0m   \r\n\u001b[0;1;34;94m|\u001b[0m \u001b[0;1;34;94m|\u001b[0m \u001b[0;1;34;94m|\u001b[0m \u001b[0;1;34;94m|\u001b[0m             \u001b[0;34m|\u001b[0m \u001b[0;34m|\u001b[0m             \u001b[0;37m|\u001b[0m \u001b[0;37m|\u001b[0m    \u001b[0;1;30;90m_\u001b[0m  \u001b[0;1;30;90m|\u001b[0m \u001b[0;1;30;90m___\u001b[0m \u001b[0;1;30;90m\\\u001b[0m           \u001b[0;1;34;94m|\u001b[0m \u001b[0;1;34;94m|\u001b[0m  \r\n\u001b[0;34m|\u001b[0m \u001b[0;34m|_|\u001b[0m \u001b[0;34m|\u001b[0m \u001b[0;34m__\u001b[0m \u001b[0;34m_\u001b[0m \u001b[0;34m___\u001b[0;37m____|\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m___\u001b[0m \u001b[0;37m__\u001b[0m \u001b[0;37m_\u001b[0m \u001b[0;1;30;90m___|\u001b[0m \u001b[0;1;30;90m|_\u001b[0m \u001b[0;1;30;90m_|\u001b[0m \u001b[0;1;30;90m|_|\u001b[0m \u001b[0;1;34;94m|_/\u001b[0m \u001b[0;1;34;94m/\u001b[0m \u001b[0;1;34;94m___\u001b[0m   \u001b[0;1;34;94m___\u001b[0m \u001b[0;34m|\u001b[0m \u001b[0;34m|_\u001b[0m \r\n\u001b[0;34m|\u001b[0m  \u001b[0;34m_\u001b[0m  \u001b[0;34m|/\u001b[0m \u001b[0;37m_`\u001b[0m \u001b[0;37m|_\u001b[0m  \u001b[0;37m/\u001b[0m \u001b[0;37m_\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m|/\u001b[0m \u001b[0;1;30;90m__/\u001b[0m \u001b[0;1;30;90m_`\u001b[0m \u001b[0;1;30;90m/\u001b[0m \u001b[0;1;30;90m__|\u001b[0m \u001b[0;1;30;90m__\u001b[0;1;34;94m|_\u001b[0m   \u001b[0;1;34;94"
+    ],
+    [
+      0.000045,
+      "m_|\u001b[0m \u001b[0;1;34;94m___\u001b[0m \u001b[0;1;34;94m\\/\u001b[0m \u001b[0;1;34;94m_\u001b[0m \u001b[0;34m\\\u001b[0m \u001b[0;34m/\u001b[0m \u001b[0;34m_\u001b[0m \u001b[0;34m\\|\u001b[0m \u001b[0;34m__|\u001b[0m\r\n\u001b[0;37m|\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m(_|\u001b[0m \u001b[0;37m|/\u001b[0m \u001b[0;37m|\u001b[0m  \u001b[0;1;30;90m__|\u001b[0m \u001b[0;1;30;90m|\u001b[0m \u001b[0;1;30;90m(_|\u001b[0m \u001b[0;1;30;90m(_|\u001b[0m \u001b[0;1;34;94m\\__\u001b[0m \u001b[0;1;34;94m|\u001b[0m \u001b[0;1;34;94m|_\u001b[0m  \u001b[0;1;34;94m|_|\u001b[0m \u001b[0;1;34;94m|\u001b[0m \u001b[0;34m|_/\u001b[0m \u001b[0;34m|\u001b[0m \u001b[0;34m(_)\u001b[0m \u001b[0;34m|\u001b[0m \u001b[0;34m(_)\u001b[0m \u001b[0;37m|\u001b[0m \u001b[0;37m|_\u001b[0m \r\n\u001b[0;37m\\_|\u001b[0m \u001b[0;37m|_/\\\u001b[0;1;30;90m__,_/___\\___|_|\\\u001b[0;1;34;94m___\\__,_|___/\\__\u001b[0m      \u001b[0;34m\\____/\u001b[0m \u001b[0;34m\\__\u001b[0;37m_/\u001b[0m \u001b[0;37m\\___/\u001b[0m \u001b[0;37m\\__|\u001b[0m\r\n                                                                     \r\n                                                                     \r\n"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.061206,
+      "\u001b[2m2015-12-27 09:30:57.206\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.springboot.caching.BootifulMember   \u001b[0;39m \u001b[2m:\u001b[0;39m Starting BootifulMember on localhost with PID 4466 (/Users/apple/projects/hazelcast-code-samples/hazelcast-integration/springboot-caching/target/classes started by apple in /Users/apple/projects/hazelcast-code-samples/hazelcast-integration/springboot-caching)\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[2m2015-12-27 09:30:57.210\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.springboot.caching.BootifulMember   \u001b[0;39m \u001b[2m:\u001b[0;39m The following profiles are active: member\r\n"
+    ],
+    [
+      0.046425,
+      "\u001b[2m2015-12-27 09:30:57.257\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.c.a.AnnotationConfigApplicationContext\u001b[0;39m \u001b[2m:\u001b[0;39m Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4fb64261: startup date [Sun Dec 27 09:30:57 EST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.667613,
+      "\u001b[2m2015-12-27 09:30:57.924\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.config.XmlConfigLocator   \u001b[0;39m \u001b[2m:\u001b[0;39m Loading 'hazelcast.xml' from classpath.\r\n"
+    ],
+    [
+      0.332970,
+      "\u001b[2m2015-12-27 09:30:58.257\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.instance.DefaultAddressPicker       \u001b[0;39m \u001b[2m:\u001b[0;39m [LOCAL] [bootifulcluster] [3.6-SNAPSHOT] Prefer IPv4 stack is true.\r\n"
+    ],
+    [
+      0.035270,
+      "\u001b[2m2015-12-27 09:30:58.292\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.instance.DefaultAddressPicker       \u001b[0;39m \u001b[2m:\u001b[0;39m [LOCAL] [bootifulcluster] [3.6-SNAPSHOT] Picked Address[192.168.1.10]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true\r\n"
+    ],
+    [
+      0.214822,
+      "\u001b[2m2015-12-27 09:30:58.507\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.spi.OperationService      \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Backpressure is disabled\r\n"
+    ],
+    [
+      0.016252,
+      "\u001b[2m2015-12-27 09:30:58.523\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.s.i.o.c.ClassicOperationExecutor    \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Starting with 4 generic operation threads and 8 partition operation threads.\r\n"
+    ],
+    [
+      0.340057,
+      "\u001b[2m2015-12-27 09:30:58.864\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.system                    \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Hazelcast 3.6-SNAPSHOT (20151225 - cd8a633) starting at Address[192.168.1.10]:5701\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[2m2015-12-27 09:30:58.864\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.system                    \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Copyright (c) 2008-2015, Hazelcast, Inc. All Rights Reserved.\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[2m2015-12-27 09:30:58.864\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.system                    \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Configured Hazelcast Serialization version : 1\r\n"
+    ],
+    [
+      0.014204,
+      "\u001b[2m2015-12-27 09:30:58.878\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.instance.Node             \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Creating MulticastJoiner\r\n"
+    ],
+    [
+      0.004358,
+      "\u001b[2m2015-12-27 09:30:58.882\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.core.LifecycleService     \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Address[192.168.1.10]:5701 is STARTING\r\n"
+    ],
+    [
+      0.088058,
+      "\u001b[2m2015-12-27 09:30:58.970\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.n.t.n.NonBlockingIOThreadingModel   \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] TcpIpConnectionManager configured with Non Blocking IO-threading model: 3 input threads and 3 output threads\r\n"
+    ],
+    [
+      2.132481,
+      "\u001b[2m2015-12-27 09:31:01.103\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.cluster.impl.MulticastJoiner        \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] \r\n\r\n\r\nMembers [1] {\r\n\tMember [192.168.1.10]:5701 this\r\n}\r\n\r\n"
+    ],
+    [
+      0.030936,
+      "\u001b[2m2015-12-27 09:31:01.134\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mcom.hazelcast.core.LifecycleService     \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Address[192.168.1.10]:5701 is STARTED\r\n"
+    ],
+    [
+      0.143976,
+      "\u001b[2m2015-12-27 09:31:01.278\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.j.e.a.AnnotationMBeanExporter       \u001b[0;39m \u001b[2m:\u001b[0;39m Registering beans for JMX exposure on startup\r\n"
+    ],
+    [
+      0.007360,
+      "\u001b[2m2015-12-27 09:31:01.285\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mc.h.springboot.caching.BootifulMember   \u001b[0;39m \u001b[2m:\u001b[0;39m Started BootifulMember in 4.341 seconds (JVM running for 4.868)\r\n"
+    ],
+    [
+      2.593641,
+      "^C"
+    ],
+    [
+      0.001561,
+      "\u001b[2m2015-12-27 09:31:03.880\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[       Thread-1]\u001b[0;39m \u001b[36ms.c.a.AnnotationConfigApplicationContext\u001b[0;39m \u001b[2m:\u001b[0;39m Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4fb64261: startup date [Sun Dec 27 09:30:57 EST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[2m2015-12-27 09:31:03.880\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[.ShutdownThread]\u001b[0;39m \u001b[36mcom.hazelcast.instance.Node             \u001b[0;39m \u001b[2m:\u001b[0;39m [192.168.1.10]:5701 [bootifulcluster] [3.6-SNAPSHOT] Running shutdown hook... Current state: ACTIVE\r\n"
+    ],
+    [
+      0.001808,
+      "\u001b[2m2015-12-27 09:31:03.882\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m4466\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[       Thread-1]\u001b[0;39m \u001b[36mo.s.j.e.a.AnnotationMBeanExporter       \u001b[0;39m \u001b[2m:\u001b[0;39m Unregistering JMX-exposed beans on shutdown\r\n"
+    ],
+    [
+      0.043060,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000085,
+      "\u001b]2;apple@localhost: ~/projects/hazelcast-code-samples/hazelcast-integration/springboot-caching\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..gboot-caching\u0007"
+    ],
+    [
+      0.284497,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[41m\u001b[37m ✘ \u001b[44m\u001b[31m\u001b[37m ...hazelcast-code-samples/hazelcast-integration/springboot-caching \u001b[47m\u001b[34m\u001b[30m  springboot ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000040,
+      "\u001b[?2004h"
+    ],
+    [
+      3.151947,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
