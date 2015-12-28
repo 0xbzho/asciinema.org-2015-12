@@ -1,0 +1,4890 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 29,
+  "duration": 597.451041,
+  "command": "/bin/bash",
+  "title": "Ubuntu Precise LTS chroot install",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.051254,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      3.848381,
+      "m"
+    ],
+    [
+      0.192855,
+      "k"
+    ],
+    [
+      0.175471,
+      "d"
+    ],
+    [
+      0.127990,
+      "i"
+    ],
+    [
+      0.144047,
+      "r"
+    ],
+    [
+      0.240104,
+      " "
+    ],
+    [
+      0.175777,
+      "p"
+    ],
+    [
+      0.079728,
+      "r"
+    ],
+    [
+      0.080036,
+      "e"
+    ],
+    [
+      0.208479,
+      "c"
+    ],
+    [
+      0.111493,
+      "i"
+    ],
+    [
+      0.192615,
+      "s"
+    ],
+    [
+      0.239393,
+      "e"
+    ],
+    [
+      0.192502,
+      "\r\n"
+    ],
+    [
+      0.036123,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      1.019636,
+      "s"
+    ],
+    [
+      0.095590,
+      "u"
+    ],
+    [
+      0.128312,
+      "d"
+    ],
+    [
+      0.127611,
+      "o"
+    ],
+    [
+      0.112229,
+      " "
+    ],
+    [
+      0.111999,
+      "v"
+    ],
+    [
+      0.111937,
+      "i"
+    ],
+    [
+      0.096024,
+      " "
+    ],
+    [
+      0.304275,
+      "/"
+    ],
+    [
+      0.320246,
+      "e"
+    ],
+    [
+      0.236321,
+      "tc/"
+    ],
+    [
+      0.515794,
+      "s"
+    ],
+    [
+      0.223372,
+      "c"
+    ],
+    [
+      0.127848,
+      "h"
+    ],
+    [
+      0.156964,
+      "root/"
+    ],
+    [
+      0.835184,
+      "s"
+    ],
+    [
+      0.223864,
+      "c"
+    ],
+    [
+      0.205938,
+      "hroot.conf "
+    ],
+    [
+      0.594689,
+      "\r\n"
+    ],
+    [
+      0.010004,
+      "[sudo] password for bomba: "
+    ],
+    [
+      4.613446,
+      "\r\n"
+    ],
+    [
+      0.048685,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000520,
+      "\u001b[1;29r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[29;1H\"/etc/schroot/schroot.conf\""
+    ],
+    [
+      0.000255,
+      " 89L, 2122C"
+    ],
+    [
+      0.002052,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000616,
+      "\u001b[1;1H\u001b[34m# schroot chroot definitions.\r\n# See schroot.conf(5) for complete documentation of the file format.\r\n#\r\n# Please take note that you should not add untrusted users to\r\n# root-groups, because they will essentially have full root access\r\n# to your system.  They will only have root access inside the chroot,\r\n# but that's enough to cause malicious damage.\r\n#\r\n# The following lines are examples only.  Uncomment and alter them to\r\n# customise schroot for your needs, or create a new entry from scratch.\r\n#\r\n#\r\n#[sid]\r\n#description=Debian sid (unstable)\r\n#directory=/srv/chroot/sid\r\n#users=rleigh\r\n#groups=sbuild\r\n#root-groups=root\r\n#aliases=unstable,default\r\n#\r\n#[sid-snap]\r\n#type=lvm-snapshot\r\n#description=Debian sid LVM snapshot\r\n#groups=sbuild,root\r\n#root-users=rleigh\r\n#root-groups=root,sbuild\r\n#source-root-users=rleigh\r\n#device=/dev/hda_vg/sid_chroot\u001b[m\u001b[29;102H1,1\u001b[11CTop\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004415,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      1.096132,
+      "\u001b[?25l\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[34m#groups=sbuild-security\r\n#aliases=stable-security\r\n#\r\n#[experimental]\r\n#type=block-device\r\n#description=Debian experimental\r\n#groups=sbuild,root\r\n#root-groups=root,sbuild\r\n#device=/dev/hda_vg/experimental_chroot\r\n#mount-options=-o atime,sync,user_xattr\r\n#location=/experimental\u001b[m\r\n\r\n[trusty]\r\ndescription=Trusty Tahr\r\nlocation=/mnt/external/chroot/trusty\r\npriority=3\r\nusers=bomba\r\ngroups=compiler\r\nroot-groups=root\r\n\r\n[precise]\r\ndescription=Precise Pangolin\r\nlocation=/mnt/external/chroot/precise\r\npriority=3\r\nusers=bomba\r\ngroups=compiler\r\nroot-groups=root\u001b[29;102H89,0-1\u001b[8CBot\u001b[28;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.511504,
+      "\u001b[?25l\u001b[29;103H8,1  \u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208701,
+      "\u001b[?25l\u001b[29;103H7\u001b[26;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159357,
+      "\u001b[?25l\u001b[29;103H6\u001b[25;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160620,
+      "\u001b[?25l\u001b[29;103H5\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159443,
+      "\u001b[?25l\u001b[29;103H4\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.687769,
+      "\u0007\u001b[?25l\u001b[29;102H\u001b[K\u001b[29;1H:"
+    ],
+    [
+      0.000010,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.287942,
+      "q"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191881,
+      "\r"
+    ],
+    [
+      0.000620,
+      "\u001b[?25l"
+    ],
+    [
+      0.000027,
+      "\u001b[29;1H\u001b[K\u001b[29;1H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001602,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      9.438263,
+      "s"
+    ],
+    [
+      0.111751,
+      "u"
+    ],
+    [
+      0.127753,
+      "d"
+    ],
+    [
+      0.079969,
+      "o"
+    ],
+    [
+      0.127947,
+      " "
+    ],
+    [
+      0.112088,
+      "d"
+    ],
+    [
+      0.111930,
+      "e"
+    ],
+    [
+      0.448002,
+      "b"
+    ],
+    [
+      0.176540,
+      "o"
+    ],
+    [
+      0.127850,
+      "o"
+    ],
+    [
+      0.095684,
+      "t"
+    ],
+    [
+      0.464700,
+      "s"
+    ],
+    [
+      0.207832,
+      "t"
+    ],
+    [
+      0.127348,
+      "r"
+    ],
+    [
+      0.288108,
+      "a"
+    ],
+    [
+      0.128487,
+      "p"
+    ],
+    [
+      0.527883,
+      " "
+    ],
+    [
+      0.319596,
+      "-"
+    ],
+    [
+      0.128653,
+      "-"
+    ],
+    [
+      0.191518,
+      "v"
+    ],
+    [
+      0.191749,
+      "a"
+    ],
+    [
+      0.480127,
+      "i"
+    ],
+    [
+      0.079948,
+      "r"
+    ],
+    [
+      0.320451,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159566,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144071,
+      "r"
+    ],
+    [
+      0.144434,
+      "i"
+    ],
+    [
+      0.207904,
+      "a"
+    ],
+    [
+      0.320205,
+      "n"
+    ],
+    [
+      0.111565,
+      "t"
+    ],
+    [
+      0.511700,
+      "="
+    ],
+    [
+      0.336155,
+      "b"
+    ],
+    [
+      0.096021,
+      "u"
+    ],
+    [
+      0.176500,
+      "i"
+    ],
+    [
+      0.191573,
+      "l"
+    ],
+    [
+      0.175821,
+      "d"
+    ],
+    [
+      0.160282,
+      "d"
+    ],
+    [
+      1.392182,
+      " "
+    ],
+    [
+      0.351653,
+      "-"
+    ],
+    [
+      0.144011,
+      "-"
+    ],
+    [
+      0.256425,
+      "a"
+    ],
+    [
+      0.223840,
+      "r"
+    ],
+    [
+      0.207782,
+      "c"
+    ],
+    [
+      0.159793,
+      "h"
+    ],
+    [
+      0.560155,
+      " "
+    ],
+    [
+      0.160103,
+      "a"
+    ],
+    [
+      0.144299,
+      "m"
+    ],
+    [
+      0.159715,
+      "d"
+    ],
+    [
+      0.544488,
+      "6"
+    ],
+    [
+      0.223964,
+      "4"
+    ],
+    [
+      1.503539,
+      " "
+    ],
+    [
+      0.655990,
+      "p"
+    ],
+    [
+      0.064385,
+      "r"
+    ],
+    [
+      0.095203,
+      "e"
+    ],
+    [
+      0.224312,
+      "c"
+    ],
+    [
+      0.159953,
+      "i"
+    ],
+    [
+      0.111990,
+      "s"
+    ],
+    [
+      0.208495,
+      "e"
+    ],
+    [
+      0.815811,
+      " "
+    ],
+    [
+      1.135619,
+      "/"
+    ],
+    [
+      0.256031,
+      "m"
+    ],
+    [
+      0.160036,
+      "n"
+    ],
+    [
+      0.098679,
+      "t/"
+    ],
+    [
+      0.429330,
+      "e"
+    ],
+    [
+      0.255929,
+      "x"
+    ],
+    [
+      0.219130,
+      "ternal/"
+    ],
+    [
+      0.676974,
+      "c"
+    ],
+    [
+      0.176454,
+      "h"
+    ],
+    [
+      0.135945,
+      "root/"
+    ],
+    [
+      0.583447,
+      "p"
+    ],
+    [
+      0.096071,
+      "r"
+    ],
+    [
+      0.300530,
+      "\u0007"
+    ],
+    [
+      0.546704,
+      "\u0007"
+    ],
+    [
+      1.121305,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.303778,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.282403,
+      "trusty/"
+    ],
+    [
+      0.194515,
+      "\u0007"
+    ],
+    [
+      0.516095,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.174610,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160483,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159887,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143531,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160203,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176190,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.704392,
+      "p"
+    ],
+    [
+      0.239380,
+      "r"
+    ],
+    [
+      0.176004,
+      "r"
+    ],
+    [
+      0.496331,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.290924,
+      "\u0007"
+    ],
+    [
+      0.165602,
+      "\u0007"
+    ],
+    [
+      0.170603,
+      "\u0007"
+    ],
+    [
+      0.900942,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K"
+    ],
+    [
+      1.167562,
+      "m"
+    ],
+    [
+      0.432377,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159868,
+      "\u0007"
+    ],
+    [
+      0.320317,
+      "m"
+    ],
+    [
+      0.175497,
+      "v"
+    ],
+    [
+      0.255835,
+      " "
+    ],
+    [
+      0.192429,
+      "p"
+    ],
+    [
+      0.127657,
+      "r"
+    ],
+    [
+      0.293026,
+      "ecise/"
+    ],
+    [
+      0.922972,
+      " "
+    ],
+    [
+      0.335911,
+      "t"
+    ],
+    [
+      0.080096,
+      "r"
+    ],
+    [
+      0.128032,
+      "u"
+    ],
+    [
+      0.212036,
+      "\u0007"
+    ],
+    [
+      0.828012,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160389,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175554,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.656534,
+      "c"
+    ],
+    [
+      0.127466,
+      "h"
+    ],
+    [
+      0.132726,
+      "root/"
+    ],
+    [
+      1.099568,
+      "p"
+    ],
+    [
+      0.048007,
+      "r"
+    ],
+    [
+      0.096142,
+      "e"
+    ],
+    [
+      0.207801,
+      "c"
+    ],
+    [
+      0.063719,
+      "i"
+    ],
+    [
+      0.111777,
+      "s"
+    ],
+    [
+      0.160480,
+      "e"
+    ],
+    [
+      0.128000,
+      "\r\n"
+    ],
+    [
+      0.008954,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      1.542723,
+      "mv precise/ chroot/precise"
+    ],
+    [
+      0.192261,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008sudo vi /etc/schroot/schroot.conf "
+    ],
+    [
+      0.928274,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[8Pmv precise/ chroot/precise"
+    ],
+    [
+      0.191530,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.191990,
+      "\u0007"
+    ],
+    [
+      1.680492,
+      "sudo debootstrap --variant=buildd --arch amd64 precise /mnt/external/chroot/pr"
+    ],
+    [
+      0.891438,
+      "ecise/"
+    ],
+    [
+      1.732114,
+      "\r\n"
+    ],
+    [
+      0.038240,
+      "I: Retrieving Release \r\n"
+    ],
+    [
+      0.623344,
+      "I: Retrieving Release.gpg \r\n"
+    ],
+    [
+      0.319599,
+      "I: Checking Release signature\r\n"
+    ],
+    [
+      0.008984,
+      "I: Valid Release signature (key id 630239CC130E1A7FD81A27B140976EAF437D05B5)\r\n"
+    ],
+    [
+      0.043901,
+      "I: Retrieving Packages \r\n"
+    ],
+    [
+      9.381815,
+      "^C"
+    ],
+    [
+      0.000603,
+      "E: Interrupt caught ... exiting\r\n"
+    ],
+    [
+      0.001492,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      1.245990,
+      "sudo debootstrap --variant=buildd --arch amd64 precise /mnt/external/chroot/precise/"
+    ],
+    [
+      0.864129,
+      " "
+    ],
+    [
+      5.864621,
+      "h \r"
+    ],
+    [
+      0.000019,
+      "ttp://a"
+    ],
+    [
+      0.000027,
+      "r"
+    ],
+    [
+      0.000039,
+      "c"
+    ],
+    [
+      0.000061,
+      "hi"
+    ],
+    [
+      0.000135,
+      "ve"
+    ],
+    [
+      0.000009,
+      "."
+    ],
+    [
+      0.000028,
+      "u"
+    ],
+    [
+      0.000025,
+      "b"
+    ],
+    [
+      0.000034,
+      "u"
+    ],
+    [
+      0.000054,
+      "n"
+    ],
+    [
+      0.000035,
+      "t"
+    ],
+    [
+      0.000047,
+      "u"
+    ],
+    [
+      0.000041,
+      "."
+    ],
+    [
+      0.000041,
+      "c"
+    ],
+    [
+      0.000048,
+      "o"
+    ],
+    [
+      0.000009,
+      "m"
+    ],
+    [
+      0.000051,
+      "/"
+    ],
+    [
+      0.000023,
+      "u"
+    ],
+    [
+      0.000056,
+      "b"
+    ],
+    [
+      0.000012,
+      "u"
+    ],
+    [
+      0.000060,
+      "n"
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000039,
+      "u"
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      1.846163,
+      "\r\n"
+    ],
+    [
+      0.035111,
+      "I: Retrieving Release \r\n"
+    ],
+    [
+      0.827213,
+      "I: Retrieving Release.gpg "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.340911,
+      "I: Checking Release signature\r\n"
+    ],
+    [
+      0.003382,
+      "I: Valid Release signature (key id 630239CC130E1A7FD81A27B140976EAF437D05B5)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.052631,
+      "I: Retrieving Packages \r\n"
+    ],
+    [
+      12.339666,
+      "I: Validating Packages \r\n"
+    ],
+    [
+      1.187987,
+      "I: Resolving dependencies of required packages...\r\n"
+    ],
+    [
+      1.449226,
+      "I: Resolving dependencies of base packages...\r\n"
+    ],
+    [
+      4.562549,
+      "I: Checking component main on http://archive.ubuntu.com/ubuntu..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.525719,
+      "I: Retrieving adduser 3.113ubuntu2\r\n"
+    ],
+    [
+      0.861729,
+      "I: Validating adduser 3.113ubuntu2\r\n"
+    ],
+    [
+      0.010563,
+      "I: Retrieving apt 0.8.16~exp12ubuntu10\r\n"
+    ],
+    [
+      4.734585,
+      "I: Validating apt 0.8.16~exp12ubuntu10\r\n"
+    ],
+    [
+      0.015868,
+      "I: Retrieving base-files 6.5ubuntu6\r\n"
+    ],
+    [
+      0.655516,
+      "I: Validating base-files 6.5ubuntu6\r\n"
+    ],
+    [
+      0.010807,
+      "I: Retrieving base-passwd 3.5.24"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.581009,
+      "I: Validating base-passwd 3.5.24\r\n"
+    ],
+    [
+      0.010524,
+      "I: Retrieving bash 4.2-2ubuntu2"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      3.441484,
+      "I: Validating bash 4.2-2ubuntu2"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.013281,
+      "I: Retrieving binutils 2.22-6ubuntu1\r\n"
+    ],
+    [
+      12.432315,
+      "I: Validating binutils 2.22-6ubuntu1\r\n"
+    ],
+    [
+      0.033204,
+      "I: Retrieving bsdutils 1:2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.779907,
+      "I: Validating bsdutils 1:2.20.1-1ubuntu3"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.011952,
+      "I: Retrieving build-essential 11.5ubuntu2\r\n"
+    ],
+    [
+      0.454112,
+      "I: Validating build-essential 11.5ubuntu2"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.009305,
+      "I: Retrieving busybox-initramfs 1:1.18.5-1ubuntu4\r\n"
+    ],
+    [
+      1.396624,
+      "I: Validating busybox-initramfs 1:1.18.5-1ubuntu4\r\n"
+    ],
+    [
+      0.010759,
+      "I: Retrieving bzip2 1.0.6-1\r\n"
+    ],
+    [
+      0.457268,
+      "I: Validating bzip2 1.0.6-1\r\n"
+    ],
+    [
+      0.009740,
+      "I: Retrieving coreutils 8.13-3ubuntu3\r\n"
+    ],
+    [
+      16.296075,
+      "I: Validating coreutils 8.13-3ubuntu3"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.024636,
+      "I: Retrieving cpio 2.11-7ubuntu3\r\n"
+    ],
+    [
+      1.696771,
+      "I: Validating cpio 2.11-7ubuntu3"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.010824,
+      "I: Retrieving cpp 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.479110,
+      "I: Validating cpp 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.017470,
+      "I: Retrieving cpp-4.6 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      14.486832,
+      "I: Validating cpp-4.6 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.049113,
+      "I: Retrieving dash 0.5.7-2ubuntu2\r\n"
+    ],
+    [
+      0.960122,
+      "I: Validating dash 0.5.7-2ubuntu2\r\n"
+    ],
+    [
+      0.009371,
+      "I: Retrieving debconf 1.5.42ubuntu1\r\n"
+    ],
+    [
+      1.202456,
+      "I: Validating debconf 1.5.42ubuntu1"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.009696,
+      "I: Retrieving debianutils 4.2.1ubuntu2"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.774710,
+      "I: Validating debianutils 4.2.1ubuntu2"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.009570,
+      "I: Retrieving diffutils 1:3.2-1ubuntu1\r\n"
+    ],
+    [
+      1.337685,
+      "I: Validating diffutils 1:3.2-1ubuntu1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.016166,
+      "I: Retrieving dpkg 1.16.1.2ubuntu7\r\n"
+    ],
+    [
+      10.799955,
+      "I: Validating dpkg 1.16.1.2ubuntu7"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.029560,
+      "I: Retrieving dpkg-dev 1.16.1.2ubuntu7\r\n"
+    ],
+    [
+      2.545086,
+      "I: Validating dpkg-dev 1.16.1.2ubuntu7"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.012341,
+      "I: Retrieving e2fslibs 1.42-1ubuntu2\r\n"
+    ],
+    [
+      1.154386,
+      "I: Validating e2fslibs 1.42-1ubuntu2"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.011356,
+      "I: Retrieving e2fsprogs 1.42-1ubuntu2\r\n"
+    ],
+    [
+      6.658429,
+      "I: Validating e2fsprogs 1.42-1ubuntu2\r\n"
+    ],
+    [
+      0.017291,
+      "I: Retrieving fakeroot 1.18.2-1\r\n"
+    ],
+    [
+      0.908323,
+      "I: Validating fakeroot 1.18.2-1"
+    ],
+    [
+      0.000282,
+      "\r\n"
+    ],
+    [
+      0.011202,
+      "I: Retrieving findutils 4.4.2-4ubuntu1\r\n"
+    ],
+    [
+      2.280235,
+      "I: Validating findutils 4.4.2-4ubuntu1\r\n"
+    ],
+    [
+      0.012760,
+      "I: Retrieving g++ 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.324090,
+      "I: Validating g++ 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.016389,
+      "I: Retrieving g++-4.6 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      28.697782,
+      "I: Validating g++-4.6 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.080381,
+      "I: Retrieving gcc 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.349494,
+      "I: Validating gcc 4:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.016882,
+      "I: Retrieving gcc-4.6 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      31.456111,
+      "I: Validating gcc-4.6 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.074067,
+      "I: Retrieving gcc-4.6-base 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.454368,
+      "I: Validating gcc-4.6-base 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.010573,
+      "I: Retrieving gnupg 1.4.11-3ubuntu2\r\n"
+    ],
+    [
+      4.035277,
+      "I: Validating gnupg 1.4.11-3ubuntu2"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.020672,
+      "I: Retrieving gpgv 1.4.11-3ubuntu2\r\n"
+    ],
+    [
+      0.899780,
+      "I: Validating gpgv 1.4.11-3ubuntu2"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.019281,
+      "I: Retrieving grep 2.10-1\r\n"
+    ],
+    [
+      1.540516,
+      "I: Validating grep 2.10-1"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.024632,
+      "I: Retrieving gzip 1.4-1ubuntu2\r\n"
+    ],
+    [
+      0.742690,
+      "I: Validating gzip 1.4-1ubuntu2\r\n"
+    ],
+    [
+      0.010643,
+      "I: Retrieving hostname 3.06ubuntu1\r\n"
+    ],
+    [
+      0.563250,
+      "I: Validating hostname 3.06ubuntu1\r\n"
+    ],
+    [
+      0.017572,
+      "I: Retrieving ifupdown 0.7~beta2ubuntu8\r\n"
+    ],
+    [
+      0.728146,
+      "I: Validating ifupdown 0.7~beta2ubuntu8\r\n"
+    ],
+    [
+      0.019595,
+      "I: Retrieving initramfs-tools 0.99ubuntu13\r\n"
+    ],
+    [
+      0.580033,
+      "I: Validating initramfs-tools 0.99ubuntu13\r\n"
+    ],
+    [
+      0.017528,
+      "I: Retrieving initramfs-tools-bin 0.99ubuntu13\r\n"
+    ],
+    [
+      0.305654,
+      "I: Validating initramfs-tools-bin 0.99ubuntu13"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.026232,
+      "I: Retrieving initscripts 2.88dsf-13.10ubuntu11\r\n"
+    ],
+    [
+      0.610074,
+      "I: Validating initscripts 2.88dsf-13.10ubuntu11\r\n"
+    ],
+    [
+      0.021800,
+      "I: Retrieving insserv 1.14.0-2.1ubuntu2\r\n"
+    ],
+    [
+      0.716837,
+      "I: Validating insserv 1.14.0-2.1ubuntu2"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.016927,
+      "I: Retrieving iproute 20111117-1ubuntu2\r\n"
+    ],
+    [
+      2.102512,
+      "I: Validating iproute 20111117-1ubuntu2\r\n"
+    ],
+    [
+      0.028915,
+      "I: Retrieving klibc-utils 1.5.25-1ubuntu2"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.159538,
+      "I: Validating klibc-utils 1.5.25-1ubuntu2\r\n"
+    ],
+    [
+      0.011840,
+      "I: Retrieving libacl1 2.2.51-5ubuntu1\r\n"
+    ],
+    [
+      0.659910,
+      "I: Validating libacl1 2.2.51-5ubuntu1"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.031054,
+      "I: Retrieving libalgorithm-diff-perl 1.19.02-2"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.571092,
+      "I: Validating libalgorithm-diff-perl 1.19.02-2\r\n"
+    ],
+    [
+      0.026309,
+      "I: Retrieving libalgorithm-diff-xs-perl 0.04-2build2"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.399131,
+      "I: Validating libalgorithm-diff-xs-perl 0.04-2build2\r\n"
+    ],
+    [
+      0.012336,
+      "I: Retrieving libalgorithm-merge-perl 0.08-2\r\n"
+    ],
+    [
+      0.431264,
+      "I: Validating libalgorithm-merge-perl 0.08-2\r\n"
+    ],
+    [
+      0.024492,
+      "I: Retrieving libapt-pkg4.12 0.8.16~exp12ubuntu10\r\n"
+    ],
+    [
+      1.822834,
+      "I: Validating libapt-pkg4.12 0.8.16~exp12ubuntu10\r\n"
+    ],
+    [
+      0.029363,
+      "I: Retrieving libattr1 1:2.4.46-5ubuntu1\r\n"
+    ],
+    [
+      0.336511,
+      "I: Validating libattr1 1:2.4.46-5ubuntu1\r\n"
+    ],
+    [
+      0.021587,
+      "I: Retrieving libblkid1 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.608145,
+      "I: Validating libblkid1 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.025349,
+      "I: Retrieving libbz2-1.0 1.0.6-1\r\n"
+    ],
+    [
+      0.532033,
+      "I: Validating libbz2-1.0 1.0.6-1"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.010428,
+      "I: Retrieving libc-bin 2.15-0ubuntu10\r\n"
+    ],
+    [
+      4.304507,
+      "I: Validating libc-bin 2.15-0ubuntu10"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.033641,
+      "I: Retrieving libc-dev-bin 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.800325,
+      "I: Validating libc-dev-bin 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.031036,
+      "I: Retrieving libc6 2.15-0ubuntu10"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      19.295767,
+      "I: Validating libc6 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.061193,
+      "I: Retrieving libc6-dev 2.15-0ubuntu10\r\n"
+    ],
+    [
+      6.676496,
+      "I: Validating libc6-dev 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.038632,
+      "I: Retrieving libclass-isa-perl 0.36-3"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.501881,
+      "I: Validating libclass-isa-perl 0.36-3\r\n"
+    ],
+    [
+      0.028326,
+      "I: Retrieving libcomerr2 1.42-1ubuntu2\r\n"
+    ],
+    [
+      0.722450,
+      "I: Validating libcomerr2 1.42-1ubuntu2\r\n"
+    ],
+    [
+      0.013045,
+      "I: Retrieving libdb5.1 5.1.25-11build1\r\n"
+    ],
+    [
+      2.714126,
+      "I: Validating libdb5.1 5.1.25-11build1\r\n"
+    ],
+    [
+      0.029047,
+      "I: Retrieving libdbus-1-3 1.4.18-1ubuntu1\r\n"
+    ],
+    [
+      1.007453,
+      "I: Validating libdbus-1-3 1.4.18-1ubuntu1\r\n"
+    ],
+    [
+      0.027946,
+      "I: Retrieving libdpkg-perl 1.16.1.2ubuntu7"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.375613,
+      "I: Validating libdpkg-perl 1.16.1.2ubuntu7"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.013689,
+      "I: Retrieving libdrm-intel1 2.4.32-1ubuntu1\r\n"
+    ],
+    [
+      0.614285,
+      "I: Validating libdrm-intel1 2.4.32-1ubuntu1\r\n"
+    ],
+    [
+      0.013810,
+      "I: Retrieving libdrm-nouveau1a 2.4.32-1ubuntu1"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.607235,
+      "I: Validating libdrm-nouveau1a 2.4.32-1ubuntu1\r\n"
+    ],
+    [
+      0.011833,
+      "I: Retrieving libdrm-radeon1 2.4.32-1ubuntu1"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.984787,
+      "I: Validating libdrm-radeon1 2.4.32-1ubuntu1\r\n"
+    ],
+    [
+      0.009023,
+      "I: Retrieving libdrm2 2.4.32-1ubuntu1\r\n"
+    ],
+    [
+      0.447312,
+      "I: Validating libdrm2 2.4.32-1ubuntu1"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.016297,
+      "I: Retrieving libelf1 0.152-1ubuntu3\r\n"
+    ],
+    [
+      0.581439,
+      "I: Validating libelf1 0.152-1ubuntu3"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.013022,
+      "I: Retrieving libffi6 3.0.11~rc1-5"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.647040,
+      "I: Validating libffi6 3.0.11~rc1-5"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.008523,
+      "I: Retrieving libgcc1 1:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.728728,
+      "I: Validating libgcc1 1:4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.013067,
+      "I: Retrieving libgdbm3 1.8.3-10\r\n"
+    ],
+    [
+      0.469586,
+      "I: Validating libgdbm3 1.8.3-10\r\n"
+    ],
+    [
+      0.017660,
+      "I: Retrieving libglib2.0-0 2.32.1-0ubuntu2\r\n"
+    ],
+    [
+      4.229992,
+      "I: Validating libglib2.0-0 2.32.1-0ubuntu2\r\n"
+    ],
+    [
+      0.031546,
+      "I: Retrieving libgmp10 2:5.0.2+dfsg-2ubuntu1\r\n"
+    ],
+    [
+      1.520218,
+      "I: Validating libgmp10 2:5.0.2+dfsg-2ubuntu1\r\n"
+    ],
+    [
+      0.015956,
+      "I: Retrieving libgomp1 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.453536,
+      "I: Validating libgomp1 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.009679,
+      "I: Retrieving libklibc 1.5.25-1ubuntu2\r\n"
+    ],
+    [
+      0.661405,
+      "I: Validating libklibc 1.5.25-1ubuntu2\r\n"
+    ],
+    [
+      0.030375,
+      "I: Retrieving liblzma5 5.1.1alpha+20110809-3"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.586698,
+      "I: Validating liblzma5 5.1.1alpha+20110809-3\r\n"
+    ],
+    [
+      0.019687,
+      "I: Retrieving libmount1 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.657621,
+      "I: Validating libmount1 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.024335,
+      "I: Retrieving libmpc2 0.9-4\r\n"
+    ],
+    [
+      0.463003,
+      "I: Validating libmpc2 0.9-4\r\n"
+    ],
+    [
+      0.020277,
+      "I: Retrieving libmpfr4 3.1.0-3ubuntu2"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      1.215606,
+      "I: Validating libmpfr4 3.1.0-3ubuntu2\r\n"
+    ],
+    [
+      0.022265,
+      "I: Retrieving libncurses5 5.9-4\r\n"
+    ],
+    [
+      1.713108,
+      "I: Validating libncurses5 5.9-4\r\n"
+    ],
+    [
+      0.014591,
+      "I: Retrieving libncursesw5 5.9-4"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      1.661186,
+      "I: Validating libncursesw5 5.9-4"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.018598,
+      "I: Retrieving libnih-dbus1 1.0.3-4ubuntu9"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.588391,
+      "I: Validating libnih-dbus1 1.0.3-4ubuntu9\r\n"
+    ],
+    [
+      0.022076,
+      "I: Retrieving libnih1 1.0.3-4ubuntu9\r\n"
+    ],
+    [
+      0.871662,
+      "I: Validating libnih1 1.0.3-4ubuntu9\r\n"
+    ],
+    [
+      0.026489,
+      "I: Retrieving libpam-modules 1.1.3-7ubuntu2"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.516197,
+      "I: Validating libpam-modules 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.021555,
+      "I: Retrieving libpam-modules-bin 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.458428,
+      "I: Validating libpam-modules-bin 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.010764,
+      "I: Retrieving libpam-runtime 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.594368,
+      "I: Validating libpam-runtime 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.024509,
+      "I: Retrieving libpam0g 1.1.3-7ubuntu2\r\n"
+    ],
+    [
+      0.713095,
+      "I: Validating libpam0g 1.1.3-7ubuntu2"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.023130,
+      "I: Retrieving libpciaccess0 0.12.902-1\r\n"
+    ],
+    [
+      0.583746,
+      "I: Validating libpciaccess0 0.12.902-1"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.012509,
+      "I: Retrieving libpcre3 8.12-4\r\n"
+    ],
+    [
+      0.862356,
+      "I: Validating libpcre3 8.12-4\r\n"
+    ],
+    [
+      0.025753,
+      "I: Retrieving libplymouth2 0.8.2-2ubuntu30"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.792078,
+      "I: Validating libplymouth2 0.8.2-2ubuntu30"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.010514,
+      "I: Retrieving libpng12-0 1.2.46-3ubuntu4"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      1.009678,
+      "I: Validating libpng12-0 1.2.46-3ubuntu4"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.015734,
+      "I: Retrieving libquadmath0 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.775802,
+      "I: Validating libquadmath0 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.026732,
+      "I: Retrieving libreadline6 6.2-8\r\n"
+    ],
+    [
+      1.015912,
+      "I: Validating libreadline6 6.2-8\r\n"
+    ],
+    [
+      0.020653,
+      "I: Retrieving libselinux1 2.1.0-4.1ubuntu1"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.718158,
+      "I: Validating libselinux1 2.1.0-4.1ubuntu1"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.027473,
+      "I: Retrieving libslang2 2.2.4-3ubuntu1\r\n"
+    ],
+    [
+      3.818222,
+      "I: Validating libslang2 2.2.4-3ubuntu1\r\n"
+    ],
+    [
+      0.026258,
+      "I: Retrieving libss2 1.42-1ubuntu2\r\n"
+    ],
+    [
+      0.707183,
+      "I: Validating libss2 1.42-1ubuntu2\r\n"
+    ],
+    [
+      0.022792,
+      "I: Retrieving libssl1.0.0 1.0.1-4ubuntu3\r\n"
+    ],
+    [
+      5.136281,
+      "I: Validating libssl1.0.0 1.0.1-4ubuntu3"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.047003,
+      "I: Retrieving libstdc++6 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      1.651440,
+      "I: Validating libstdc++6 4.6.3-1ubuntu5"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.041249,
+      "I: Retrieving libstdc++6-4.6-dev 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      8.572109,
+      "I: Validating libstdc++6-4.6-dev 4.6.3-1ubuntu5\r\n"
+    ],
+    [
+      0.031300,
+      "I: Retrieving libswitch-perl 2.16-2"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.650856,
+      "I: Validating libswitch-perl 2.16-2\r\n"
+    ],
+    [
+      0.012746,
+      "I: Retrieving libtimedate-perl 1.2000-1\r\n"
+    ],
+    [
+      0.726891,
+      "I: Validating libtimedate-perl 1.2000-1"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.025677,
+      "I: Retrieving libtinfo5 5.9-4"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.769738,
+      "I: Validating libtinfo5 5.9-4\r\n"
+    ],
+    [
+      0.026269,
+      "I: Retrieving libudev0 175-0ubuntu9\r\n"
+    ],
+    [
+      0.471000,
+      "I: Validating libudev0 175-0ubuntu9\r\n"
+    ],
+    [
+      0.012113,
+      "I: Retrieving libusb-0.1-4 2:0.1.12-20\r\n"
+    ],
+    [
+      0.710537,
+      "I: Validating libusb-0.1-4 2:0.1.12-20\r\n"
+    ],
+    [
+      0.024781,
+      "I: Retrieving libuuid1 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.396146,
+      "I: Validating libuuid1 2.20.1-1ubuntu3"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.009788,
+      "I: Retrieving linux-libc-dev 3.2.0-23.36"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      3.005974,
+      "I: Validating linux-libc-dev 3.2.0-23.36"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.050679,
+      "I: Retrieving locales 2.13+git20120306-3"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      18.826955,
+      "I: Validating locales 2.13+git20120306-3"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.045222,
+      "I: Retrieving login 1:4.1.4.2+svn3283-3ubuntu5\r\n"
+    ],
+    [
+      1.143363,
+      "I: Validating login 1:4.1.4.2+svn3283-3ubuntu5"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.011641,
+      "I: Retrieving lsb-base 4.0-0ubuntu20\r\n"
+    ],
+    [
+      0.490025,
+      "I: Validating lsb-base 4.0-0ubuntu20\r\n"
+    ],
+    [
+      0.010266,
+      "I: Retrieving make 3.81-8.1ubuntu1\r\n"
+    ],
+    [
+      1.155028,
+      "I: Validating make 3.81-8.1ubuntu1\r\n"
+    ],
+    [
+      0.010228,
+      "I: Retrieving makedev 2.3.1-89ubuntu2\r\n"
+    ],
+    [
+      0.486832,
+      "I: Validating makedev 2.3.1-89ubuntu2\r\n"
+    ],
+    [
+      0.010736,
+      "I: Retrieving manpages 3.35-0.1ubuntu1\r\n"
+    ],
+    [
+      3.662865,
+      "I: Validating manpages 3.35-0.1ubuntu1\r\n"
+    ],
+    [
+      0.013283,
+      "I: Retrieving manpages-dev 3.35-0.1ubuntu1\r\n"
+    ],
+    [
+      8.503170,
+      "I: Validating manpages-dev 3.35-0.1ubuntu1\r\n"
+    ],
+    [
+      0.026481,
+      "I: Retrieving mawk 1.3.3-17"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      1.180763,
+      "I: Validating mawk 1.3.3-17\r\n"
+    ],
+    [
+      0.009638,
+      "I: Retrieving module-init-tools 3.16-1ubuntu2\r\n"
+    ],
+    [
+      0.840729,
+      "I: Validating module-init-tools 3.16-1ubuntu2\r\n"
+    ],
+    [
+      0.009504,
+      "I: Retrieving mount 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.972872,
+      "I: Validating mount 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.011209,
+      "I: Retrieving mountall 2.36\r\n"
+    ],
+    [
+      0.868604,
+      "I: Validating mountall 2.36"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.019087,
+      "I: Retrieving multiarch-support 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.333244,
+      "I: Validating multiarch-support 2.15-0ubuntu10\r\n"
+    ],
+    [
+      0.009833,
+      "I: Retrieving ncurses-base 5.9-4"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.463059,
+      "I: Validating ncurses-base 5.9-4\r\n"
+    ],
+    [
+      0.015302,
+      "I: Retrieving ncurses-bin 5.9-4"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.011975,
+      "I: Validating ncurses-bin 5.9-4\r\n"
+    ],
+    [
+      0.010945,
+      "I: Retrieving netbase 4.47ubuntu1\r\n"
+    ],
+    [
+      0.567193,
+      "I: Validating netbase 4.47ubuntu1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.009913,
+      "I: Retrieving passwd 1:4.1.4.2+svn3283-3ubuntu5"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      4.857605,
+      "I: Validating passwd 1:4.1.4.2+svn3283-3ubuntu5\r\n"
+    ],
+    [
+      0.016446,
+      "I: Retrieving patch 2.6.1-3\r\n"
+    ],
+    [
+      0.789707,
+      "I: Validating patch 2.6.1-3\r\n"
+    ],
+    [
+      0.010837,
+      "I: Retrieving perl 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      30.952684,
+      "I: Validating perl 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      0.078751,
+      "I: Retrieving perl-base 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      5.924213,
+      "I: Validating perl-base 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      0.045369,
+      "I: Retrieving perl-modules 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      20.567904,
+      "I: Validating perl-modules 5.14.2-6ubuntu2\r\n"
+    ],
+    [
+      0.033128,
+      "I: Retrieving plymouth 0.8.2-2ubuntu30\r\n"
+    ],
+    [
+      0.869027,
+      "I: Validating plymouth 0.8.2-2ubuntu30\r\n"
+    ],
+    [
+      0.020170,
+      "I: Retrieving procps 1:3.2.8-11ubuntu6\r\n"
+    ],
+    [
+      2.406759,
+      "I: Validating procps 1:3.2.8-11ubuntu6"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.011686,
+      "I: Retrieving python-minimal 2.7.3-0ubuntu2\r\n"
+    ],
+    [
+      0.639498,
+      "I: Validating python-minimal 2.7.3-0ubuntu2\r\n"
+    ],
+    [
+      0.012542,
+      "I: Retrieving python2.7-minimal 2.7.3-0ubuntu3\r\n"
+    ],
+    [
+      9.309179,
+      "I: Validating python2.7-minimal 2.7.3-0ubuntu3\r\n"
+    ],
+    [
+      0.020700,
+      "I: Retrieving readline-common 6.2-8\r\n"
+    ],
+    [
+      0.848527,
+      "I: Validating readline-common 6.2-8\r\n"
+    ],
+    [
+      0.016118,
+      "I: Retrieving sed 4.2.1-9\r\n"
+    ],
+    [
+      1.148783,
+      "I: Validating sed 4.2.1-9\r\n"
+    ],
+    [
+      0.019084,
+      "I: Retrieving sensible-utils 0.0.6ubuntu2\r\n"
+    ],
+    [
+      0.329443,
+      "I: Validating sensible-utils 0.0.6ubuntu2"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.012561,
+      "I: Retrieving sysv-rc 2.88dsf-13.10ubuntu11\r\n"
+    ],
+    [
+      0.744189,
+      "I: Validating sysv-rc 2.88dsf-13.10ubuntu11\r\n"
+    ],
+    [
+      0.008745,
+      "I: Retrieving sysvinit-utils 2.88dsf-13.10ubuntu11\r\n"
+    ],
+    [
+      0.873610,
+      "I: Validating sysvinit-utils 2.88dsf-13.10ubuntu11"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.009355,
+      "I: Retrieving tar 1.26-4ubuntu1"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      1.402271,
+      "I: Validating tar 1.26-4ubuntu1\r\n"
+    ],
+    [
+      0.026859,
+      "I: Retrieving tzdata 2012b-1\r\n"
+    ],
+    [
+      3.898354,
+      "I: Validating tzdata 2012b-1\r\n"
+    ],
+    [
+      0.021228,
+      "I: Retrieving ubuntu-keyring 2011.11.21\r\n"
+    ],
+    [
+      0.307354,
+      "I: Validating ubuntu-keyring 2011.11.21\r\n"
+    ],
+    [
+      0.009050,
+      "I: Retrieving udev 175-0ubuntu9\r\n"
+    ],
+    [
+      4.351210,
+      "I: Validating udev 175-0ubuntu9\r\n"
+    ],
+    [
+      0.012084,
+      "I: Retrieving upstart 1.5-0ubuntu5"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      2.396080,
+      "I: Validating upstart 1.5-0ubuntu5\r\n"
+    ],
+    [
+      0.020267,
+      "I: Retrieving util-linux 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      3.397020,
+      "I: Validating util-linux 2.20.1-1ubuntu3\r\n"
+    ],
+    [
+      0.013791,
+      "I: Retrieving xz-utils 5.1.1alpha+20110809-3\r\n"
+    ],
+    [
+      1.004472,
+      "I: Validating xz-utils 5.1.1alpha+20110809-3\r\n"
+    ],
+    [
+      0.010836,
+      "I: Retrieving zlib1g 1:1.2.3.4.dfsg-3ubuntu4\r\n"
+    ],
+    [
+      0.590497,
+      "I: Validating zlib1g 1:1.2.3.4.dfsg-3ubuntu4\r\n"
+    ],
+    [
+      0.006315,
+      "I: Chosen extractor for .deb packages: dpkg-deb\r\n"
+    ],
+    [
+      0.029314,
+      "I: Extracting adduser...\r\n"
+    ],
+    [
+      0.009968,
+      "I: Extracting base-files...\r\n"
+    ],
+    [
+      0.005541,
+      "I: Extracting base-passwd...\r\n"
+    ],
+    [
+      0.005376,
+      "I: Extracting bash...\r\n"
+    ],
+    [
+      0.013725,
+      "I: Extracting bsdutils..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.003868,
+      "I: Extracting busybox-initramfs...\r\n"
+    ],
+    [
+      0.008830,
+      "I: Extracting coreutils..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.046867,
+      "I: Extracting cpio..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.005274,
+      "I: Extracting dash...\r\n"
+    ],
+    [
+      0.004977,
+      "I: Extracting debconf...\r\n"
+    ],
+    [
+      0.036503,
+      "I: Extracting debianutils..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.004253,
+      "I: Extracting diffutils...\r\n"
+    ],
+    [
+      0.005903,
+      "I: Extracting dpkg...\r\n"
+    ],
+    [
+      0.043058,
+      "I: Extracting e2fslibs...\r\n"
+    ],
+    [
+      0.006366,
+      "I: Extracting e2fsprogs...\r\n"
+    ],
+    [
+      0.023367,
+      "I: Extracting findutils..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.009257,
+      "I: Extracting gcc-4.6-base...\r\n"
+    ],
+    [
+      0.004371,
+      "I: Extracting grep...\r\n"
+    ],
+    [
+      0.007635,
+      "I: Extracting gzip...\r\n"
+    ],
+    [
+      0.004847,
+      "I: Extracting hostname...\r\n"
+    ],
+    [
+      0.004629,
+      "I: Extracting ifupdown...\r\n"
+    ],
+    [
+      0.005963,
+      "I: Extracting initramfs-tools...\r\n"
+    ],
+    [
+      0.004618,
+      "I: Extracting initramfs-tools-bin...\r\n"
+    ],
+    [
+      0.005157,
+      "I: Extracting initscripts...\r\n"
+    ],
+    [
+      0.004323,
+      "I: Extracting insserv...\r\n"
+    ],
+    [
+      0.004096,
+      "I: Extracting iproute...\r\n"
+    ],
+    [
+      0.015801,
+      "I: Extracting klibc-utils...\r\n"
+    ],
+    [
+      0.007108,
+      "I: Extracting libacl1..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.003383,
+      "I: Extracting libattr1...\r\n"
+    ],
+    [
+      0.003340,
+      "I: Extracting libblkid1...\r\n"
+    ],
+    [
+      0.004126,
+      "I: Extracting libbz2-1.0..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.003596,
+      "I: Extracting libc-bin..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.028239,
+      "I: Extracting libc6...\r\n"
+    ],
+    [
+      0.090972,
+      "I: Extracting libcomerr2...\r\n"
+    ],
+    [
+      0.003540,
+      "I: Extracting libdb5.1...\r\n"
+    ],
+    [
+      0.024663,
+      "I: Extracting libdbus-1-3..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.007124,
+      "I: Extracting libdrm-intel1...\r\n"
+    ],
+    [
+      0.003747,
+      "I: Extracting libdrm-nouveau1a...\r\n"
+    ],
+    [
+      0.003200,
+      "I: Extracting libdrm-radeon1...\r\n"
+    ],
+    [
+      0.003635,
+      "I: Extracting libdrm2...\r\n"
+    ],
+    [
+      0.006440,
+      "I: Extracting libelf1...\r\n"
+    ],
+    [
+      0.006077,
+      "I: Extracting libffi6..."
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.006879,
+      "I: Extracting libgcc1...\r\n"
+    ],
+    [
+      0.003761,
+      "I: Extracting libglib2.0-0...\r\n"
+    ],
+    [
+      0.028905,
+      "I: Extracting libklibc...\r\n"
+    ],
+    [
+      0.006267,
+      "I: Extracting liblzma5...\r\n"
+    ],
+    [
+      0.002954,
+      "I: Extracting libmount1...\r\n"
+    ],
+    [
+      0.004526,
+      "I: Extracting libncurses5...\r\n"
+    ],
+    [
+      0.006185,
+      "I: Extracting libncursesw5...\r\n"
+    ],
+    [
+      0.005765,
+      "I: Extracting libnih-dbus1...\r\n"
+    ],
+    [
+      0.003179,
+      "I: Extracting libnih1...\r\n"
+    ],
+    [
+      0.004196,
+      "I: Extracting libpam-modules...\r\n"
+    ],
+    [
+      0.009026,
+      "I: Extracting libpam-modules-bin...\r\n"
+    ],
+    [
+      0.006699,
+      "I: Extracting libpam-runtime...\r\n"
+    ],
+    [
+      0.005044,
+      "I: Extracting libpam0g...\r\n"
+    ],
+    [
+      0.003585,
+      "I: Extracting libpciaccess0...\r\n"
+    ],
+    [
+      0.003091,
+      "I: Extracting libpcre3...\r\n"
+    ],
+    [
+      0.005197,
+      "I: Extracting libplymouth2...\r\n"
+    ],
+    [
+      0.005101,
+      "I: Extracting libpng12-0...\r\n"
+    ],
+    [
+      0.006606,
+      "I: Extracting libselinux1...\r\n"
+    ],
+    [
+      0.004567,
+      "I: Extracting libslang2...\r\n"
+    ],
+    [
+      0.013466,
+      "I: Extracting libss2...\r\n"
+    ],
+    [
+      0.003397,
+      "I: Extracting libssl1.0.0...\r\n"
+    ],
+    [
+      0.026918,
+      "I: Extracting libtinfo5...\r\n"
+    ],
+    [
+      0.004669,
+      "I: Extracting libudev0..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.002942,
+      "I: Extracting libuuid1...\r\n"
+    ],
+    [
+      0.005843,
+      "I: Extracting locales...\r\n"
+    ],
+    [
+      0.061879,
+      "I: Extracting login...\r\n"
+    ],
+    [
+      0.008226,
+      "I: Extracting lsb-base...\r\n"
+    ],
+    [
+      0.003459,
+      "I: Extracting makedev...\r\n"
+    ],
+    [
+      0.003445,
+      "I: Extracting mawk...\r\n"
+    ],
+    [
+      0.004490,
+      "I: Extracting module-init-tools...\r\n"
+    ],
+    [
+      0.004910,
+      "I: Extracting mount..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.005971,
+      "I: Extracting mountall...\r\n"
+    ],
+    [
+      0.005708,
+      "I: Extracting multiarch-support...\r\n"
+    ],
+    [
+      0.003407,
+      "I: Extracting ncurses-base..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.005563,
+      "I: Extracting ncurses-bin...\r\n"
+    ],
+    [
+      0.005962,
+      "I: Extracting passwd...\r\n"
+    ],
+    [
+      0.019141,
+      "I: Extracting perl-base...\r\n"
+    ],
+    [
+      0.057207,
+      "I: Extracting plymouth...\r\n"
+    ],
+    [
+      0.006538,
+      "I: Extracting procps...\r\n"
+    ],
+    [
+      0.007870,
+      "I: Extracting python-minimal...\r\n"
+    ],
+    [
+      0.003533,
+      "I: Extracting python2.7-minimal...\r\n"
+    ],
+    [
+      0.043931,
+      "I: Extracting sed...\r\n"
+    ],
+    [
+      0.004505,
+      "I: Extracting sensible-utils...\r\n"
+    ],
+    [
+      0.003432,
+      "I: Extracting sysv-rc...\r\n"
+    ],
+    [
+      0.003949,
+      "I: Extracting sysvinit-utils...\r\n"
+    ],
+    [
+      0.006044,
+      "I: Extracting tar...\r\n"
+    ],
+    [
+      0.007198,
+      "I: Extracting tzdata..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.047044,
+      "I: Extracting udev...\r\n"
+    ],
+    [
+      0.011547,
+      "I: Extracting upstart...\r\n"
+    ],
+    [
+      0.009599,
+      "I: Extracting util-linux...\r\n"
+    ],
+    [
+      0.018741,
+      "I: Extracting xz-utils...\r\n"
+    ],
+    [
+      0.004982,
+      "I: Extracting zlib1g...\r\n"
+    ],
+    [
+      0.199041,
+      "I: Installing core packages...\r\n"
+    ],
+    [
+      2.932496,
+      "I: Unpacking required packages...\r\n"
+    ],
+    [
+      0.046489,
+      "I: Unpacking adduser..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.045202,
+      "I: Unpacking base-files..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.044711,
+      "I: Unpacking base-passwd..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.037507,
+      "I: Unpacking bash..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.073783,
+      "I: Unpacking bsdutils..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.027547,
+      "I: Unpacking busybox-initramfs...\r\n"
+    ],
+    [
+      0.036197,
+      "I: Unpacking coreutils..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.333358,
+      "I: Unpacking cpio...\r\n"
+    ],
+    [
+      0.038322,
+      "I: Unpacking dash...\r\n"
+    ],
+    [
+      0.128210,
+      "I: Unpacking debconf...\r\n"
+    ],
+    [
+      0.388739,
+      "I: Unpacking debianutils..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.045357,
+      "I: Unpacking diffutils..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.049041,
+      "I: Unpacking dpkg...\r\n"
+    ],
+    [
+      0.871069,
+      "I: Unpacking e2fslibs...\r\n"
+    ],
+    [
+      0.163254,
+      "I: Unpacking e2fsprogs...\r\n"
+    ],
+    [
+      0.090943,
+      "I: Unpacking findutils...\r\n"
+    ],
+    [
+      0.044937,
+      "I: Unpacking gcc-4.6-base...\r\n"
+    ],
+    [
+      0.039943,
+      "I: Unpacking grep...\r\n"
+    ],
+    [
+      0.539667,
+      "I: Unpacking gzip...\r\n"
+    ],
+    [
+      0.035991,
+      "I: Unpacking hostname...\r\n"
+    ],
+    [
+      0.030720,
+      "I: Unpacking ifupdown..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.046299,
+      "I: Unpacking initramfs-tools..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.052377,
+      "I: Unpacking initramfs-tools-bin...\r\n"
+    ],
+    [
+      0.027794,
+      "I: Unpacking initscripts..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.037110,
+      "I: Unpacking insserv...\r\n"
+    ],
+    [
+      0.032527,
+      "I: Unpacking iproute..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.056605,
+      "I: Unpacking klibc-utils..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.039021,
+      "I: Unpacking libacl1..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.029522,
+      "I: Unpacking libattr1...\r\n"
+    ],
+    [
+      0.031388,
+      "I: Unpacking libblkid1...\r\n"
+    ],
+    [
+      0.033074,
+      "I: Unpacking libbz2-1.0..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.069224,
+      "I: Unpacking libc-bin...\r\n"
+    ],
+    [
+      0.346001,
+      "I: Unpacking libc6..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      1.479424,
+      "I: Unpacking libcomerr2..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.030331,
+      "I: Unpacking libdb5.1..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.153814,
+      "I: Unpacking libdbus-1-3...\r\n"
+    ],
+    [
+      0.040071,
+      "I: Unpacking libdrm-intel1..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.031967,
+      "I: Unpacking libdrm-nouveau1a...\r\n"
+    ],
+    [
+      0.032431,
+      "I: Unpacking libdrm-radeon1..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.029579,
+      "I: Unpacking libdrm2..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.027955,
+      "I: Unpacking libelf1..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.031607,
+      "I: Unpacking libffi6..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.029344,
+      "I: Unpacking libgcc1..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.035696,
+      "I: Unpacking libglib2.0-0..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.397649,
+      "I: Unpacking libklibc..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.147157,
+      "I: Unpacking liblzma5..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.032677,
+      "I: Unpacking libmount1..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.035263,
+      "I: Unpacking libncurses5..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.190491,
+      "I: Unpacking libncursesw5..."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.038387,
+      "I: Unpacking libnih-dbus1..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.028181,
+      "I: Unpacking libnih1...\r\n"
+    ],
+    [
+      0.032459,
+      "I: Unpacking libpam-modules..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.110535,
+      "I: Unpacking libpam-modules-bin...\r\n"
+    ],
+    [
+      0.035464,
+      "I: Unpacking libpam-runtime..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.274899,
+      "I: Unpacking libpam0g...\r\n"
+    ],
+    [
+      0.063385,
+      "I: Unpacking libpciaccess0..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.028093,
+      "I: Unpacking libpcre3...\r\n"
+    ],
+    [
+      0.040483,
+      "I: Unpacking libplymouth2..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.034216,
+      "I: Unpacking libpng12-0...\r\n"
+    ],
+    [
+      0.035162,
+      "I: Unpacking libselinux1...\r\n"
+    ],
+    [
+      0.032187,
+      "I: Unpacking libslang2...\r\n"
+    ],
+    [
+      0.069965,
+      "I: Unpacking libss2...\r\n"
+    ],
+    [
+      0.079399,
+      "I: Unpacking libssl1.0.0...\r\n"
+    ],
+    [
+      0.290899,
+      "I: Unpacking libtinfo5...\r\n"
+    ],
+    [
+      0.113392,
+      "I: Unpacking libudev0...\r\n"
+    ],
+    [
+      0.091749,
+      "I: Unpacking libuuid1...\r\n"
+    ],
+    [
+      0.267682,
+      "I: Unpacking locales...\r\n"
+    ],
+    [
+      0.766612,
+      "I: Unpacking login...\r\n"
+    ],
+    [
+      0.245758,
+      "I: Unpacking lsb-base..."
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.026536,
+      "I: Unpacking makedev..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.046833,
+      "I: Unpacking mawk...\r\n"
+    ],
+    [
+      0.040901,
+      "I: Unpacking module-init-tools...\r\n"
+    ],
+    [
+      0.046000,
+      "I: Unpacking mount..."
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.041622,
+      "I: Unpacking mountall..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.037950,
+      "I: Unpacking multiarch-support..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.024323,
+      "I: Unpacking ncurses-base..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.036445,
+      "I: Unpacking ncurses-bin...\r\n"
+    ],
+    [
+      0.040848,
+      "I: Unpacking passwd...\r\n"
+    ],
+    [
+      0.613718,
+      "I: Unpacking perl-base...\r\n"
+    ],
+    [
+      0.390910,
+      "I: Unpacking plymouth...\r\n"
+    ],
+    [
+      0.045057,
+      "I: Unpacking procps...\r\n"
+    ],
+    [
+      0.156755,
+      "I: Unpacking python-minimal...\r\n"
+    ],
+    [
+      0.037008,
+      "I: Unpacking python2.7-minimal...\r\n"
+    ],
+    [
+      0.549130,
+      "I: Unpacking sed...\r\n"
+    ],
+    [
+      0.033334,
+      "I: Unpacking sensible-utils...\r\n"
+    ],
+    [
+      0.037216,
+      "I: Unpacking sysv-rc...\r\n"
+    ],
+    [
+      0.035593,
+      "I: Unpacking sysvinit-utils...\r\n"
+    ],
+    [
+      0.036805,
+      "I: Unpacking tar..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.048105,
+      "I: Unpacking tzdata...\r\n"
+    ],
+    [
+      0.442140,
+      "I: Unpacking udev...\r\n"
+    ],
+    [
+      0.081759,
+      "I: Unpacking upstart...\r\n"
+    ],
+    [
+      0.066748,
+      "I: Unpacking util-linux...\r\n"
+    ],
+    [
+      0.160575,
+      "I: Unpacking xz-utils...\r\n"
+    ],
+    [
+      0.113158,
+      "I: Unpacking zlib1g...\r\n"
+    ],
+    [
+      0.440138,
+      "I: Configuring required packages...\r\n"
+    ],
+    [
+      0.017937,
+      "I: Configuring ncurses-base...\r\n"
+    ],
+    [
+      0.006650,
+      "I: Configuring sensible-utils...\r\n"
+    ],
+    [
+      0.010011,
+      "I: Configuring libklibc...\r\n"
+    ],
+    [
+      0.006579,
+      "I: Configuring klibc-utils...\r\n"
+    ],
+    [
+      0.017020,
+      "I: Configuring libc-bin..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.008599,
+      "I: Configuring gcc-4.6-base...\r\n"
+    ],
+    [
+      0.006985,
+      "I: Configuring perl-base...\r\n"
+    ],
+    [
+      0.015469,
+      "I: Configuring debconf...\r\n"
+    ],
+    [
+      0.307252,
+      "I: Configuring tzdata...\r\n"
+    ],
+    [
+      1.129674,
+      "I: Configuring libc6..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.296835,
+      "I: Configuring debianutils...\r\n"
+    ],
+    [
+      0.012831,
+      "I: Configuring bsdutils..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.017549,
+      "I: Configuring tar...\r\n"
+    ],
+    [
+      0.016808,
+      "I: Configuring locales..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.179657,
+      "I: Configuring base-passwd..."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.076450,
+      "I: Configuring mawk...\r\n"
+    ],
+    [
+      0.057554,
+      "I: Configuring insserv...\r\n"
+    ],
+    [
+      0.007983,
+      "I: Configuring busybox-initramfs...\r\n"
+    ],
+    [
+      0.007897,
+      "I: Configuring multiarch-support...\r\n"
+    ],
+    [
+      0.116436,
+      "I: Configuring libselinux1...\r\n"
+    ],
+    [
+      0.017117,
+      "I: Configuring libelf1..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.014629,
+      "I: Configuring makedev...\r\n"
+    ],
+    [
+      2.209470,
+      "I: Configuring libdbus-1-3..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.014735,
+      "I: Configuring libffi6..."
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.014280,
+      "I: Configuring libpam0g...\r\n"
+    ],
+    [
+      0.088121,
+      "I: Configuring libdrm2...\r\n"
+    ],
+    [
+      0.015348,
+      "I: Configuring libdrm-nouveau1a...\r\n"
+    ],
+    [
+      0.014313,
+      "I: Configuring libudev0..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.015332,
+      "I: Configuring libdrm-radeon1...\r\n"
+    ],
+    [
+      0.161059,
+      "I: Configuring zlib1g..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.014111,
+      "I: Configuring libgcc1..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.041305,
+      "I: Configuring base-files..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.020801,
+      "I: Configuring initramfs-tools-bin..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.006469,
+      "I: Configuring libattr1..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.015016,
+      "I: Configuring e2fslibs..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.014300,
+      "I: Configuring libcomerr2..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.021390,
+      "I: Configuring libacl1...\r\n"
+    ],
+    [
+      0.013970,
+      "I: Configuring libslang2...\r\n"
+    ],
+    [
+      0.014826,
+      "I: Configuring libss2...\r\n"
+    ],
+    [
+      0.015063,
+      "I: Configuring libpam-modules-bin..."
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.007290,
+      "I: Configuring liblzma5..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.014305,
+      "I: Configuring libnih1...\r\n"
+    ],
+    [
+      0.013826,
+      "I: Configuring libdb5.1...\r\n"
+    ],
+    [
+      0.013704,
+      "I: Configuring libpcre3...\r\n"
+    ],
+    [
+      0.014059,
+      "I: Configuring libbz2-1.0...\r\n"
+    ],
+    [
+      0.014251,
+      "I: Configuring libtinfo5..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.013963,
+      "I: Configuring libpciaccess0..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.014984,
+      "I: Configuring sysvinit-utils...\r\n"
+    ],
+    [
+      0.006817,
+      "I: Configuring libnih-dbus1...\r\n"
+    ],
+    [
+      0.013920,
+      "I: Configuring libpng12-0...\r\n"
+    ],
+    [
+      0.015331,
+      "I: Configuring libglib2.0-0...\r\n"
+    ],
+    [
+      0.017876,
+      "I: Configuring coreutils...\r\n"
+    ],
+    [
+      0.007078,
+      "I: Configuring libssl1.0.0..."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.094976,
+      "I: Configuring ncurses-bin...\r\n"
+    ],
+    [
+      0.007022,
+      "I: Configuring sysv-rc..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.108468,
+      "I: Configuring libpam-modules...\r\n"
+    ],
+    [
+      0.016475,
+      "I: Configuring libncurses5..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.015801,
+      "I: Configuring libplymouth2..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.280201,
+      "I: Configuring iproute...\r\n"
+    ],
+    [
+      0.067082,
+      "I: Configuring upstart..."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.029969,
+      "I: Configuring passwd..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.048805,
+      "I: Configuring hostname...\r\n"
+    ],
+    [
+      0.012092,
+      "I: Configuring libpam-runtime..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.112963,
+      "I: Configuring xz-utils...\r\n"
+    ],
+    [
+      0.019656,
+      "I: Configuring dpkg...\r\n"
+    ],
+    [
+      0.013249,
+      "I: Configuring libncursesw5..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.014721,
+      "I: Configuring libdrm-intel1..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.015675,
+      "I: Configuring cpio..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.013358,
+      "I: Configuring dash..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.301103,
+      "I: Configuring login..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.031378,
+      "I: Configuring module-init-tools..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.024029,
+      "I: Configuring libuuid1..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.038304,
+      "I: Configuring python-minimal..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.063678,
+      "I: Configuring mountall...\r\n"
+    ],
+    [
+      0.009541,
+      "I: Configuring diffutils...\r\n"
+    ],
+    [
+      0.009687,
+      "I: Configuring adduser..."
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.095095,
+      "I: Configuring sed..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.009854,
+      "I: Configuring python2.7-minimal..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.276726,
+      "I: Configuring grep..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.009354,
+      "I: Configuring libblkid1..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.014629,
+      "I: Configuring findutils...\r\n"
+    ],
+    [
+      0.010106,
+      "I: Configuring gzip...\r\n"
+    ],
+    [
+      0.019033,
+      "I: Configuring bash..."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.030303,
+      "I: Configuring lsb-base...\r\n"
+    ],
+    [
+      0.007547,
+      "I: Configuring libmount1...\r\n"
+    ],
+    [
+      0.014341,
+      "I: Configuring mount...\r\n"
+    ],
+    [
+      0.051098,
+      "I: Configuring initscripts...\r\n"
+    ],
+    [
+      0.207845,
+      "I: Configuring util-linux..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.050164,
+      "I: Configuring procps...\r\n"
+    ],
+    [
+      0.330156,
+      "I: Configuring ifupdown...\r\n"
+    ],
+    [
+      0.020893,
+      "I: Configuring e2fsprogs..."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.025750,
+      "I: Configuring udev..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.072991,
+      "I: Configuring initramfs-tools..."
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.028233,
+      "I: Configuring plymouth...\r\n"
+    ],
+    [
+      0.011789,
+      "I: Configuring libc-bin..."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.010822,
+      "I: Configuring initramfs-tools...\r\n"
+    ],
+    [
+      0.024220,
+      "I: Unpacking the base system...\r\n"
+    ],
+    [
+      0.282216,
+      "I: Unpacking apt..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.187559,
+      "I: Unpacking binutils..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.589888,
+      "I: Unpacking build-essential...\r\n"
+    ],
+    [
+      0.027755,
+      "I: Unpacking bzip2...\r\n"
+    ],
+    [
+      0.031348,
+      "I: Unpacking cpp...\r\n"
+    ],
+    [
+      0.164056,
+      "I: Unpacking cpp-4.6..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.433535,
+      "I: Unpacking dpkg-dev..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.061202,
+      "I: Unpacking fakeroot...\r\n"
+    ],
+    [
+      0.088839,
+      "I: Unpacking g++...\r\n"
+    ],
+    [
+      0.240305,
+      "I: Unpacking g++-4.6...\r\n"
+    ],
+    [
+      0.529832,
+      "I: Unpacking gcc...\r\n"
+    ],
+    [
+      0.027946,
+      "I: Unpacking gcc-4.6...\r\n"
+    ],
+    [
+      0.540599,
+      "I: Unpacking gnupg...\r\n"
+    ],
+    [
+      0.320188,
+      "I: Unpacking gpgv...\r\n"
+    ],
+    [
+      0.035453,
+      "I: Unpacking libalgorithm-diff-perl...\r\n"
+    ],
+    [
+      0.027537,
+      "I: Unpacking libalgorithm-diff-xs-perl...\r\n"
+    ],
+    [
+      0.029983,
+      "I: Unpacking libalgorithm-merge-perl...\r\n"
+    ],
+    [
+      0.030810,
+      "I: Unpacking libapt-pkg4.12..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.214609,
+      "I: Unpacking libc-dev-bin...\r\n"
+    ],
+    [
+      0.031562,
+      "I: Unpacking libc6-dev...\r\n"
+    ],
+    [
+      0.715008,
+      "I: Unpacking libclass-isa-perl...\r\n"
+    ],
+    [
+      0.026214,
+      "I: Unpacking libdpkg-perl...\r\n"
+    ],
+    [
+      0.051686,
+      "I: Unpacking libgdbm3...\r\n"
+    ],
+    [
+      0.209947,
+      "I: Unpacking libgmp10...\r\n"
+    ],
+    [
+      0.048316,
+      "I: Unpacking libgomp1...\r\n"
+    ],
+    [
+      0.029346,
+      "I: Unpacking libmpc2...\r\n"
+    ],
+    [
+      0.031050,
+      "I: Unpacking libmpfr4...\r\n"
+    ],
+    [
+      0.040062,
+      "I: Unpacking libquadmath0...\r\n"
+    ],
+    [
+      0.034615,
+      "I: Unpacking libreadline6...\r\n"
+    ],
+    [
+      0.044506,
+      "I: Unpacking libstdc++6..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.066943,
+      "I: Unpacking libstdc++6-4.6-dev...\r\n"
+    ],
+    [
+      0.739556,
+      "I: Unpacking libswitch-perl...\r\n"
+    ],
+    [
+      0.026552,
+      "I: Unpacking libtimedate-perl...\r\n"
+    ],
+    [
+      0.389398,
+      "I: Unpacking libusb-0.1-4..."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.042754,
+      "I: Unpacking linux-libc-dev..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.245530,
+      "I: Unpacking make..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.034630,
+      "I: Unpacking manpages...\r\n"
+    ],
+    [
+      0.254660,
+      "I: Unpacking manpages-dev...\r\n"
+    ],
+    [
+      0.346121,
+      "I: Unpacking netbase..."
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.026090,
+      "I: Unpacking patch...\r\n"
+    ],
+    [
+      0.036657,
+      "I: Unpacking perl..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.940155,
+      "I: Unpacking perl-modules...\r\n"
+    ],
+    [
+      1.158844,
+      "I: Unpacking readline-common..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.030198,
+      "I: Unpacking ubuntu-keyring...\r\n"
+    ],
+    [
+      0.169542,
+      "I: Configuring the base system...\r\n"
+    ],
+    [
+      0.015058,
+      "I: Configuring libgdbm3..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.017234,
+      "I: Configuring libusb-0.1-4..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.012646,
+      "I: Configuring bzip2..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006018,
+      "I: Configuring libquadmath0..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.022399,
+      "I: Configuring netbase..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.031160,
+      "I: Configuring libc-dev-bin...\r\n"
+    ],
+    [
+      0.007002,
+      "I: Configuring linux-libc-dev...\r\n"
+    ],
+    [
+      0.005851,
+      "I: Configuring libclass-isa-perl..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006559,
+      "I: Configuring manpages..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006619,
+      "I: Configuring patch..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006098,
+      "I: Configuring fakeroot..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.016485,
+      "I: Configuring ubuntu-keyring..."
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.048730,
+      "I: Configuring make..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.006326,
+      "I: Configuring libgmp10..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.014327,
+      "I: Configuring libstdc++6..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.014627,
+      "I: Configuring libmpfr4..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.013722,
+      "I: Configuring binutils..."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.013683,
+      "I: Configuring libgomp1..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.015176,
+      "I: Configuring readline-common..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.009160,
+      "I: Configuring libc6-dev..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.007137,
+      "I: Configuring manpages-dev...\r\n"
+    ],
+    [
+      0.006730,
+      "I: Configuring libapt-pkg4.12..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.014769,
+      "I: Configuring libreadline6...\r\n"
+    ],
+    [
+      0.014030,
+      "I: Configuring libmpc2..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.015042,
+      "I: Configuring gpgv..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.006498,
+      "I: Configuring cpp-4.6..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006996,
+      "I: Configuring gcc-4.6..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.007395,
+      "I: Configuring gnupg..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.008763,
+      "I: Configuring cpp..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.010954,
+      "I: Configuring gcc...\r\n"
+    ],
+    [
+      0.031853,
+      "I: Configuring apt...\r\n"
+    ],
+    [
+      0.034404,
+      "I: Configuring libswitch-perl..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.007886,
+      "I: Configuring libstdc++6-4.6-dev..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.007829,
+      "I: Configuring g++-4.6...\r\n"
+    ],
+    [
+      0.009305,
+      "I: Configuring perl-modules..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.007253,
+      "I: Configuring g++..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.026493,
+      "I: Configuring perl..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.015690,
+      "I: Configuring libtimedate-perl..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006577,
+      "I: Configuring libdpkg-perl..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.007157,
+      "I: Configuring libalgorithm-diff-perl...\r\n"
+    ],
+    [
+      0.007223,
+      "I: Configuring libalgorithm-merge-perl..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.011915,
+      "I: Configuring dpkg-dev..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.006679,
+      "I: Configuring libalgorithm-diff-xs-perl..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.006993,
+      "I: Configuring build-essential..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004983,
+      "I: Configuring libc-bin..."
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.032957,
+      "I: Base system installed successfully."
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      2.194373,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      16.818497,
+      "s"
+    ],
+    [
+      0.143844,
+      "u"
+    ],
+    [
+      0.128092,
+      "d"
+    ],
+    [
+      0.127824,
+      "o"
+    ],
+    [
+      0.096403,
+      " "
+    ],
+    [
+      0.144318,
+      "c"
+    ],
+    [
+      0.143896,
+      "h"
+    ],
+    [
+      0.668444,
+      "\u0007"
+    ],
+    [
+      0.440844,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "chacl                   chattr                  checkbox-submit         chown\r\nchage                   chcon                   check-language-support  chpasswd\r\nchardet                 chcpu                   cheese                  chroot/\r\n"
+    ],
+    [
+      0.000018,
+      "chardet3                checkbox                chfn                    chrt"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "chardetect              checkbox-cli            chgpasswd               chsh\r\n"
+    ],
+    [
+      0.000014,
+      "chardetect3             checkbox-gui            chgrp                   chvt\r\n"
+    ],
+    [
+      0.000015,
+      "charmap                 checkbox-gui-service    chkfont                 \r\n"
+    ],
+    [
+      0.000014,
+      "chat                    checkbox-launcher       chmod                   \r\n"
+    ],
+    [
+      0.000029,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ sudo ch"
+    ],
+    [
+      0.442056,
+      "r"
+    ],
+    [
+      0.197557,
+      "\u0007"
+    ],
+    [
+      0.422660,
+      "\r\nchroot/ chrt    "
+    ],
+    [
+      0.000023,
+      "\r\n\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ sudo chr"
+    ],
+    [
+      0.884053,
+      "o"
+    ],
+    [
+      0.087268,
+      "ot/"
+    ],
+    [
+      1.000949,
+      " "
+    ],
+    [
+      0.543908,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176110,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.487648,
+      " "
+    ],
+    [
+      0.992323,
+      "/"
+    ],
+    [
+      0.319739,
+      "m"
+    ],
+    [
+      0.159914,
+      "n"
+    ],
+    [
+      0.105561,
+      "t/"
+    ],
+    [
+      0.710982,
+      "e"
+    ],
+    [
+      0.255308,
+      "x"
+    ],
+    [
+      0.185944,
+      "ternal/"
+    ],
+    [
+      0.806050,
+      "c"
+    ],
+    [
+      0.144592,
+      "h"
+    ],
+    [
+      0.095709,
+      "r"
+    ],
+    [
+      0.229168,
+      "oot/"
+    ],
+    [
+      0.794679,
+      "p"
+    ],
+    [
+      0.032016,
+      "r"
+    ],
+    [
+      0.111820,
+      "e"
+    ],
+    [
+      0.277694,
+      "cise/"
+    ],
+    [
+      1.067152,
+      "\r\n"
+    ],
+    [
+      0.025125,
+      "root@gianplacido:/# "
+    ],
+    [
+      3.286276,
+      "l"
+    ],
+    [
+      0.095863,
+      "s"
+    ],
+    [
+      0.112251,
+      " "
+    ],
+    [
+      0.128225,
+      "-"
+    ],
+    [
+      0.176044,
+      "l"
+    ],
+    [
+      0.031999,
+      "t"
+    ],
+    [
+      0.080035,
+      "r"
+    ],
+    [
+      0.079714,
+      "\r\n"
+    ],
+    [
+      0.002629,
+      "total 80\r\n"
+    ],
+    [
+      0.000041,
+      "drwxr-xr-x  2 root root 4096 Mar  5  2012 selinux\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  2 root root 4096 Apr 14  2012 sys\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Apr 19  2012 proc\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Apr 19  2012 mnt"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Apr 19  2012 home"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Apr 19  2012 boot"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwx------  2 root root 4096 Dec 28 14:15 root\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Dec 28 14:15 srv\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Dec 28 14:15 opt\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Dec 28 14:15 media\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 11 root root 4096 Dec 28 14:15 var"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 10 root root 4096 Dec 28 14:15 usr\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x  2 root root 4096 Dec 28 14:15 lib64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  4 root root 4096 Dec 28 14:16 dev\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  4 root root 4096 Dec 28 14:16 run\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 root root 4096 Dec 28 14:16 bin\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x 11 root root 4096 Dec 28 14:16 lib\r\n"
+    ],
+    [
+      0.000008,
+      "drwxrwxrwt  2 root root 4096 Dec 28 14:16 tmp"
+    ],
+    [
+      0.000008,
+      "\r\ndrwxr-xr-x  2 root root 4096 Dec 28 14:16 sbin"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 42 root root 4096 Dec 28 14:16 etc"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000358,
+      "root@gianplacido:/# "
+    ],
+    [
+      1.516516,
+      "e"
+    ],
+    [
+      0.271918,
+      "x"
+    ],
+    [
+      0.128097,
+      "i"
+    ],
+    [
+      0.175962,
+      "t"
+    ],
+    [
+      0.112021,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "exit"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.001407,
+      "\u001b]0;bomba@gianplacido: /mnt/external\u0007bomba@gianplacido:/mnt/external$ "
+    ],
+    [
+      1.438312,
+      "e"
+    ],
+    [
+      0.224731,
+      "x"
+    ],
+    [
+      0.127644,
+      "i"
+    ],
+    [
+      0.175768,
+      "t"
+    ],
+    [
+      0.175817,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "exit\r\n"
+    ]
+  ]
+}
