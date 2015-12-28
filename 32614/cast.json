@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 17.126117,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.109552,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000013,
+      "\u001b]0;hendy@roa4: ~/workspace/git_snip\u0007\u001b[0;31m15:42\u001b[01;32mhendy@roa4\u001b[00m:\u001b[01;34m~/workspace/git_snip\u001b[01;35m master\u001b[00m$ "
+    ],
+    [
+      0.422323,
+      "g"
+    ],
+    [
+      0.095765,
+      "i"
+    ],
+    [
+      0.136188,
+      "t"
+    ],
+    [
+      0.103800,
+      " "
+    ],
+    [
+      0.088223,
+      "s"
+    ],
+    [
+      0.111677,
+      "n"
+    ],
+    [
+      0.040326,
+      "i"
+    ],
+    [
+      0.143947,
+      "p"
+    ],
+    [
+      0.168196,
+      " "
+    ],
+    [
+      0.119837,
+      "h"
+    ],
+    [
+      0.263921,
+      "e"
+    ],
+    [
+      0.159866,
+      "k"
+    ],
+    [
+      0.496212,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.247682,
+      "l"
+    ],
+    [
+      0.328272,
+      "p"
+    ],
+    [
+      0.216084,
+      "\r\n"
+    ],
+    [
+      0.758254,
+      "Usage:\r\n"
+    ],
+    [
+      0.000008,
+      "  git-snip \r\n"
+    ],
+    [
+      0.000082,
+      "Options:\r\n"
+    ],
+    [
+      0.000037,
+      "  -f, [--force]                    # Will refuse to run unless given -f or -n.\r\n"
+    ],
+    [
+      0.000005,
+      "  -n, [--dry-run], [--no-dry-run]  # Show branches which would be deleted.\r\n"
+    ],
+    [
+      0.000009,
+      "      [--repo=\u003cpath\u003e]              # Path to git repository.\r\n"
+    ],
+    [
+      0.000012,
+      "                                   # Default: .\r\n"
+    ],
+    [
+      0.000011,
+      "      [--target=\u003cbranch\u003e]          # Branch to compare equivalence against.\r\n"
+    ],
+    [
+      0.000015,
+      "                                   # Default: master\r\n"
+    ],
+    [
+      0.000009,
+      "      [--ignore=one two three]     # List of branches to ignore.\r\n"
+    ],
+    [
+      0.000011,
+      "      [--full], [--no-full]        # Show most branch information without cropping.\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "Delete branches which have been merged to target.\r\n"
+    ],
+    [
+      0.044063,
+      "\u001b]0;hendy@roa4: ~/workspace/git_snip\u0007\u001b[0;31m15:42\u001b[01;32mhendy@roa4\u001b[00m:\u001b[01;34m~/workspace/git_snip\u001b[01;35m master\u001b[00m$ "
+    ],
+    [
+      0.549429,
+      "g"
+    ],
+    [
+      0.223652,
+      "i"
+    ],
+    [
+      0.176034,
+      "t"
+    ],
+    [
+      0.152009,
+      " "
+    ],
+    [
+      0.096206,
+      "s"
+    ],
+    [
+      0.175918,
+      "n"
+    ],
+    [
+      0.047886,
+      "i"
+    ],
+    [
+      0.311724,
+      "p"
+    ],
+    [
+      0.208424,
+      " "
+    ],
+    [
+      0.392106,
+      "-"
+    ],
+    [
+      0.471994,
+      "n"
+    ],
+    [
+      0.375341,
+      "\r\n"
+    ],
+    [
+      0.697246,
+      "\u001b[32mWould delete the following branches...\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.044573,
+      "\u001b[33m63bdff7 \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[35mobsolete_1   \u001b[0m"
+    ],
+    [
+      0.000026,
+      "\u001b[32m2015-06-01 \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[34m\u001b[1mhtanata  \u001b[0m"
+    ],
+    [
+      0.000012,
+      "Add output of `git snip help` to README\r\n"
+    ],
+    [
+      0.020244,
+      "\u001b[33m63bdff7 \u001b[0m\u001b[35mobsolete_2   \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[32m2015-06-01 \u001b[0m\u001b[34m\u001b[1mhtanata  \u001b[0m"
+    ],
+    [
+      0.000027,
+      "Add output of `git snip help` to README\r\n"
+    ],
+    [
+      0.006674,
+      "\u001b[32m\r\nDone.\u001b[0m\r\n"
+    ],
+    [
+      0.046626,
+      "\u001b]0;hendy@roa4: ~/workspace/git_snip\u0007\u001b[0;31m15:42\u001b[01;32mhendy@roa4\u001b[00m:\u001b[01;34m~/workspace/git_snip\u001b[01;35m master\u001b[00m$ "
+    ],
+    [
+      0.801020,
+      "g"
+    ],
+    [
+      0.080119,
+      "i"
+    ],
+    [
+      0.167861,
+      "t"
+    ],
+    [
+      0.063991,
+      " "
+    ],
+    [
+      0.120081,
+      "s"
+    ],
+    [
+      0.167735,
+      "n"
+    ],
+    [
+      0.080234,
+      "i"
+    ],
+    [
+      0.336018,
+      "p"
+    ],
+    [
+      0.167880,
+      " "
+    ],
+    [
+      0.240088,
+      "-"
+    ],
+    [
+      0.736168,
+      "f"
+    ],
+    [
+      1.879909,
+      "\r\n"
+    ],
+    [
+      0.691893,
+      "\u001b[32mDeleting the following branches...\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.055542,
+      "\u001b[33m63bdff7 \u001b[0m\u001b[35mobsolete_1   \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[32m2015-06-01 \u001b[0m"
+    ],
+    [
+      0.000030,
+      "\u001b[34m\u001b[1mhtanata  \u001b[0m"
+    ],
+    [
+      0.000008,
+      "Add output of `git snip help` to README\r\n"
+    ],
+    [
+      0.026496,
+      "\u001b[33m63bdff7 \u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[35mobsolete_2   \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[32m2015-06-01 \u001b[0m"
+    ],
+    [
+      0.000020,
+      "\u001b[34m\u001b[1mhtanata  \u001b[0m"
+    ],
+    [
+      0.000018,
+      "Add output of `git snip help` to README\r\n"
+    ],
+    [
+      0.006668,
+      "\u001b[32m\r\nDone.\u001b[0m\r\n"
+    ],
+    [
+      0.064068,
+      "\u001b]0;hendy@roa4: ~/workspace/git_snip\u0007\u001b[0;31m15:42\u001b[01;32mhendy@roa4\u001b[00m:\u001b[01;34m~/workspace/git_snip\u001b[01;35m master\u001b[00m$ "
+    ],
+    [
+      2.386738,
+      "exit\r\n"
+    ]
+  ]
+}
