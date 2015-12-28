@@ -1,0 +1,4114 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 71.745022,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.089897,
+      "\u001b]0;yasoob@yasoob: ~/Desktop\u0007yasoob@yasoob:~/Desktop$ "
+    ],
+    [
+      0.903720,
+      "s"
+    ],
+    [
+      0.104300,
+      "u"
+    ],
+    [
+      0.141334,
+      "d"
+    ],
+    [
+      0.117693,
+      "o"
+    ],
+    [
+      0.127267,
+      " "
+    ],
+    [
+      0.558041,
+      "a"
+    ],
+    [
+      0.182988,
+      "d"
+    ],
+    [
+      0.145306,
+      "d"
+    ],
+    [
+      0.182297,
+      "-"
+    ],
+    [
+      0.278390,
+      "a"
+    ],
+    [
+      0.120839,
+      "p"
+    ],
+    [
+      0.136597,
+      "t"
+    ],
+    [
+      0.190649,
+      "-"
+    ],
+    [
+      0.332590,
+      "r"
+    ],
+    [
+      0.118812,
+      "e"
+    ],
+    [
+      0.290282,
+      "p"
+    ],
+    [
+      0.091386,
+      "o"
+    ],
+    [
+      0.253399,
+      "s"
+    ],
+    [
+      0.088210,
+      "i"
+    ],
+    [
+      0.219891,
+      "t"
+    ],
+    [
+      0.101113,
+      "o"
+    ],
+    [
+      0.158234,
+      "r"
+    ],
+    [
+      0.120468,
+      "y"
+    ],
+    [
+      0.448014,
+      " "
+    ],
+    [
+      0.346201,
+      "p"
+    ],
+    [
+      0.172248,
+      "p"
+    ],
+    [
+      0.152401,
+      "a"
+    ],
+    [
+      0.322957,
+      ":"
+    ],
+    [
+      0.471867,
+      "u"
+    ],
+    [
+      0.170111,
+      "b"
+    ],
+    [
+      0.147335,
+      "u"
+    ],
+    [
+      0.114658,
+      "n"
+    ],
+    [
+      0.155559,
+      "t"
+    ],
+    [
+      0.101200,
+      "u"
+    ],
+    [
+      0.828719,
+      "-"
+    ],
+    [
+      0.635355,
+      "w"
+    ],
+    [
+      0.151158,
+      "i"
+    ],
+    [
+      0.128981,
+      "n"
+    ],
+    [
+      0.141715,
+      "e"
+    ],
+    [
+      0.358748,
+      "/"
+    ],
+    [
+      0.343564,
+      "p"
+    ],
+    [
+      0.177877,
+      "p"
+    ],
+    [
+      0.152551,
+      "a"
+    ],
+    [
+      0.500997,
+      "\r\n"
+    ],
+    [
+      0.004107,
+      "[sudo] password for yasoob: "
+    ],
+    [
+      2.207456,
+      "\r\n"
+    ],
+    [
+      1.664589,
+      " Welcome to the Wine Team PPA.  Here you can get the latest available Wine betas for every supported version of Ubuntu.  This PPA is managed by Scott Ritchie and Maarten Lankhorst."
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000241,
+      " More info: https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "Press [ENTER] to continue or ctrl-c to cancel adding it"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.539610,
+      "\r\n"
+    ],
+    [
+      1.886669,
+      "gpg: "
+    ],
+    [
+      0.000011,
+      "keyring `/tmp/tmp0k_6r8ch/secring.gpg' created\r\n"
+    ],
+    [
+      0.000107,
+      "gpg: keyring `/tmp/tmp0k_6r8ch/pubring.gpg' created\r\n"
+    ],
+    [
+      0.000163,
+      "gpg: requesting key F9CB8DB0 from hkp server keyserver.ubuntu.com"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.046738,
+      "gpg: "
+    ],
+    [
+      0.000012,
+      "/tmp/tmp0k_6r8ch/trustdb.gpg: trustdb created\r\n"
+    ],
+    [
+      0.000122,
+      "gpg: "
+    ],
+    [
+      0.000007,
+      "key F9CB8DB0: public key \"Launchpad PPA for Ubuntu Wine Team\" imported"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000269,
+      "gpg: "
+    ],
+    [
+      0.000011,
+      "no ultimately trusted keys found\r\n"
+    ],
+    [
+      0.000032,
+      "gpg: "
+    ],
+    [
+      0.000007,
+      "Total number processed: 1\r\n"
+    ],
+    [
+      0.000006,
+      "gpg: "
+    ],
+    [
+      0.000005,
+      "              imported: 1"
+    ],
+    [
+      0.000005,
+      "  (RSA: 1)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.044004,
+      "OK"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.028839,
+      "\u001b]0;yasoob@yasoob: ~/Desktop\u0007yasoob@yasoob:~/Desktop$ "
+    ],
+    [
+      0.701944,
+      "s"
+    ],
+    [
+      0.105313,
+      "u"
+    ],
+    [
+      0.135303,
+      "d"
+    ],
+    [
+      0.042522,
+      "o"
+    ],
+    [
+      0.145322,
+      " "
+    ],
+    [
+      0.181130,
+      "a"
+    ],
+    [
+      0.095800,
+      "p"
+    ],
+    [
+      0.196324,
+      "t"
+    ],
+    [
+      0.139443,
+      "-"
+    ],
+    [
+      0.146672,
+      "g"
+    ],
+    [
+      0.104792,
+      "e"
+    ],
+    [
+      0.090875,
+      "t"
+    ],
+    [
+      0.082357,
+      " "
+    ],
+    [
+      0.326431,
+      "u"
+    ],
+    [
+      0.108450,
+      "p"
+    ],
+    [
+      0.251122,
+      "d"
+    ],
+    [
+      0.081540,
+      "a"
+    ],
+    [
+      0.191252,
+      "t"
+    ],
+    [
+      0.091774,
+      "e"
+    ],
+    [
+      0.202202,
+      "\r\n"
+    ],
+    [
+      0.041788,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.221063,
+      "\r            \rHit http://pk.archive.ubuntu.com vivid InRelease"
+    ],
+    [
+      0.000012,
+      "\r\n\r            \r0% [Connecting to security.ubuntu.com] [Connecting to dl.google.com (74.125.200"
+    ],
+    [
+      0.000327,
+      "\r0% [InRelease gpgv 218 kB] [Waiting for headers] [Connecting to security.ubuntu"
+    ],
+    [
+      0.029249,
+      "\r3% [Waiting for headers] [Connecting to security.ubuntu.com] [Waiting for heade"
+    ],
+    [
+      0.044752,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates InRelease"
+    ],
+    [
+      0.000011,
+      "\r\n\r3% [Connecting to security.ubuntu.com] [Waiting for headers] [Connecting to too"
+    ],
+    [
+      0.000222,
+      "\r3% [InRelease gpgv 64.4 kB] [Waiting for headers] [Connecting to security.ubunt"
+    ],
+    [
+      0.013656,
+      "\r4% [Waiting for headers] [Connecting to security.ubuntu.com] [Waiting for heade"
+    ],
+    [
+      0.075298,
+      "\r                                                                               \rIgn http://dl.google.com stable InRelease"
+    ],
+    [
+      0.000009,
+      "\r\n\r6% [Waiting for headers] [Connecting to security.ubuntu.com] [Connecting to too"
+    ],
+    [
+      0.009332,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports InRelease"
+    ],
+    [
+      0.000008,
+      "\r\n\r6% [Connecting to security.ubuntu.com] [Waiting for headers] [Connecting to too"
+    ],
+    [
+      0.000107,
+      "\r6% [InRelease gpgv 64.5 kB] [Waiting for headers] [Connecting to security.ubunt"
+    ],
+    [
+      0.013454,
+      "\r6% [Waiting for headers] [Connecting to security.ubuntu.com] [Waiting for heade"
+    ],
+    [
+      0.073875,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/main Sources"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r6% [Connecting to security.ubuntu.com] [Waiting for headers] [Connecting to too"
+    ],
+    [
+      0.000594,
+      "\r6% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [Wai"
+    ],
+    [
+      0.048614,
+      "\r                                                                               \rHit http://dl.google.com stable Release.gpg"
+    ],
+    [
+      0.000010,
+      "\r\n\r8% [Sources 5,114 kB] [Waiting for headers] [Connecting to security.ubuntu.com]"
+    ],
+    [
+      0.040281,
+      "\r100% [Waiting for headers] [Connecting to security.ubuntu.com] [Waiting for hea"
+    ],
+    [
+      0.012608,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/restricted Sources\r\n"
+    ],
+    [
+      0.000010,
+      "\r100% [Connecting to security.ubuntu.com] [Waiting for headers] [Connecting to t"
+    ],
+    [
+      0.000104,
+      "\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [W"
+    ],
+    [
+      0.000792,
+      "\r100% [Waiting for headers] [Connecting to security.ubuntu.com] [Waiting for hea"
+    ],
+    [
+      0.076765,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/universe Sources"
+    ],
+    [
+      0.000011,
+      "\r\n\r100% [Connecting to security.ubuntu.com] [Waiting for headers] [Connecting to t"
+    ],
+    [
+      0.003796,
+      "\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [W"
+    ],
+    [
+      0.000013,
+      "\r                                                                               \rHit http://dl.google.com stable Release\r\n\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [C\r100% [Sources 0 B] [Release gpgv 1,347 B] [Waiting for headers] [Connecting to "
+    ],
+    [
+      0.002463,
+      "\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [C"
+    ],
+    [
+      0.003324,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid InRelease\r\n"
+    ],
+    [
+      0.000048,
+      "\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [W"
+    ],
+    [
+      0.000036,
+      "\r100% [Sources 0 B] [InRelease gpgv 15.5 kB] [Waiting for headers] [Connecting t"
+    ],
+    [
+      0.004089,
+      "\r100% [Sources 0 B] [Waiting for headers] [Connecting to security.ubuntu.com] [W"
+    ],
+    [
+      0.065159,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/multiverse Sources"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Sources 31.0 MB] [Connecting to security.ubuntu.com] [Waiting for headers"
+    ],
+    [
+      0.062650,
+      "\r                                                                               \rHit http://dl.google.com stable/main amd64 Packages"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.038371,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/main amd64 Packages"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\r100% [Sources 31.0 MB] [Connecting to security.ubuntu.com] [Waiting for headers"
+    ],
+    [
+      0.080820,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/restricted amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\r100% [Sources 31.0 MB] [Connecting to security.ubuntu.com] [Waiting for headers"
+    ],
+    [
+      0.012017,
+      "\r                                                                               \rHit http://dl.google.com stable/main i386 Packages"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.049339,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid InRelease"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.000224,
+      "\r100% [Sources 31.0 MB] [InRelease gpgv 16.0 kB] [Waiting for headers] [Connecti"
+    ],
+    [
+      0.006023,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.012758,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/universe amd64 Packages"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.077743,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/multiverse amd64 Packages\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [Sources 31.0 MB] [Connecting to security.ubuntu.com] [Waiting for headers"
+    ],
+    [
+      0.079047,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/main i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.061500,
+      "\r100% [Sources 31.0 MB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.016446,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/restricted i386 Packages\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com] [Sources 31.0 MB] [Connec"
+    ],
+    [
+      0.025118,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid InRelease"
+    ],
+    [
+      0.000012,
+      "\r\n\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com] [Sources 31.0 MB] [Waitin"
+    ],
+    [
+      0.000085,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com] [Sources 31.0 MB] [InRele"
+    ],
+    [
+      0.005313,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com] [Sources 31.0 MB] [Waitin"
+    ],
+    [
+      0.046824,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/universe i386 Packages"
+    ],
+    [
+      0.000013,
+      "\r\n\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Sources "
+    ],
+    [
+      0.010187,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000109,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Sources "
+    ],
+    [
+      0.017065,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000228,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.000254,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000074,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.070082,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/multiverse i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.071574,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000070,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.003688,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000078,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.000222,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Waiting "
+    ],
+    [
+      0.000072,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.007806,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/main Translation-en\r\n\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.049016,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid InRelease"
+    ],
+    [
+      0.000258,
+      "\r\n\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.000012,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.003126,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.024521,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/multiverse Translation-en"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\r100% [Connecting to heroku-toolbelt.s3.amazonaws.com (54.231.98.152)] [Packages"
+    ],
+    [
+      0.078011,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/restricted Translation-en"
+    ],
+    [
+      0.000065,
+      "\r\n\r100% [Waiting for headers] [Packages 35.4 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.197505,
+      "\r                                                                               \rIgn http://ppa.launchpad.net vivid InRelease"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\r100% [Waiting for headers] [Packages 35.4 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000586,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid/universe Translation-en"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r100% [Waiting for headers] [Packages 35.4 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.073583,
+      "\r                                                                               \rGet:1 http://security.ubuntu.com vivid-security InRelease [64.4 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n\r100% [Waiting for headers] [Packages 35.4 MB] [Waiting for headers] [1 InReleas"
+    ],
+    [
+      0.089100,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/main Sources"
+    ],
+    [
+      0.000014,
+      "\r\n\r100% [Waiting for headers] [Packages 35.4 MB] [1 InRelease 14.1 kB/64.4 kB 22%]"
+    ],
+    [
+      0.001396,
+      "\r                                                                               \rIgn http://toolbelt.heroku.com ./ InRelease\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [Packages 35.4 MB] [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%]"
+    ],
+    [
+      0.081994,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/restricted Sources"
+    ],
+    [
+      0.000022,
+      "\r\n\r100% [Packages 35.4 MB] [1 InRelease 14.1 kB/64.4 kB 22%] [Waiting for headers]"
+    ],
+    [
+      0.035153,
+      "\r                                                                               \rIgn http://ppa.launchpad.net vivid InRelease"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "\r100% [Packages 35.4 MB] [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%]"
+    ],
+    [
+      0.047854,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/universe Sources"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\r100% [Packages 35.4 MB] [1 InRelease 14.1 kB/64.4 kB 22%] [Waiting for headers]"
+    ],
+    [
+      0.048723,
+      "\r100% [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%] [Waiting for heade"
+    ],
+    [
+      0.000098,
+      "\r100% [Packages 0 B] [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%] [Wa"
+    ],
+    [
+      0.014056,
+      "\r100% [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%] [Waiting for heade"
+    ],
+    [
+      0.000082,
+      "\r100% [Packages 0 B] [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%] [Wa"
+    ],
+    [
+      0.014292,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/multiverse Sources"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "\r100% [Packages 8,295 kB] [1 InRelease 14.1 kB/64.4 kB 22%] [Waiting for headers"
+    ],
+    [
+      0.023170,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en_US"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\r100% [Packages 8,295 kB] [Waiting for headers] [1 InRelease 14.1 kB/64.4 kB 22%"
+    ],
+    [
+      0.122962,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/main amd64 Packages\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [Packages 8,295 kB] [Waiting for headers] [1 InRelease 32.8 kB/64.4 kB 51%"
+    ],
+    [
+      0.014841,
+      "\r100% [Waiting for headers] [1 InRelease 35.7 kB/64.4 kB 55%] [Waiting for heade"
+    ],
+    [
+      0.000110,
+      "\r100% [Packages 0 B] [Waiting for headers] [1 InRelease 35.7 kB/64.4 kB 55%] [Wa"
+    ],
+    [
+      0.005699,
+      "\r100% [Waiting for headers] [1 InRelease 35.7 kB/64.4 kB 55%] [Waiting for heade"
+    ],
+    [
+      0.000092,
+      "\r100% [Packages 0 B] [Waiting for headers] [1 InRelease 35.7 kB/64.4 kB 55%] [Wa"
+    ],
+    [
+      0.044654,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 42.9 kB/64.4 kB 67%]"
+    ],
+    [
+      0.007783,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 42.9 kB/64.4 kB 67%]"
+    ],
+    [
+      0.006065,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/restricted amd64 Packages"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "\r100% [Packages 35.3 MB] [1 InRelease 42.9 kB/64.4 kB 67%] [Waiting for headers]"
+    ],
+    [
+      0.076660,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/universe amd64 Packages"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\r100% [Packages 35.3 MB] [1 InRelease 42.9 kB/64.4 kB 67%] [Waiting for headers]"
+    ],
+    [
+      0.078321,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/multiverse amd64 Packages"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r100% [Packages 35.3 MB] [1 InRelease 42.9 kB/64.4 kB 67%] [Waiting for headers]"
+    ],
+    [
+      0.121047,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/main i386 Packages"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Packages 35.3 MB] [1 InRelease 50.1 kB/64.4 kB 78%] [Waiting for headers]"
+    ],
+    [
+      0.004082,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 50.1 kB/64.4 kB 78%]"
+    ],
+    [
+      0.075824,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/restricted i386 Packages"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\r100% [Packages 35.3 MB] [1 InRelease 50.1 kB/64.4 kB 78%] [Waiting for headers]"
+    ],
+    [
+      0.077432,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/universe i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 50.1 kB/64.4 kB 78%]"
+    ],
+    [
+      0.080516,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/multiverse i386 Packages"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\r100% [Packages 35.3 MB] [1 InRelease 50.1 kB/64.4 kB 78%] [Waiting for headers]"
+    ],
+    [
+      0.013993,
+      "\r                                                                               \rHit https://deb.nodesource.com vivid InRelease"
+    ],
+    [
+      0.000014,
+      "\r\n\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 50.1 kB/64.4 kB 78%]"
+    ],
+    [
+      0.000229,
+      "\r100% [Packages 35.3 MB] [InRelease gpgv 3,913 B] [Waiting for headers] [1 InRel"
+    ],
+    [
+      0.004932,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [1 InRelease 50.1 kB/64.4 kB 78%]"
+    ],
+    [
+      0.049872,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000015,
+      "\r100% [Packages 35.3 MB] [1 InRelease gpgv 64.4 kB] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.000007,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r100% [Packages 35.3 MB] [1 InRelease gpgv 64.4 kB] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.019520,
+      "\r100% [Packages 35.3 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.031358,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000076,
+      "\r100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he"
+    ],
+    [
+      0.001571,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/main Translation-en"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\r100% [Packages 671 kB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.009712,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000100,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.070184,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/multiverse Translation-en"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "\r100% [Translation-en 4,235 kB] [Waiting for headers] [Waiting for headers] [Wai"
+    ],
+    [
+      0.006698,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000102,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.008204,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000106,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000725,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000075,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.070635,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/restricted Translation-en\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [Translation-en 20.4 MB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.077927,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [Translation-en 20.4 MB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.001490,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-updates/universe Translation-en"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Translation-en 20.4 MB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.077380,
+      "\r100% [Translation-en 20.4 MB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.002088,
+      "\r                                                                               \rGet:2 http://security.ubuntu.com vivid-security/main Sources [55.9 kB]"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Waiting for headers] [Translation-en 20.4 MB] [Waiting for headers] [2 So"
+    ],
+    [
+      0.025627,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/main Sources\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Waiting for headers] [Translation-en 20.4 MB] [Waiting for headers] [2 So"
+    ],
+    [
+      0.053669,
+      "\r                                                                               \rHit https://deb.nodesource.com vivid/main Sources"
+    ],
+    [
+      0.000010,
+      "\r\n\r100% [Waiting for headers] [Translation-en 20.4 MB] [Waiting for headers] [2 So"
+    ],
+    [
+      0.043543,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000094,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.009719,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000093,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.000640,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000083,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.004489,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000084,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.000315,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000089,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.030464,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000087,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000332,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000081,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.003605,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000099,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.013623,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000015,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000077,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000100,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.014368,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\r100% [Waiting for headers] [Packages 1,711 kB] [Waiting for headers] [2 Sources"
+    ],
+    [
+      0.016299,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000108,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000296,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000087,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.004734,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000079,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.014475,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000078,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000679,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000087,
+      "\r100% [Waiting for headers] [Translation-en 0 B] [Waiting for headers] [2 Source"
+    ],
+    [
+      0.000232,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000081,
+      "\r100% [Waiting for headers] [Translation-en 0 B] [Waiting for headers] [2 Source"
+    ],
+    [
+      0.020708,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000141,
+      "\r100% [Waiting for headers] [Translation-en 0 B] [Waiting for headers] [2 Source"
+    ],
+    [
+      0.000427,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000100,
+      "\r100% [Waiting for headers] [Translation-en 0 B] [Waiting for headers] [2 Source"
+    ],
+    [
+      0.000651,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000090,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000181,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000093,
+      "\r100% [Waiting for headers] [Translation-en 0 B] [Waiting for headers] [2 Source"
+    ],
+    [
+      0.008498,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000089,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.000208,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000130,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.000216,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.000091,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 3,97"
+    ],
+    [
+      0.000174,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.017017,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/restricted Sources"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\r100% [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%] [Waiting for headers]"
+    ],
+    [
+      0.000127,
+      "\r100% [Waiting for headers] [Sources 0 B] [Waiting for headers] [2 Sources 3,976"
+    ],
+    [
+      0.000162,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 3,976 B/55.9 kB 7%]"
+    ],
+    [
+      0.081948,
+      "\r                                                                               \rHit http://toolbelt.heroku.com ./ Release.gpg"
+    ],
+    [
+      0.000009,
+      "\r\n\r100% [Waiting for headers] [2 Sources 8,296 B/55.9 kB 15%] [Waiting for headers"
+    ],
+    [
+      0.000606,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/universe Sources"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r100% [2 Sources 8,296 B/55.9 kB 15%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000100,
+      "\r100% [Sources 0 B] [Waiting for headers] [2 Sources 8,296 B/55.9 kB 15%] [Waiti"
+    ],
+    [
+      0.000479,
+      "\r100% [Waiting for headers] [2 Sources 8,296 B/55.9 kB 15%] [Waiting for headers"
+    ],
+    [
+      0.085730,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/multiverse Sources"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [2 Sources 8,296 B/55.9 kB 15%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000101,
+      "\r100% [Sources 0 B] [Waiting for headers] [2 Sources 8,296 B/55.9 kB 15%] [Waiti"
+    ],
+    [
+      0.000194,
+      "\r100% [Waiting for headers] [2 Sources 8,296 B/55.9 kB 15%] [Waiting for headers"
+    ],
+    [
+      0.037448,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.000121,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%]"
+    ],
+    [
+      0.000232,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.041695,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/main amd64 Packages"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\r100% [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000102,
+      "\r100% [Packages 0 B] [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Wait"
+    ],
+    [
+      0.000187,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.052804,
+      "\r                                                                               \rHit https://deb.nodesource.com vivid/main amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.000379,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.035070,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/restricted amd64 Packages"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000124,
+      "\r100% [Packages 0 B] [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Wait"
+    ],
+    [
+      0.000170,
+      "\r100% [Waiting for headers] [2 Sources 11.2 kB/55.9 kB 20%] [Waiting for headers"
+    ],
+    [
+      0.088050,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/universe amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r100% [2 Sources 14.1 kB/55.9 kB 25%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000125,
+      "\r100% [Packages 0 B] [Waiting for headers] [2 Sources 14.1 kB/55.9 kB 25%] [Wait"
+    ],
+    [
+      0.000525,
+      "\r100% [Waiting for headers] [2 Sources 14.1 kB/55.9 kB 25%] [Waiting for headers"
+    ],
+    [
+      0.034789,
+      "\r100% [Waiting for headers] [2 Sources 19.8 kB/55.9 kB 35%] [Waiting for headers"
+    ],
+    [
+      0.031000,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages"
+    ],
+    [
+      0.000014,
+      "\r\n\r100% [Waiting for headers] [Waiting for headers] [2 Sources 19.8 kB/55.9 kB 35%\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 19.8"
+    ],
+    [
+      0.000105,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 19.8 kB/55.9 kB 35%"
+    ],
+    [
+      0.056022,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/multiverse amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.000113,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000173,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.085858,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/main i386 Packages"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r100% [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%] [Waiting for headers"
+    ],
+    [
+      0.000288,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000109,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.090943,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/restricted i386 Packages"
+    ],
+    [
+      0.000009,
+      "\r\n\r100% [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%] [Waiting for headers"
+    ],
+    [
+      0.000106,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000153,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.059817,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.000130,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000481,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.000077,
+      "\r                                                                               \rHit https://deb.nodesource.com vivid/main i386 Packages"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.000082,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000241,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.019195,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/universe i386 Packages"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r100% [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%] [Waiting for headers"
+    ],
+    [
+      0.000494,
+      "\r100% [Waiting for headers] [Packages 0 B] [Waiting for headers] [2 Sources 24.1"
+    ],
+    [
+      0.000088,
+      "\r100% [Waiting for headers] [Waiting for headers] [2 Sources 24.1 kB/55.9 kB 43%"
+    ],
+    [
+      0.041195,
+      "\r                                                                               \rHit http://toolbelt.heroku.com ./ Release"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.000149,
+      "\r100% [Release gpgv 1,609 B] [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53"
+    ],
+    [
+      0.002763,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.036115,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/multiverse i386 Packages"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000097,
+      "\r100% [Packages 0 B] [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Wait"
+    ],
+    [
+      0.000223,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.179959,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.000099,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%]"
+    ],
+    [
+      0.000357,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.049609,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/main Translation-en\r\n"
+    ],
+    [
+      0.000022,
+      "\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000105,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%]"
+    ],
+    [
+      0.000183,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.084361,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/multiverse Translation-en"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000162,
+      "\r100% [Translation-en 0 B] [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%]"
+    ],
+    [
+      0.000172,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.065628,
+      "\r                                                                               \rGet:3 https://deb.nodesource.com vivid/main Translation-en_US"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.010988,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/restricted Translation-en\r\n\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000063,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.071523,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.000810,
+      "\r100% [Waiting for headers] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers"
+    ],
+    [
+      0.023588,
+      "\r                                                                               \rHit http://pk.archive.ubuntu.com vivid-backports/universe Translation-en"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000079,
+      "\r100% [Translation-en 0 B] [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers]"
+    ],
+    [
+      0.000427,
+      "\r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.014538,
+      "\r                                                                               \r100% [2 Sources 29.9 kB/55.9 kB 53%] [Waiting for headers]"
+    ],
+    [
+      0.253068,
+      "\r                                                          \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\r                                                          \r100% [Waiting for headers] [2 Sources 47.2 kB/55.9 kB 84%] [Waiting for headers"
+    ],
+    [
+      0.000116,
+      "\r100% [Waiting for headers] [Packages 0 B] [2 Sources 47.2 kB/55.9 kB 84%] [Wait"
+    ],
+    [
+      0.000560,
+      "\r100% [Waiting for headers] [2 Sources 47.2 kB/55.9 kB 84%] [Waiting for headers"
+    ],
+    [
+      0.111809,
+      "\r                                                                               \rHit http://toolbelt.heroku.com ./ Packages"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [2 Sources 51.5 kB/55.9 kB 92%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.000155,
+      "\r100% [Packages 0 B] [2 Sources 51.5 kB/55.9 kB 92%] [Waiting for headers] [Wait"
+    ],
+    [
+      0.000954,
+      "\r100% [2 Sources 51.5 kB/55.9 kB 92%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.008774,
+      "\r                                                                               \rGet:4 https://deb.nodesource.com vivid/main Translation-en [162 B]"
+    ],
+    [
+      0.000010,
+      "\r\n\r100% [2 Sources 51.5 kB/55.9 kB 92%] [Waiting for headers] [Waiting for headers"
+    ],
+    [
+      0.001538,
+      "\r100% [2 Sources 51.5 kB/55.9 kB 92%] [Waiting for headers] [4 Translation-en 16"
+    ],
+    [
+      0.359263,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.180688,
+      "\r                                                                               \rGet:5 https://deb.nodesource.com vivid/main Translation-en_US [162 B]\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.260160,
+      "\r100% [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for headers]        26.3 MB/s 0s"
+    ],
+    [
+      0.173250,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.000544,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.049360,
+      "\r                                                                               \rGet:6 https://deb.nodesource.com vivid/main Translation-en [162 B]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.130964,
+      "\r100% [Waiting for headers] [2 Sources 55.8 kB/55.9 kB 100%] [Waiting for header"
+    ],
+    [
+      0.028207,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000876,
+      "\r                                                                      \r100% [2 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.017635,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.055241,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid Release.gpg"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.254949,
+      "\r                                                                      \rGet:7 https://deb.nodesource.com vivid/main Translation-en_US [162 B]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.001267,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.025007,
+      "\r                                                                      \rGet:8 http://security.ubuntu.com vivid-security/restricted Sources [3,418 B]\r\n"
+    ],
+    [
+      0.000012,
+      "\r                                                                      \r100% [Waiting for headers] [8 Sources 1,098 B/3,418 B 32%] [Waiting for headers"
+    ],
+    [
+      0.023646,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid Release.gpg"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r100% [Waiting for headers] [8 Sources 2,538 B/3,418 B 74%] [Waiting for headers"
+    ],
+    [
+      0.282378,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid Release"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r100% [Waiting for headers] [8 Sources 2,538 B/3,418 B 74%] [Waiting for headers"
+    ],
+    [
+      0.000296,
+      "\r100% [Waiting for headers] [Release gpgv 15.1 kB] [8 Sources 2,538 B/3,418 B 74"
+    ],
+    [
+      0.002304,
+      "\r100% [Waiting for headers] [8 Sources 2,538 B/3,418 B 74%] [Waiting for headers"
+    ],
+    [
+      0.037775,
+      "\r100% [8 Sources 2,538 B/3,418 B 74%] [Waiting for headers]         26.3 MB/s 0s"
+    ],
+    [
+      0.005037,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000096,
+      "\r                                                                      \r100% [8 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.001278,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.103607,
+      "\r                                                                               \rGet:9 https://deb.nodesource.com vivid/main Translation-en [162 B]"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.131120,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid Release"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000111,
+      "\r                                                                      \r100% [Waiting for headers] [Release gpgv 15.1 kB] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.002459,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.112726,
+      "\r                                                                               \rGet:10 http://security.ubuntu.com vivid-security/universe Sources [22.2 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Waiting for headers] [10 Sources 1,096 B/22.2 kB 5%] [Waiting for headers"
+    ],
+    [
+      0.023402,
+      "\r100% [10 Sources 3,976 B/22.2 kB 18%] [Waiting for headers]        26.3 MB/s 0s"
+    ],
+    [
+      0.145048,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Waiting for headers] [10 Sources 3,976 B/22.2 kB 18%] [Waiting for header"
+    ],
+    [
+      0.000104,
+      "\r100% [Waiting for headers] [Packages 0 B] [10 Sources 3,976 B/22.2 kB 18%] [Wai"
+    ],
+    [
+      0.000223,
+      "\r100% [Waiting for headers] [10 Sources 3,976 B/22.2 kB 18%] [Waiting for header"
+    ],
+    [
+      0.062709,
+      "\r                                                                               \rGet:11 https://deb.nodesource.com vivid/main Translation-en_US [162 B]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Waiting for headers] [10 Sources 3,976 B/22.2 kB 18%] [Waiting for header"
+    ],
+    [
+      0.147314,
+      "\r100% [Waiting for headers] [10 Sources 6,856 B/22.2 kB 31%] [Waiting for header"
+    ],
+    [
+      0.337190,
+      "\r                                                                               \rGet:12 https://deb.nodesource.com vivid/main Translation-en [162 B]"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\r100% [Waiting for headers] [10 Sources 11.2 kB/22.2 kB 50%] [Waiting for header"
+    ],
+    [
+      0.028334,
+      "\r100% [10 Sources 11.2 kB/22.2 kB 50%] [Waiting for headers]        26.3 MB/s 0s"
+    ],
+    [
+      0.199738,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [Waiting for headers] [10 Sources 14.1 kB/22.2 kB 63%] [Waiting for header"
+    ],
+    [
+      0.000135,
+      "\r100% [Waiting for headers] [Packages 0 B] [10 Sources 14.1 kB/22.2 kB 63%] [Wai"
+    ],
+    [
+      0.000202,
+      "\r100% [Waiting for headers] [10 Sources 14.1 kB/22.2 kB 63%] [Waiting for header"
+    ],
+    [
+      0.155923,
+      "\r                                                                               \rIgn http://toolbelt.heroku.com ./ Translation-en_US"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r100% [10 Sources 16.9 kB/22.2 kB 76%] [Waiting for headers] [Waiting for header"
+    ],
+    [
+      0.041091,
+      "\r100% [10 Sources 16.9 kB/22.2 kB 76%] [Waiting for headers]        26.3 MB/s 0s"
+    ],
+    [
+      0.122157,
+      "\r                                                                               \rGet:13 https://deb.nodesource.com vivid/main Translation-en_US [162 B]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\r100% [Waiting for headers] [10 Sources 19.8 kB/22.2 kB 89%] [Waiting for header"
+    ],
+    [
+      0.000050,
+      "\r                                                                               \rIgn https://deb.nodesource.com vivid/main Translation-en_US"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\r100% [Waiting for headers] [10 Sources 19.8 kB/22.2 kB 89%] [Waiting for header"
+    ],
+    [
+      0.157205,
+      "\r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.000109,
+      "\r100% [10 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.005799,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.078708,
+      "\r                                                                      \rIgn http://toolbelt.heroku.com ./ Translation-en"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.216512,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.000131,
+      "\r                                                                               \r100% [Translation-en 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000233,
+      "\r                                                                     \r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.042369,
+      "\r                                                                               \rGet:14 https://deb.nodesource.com vivid/main Translation-en [162 B]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\r100% [Waiting for headers] [Waiting for headers] [14 Translation-en 162 B/162 B"
+    ],
+    [
+      0.000121,
+      "\r                                                                               \rIgn https://deb.nodesource.com vivid/main Translation-en\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.007602,
+      "\r                                                                               \rGet:15 http://security.ubuntu.com vivid-security/multiverse Sources [1,930 B]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\r100% [15 Sources 1,098 B/1,930 B 57%] [Waiting for headers]        26.3 MB/s 0s"
+    ],
+    [
+      0.001101,
+      "\r100% [Waiting for headers]                                         26.3 MB/s 0s"
+    ],
+    [
+      0.000104,
+      "\r                                                                               \r100% [15 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000506,
+      "\r                                                                       \r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.230148,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main amd64 Packages"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Waiting for headers]                                         26.3 MB/s 0s"
+    ],
+    [
+      0.000130,
+      "\r100% [Packages 0 B] [Waiting for headers] [Waiting for headers]    26.3 MB/s 0s"
+    ],
+    [
+      0.000270,
+      "\r100% [Waiting for headers] [Waiting for headers]                   26.3 MB/s 0s"
+    ],
+    [
+      0.129372,
+      "\r                                                                               \rGet:16 http://security.ubuntu.com vivid-security/main amd64 Packages [175 kB]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r100% [16 Packages 1,094 B/175 kB 1%] [Waiting for headers]         26.3 MB/s 0s"
+    ],
+    [
+      0.170948,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main i386 Packages"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [16 Packages 8,294 B/175 kB 5%] [Waiting for headers]         26.3 MB/s 0s"
+    ],
+    [
+      0.000132,
+      "\r                                                                               \r100% [Packages 0 B] [16 Packages 8,294 B/175 kB 5%] [Waiting for headers]"
+    ],
+    [
+      0.000181,
+      "\r                                                                         \r100% [16 Packages 8,294 B/175 kB 5%] [Waiting for headers]         26.3 MB/s 0s"
+    ],
+    [
+      0.281818,
+      "\r                                                                               \rHit http://ppa.launchpad.net vivid/main Translation-en"
+    ],
+    [
+      0.000014,
+      "\r\n\r100% [16 Packages 15.5 kB/175 kB 9%]                               26.3 MB/s 0s"
+    ],
+    [
+      0.000299,
+      "\r100% [16 Packages 15.5 kB/175 kB 9%]                               26.3 MB/s 0s"
+    ],
+    [
+      0.500598,
+      "\r100% [16 Packages 28.5 kB/175 kB 16%]                              26.3 MB/s 0s"
+    ],
+    [
+      0.500595,
+      "\r100% [16 Packages 42.9 kB/175 kB 24%]                              26.3 MB/s 0s"
+    ],
+    [
+      0.500321,
+      "\r100% [16 Packages 77.4 kB/175 kB 44%]                              26.3 MB/s 0s"
+    ],
+    [
+      0.500593,
+      "\r100% [16 Packages 102 kB/175 kB 58%]                               22.3 kB/s 3s"
+    ],
+    [
+      0.500586,
+      "\r100% [16 Packages 126 kB/175 kB 72%]                               22.3 kB/s 2s"
+    ],
+    [
+      0.500589,
+      "\r100% [16 Packages 162 kB/175 kB 93%]                               22.3 kB/s 0s"
+    ],
+    [
+      0.500585,
+      "\r100% [16 Packages 162 kB/175 kB 93%]                               22.3 kB/s 0s"
+    ],
+    [
+      0.061108,
+      "\r100% [Working]                                                     22.3 kB/s 0s"
+    ],
+    [
+      0.000101,
+      "\r100% [16 Packages bzip2 0 B] [Waiting for headers]                 22.3 kB/s 0s"
+    ],
+    [
+      0.061023,
+      "\r100% [Waiting for headers]                                         22.3 kB/s 0s"
+    ],
+    [
+      0.291673,
+      "\r                                                                               \rGet:17 http://security.ubuntu.com vivid-security/restricted amd64 Packages [11.2 kB]"
+    ],
+    [
+      0.000012,
+      "\r\n\r100% [17 Packages 1,096 B/11.2 kB 10%]                             22.3 kB/s 0s"
+    ],
+    [
+      0.410276,
+      "\r100% [Working]                                                     22.3 kB/s 0s"
+    ],
+    [
+      0.001421,
+      "\r100% [17 Packages bzip2 0 B] [Waiting for headers]                 22.3 kB/s 0s"
+    ],
+    [
+      0.005962,
+      "\r100% [Waiting for headers]                                         22.3 kB/s 0s"
+    ],
+    [
+      0.351480,
+      "\r                                                                               \rGet:18 http://security.ubuntu.com vivid-security/universe amd64 Packages [71.5 kB]\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [18 Packages 1,095 B/71.5 kB 2%]                              22.3 kB/s 3s"
+    ],
+    [
+      0.500634,
+      "\r100% [18 Packages 19.8 kB/71.5 kB 28%]                             22.3 kB/s 2s"
+    ],
+    [
+      0.500572,
+      "\r100% [18 Packages 28.5 kB/71.5 kB 40%]                             22.3 kB/s 1s"
+    ],
+    [
+      0.500665,
+      "\r100% [18 Packages 50.1 kB/71.5 kB 70%]                             22.3 kB/s 0s"
+    ],
+    [
+      0.500573,
+      "\r100% [18 Packages 50.1 kB/71.5 kB 70%]                             22.3 kB/s 0s"
+    ],
+    [
+      0.482303,
+      "\r100% [Working]                                                     22.3 kB/s 0s"
+    ],
+    [
+      0.000246,
+      "\r100% [18 Packages bzip2 0 B] [Waiting for headers]                 22.3 kB/s 0s"
+    ],
+    [
+      0.023866,
+      "\r100% [Waiting for headers]                                         22.3 kB/s 0s"
+    ],
+    [
+      0.444478,
+      "\r                                                                               \rGet:19 http://security.ubuntu.com vivid-security/multiverse amd64 Packages [6,037 B]"
+    ],
+    [
+      0.000014,
+      "\r\n\r100% [19 Packages 1,097 B/6,037 B 18%]                             22.3 kB/s 0s"
+    ],
+    [
+      0.357670,
+      "\r100% [Working]                                                     22.3 kB/s 0s"
+    ],
+    [
+      0.000088,
+      "\r100% [19 Packages bzip2 0 B] [Waiting for headers]                 22.3 kB/s 0s"
+    ],
+    [
+      0.001470,
+      "\r100% [Waiting for headers]                                         22.3 kB/s 0s"
+    ],
+    [
+      0.353822,
+      "\r                                                                               \rGet:20 http://security.ubuntu.com vivid-security/main i386 Packages [174 kB]"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\r100% [20 Packages 1,094 B/174 kB 1%]                               25.7 kB/s 6s"
+    ],
+    [
+      0.500120,
+      "\r100% [20 Packages 16.9 kB/174 kB 10%]                              25.7 kB/s 6s"
+    ],
+    [
+      0.500586,
+      "\r100% [20 Packages 27.0 kB/174 kB 16%]                              25.7 kB/s 5s"
+    ],
+    [
+      0.500579,
+      "\r100% [20 Packages 50.1 kB/174 kB 29%]                              25.7 kB/s 4s"
+    ],
+    [
+      0.500596,
+      "\r100% [20 Packages 61.6 kB/174 kB 35%]                              25.7 kB/s 4s"
+    ],
+    [
+      0.500583,
+      "\r100% [20 Packages 61.6 kB/174 kB 35%]                              25.7 kB/s 4s"
+    ],
+    [
+      0.500589,
+      "\r100% [20 Packages 93.3 kB/174 kB 54%]                              25.7 kB/s 3s"
+    ],
+    [
+      0.500585,
+      "\r100% [20 Packages 106 kB/174 kB 61%]                               25.7 kB/s 2s"
+    ],
+    [
+      0.500474,
+      "\r100% [20 Packages 126 kB/174 kB 73%]                               25.7 kB/s 1s"
+    ],
+    [
+      0.500593,
+      "\r100% [20 Packages 144 kB/174 kB 83%]                               25.7 kB/s 1s"
+    ],
+    [
+      0.500586,
+      "\r100% [20 Packages 161 kB/174 kB 93%]                               25.7 kB/s 0s"
+    ],
+    [
+      0.432139,
+      "\r100% [Working]                                                     25.7 kB/s 0s"
+    ],
+    [
+      0.002717,
+      "\r100% [20 Packages bzip2 0 B] [Waiting for headers]                 25.7 kB/s 0s"
+    ],
+    [
+      0.065754,
+      "\r100% [Waiting for headers]                                         25.7 kB/s 0s"
+    ],
+    [
+      0.283766,
+      "\r                                                                               \rGet:21 http://security.ubuntu.com vivid-security/restricted i386 Packages [10.9 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\r100% [21 Packages 1,096 B/10.9 kB 10%]                             25.7 kB/s 0s"
+    ],
+    [
+      0.360502,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000103,
+      "\r100% [21 Packages bzip2 0 B] [Waiting for headers]                 29.8 kB/s 0s"
+    ],
+    [
+      0.007759,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.344395,
+      "\r                                                                               \rGet:22 http://security.ubuntu.com vivid-security/universe i386 Packages [71.5 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [22 Packages 1,095 B/71.5 kB 2%]                              29.8 kB/s 2s"
+    ],
+    [
+      0.500598,
+      "\r100% [22 Packages 24.1 kB/71.5 kB 34%]                             29.8 kB/s 1s"
+    ],
+    [
+      0.500569,
+      "\r100% [22 Packages 37.1 kB/71.5 kB 52%]                             29.8 kB/s 1s"
+    ],
+    [
+      0.500476,
+      "\r100% [22 Packages 54.4 kB/71.5 kB 76%]                             29.8 kB/s 0s"
+    ],
+    [
+      0.371073,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000099,
+      "\r100% [22 Packages bzip2 0 B] [Waiting for headers]                 29.8 kB/s 0s"
+    ],
+    [
+      0.021163,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.336500,
+      "\r                                                                               \rGet:23 http://security.ubuntu.com vivid-security/multiverse i386 Packages [6,236 B]\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [23 Packages 1,097 B/6,236 B 18%]                             29.8 kB/s 0s"
+    ],
+    [
+      0.028179,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.001659,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.355339,
+      "\r                                                                               \rHit http://security.ubuntu.com vivid-security/main Translation-en"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000119,
+      "\r100% [Translation-en 0 B] [Waiting for headers]                    29.8 kB/s 0s"
+    ],
+    [
+      0.017965,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.379196,
+      "\r                                                                               \rHit http://security.ubuntu.com vivid-security/multiverse Translation-en"
+    ],
+    [
+      0.000025,
+      "\r\n\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000068,
+      "\r100% [Translation-en 0 B] [Waiting for headers]                    29.8 kB/s 0s"
+    ],
+    [
+      0.000502,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.351935,
+      "\r                                                                               \rHit http://security.ubuntu.com vivid-security/restricted Translation-en"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000679,
+      "\r100% [Waiting for headers]                                         29.8 kB/s 0s"
+    ],
+    [
+      0.349058,
+      "\r                                                                               \rHit http://security.ubuntu.com vivid-security/universe Translation-en"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000086,
+      "\r100% [Translation-en 0 B]                                          29.8 kB/s 0s"
+    ],
+    [
+      0.003920,
+      "\r100% [Working]                                                     29.8 kB/s 0s"
+    ],
+    [
+      0.000009,
+      "\r                                                                               \rFetched 674 kB in 28s (23.3 kB/s)\r\n"
+    ],
+    [
+      0.050931,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.065110,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.031568,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.173450,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.000011,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.009112,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.522759,
+      "\rReading package lists... 24%\r"
+    ],
+    [
+      0.363020,
+      "\rReading package lists... 34%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 34%\r"
+    ],
+    [
+      0.024323,
+      "\rReading package lists... 34%\r"
+    ],
+    [
+      0.000017,
+      "\rReading package lists... 34%\r"
+    ],
+    [
+      0.128088,
+      "\rReading package lists... 41%\r"
+    ],
+    [
+      0.000017,
+      "\rReading package lists... 41%\r"
+    ],
+    [
+      0.007312,
+      "\rReading package lists... 41%\r"
+    ],
+    [
+      0.000025,
+      "\rReading package lists... 41%\r"
+    ],
+    [
+      0.186577,
+      "\rReading package lists... 52%\r"
+    ],
+    [
+      0.295864,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.000045,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.016373,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.000010,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.063716,
+      "\rReading package lists... 72%\r"
+    ],
+    [
+      0.000022,
+      "\rReading package lists... 72%\r"
+    ],
+    [
+      0.005558,
+      "\rReading package lists... 73%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 73%\r"
+    ],
+    [
+      0.000646,
+      "\rReading package lists... 73%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 73%\r"
+    ],
+    [
+      0.295919,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.000026,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.038782,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.022566,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000012,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.004583,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000038,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.029335,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.000030,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.003409,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.000011,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.030055,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.003139,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000028,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.014910,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000018,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.002452,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000017,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.023922,
+      "\rReading package lists... 94%\r\rReading package lists... 94%\r\rReading package lists... 94%\r\rReading package lists... 94%\r"
+    ],
+    [
+      0.000622,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000057,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.010119,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000047,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.002675,
+      "\rReading package lists... 94%\r\rReading package lists... 94%\r"
+    ],
+    [
+      0.002589,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000049,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.003687,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000077,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.002015,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000049,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.002463,
+      "\rReading package lists... 94%\r\rReading package lists... 94%\r"
+    ],
+    [
+      0.002034,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000048,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.002445,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000049,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.003234,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000169,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000051,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000116,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000041,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000115,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000044,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000289,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000046,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.012539,
+      "\rReading package lists... 95%\r\rReading package lists... 95%\r"
+    ],
+    [
+      0.002569,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000035,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.006562,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000031,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.002431,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000040,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.008811,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000040,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.003440,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000040,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.005620,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000057,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002308,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000045,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.022653,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000167,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000671,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000054,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001001,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000125,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.006480,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000015,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000787,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000013,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000636,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000012,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000388,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000012,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.001481,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000013,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000974,
+      "\rReading package lists... 98%\r\rReading package lists... 98%\r"
+    ],
+    [
+      0.000177,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000045,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000704,
+      "\rReading package lists... 98%\r\rReading package lists... 98%\r"
+    ],
+    [
+      0.000449,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000041,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.001246,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000081,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000865,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000093,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000219,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000061,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.002121,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000048,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.001404,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000044,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000281,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000048,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.001714,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000044,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000663,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000041,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000217,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000043,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000352,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000042,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000246,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000044,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000130,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000039,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000260,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000041,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000247,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000043,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      3.352522,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000057,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.010224,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.845236,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.004693,
+      "\u001b]0;yasoob@yasoob: ~/Desktop\u0007yasoob@yasoob:~/Desktop$ "
+    ],
+    [
+      0.907490,
+      "s"
+    ],
+    [
+      0.104754,
+      "u"
+    ],
+    [
+      0.113065,
+      "d"
+    ],
+    [
+      0.073247,
+      "o"
+    ],
+    [
+      0.157464,
+      " "
+    ],
+    [
+      0.238294,
+      "a"
+    ],
+    [
+      0.100157,
+      "p"
+    ],
+    [
+      0.122706,
+      "t"
+    ],
+    [
+      0.157817,
+      "-"
+    ],
+    [
+      0.152140,
+      "g"
+    ],
+    [
+      0.131080,
+      "e"
+    ],
+    [
+      0.060581,
+      "t"
+    ],
+    [
+      0.130633,
+      " "
+    ],
+    [
+      0.155145,
+      "i"
+    ],
+    [
+      0.081431,
+      "n"
+    ],
+    [
+      0.065361,
+      "s"
+    ],
+    [
+      0.168733,
+      "t"
+    ],
+    [
+      0.080013,
+      "a"
+    ],
+    [
+      0.111149,
+      "l"
+    ],
+    [
+      0.120000,
+      "l"
+    ],
+    [
+      0.139449,
+      " "
+    ],
+    [
+      0.511007,
+      "w"
+    ],
+    [
+      0.158864,
+      "i"
+    ],
+    [
+      0.068170,
+      "n"
+    ],
+    [
+      0.318627,
+      "e"
+    ],
+    [
+      0.640821,
+      "1"
+    ],
+    [
+      0.264830,
+      "."
+    ],
+    [
+      0.380613,
+      "8"
+    ],
+    [
+      0.280541,
+      "\r\n"
+    ],
+    [
+      0.010554,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004716,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000011,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004348,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000012,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.043475,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000011,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.280227,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000011,
+      "\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000031,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.002049,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.510283,
+      "The following packages were automatically installed and are no longer required:\r\n"
+    ],
+    [
+      0.000012,
+      "  libc-ares2 libv8-3.14.5 linux-headers-3.19.0-15\r\n  linux-headers-3.19.0-15-generic linux-headers-3.19.0-41\r\n  linux-headers-3.19.0-41-generic linux-image-3.19.0-15-generic\r\n  linux-image-3.19.0-41-generic linux-image-extra-3.19.0-15-generic\r\n  linux-image-extra-3.19.0-41-generic\r\nUse 'apt-get autoremove' to remove them.\r\n"
+    ],
+    [
+      0.041227,
+      "The following extra packages will be installed:"
+    ],
+    [
+      0.000010,
+      "\r\n  cabextract cups cups-bsd cups-client cups-common cups-core-drivers\r\n  cups-daemon cups-server-common fonts-horai-umefont fonts-unfonts-core\r\n  fonts-wqy-microhei gcc-4.9-base:i386 gcc-5-base gcc-5-base:i386\r\n"
+    ],
+    [
+      0.000005,
+      "  gnome-exe-thumbnailer icoutils lib32gcc1 libasn1-8-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libasound2:i386 libasound2-plugins:i386 libasyncns0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libavahi-client3:i386 libavahi-common-data:i386 libavahi-common3:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libc6:i386 libcapi20-3 libcapi20-3:i386 libcomerr2:i386 libcups2"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libcups2:i386 libcupscgi1 libcupsimage2 libcupsmime1 libcupsppdc1\r\n"
+    ],
+    [
+      0.000004,
+      "  libdb5.3:i386 libdbus-1-3:i386 libdrm-intel1:i386 libdrm-nouveau2:i386"
+    ],
+    [
+      0.000005,
+      "\r\n  libdrm-radeon1:i386 libdrm2:i386 libedit2:i386 libegl1-mesa libelf1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libencode-locale-perl libexif12:i386 libexpat1:i386 libffi6:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libfile-listing-perl libflac8:i386 libfont-afm-perl libfontconfig1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libfreetype6:i386 libgbm1 libgcc1 libgcc1:i386 libgcrypt20:i386 libgd3:i386"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  libgif4:i386 libgl1-mesa-dri libgl1-mesa-dri:i386 libgl1-mesa-glx:i386\r\n  libglapi-mesa:i386 libglib2.0-0:i386 libglu1-mesa:i386 libgmp10:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libgnutls-deb0-28:i386 libgpg-error0:i386 libgphoto2-6:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libgphoto2-port10:i386 libgpm2:i386 libgssapi-krb5-2:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libgssapi3-heimdal:i386 libgstreamer-plugins-base0.10-0:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libgstreamer0.10-0:i386 libhcrypto4-heimdal:i386 libheimbase1-heimdal:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libheimntlm0-heimdal:i386 libhogweed2:i386 libhtml-form-perl\r\n"
+    ],
+    [
+      0.000004,
+      "  libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl"
+    ],
+    [
+      0.000004,
+      "\r\n  libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libhttp-message-perl libhttp-negotiate-perl libhx509-5-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libice6:i386 libicu52:i386 libieee1284-3:i386 libio-html-perl"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libjack-jackd2-0:i386 libjbig0:i386 libjpeg-turbo8:i386 libjpeg8:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libjson-c2:i386 libk5crypto3:i386 libkeyutils1:i386 libkrb5-26-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libkrb5-3:i386 libkrb5support0:i386 liblcms2-2:i386 libldap-2.4-2:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  libllvm3.6:i386 libltdl7:i386 liblwp-mediatypes-perl\r\n"
+    ],
+    [
+      0.000006,
+      "  liblwp-protocol-https-perl liblzma5:i386 libmpg123-0 libmpg123-0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libmspack0 libncurses5:i386 libnet-http-perl libnettle4:i386 libodbc1\r\n"
+    ],
+    [
+      0.000004,
+      "  libogg0:i386 libopenal1:i386 liborc-0.4-0:i386 libosmesa6 libosmesa6:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libp11-kit0:i386 libpam-systemd libpcap0.8:i386 libpciaccess0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libpcre3:i386 libpng12-0:i386 libpulse0:i386 libroken18-heimdal:i386"
+    ],
+    [
+      0.000011,
+      "\r\n  libsamplerate0:i386 libsane:i386 libsasl2-2:i386 libsasl2-modules:i386\r\n  libsasl2-modules-db:i386 libselinux1:i386 libsm6:i386 libsndfile1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libspeexdsp1:i386 libsqlite3-0:i386 libssl1.0.0:i386 libstdc++6:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libsystemd0 libsystemd0:i386 libtasn1-6:i386 libtiff5:i386 libtinfo5:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libtxc-dxtn-s2tc0:i386 libudev1 libudev1:i386 libusb-1.0-0:i386 libuuid1"
+    ],
+    [
+      0.000004,
+      "\r\n  libuuid1:i386 libv4l-0:i386 libv4lconvert0:i386 libvorbis0a:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libvorbisenc2:i386 libvpx1:i386 libwayland-egl1-mesa libwind0-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libwrap0:i386 libwww-perl libwww-robotrules-perl libx11-6:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  libx11-xcb1:i386 libx32gcc1 libxau6:i386 libxcb-dri2-0:i386\r\n"
+    ],
+    [
+      0.000006,
+      "  libxcb-dri3-0:i386 libxcb-glx0:i386 libxcb-present0:i386 libxcb-sync1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libxcb1:i386 libxcomposite1:i386 libxcursor1:i386 libxdamage1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libxdmcp6:i386 libxext6:i386 libxfixes3:i386 libxi6:i386 libxinerama1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libxml2:i386 libxpm4:i386 libxrandr2:i386 libxrender1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libxshmfence1:i386 libxslt1.1:i386 libxt6:i386 libxxf86vm1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  ocl-icd-libopencl1 ocl-icd-libopencl1:i386 odbcinst odbcinst1debian2\r\n"
+    ],
+    [
+      0.000004,
+      "  p11-kit-modules:i386 p7zip systemd ttf-mscorefonts-installer"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  ttf-wqy-microhei udev unixodbc wine-gecko2.34 wine-gecko2.34:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  wine-mono4.5.4 wine1.8-amd64 wine1.8-i386:i386 winetricks zlib1g:i386"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.004584,
+      "Suggested packages:\r\n"
+    ],
+    [
+      0.000009,
+      "  cups-pdf smbclient xpp libterm-readline-gnu-perl libterm-readline-perl-perl\r\n  glibc-doc:i386 locales:i386 isdnutils-doc isdnutils-doc:i386 rng-tools:i386\r\n  libgd-tools:i386 gnutls-bin:i386 gphoto2:i386 gtkam:i386 gpm:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  krb5-doc:i386 krb5-user:i386 libvisual-0.4-plugins:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  gstreamer-codec-install:i386 gnome-codec-install:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  gstreamer0.10-tools:i386 gstreamer0.10-plugins-base:i386 libdata-dump-perl"
+    ],
+    [
+      0.000004,
+      "\r\n  jackd2:i386 libcrypt-ssleay-perl libmyodbc odbc-postgresql tdsodbc"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  unixodbc-bin libportaudio2:i386 hplip:i386 hpoj:i386 libsane-extras:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libsasl2-modules-otp:i386 libsasl2-modules-ldap:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libsasl2-modules-sql:i386 libsasl2-modules-gssapi-mit:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libsasl2-modules-gssapi-heimdal:i386 libauthen-ntlm-perl opencl-icd\r\n"
+    ],
+    [
+      0.000004,
+      "  opencl-icd:i386 p7zip-full systemd-ui dosbox:any winbind"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Recommended packages:"
+    ],
+    [
+      0.000007,
+      "\r\n  xml-core:i386 wine1.5-amd64 wine1.5-i386:i386 libgnutls26 libgnutls26:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  unixodbc:i386 wine-mono4.5.4:i386 wine\r\n"
+    ],
+    [
+      0.005244,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000010,
+      "\r\n  cabextract fonts-horai-umefont fonts-unfonts-core fonts-wqy-microhei\r\n  gcc-4.9-base:i386 gcc-5-base:i386 gnome-exe-thumbnailer icoutils\r\n"
+    ],
+    [
+      0.000005,
+      "  libasn1-8-heimdal:i386 libasound2:i386 libasound2-plugins:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libasyncns0:i386 libavahi-client3:i386 libavahi-common-data:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libavahi-common3:i386 libc6:i386 libcapi20-3 libcapi20-3:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libcomerr2:i386 libcups2:i386 libdb5.3:i386 libdbus-1-3:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libdrm-intel1:i386 libdrm-nouveau2:i386 libdrm-radeon1:i386 libdrm2:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libedit2:i386 libelf1:i386 libencode-locale-perl libexif12:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libexpat1:i386 libffi6:i386 libfile-listing-perl libflac8:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libfont-afm-perl libfontconfig1:i386 libfreetype6:i386 libgcc1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libgcrypt20:i386 libgd3:i386 libgif4:i386 libgl1-mesa-dri:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libgl1-mesa-glx:i386 libglapi-mesa:i386 libglib2.0-0:i386 libglu1-mesa:i386"
+    ],
+    [
+      0.000006,
+      "\r\n  libgmp10:i386 libgnutls-deb0-28:i386 libgpg-error0:i386 libgphoto2-6:i386"
+    ],
+    [
+      0.000006,
+      "\r\n  libgphoto2-port10:i386 libgpm2:i386 libgssapi-krb5-2:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libgssapi3-heimdal:i386 libgstreamer-plugins-base0.10-0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libgstreamer0.10-0:i386 libhcrypto4-heimdal:i386 libheimbase1-heimdal:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libheimntlm0-heimdal:i386 libhogweed2:i386 libhtml-form-perl"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl\r\n"
+    ],
+    [
+      0.000004,
+      "  libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libhttp-message-perl libhttp-negotiate-perl libhx509-5-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libice6:i386 libicu52:i386 libieee1284-3:i386 libio-html-perl\r\n"
+    ],
+    [
+      0.000004,
+      "  libjack-jackd2-0:i386 libjbig0:i386 libjpeg-turbo8:i386 libjpeg8:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libjson-c2:i386 libk5crypto3:i386 libkeyutils1:i386 libkrb5-26-heimdal:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libkrb5-3:i386 libkrb5support0:i386 liblcms2-2:i386 libldap-2.4-2:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libllvm3.6:i386 libltdl7:i386 liblwp-mediatypes-perl"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  liblwp-protocol-https-perl liblzma5:i386 libmpg123-0 libmpg123-0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libmspack0 libncurses5:i386 libnet-http-perl libnettle4:i386 libodbc1"
+    ],
+    [
+      0.000006,
+      "\r\n  libogg0:i386 libopenal1:i386 liborc-0.4-0:i386 libosmesa6 libosmesa6:i386"
+    ],
+    [
+      0.000005,
+      "\r\n  libp11-kit0:i386 libpcap0.8:i386 libpciaccess0:i386 libpcre3:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libpng12-0:i386 libpulse0:i386 libroken18-heimdal:i386 libsamplerate0:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libsane:i386 libsasl2-2:i386 libsasl2-modules:i386 libsasl2-modules-db:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libselinux1:i386 libsm6:i386 libsndfile1:i386 libspeexdsp1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n  libsqlite3-0:i386 libssl1.0.0:i386 libstdc++6:i386 libsystemd0:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libtasn1-6:i386 libtiff5:i386 libtinfo5:i386 libtxc-dxtn-s2tc0:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libudev1:i386 libusb-1.0-0:i386 libuuid1:i386 libv4l-0:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libv4lconvert0:i386 libvorbis0a:i386 libvorbisenc2:i386 libvpx1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libwind0-heimdal:i386 libwrap0:i386 libwww-perl libwww-robotrules-perl"
+    ],
+    [
+      0.000004,
+      "\r\n  libx11-6:i386 libx11-xcb1:i386 libxau6:i386 libxcb-dri2-0:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libxcb-dri3-0:i386 libxcb-glx0:i386 libxcb-present0:i386 libxcb-sync1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  libxcb1:i386 libxcomposite1:i386 libxcursor1:i386 libxdamage1:i386"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  libxdmcp6:i386 libxext6:i386 libxfixes3:i386 libxi6:i386 libxinerama1:i386\r\n"
+    ],
+    [
+      0.000006,
+      "  libxml2:i386 libxpm4:i386 libxrandr2:i386 libxrender1:i386\r\n"
+    ],
+    [
+      0.000005,
+      "  libxshmfence1:i386 libxslt1.1:i386 libxt6:i386 libxxf86vm1:i386\r\n"
+    ],
+    [
+      0.000004,
+      "  ocl-icd-libopencl1 ocl-icd-libopencl1:i386 odbcinst odbcinst1debian2\r\n"
+    ],
+    [
+      0.000004,
+      "  p11-kit-modules:i386 p7zip ttf-mscorefonts-installer ttf-wqy-microhei"
+    ],
+    [
+      0.000004,
+      "\r\n  unixodbc wine-gecko2.34 wine-gecko2.34:i386 wine-mono4.5.4 wine1.8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  wine1.8-amd64 wine1.8-i386:i386 winetricks zlib1g:i386\r\n"
+    ],
+    [
+      0.005714,
+      "The following packages will be upgraded:"
+    ],
+    [
+      0.000009,
+      "\r\n  cups cups-bsd cups-client cups-common cups-core-drivers cups-daemon\r\n  cups-server-common gcc-5-base lib32gcc1 libcups2 libcupscgi1 libcupsimage2\r\n  libcupsmime1 libcupsppdc1 libegl1-mesa libgbm1 libgcc1 libgl1-mesa-dri"
+    ],
+    [
+      0.000005,
+      "\r\n  libpam-systemd libsystemd0 libudev1 libuuid1 libwayland-egl1-mesa libx32gcc1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  systemd udev\r\n"
+    ],
+    [
+      0.012929,
+      "26 upgraded, 182 newly installed, 0 to remove and 146 not upgraded."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.120199,
+      "Need to get 231 MB/231 MB of archives."
+    ],
+    [
+      0.000011,
+      "\r\nAfter this operation, 724 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000014,
+      "Do you want to continue?"
+    ],
+    [
+      0.000064,
+      " [Y/n] "
+    ],
+    [
+      1.039389,
+      "Y"
+    ],
+    [
+      0.335295,
+      "\r\n"
+    ],
+    [
+      0.004736,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.293330,
+      "\r            \rGet:1 http://pk.archive.ubuntu.com/ubuntu/ vivid-updates/main udev amd64 219-7ubuntu6 [929 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r            \r0% [1 udev 159 kB/929 kB 17%] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.500562,
+      "\r                                                                              \r0% [1 udev 228 kB/929 kB 25%] [Waiting for headers]"
+    ],
+    [
+      0.500611,
+      "\r0% [1 udev 312 kB/929 kB 34%] [Waiting for headers]"
+    ],
+    [
+      0.500568,
+      "\r0% [1 udev 348 kB/929 kB 37%] [Waiting for headers]"
+    ],
+    [
+      0.500568,
+      "\r0% [1 udev 452 kB/929 kB 49%] [Waiting for headers]"
+    ],
+    [
+      0.034491,
+      "\r                                                   \rGet:2 http://ppa.launchpad.net/ubuntu-wine/ppa/ubuntu/ vivid/main wine-gecko2.34 amd64 2.34-0ubuntu1~ppa1 [29.6 MB]"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\r                                                   \r1% [1 udev 452 kB/929 kB 49%] [2 wine-gecko2.34 2,454 kB/29.6 MB 8%]"
+    ],
+    [
+      0.500614,
+      "\r1% [1 udev 564 kB/929 kB 61%] [2 wine-gecko2.34 2,454 kB/29.6 MB 8%]"
+    ],
+    [
+      0.374431,
+      "^C"
+    ],
+    [
+      0.000662,
+      "\u001b]0;yasoob@yasoob: ~/Desktop\u0007yasoob@yasoob:~/Desktop$ "
+    ],
+    [
+      1.501807,
+      "exit"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ]
+  ]
+}
