@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 39,
+  "duration": 11.615136,
+  "command": "/bin/bash",
+  "title": "makeWeeks.sh",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.081141,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000066,
+      "luke:switch (master)$ "
+    ],
+    [
+      3.396945,
+      "."
+    ],
+    [
+      0.048218,
+      "/"
+    ],
+    [
+      0.233948,
+      "m"
+    ],
+    [
+      0.086760,
+      "a"
+    ],
+    [
+      0.080220,
+      "k"
+    ],
+    [
+      0.090026,
+      "e"
+    ],
+    [
+      0.453003,
+      "W"
+    ],
+    [
+      0.226017,
+      "e"
+    ],
+    [
+      0.212783,
+      "eks.sh "
+    ],
+    [
+      0.527179,
+      "c"
+    ],
+    [
+      0.158012,
+      "o"
+    ],
+    [
+      0.008016,
+      "m"
+    ],
+    [
+      0.071985,
+      "p"
+    ],
+    [
+      0.228948,
+      "3"
+    ],
+    [
+      0.166015,
+      "0"
+    ],
+    [
+      0.166208,
+      "0"
+    ],
+    [
+      0.182728,
+      "0"
+    ],
+    [
+      0.935942,
+      "\r\n"
+    ],
+    [
+      0.017853,
+      "comp3000..\r\n"
+    ],
+    [
+      0.000064,
+      "making directory.. /Users/ljcusack/Study/comp3000/\r\n"
+    ],
+    [
+      0.000056,
+      "making directory.. /Users/ljcusack/Study/comp3000/Lectures/\r\n"
+    ],
+    [
+      0.000037,
+      "making directory.. /Users/ljcusack/Study/comp3000/Lecture Notes/\r\n"
+    ],
+    [
+      0.020522,
+      "making directory.. /Users/ljcusack/Study/comp3000/assignments/\r\n"
+    ],
+    [
+      0.006625,
+      "making directory.. /Users/ljcusack/Study/comp3000/assignments/ass01/\r\n"
+    ],
+    [
+      0.045320,
+      "Initialized empty Git repository in /Users/ljcusack/Study/comp3000/assignments/ass01/.git/\r\n"
+    ],
+    [
+      0.000534,
+      "making directory.. /Users/ljcusack/Study/comp3000/assignments/ass02/\r\n"
+    ],
+    [
+      0.026738,
+      "Initialized empty Git repository in /Users/ljcusack/Study/comp3000/assignments/ass02/.git/\r\n"
+    ],
+    [
+      0.000444,
+      "making directory.. /Users/ljcusack/Study/comp3000/assignments/ass03/\r\n"
+    ],
+    [
+      0.028882,
+      "Initialized empty Git repository in /Users/ljcusack/Study/comp3000/assignments/ass03/.git/\r\n"
+    ],
+    [
+      0.000537,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/\r\n"
+    ],
+    [
+      0.026144,
+      "Initialized empty Git repository in /Users/ljcusack/Study/comp3000/labs/.git/\r\n"
+    ],
+    [
+      0.000521,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week02/\r\n"
+    ],
+    [
+      0.002682,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week03/\r\n"
+    ],
+    [
+      0.002355,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week04/\r\n"
+    ],
+    [
+      0.002322,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week05/\r\n"
+    ],
+    [
+      0.003211,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week06/\r\n"
+    ],
+    [
+      0.002459,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week07/\r\n"
+    ],
+    [
+      0.002800,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week08/\r\n"
+    ],
+    [
+      0.002520,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week09/\r\n"
+    ],
+    [
+      0.004445,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week10/\r\n"
+    ],
+    [
+      0.002342,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week11/\r\n"
+    ],
+    [
+      0.002297,
+      "making directory.. /Users/ljcusack/Study/comp3000/labs/week12/\r\n"
+    ],
+    [
+      0.002870,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "all done\r\n"
+    ],
+    [
+      0.008028,
+      "luke:switch (master)$ "
+    ],
+    [
+      2.325745,
+      "e"
+    ],
+    [
+      0.180442,
+      "x"
+    ],
+    [
+      0.108207,
+      "i"
+    ],
+    [
+      0.164324,
+      "t"
+    ],
+    [
+      1.256227,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "exit\r\n"
+    ]
+  ]
+}
