@@ -1,0 +1,3026 @@
+{
+  "version": 1,
+  "width": 137,
+  "height": 28,
+  "duration": 127.431,
+  "command": "Creating an etcd appliciance using Stups tooling",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.124826,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      1.119735,
+      "s"
+    ],
+    [
+      0.111746,
+      "e"
+    ],
+    [
+      0.048062,
+      "n"
+    ],
+    [
+      0.111972,
+      "z"
+    ],
+    [
+      0.207447,
+      "a"
+    ],
+    [
+      0.120464,
+      " "
+    ],
+    [
+      0.239971,
+      "c"
+    ],
+    [
+      0.184145,
+      "r"
+    ],
+    [
+      0.128162,
+      "e"
+    ],
+    [
+      0.151887,
+      "a"
+    ],
+    [
+      0.216067,
+      "t"
+    ],
+    [
+      0.095514,
+      "e"
+    ],
+    [
+      0.080445,
+      " "
+    ],
+    [
+      0.418962,
+      "https://raw.github.com/zalando/stups-etcd-cluster/master/etcd-cluster.yaml"
+    ],
+    [
+      2.109000,
+      " "
+    ],
+    [
+      0.336004,
+      "t"
+    ],
+    [
+      0.112043,
+      "u"
+    ],
+    [
+      0.415883,
+      "t"
+    ],
+    [
+      0.144719,
+      "o"
+    ],
+    [
+      0.215341,
+      "r"
+    ],
+    [
+      0.112052,
+      "i"
+    ],
+    [
+      0.151958,
+      "a"
+    ],
+    [
+      0.103990,
+      "l"
+    ],
+    [
+      0.631997,
+      " "
+    ],
+    [
+      0.744539,
+      "\\"
+    ],
+    [
+      0.408169,
+      "\r\n\u003e "
+    ],
+    [
+      2.809873,
+      "HostedZone=team.example.com"
+    ],
+    [
+      1.142655,
+      " "
+    ],
+    [
+      0.215089,
+      "\\"
+    ],
+    [
+      0.344898,
+      "\r\n\u003e "
+    ],
+    [
+      2.583977,
+      "DockerImage=registry.opensource.zalan.do/acid/etcd-cluster:2.2.2-p7"
+    ],
+    [
+      0.639872,
+      " "
+    ],
+    [
+      0.176211,
+      "\\"
+    ],
+    [
+      0.304416,
+      "\r\n\u003e "
+    ],
+    [
+      2.113345,
+      "ScalyrAccountKey=dummy"
+    ],
+    [
+      1.343123,
+      "\r\n"
+    ],
+    [
+      1.317290,
+      "\u001b[1mGenerating Cloud Formation template..\u001b[0m"
+    ],
+    [
+      1.281730,
+      "\u001b[32m\u001b[1m OK\u001b[0m"
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      0.003559,
+      "\u001b[1mCreating Cloud Formation stack etcd-cluster-tutorial..\u001b[0m"
+    ],
+    [
+      0.778186,
+      "\u001b[32m\u001b[1m OK\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\r\n"
+    ],
+    [
+      0.167498,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      2.487075,
+      "senza events etcd-cluster tutorial"
+    ],
+    [
+      0.526399,
+      "\r\n"
+    ],
+    [
+      1.210713,
+      "\u001b[30m\u001b[47mStack Name  \u001b[0m"
+    ],
+    [
+      0.000367,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000342,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000394,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000319,
+      "\u001b[30m\u001b[47mResource Type        \u001b[0m"
+    ],
+    [
+      0.000291,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000288,
+      "\u001b[30m\u001b[47mResource ID          \u001b[0m"
+    ],
+    [
+      0.000323,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[30m\u001b[47mStatus            \u001b[0m"
+    ],
+    [
+      0.000267,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\u001b[30m\u001b[47mStatus Reason              \u001b[0m"
+    ],
+    [
+      0.000213,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\u001b[30m\u001b[47mEvent Time\u001b[0m"
+    ],
+    [
+      0.000250,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000241,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000227,
+      " "
+    ],
+    [
+      0.000255,
+      "CloudFormation::Stack\u001b[0m"
+    ],
+    [
+      0.000299,
+      " "
+    ],
+    [
+      0.000229,
+      "etcd-cluster-tutorial\u001b[0m"
+    ],
+    [
+      0.000209,
+      " "
+    ],
+    [
+      0.000280,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000175,
+      " "
+    ],
+    [
+      0.000254,
+      "User Initiated             \u001b[0m"
+    ],
+    [
+      0.000248,
+      " "
+    ],
+    [
+      0.000443,
+      "\u001b[32m\u001b[1m   34s ago\u001b[0m"
+    ],
+    [
+      0.000200,
+      " "
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.000310,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000249,
+      " "
+    ],
+    [
+      0.000263,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000291,
+      " "
+    ],
+    [
+      0.000260,
+      "IAM::Role            \u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000278,
+      "EtcdRole             \u001b[0m"
+    ],
+    [
+      0.000235,
+      " "
+    ],
+    [
+      0.000269,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000231,
+      " "
+    ],
+    [
+      0.000258,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000323,
+      " "
+    ],
+    [
+      0.000312,
+      "\u001b[32m\u001b[1m   18s ago\u001b[0m"
+    ],
+    [
+      0.000166,
+      " "
+    ],
+    [
+      0.000131,
+      "\r\netcd-cluster\u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000178,
+      "EC2::SecurityGroup   \u001b[0m "
+    ],
+    [
+      0.000164,
+      "EtcdSecurityGroup    \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000174,
+      "                           \u001b[0m \u001b[32m\u001b[1m   17s ago\u001b[0m"
+    ],
+    [
+      0.000181,
+      " \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000186,
+      "tutorial\u001b[0m IAM::Role            \u001b[0m EtcdRole             \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000162,
+      " Resource creation Initiated\u001b[0m "
+    ],
+    [
+      0.000153,
+      "\u001b[32m\u001b[1m    7s ago\u001b[0m"
+    ],
+    [
+      0.000156,
+      " \r\n"
+    ],
+    [
+      0.084965,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      2.439143,
+      "s"
+    ],
+    [
+      0.116423,
+      "e"
+    ],
+    [
+      0.067386,
+      "n"
+    ],
+    [
+      0.112417,
+      "z"
+    ],
+    [
+      0.207490,
+      "a"
+    ],
+    [
+      0.095972,
+      " "
+    ],
+    [
+      0.168482,
+      "e"
+    ],
+    [
+      0.127496,
+      "v"
+    ],
+    [
+      0.072645,
+      "e"
+    ],
+    [
+      0.071483,
+      "n"
+    ],
+    [
+      0.077209,
+      "t"
+    ],
+    [
+      0.107343,
+      "s"
+    ],
+    [
+      0.128044,
+      " "
+    ],
+    [
+      0.511809,
+      "e"
+    ],
+    [
+      0.208053,
+      "t"
+    ],
+    [
+      0.216035,
+      "c"
+    ],
+    [
+      0.095691,
+      "d"
+    ],
+    [
+      0.192317,
+      "-"
+    ],
+    [
+      0.143452,
+      "c"
+    ],
+    [
+      0.096580,
+      "l"
+    ],
+    [
+      0.079481,
+      "u"
+    ],
+    [
+      0.064105,
+      "s"
+    ],
+    [
+      0.064497,
+      "t"
+    ],
+    [
+      0.103922,
+      "e"
+    ],
+    [
+      0.103493,
+      "r"
+    ],
+    [
+      0.128220,
+      " "
+    ],
+    [
+      0.159744,
+      "t"
+    ],
+    [
+      0.096659,
+      "u"
+    ],
+    [
+      0.111649,
+      "t"
+    ],
+    [
+      0.151796,
+      "i"
+    ],
+    [
+      0.704701,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200017,
+      "o"
+    ],
+    [
+      0.127317,
+      "r"
+    ],
+    [
+      0.096647,
+      "i"
+    ],
+    [
+      0.143436,
+      "a"
+    ],
+    [
+      0.104594,
+      "l"
+    ],
+    [
+      0.240297,
+      "\r\n"
+    ],
+    [
+      1.308076,
+      "\u001b[30m\u001b[47mStack Name  \u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000239,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[30m\u001b[47mResource Type        \u001b[0m"
+    ],
+    [
+      0.000239,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000200,
+      "\u001b[30m\u001b[47mResource ID             \u001b[0m"
+    ],
+    [
+      0.000288,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000282,
+      "\u001b[30m\u001b[47mStatus            \u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\u001b[30m\u001b[47mStatus Reason              \u001b[0m"
+    ],
+    [
+      0.000195,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\u001b[30m\u001b[47mEvent Time\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000292,
+      " "
+    ],
+    [
+      0.000316,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000288,
+      " "
+    ],
+    [
+      0.000284,
+      "CloudFormation::Stack\u001b[0m"
+    ],
+    [
+      0.000249,
+      " "
+    ],
+    [
+      0.000328,
+      "etcd-cluster-tutorial   \u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000290,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000262,
+      " "
+    ],
+    [
+      0.000229,
+      "User Initiated             \u001b[0m"
+    ],
+    [
+      0.000227,
+      " "
+    ],
+    [
+      0.000412,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m"
+    ],
+    [
+      0.000276,
+      " "
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000252,
+      " "
+    ],
+    [
+      0.000296,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000235,
+      " "
+    ],
+    [
+      0.000235,
+      "IAM::Role            \u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000231,
+      "EtcdRole                \u001b[0m"
+    ],
+    [
+      0.000242,
+      " "
+    ],
+    [
+      0.000289,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000261,
+      " "
+    ],
+    [
+      0.000239,
+      "                           \u001b[0m"
+    ],
+    [
+      0.000250,
+      " "
+    ],
+    [
+      0.000291,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m"
+    ],
+    [
+      0.000202,
+      " "
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000281,
+      " "
+    ],
+    [
+      0.000101,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000185,
+      " "
+    ],
+    [
+      0.000097,
+      "EC2::SecurityGroup   \u001b[0m "
+    ],
+    [
+      0.000327,
+      "EtcdSecurityGroup       \u001b[0m "
+    ],
+    [
+      0.000178,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                            \u001b[0m "
+    ],
+    [
+      0.000371,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000043,
+      " tutorial\u001b[0m "
+    ],
+    [
+      0.000312,
+      "IAM::Role            \u001b[0m"
+    ],
+    [
+      0.000168,
+      " EtcdRole                \u001b[0m "
+    ],
+    [
+      0.000329,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated\u001b[0m "
+    ],
+    [
+      0.000307,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000152,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000038,
+      " tutorial\u001b[0m"
+    ],
+    [
+      0.000313,
+      " EC2::SecurityGroup   \u001b[0m "
+    ],
+    [
+      0.000112,
+      "EtcdSecurityGroup       \u001b[0m"
+    ],
+    [
+      0.000184,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000043,
+      " "
+    ],
+    [
+      0.000110,
+      "Resource creation Initiated\u001b[0m "
+    ],
+    [
+      0.000339,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000108,
+      " tutorial\u001b[0m "
+    ],
+    [
+      0.000422,
+      "EC2::SecurityGroup   \u001b[0m EtcdSecurityGroup       \u001b[0m "
+    ],
+    [
+      0.000185,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                            \u001b[0m "
+    ],
+    [
+      0.000400,
+      "\u001b[32m\u001b[1m    2m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000082,
+      " "
+    ],
+    [
+      0.000188,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.001250,
+      "IAM::Role            \u001b[0m EtcdRole                \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                            \u001b[0m \u001b[32m\u001b[1m    2m ago\u001b[0m \r\netcd-cluster\u001b[0m tutorial\u001b[0m IAM::InstanceProfile \u001b[0m AppServerInstanceProfile\u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                            \u001b[0m \u001b[32m\u001b[1m    2m ago\u001b[0m \r\netcd-cluster\u001b[0m tutorial\u001b[0m IAM::InstanceProfile \u001b[0m AppServerInstanceProfile\u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated\u001b[0m \u001b[32m\u001b[1m    2m ago\u001b[0m \r\n"
+    ],
+    [
+      0.091841,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      5.632400,
+      "s"
+    ],
+    [
+      0.271075,
+      "e"
+    ],
+    [
+      0.088463,
+      "n"
+    ],
+    [
+      0.103543,
+      "z"
+    ],
+    [
+      0.176726,
+      "a"
+    ],
+    [
+      0.063316,
+      " "
+    ],
+    [
+      0.136584,
+      "e"
+    ],
+    [
+      0.175872,
+      "v"
+    ],
+    [
+      0.135608,
+      "e"
+    ],
+    [
+      0.071961,
+      "n"
+    ],
+    [
+      0.072088,
+      "t"
+    ],
+    [
+      0.160139,
+      "s"
+    ],
+    [
+      0.096109,
+      " "
+    ],
+    [
+      0.176182,
+      "e"
+    ],
+    [
+      0.095575,
+      "t"
+    ],
+    [
+      0.184573,
+      "c"
+    ],
+    [
+      0.047756,
+      "d"
+    ],
+    [
+      0.120123,
+      "-"
+    ],
+    [
+      0.143597,
+      "c"
+    ],
+    [
+      0.096458,
+      "l"
+    ],
+    [
+      0.056349,
+      "u"
+    ],
+    [
+      0.063577,
+      "s"
+    ],
+    [
+      0.087978,
+      "t"
+    ],
+    [
+      0.072049,
+      "e"
+    ],
+    [
+      0.127553,
+      "r"
+    ],
+    [
+      0.112044,
+      " "
+    ],
+    [
+      0.152590,
+      "t"
+    ],
+    [
+      0.111164,
+      "u"
+    ],
+    [
+      0.088651,
+      "t"
+    ],
+    [
+      0.095622,
+      "o"
+    ],
+    [
+      0.111944,
+      "r"
+    ],
+    [
+      0.099265,
+      "i"
+    ],
+    [
+      0.116935,
+      "a"
+    ],
+    [
+      0.103916,
+      "l"
+    ],
+    [
+      0.145182,
+      "\r\n"
+    ],
+    [
+      1.506212,
+      "\u001b[30m\u001b[47mStack Name  \u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000173,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000291,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[30m\u001b[47mResource Type                   \u001b[0m"
+    ],
+    [
+      0.000271,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000231,
+      "\u001b[30m\u001b[47mResource ID             \u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\u001b[30m\u001b[47mStatus            \u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000285,
+      "\u001b[30m\u001b[47mStatus Reason                                   \u001b[0m"
+    ],
+    [
+      0.000418,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000454,
+      "\u001b[30m\u001b[47mEvent Time\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000289,
+      " "
+    ],
+    [
+      0.000269,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000259,
+      " "
+    ],
+    [
+      0.000228,
+      "CloudFormation::Stack           \u001b[0m"
+    ],
+    [
+      0.000227,
+      " "
+    ],
+    [
+      0.000274,
+      "etcd-cluster-tutorial   \u001b[0m"
+    ],
+    [
+      0.000222,
+      " "
+    ],
+    [
+      0.000264,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000293,
+      " "
+    ],
+    [
+      0.000234,
+      "User Initiated                                  \u001b[0m"
+    ],
+    [
+      0.000247,
+      " "
+    ],
+    [
+      0.000512,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000231,
+      " "
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000242,
+      " "
+    ],
+    [
+      0.000254,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000253,
+      " "
+    ],
+    [
+      0.000224,
+      "IAM::Role                       \u001b[0m"
+    ],
+    [
+      0.000195,
+      " "
+    ],
+    [
+      0.000235,
+      "EtcdRole                \u001b[0m"
+    ],
+    [
+      0.000207,
+      " "
+    ],
+    [
+      0.000286,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000250,
+      " "
+    ],
+    [
+      0.000230,
+      "                                                \u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000315,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000316,
+      " "
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000215,
+      " "
+    ],
+    [
+      0.000248,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000276,
+      " "
+    ],
+    [
+      0.000284,
+      "EC2::SecurityGroup              \u001b[0m"
+    ],
+    [
+      0.000255,
+      " "
+    ],
+    [
+      0.000245,
+      "EtcdSecurityGroup       \u001b[0m"
+    ],
+    [
+      0.000203,
+      " "
+    ],
+    [
+      0.000356,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000318,
+      " "
+    ],
+    [
+      0.000332,
+      "                                                \u001b[0m"
+    ],
+    [
+      0.000232,
+      " "
+    ],
+    [
+      0.000406,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000216,
+      " \r\n"
+    ],
+    [
+      0.000202,
+      "etcd-cluster\u001b[0m "
+    ],
+    [
+      0.000144,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.000185,
+      "IAM::Role                       \u001b[0m EtcdRole                \u001b[0m"
+    ],
+    [
+      0.000100,
+      " \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000183,
+      " "
+    ],
+    [
+      0.000250,
+      "Resource creation Initiated                     \u001b[0m \u001b[32m\u001b[1m    8m ago\u001b[0m"
+    ],
+    [
+      0.000203,
+      " \r\netcd-cluster\u001b[0m tutorial\u001b[0m EC2::SecurityGroup              \u001b[0m "
+    ],
+    [
+      0.000074,
+      "EtcdSecurityGroup       \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000208,
+      " Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000151,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000193,
+      " tutorial\u001b[0m EC2::SecurityGroup              \u001b[0m EtcdSecurityGroup       \u001b[0m"
+    ],
+    [
+      0.000199,
+      " \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m"
+    ],
+    [
+      0.000187,
+      " \u001b[32m\u001b[1m    8m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000144,
+      " tutorial\u001b[0m "
+    ],
+    [
+      0.000135,
+      "IAM::Role                       \u001b[0m EtcdRole                \u001b[0m "
+    ],
+    [
+      0.000154,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m "
+    ],
+    [
+      0.000152,
+      "                                                \u001b[0m "
+    ],
+    [
+      0.000147,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000185,
+      "etcd-cluster\u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000192,
+      " IAM::InstanceProfile            \u001b[0m"
+    ],
+    [
+      0.000163,
+      " AppServerInstanceProfile\u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m"
+    ],
+    [
+      0.000158,
+      "                                                 \u001b[0m"
+    ],
+    [
+      0.000213,
+      " \u001b[32m\u001b[1m    8m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000199,
+      " tutorial\u001b[0m IAM::InstanceProfile            \u001b[0m"
+    ],
+    [
+      0.000172,
+      " AppServerInstanceProfile\u001b[0m "
+    ],
+    [
+      0.000178,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m"
+    ],
+    [
+      0.000187,
+      " "
+    ],
+    [
+      0.000154,
+      "\u001b[32m\u001b[1m    8m ago\u001b[0m \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000202,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.000164,
+      "IAM::InstanceProfile            \u001b[0m "
+    ],
+    [
+      0.000193,
+      "AppServerInstanceProfile\u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000228,
+      "\u001b[32m\u001b[1m    6m ago\u001b[0m \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000190,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000164,
+      " AutoScaling::LaunchConfiguration\u001b[0m "
+    ],
+    [
+      0.000190,
+      "AppServerConfig         \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m \u001b[32m\u001b[1m    6m ago\u001b[0m"
+    ],
+    [
+      0.000173,
+      " \r\netcd-cluster\u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000180,
+      " AutoScaling::LaunchConfiguration\u001b[0m AppServerConfig         \u001b[0m "
+    ],
+    [
+      0.000174,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m "
+    ],
+    [
+      0.000162,
+      "                                                \u001b[0m \u001b[32m\u001b[1m    6m ago\u001b[0m \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000189,
+      " tutorial\u001b[0m "
+    ],
+    [
+      0.000211,
+      "AutoScaling::LaunchConfiguration\u001b[0m AppServerConfig         \u001b[0m "
+    ],
+    [
+      0.000180,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000167,
+      "\u001b[32m\u001b[1m    6m ago\u001b[0m "
+    ],
+    [
+      0.000252,
+      "\r\netcd-cluster\u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000184,
+      " AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m "
+    ],
+    [
+      0.000176,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000171,
+      "\u001b[32m\u001b[1m    5m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000177,
+      "etcd-cluster\u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000161,
+      "AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m "
+    ],
+    [
+      0.000186,
+      "Resource creation Initiated                     \u001b[0m \u001b[32m\u001b[1m    5m ago\u001b[0m"
+    ],
+    [
+      0.000194,
+      " \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000178,
+      "tutorial\u001b[0m AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m "
+    ],
+    [
+      0.000207,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-435629ce\u001b[0m \u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000139,
+      " \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000149,
+      "tutorial\u001b[0m AutoScaling::AutoScalingGroup   \u001b[0m "
+    ],
+    [
+      0.000202,
+      "AppServer               \u001b[0m "
+    ],
+    [
+      0.000171,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-f0707b79\u001b[0m \u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000175,
+      " \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000177,
+      " tutorial\u001b[0m AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m "
+    ],
+    [
+      0.000233,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-425629cf\u001b[0m"
+    ],
+    [
+      0.000172,
+      " \u001b[32m\u001b[1m    3m ago\u001b[0m \r\netcd-cluster\u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000184,
+      "AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Received SUCCESS signal with UniqueId i-f1707b78\u001b[0m"
+    ],
+    [
+      0.000164,
+      " "
+    ],
+    [
+      0.000171,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000215,
+      "tutorial\u001b[0m "
+    ],
+    [
+      0.000226,
+      "AutoScaling::AutoScalingGroup   \u001b[0m AppServer               \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000181,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\netcd-cluster\u001b[0m "
+    ],
+    [
+      0.000176,
+      "tutorial\u001b[0m AutoScaling::ScalingPolicy      \u001b[0m "
+    ],
+    [
+      0.000211,
+      "AppServerScaleUp        \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m"
+    ],
+    [
+      0.000190,
+      " \u001b[32m\u001b[1m    3m ago\u001b[0m \r\netcd-cluster\u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000199,
+      "AutoScaling::ScalingPolicy      \u001b[0m"
+    ],
+    [
+      0.000103,
+      " AppServerScaleDown      \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000173,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m"
+    ],
+    [
+      0.000192,
+      " \r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000170,
+      " tutorial\u001b[0m AutoScaling::ScalingPolicy      \u001b[0m AppServerScaleDown      \u001b[0m "
+    ],
+    [
+      0.000164,
+      "\u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m                                                 \u001b[0m"
+    ],
+    [
+      0.000178,
+      " \u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000186,
+      "etcd-cluster\u001b[0m tutorial\u001b[0m "
+    ],
+    [
+      0.000160,
+      "AutoScaling::ScalingPolicy      \u001b[0m AppServerScaleUp        \u001b[0m \u001b[33m\u001b[1mCREATE_IN_PROGRESS\u001b[0m Resource creation Initiated                     \u001b[0m "
+    ],
+    [
+      0.000154,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m "
+    ],
+    [
+      0.000213,
+      "\r\netcd-cluster\u001b[0m"
+    ],
+    [
+      0.000338,
+      " tutorial\u001b[0m AutoScaling::ScalingPolicy      \u001b[0m "
+    ],
+    [
+      0.000207,
+      "AppServerScaleDown      \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m \u001b[32m\u001b[1m    3m ago\u001b[0m "
+    ],
+    [
+      0.000164,
+      "\r\netcd-cluster\u001b[0m tutorial\u001b[0m"
+    ],
+    [
+      0.000168,
+      " AutoScaling::ScalingPolicy      \u001b[0m "
+    ],
+    [
+      0.000144,
+      "AppServerScaleUp        \u001b[0m \u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000169,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.000339,
+      "etcd-cluster\u001b[0m tutorial\u001b[0m CloudFormation::Stack           \u001b[0m etcd-cluster-tutorial   \u001b[0m "
+    ],
+    [
+      0.000188,
+      "\u001b[32mCREATE_COMPLETE   \u001b[0m                                                 \u001b[0m "
+    ],
+    [
+      0.000200,
+      "\u001b[32m\u001b[1m    3m ago\u001b[0m \r\n"
+    ],
+    [
+      0.077400,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      5.687981,
+      "s"
+    ],
+    [
+      0.087992,
+      "e"
+    ],
+    [
+      0.048542,
+      "n"
+    ],
+    [
+      0.095430,
+      "z"
+    ],
+    [
+      0.176049,
+      "a"
+    ],
+    [
+      0.080307,
+      " "
+    ],
+    [
+      0.152478,
+      "i"
+    ],
+    [
+      0.051043,
+      "n"
+    ],
+    [
+      0.060276,
+      "s"
+    ],
+    [
+      0.043967,
+      "t"
+    ],
+    [
+      0.076513,
+      "a"
+    ],
+    [
+      0.136319,
+      "n"
+    ],
+    [
+      0.295731,
+      "c"
+    ],
+    [
+      0.232135,
+      "e"
+    ],
+    [
+      0.183325,
+      "s"
+    ],
+    [
+      0.184444,
+      " "
+    ],
+    [
+      0.152034,
+      "e"
+    ],
+    [
+      0.103649,
+      "t"
+    ],
+    [
+      0.142085,
+      "c"
+    ],
+    [
+      0.081875,
+      "d"
+    ],
+    [
+      0.080416,
+      "-"
+    ],
+    [
+      0.143585,
+      "c"
+    ],
+    [
+      0.079986,
+      "l"
+    ],
+    [
+      0.088678,
+      "u"
+    ],
+    [
+      0.063291,
+      "s"
+    ],
+    [
+      0.104487,
+      "t"
+    ],
+    [
+      0.112125,
+      "e"
+    ],
+    [
+      0.119709,
+      "r"
+    ],
+    [
+      0.096198,
+      " "
+    ],
+    [
+      0.159969,
+      "t"
+    ],
+    [
+      0.120076,
+      "u"
+    ],
+    [
+      0.104118,
+      "t"
+    ],
+    [
+      0.120023,
+      "o"
+    ],
+    [
+      0.127968,
+      "r"
+    ],
+    [
+      0.111893,
+      "i"
+    ],
+    [
+      0.128299,
+      "a"
+    ],
+    [
+      0.095221,
+      "l"
+    ],
+    [
+      0.168408,
+      "\r\n"
+    ],
+    [
+      1.933451,
+      "\u001b[30m\u001b[47mStack Name  \u001b[0m"
+    ],
+    [
+      0.000318,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000433,
+      "\u001b[30m\u001b[47mVer.    \u001b[0m"
+    ],
+    [
+      0.000317,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[30m\u001b[47mResource ID\u001b[0m"
+    ],
+    [
+      0.000333,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000305,
+      "\u001b[30m\u001b[47mInstance ID\u001b[0m"
+    ],
+    [
+      0.000344,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000328,
+      "\u001b[30m\u001b[47mPublic IP\u001b[0m"
+    ],
+    [
+      0.000261,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000303,
+      "\u001b[30m\u001b[47mPrivate IP    \u001b[0m"
+    ],
+    [
+      0.000298,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000291,
+      "\u001b[30m\u001b[47mState  \u001b[0m"
+    ],
+    [
+      0.000289,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\u001b[30m\u001b[47mLB Status\u001b[0m"
+    ],
+    [
+      0.000280,
+      "\u001b[30m\u001b[47m│\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\u001b[30m\u001b[47mLaunched\u001b[0m"
+    ],
+    [
+      0.000290,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000283,
+      " "
+    ],
+    [
+      0.000253,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000274,
+      " "
+    ],
+    [
+      0.000285,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000230,
+      " "
+    ],
+    [
+      0.000232,
+      "i-425629cf \u001b[0m"
+    ],
+    [
+      0.000297,
+      " "
+    ],
+    [
+      0.000163,
+      "         \u001b[0m"
+    ],
+    [
+      0.000243,
+      " "
+    ],
+    [
+      0.000290,
+      "172.31.131.14 \u001b[0m"
+    ],
+    [
+      0.000256,
+      " "
+    ],
+    [
+      0.000320,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000258,
+      " "
+    ],
+    [
+      0.000236,
+      "         \u001b[0m"
+    ],
+    [
+      0.000260,
+      " "
+    ],
+    [
+      0.000456,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000297,
+      " "
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000194,
+      " "
+    ],
+    [
+      0.000269,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000240,
+      " "
+    ],
+    [
+      0.000249,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000295,
+      " "
+    ],
+    [
+      0.000278,
+      "i-435629ce \u001b[0m"
+    ],
+    [
+      0.000241,
+      " "
+    ],
+    [
+      0.000276,
+      "         \u001b[0m"
+    ],
+    [
+      0.000215,
+      " "
+    ],
+    [
+      0.000332,
+      "172.31.131.15 \u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000276,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000250,
+      " "
+    ],
+    [
+      0.000252,
+      "         \u001b[0m"
+    ],
+    [
+      0.000272,
+      " "
+    ],
+    [
+      0.000337,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000292,
+      " "
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000206,
+      " "
+    ],
+    [
+      0.000311,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000271,
+      " "
+    ],
+    [
+      0.000236,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000279,
+      " "
+    ],
+    [
+      0.000238,
+      "i-a1aaf52a \u001b[0m"
+    ],
+    [
+      0.000202,
+      " "
+    ],
+    [
+      0.000280,
+      "         \u001b[0m"
+    ],
+    [
+      0.000302,
+      " "
+    ],
+    [
+      0.000258,
+      "172.31.161.166\u001b[0m"
+    ],
+    [
+      0.000267,
+      " "
+    ],
+    [
+      0.000273,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000233,
+      " "
+    ],
+    [
+      0.000223,
+      "         \u001b[0m"
+    ],
+    [
+      0.000223,
+      " "
+    ],
+    [
+      0.000378,
+      "\u001b[32m\u001b[1m  6m ago\u001b[0m"
+    ],
+    [
+      0.000267,
+      " "
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000179,
+      " "
+    ],
+    [
+      0.000248,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000273,
+      " "
+    ],
+    [
+      0.000286,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000261,
+      " "
+    ],
+    [
+      0.000262,
+      "i-f0707b79 \u001b[0m"
+    ],
+    [
+      0.000296,
+      " "
+    ],
+    [
+      0.000236,
+      "         \u001b[0m"
+    ],
+    [
+      0.000247,
+      " "
+    ],
+    [
+      0.000291,
+      "172.31.152.102\u001b[0m"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000258,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000261,
+      " "
+    ],
+    [
+      0.000257,
+      "         \u001b[0m"
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000324,
+      "\u001b[32m\u001b[1m  5m ago\u001b[0m"
+    ],
+    [
+      0.000256,
+      " "
+    ],
+    [
+      0.000264,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "etcd-cluster\u001b[0m"
+    ],
+    [
+      0.000260,
+      " "
+    ],
+    [
+      0.000277,
+      "tutorial\u001b[0m"
+    ],
+    [
+      0.000201,
+      " "
+    ],
+    [
+      0.000304,
+      "AppServer  \u001b[0m"
+    ],
+    [
+      0.000263,
+      " "
+    ],
+    [
+      0.000275,
+      "i-f1707b78 \u001b[0m"
+    ],
+    [
+      0.000237,
+      " "
+    ],
+    [
+      0.000257,
+      "         \u001b[0m"
+    ],
+    [
+      0.000266,
+      " "
+    ],
+    [
+      0.000289,
+      "172.31.152.103\u001b[0m"
+    ],
+    [
+      0.000273,
+      " "
+    ],
+    [
+      0.000296,
+      "\u001b[32mRUNNING\u001b[0m"
+    ],
+    [
+      0.000269,
+      " "
+    ],
+    [
+      0.000286,
+      "         \u001b[0m"
+    ],
+    [
+      0.000272,
+      " "
+    ],
+    [
+      0.000320,
+      "\u001b[32m\u001b[1m  5m ago\u001b[0m"
+    ],
+    [
+      0.000211,
+      " "
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.149898,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      1.829937,
+      "p"
+    ],
+    [
+      0.072538,
+      "i"
+    ],
+    [
+      0.055978,
+      "u"
+    ],
+    [
+      0.055902,
+      " "
+    ],
+    [
+      1.673169,
+      "172.31.161.166"
+    ],
+    [
+      0.1,
+      " "
+    ],
+    [
+      2,
+      "--user"
+    ],
+    [
+      0.1,
+      " "
+    ],
+    [
+      1,
+      "aws_user"
+    ],
+    [
+      0.462464,
+      " "
+    ],
+    [
+      0.537122,
+      "\""
+    ],
+    [
+      0.727539,
+      "S"
+    ],
+    [
+      0.135960,
+      "h"
+    ],
+    [
+      0.079476,
+      "o"
+    ],
+    [
+      0.056169,
+      "w"
+    ],
+    [
+      0.151859,
+      "i"
+    ],
+    [
+      0.064624,
+      "n"
+    ],
+    [
+      0.055490,
+      "g"
+    ],
+    [
+      0.079949,
+      " "
+    ],
+    [
+      0.144463,
+      "t"
+    ],
+    [
+      0.055687,
+      "u"
+    ],
+    [
+      0.128024,
+      "t"
+    ],
+    [
+      0.088169,
+      "o"
+    ],
+    [
+      0.128299,
+      "r"
+    ],
+    [
+      0.095411,
+      "i"
+    ],
+    [
+      0.124772,
+      "a"
+    ],
+    [
+      0.115249,
+      "l"
+    ],
+    [
+      0.239943,
+      "\""
+    ],
+    [
+      0.192249,
+      "\r\n"
+    ],
+    [
+      0.215167,
+      "\u001b[1mRequesting access to host 172.31.161.166 via odd-eu-west-1.team.example.com for aws_user..\u001b[0m\r\n"
+    ],
+    [
+      3.229381,
+      "\u001b[32m\u001b[1mAccess to host odd-eu-west-1.team.example.com/52.17.102.171 for user aws_user was granted.\u001b[0m\r\nYou can now access your server with the following command:\u001b[0m\r\nssh -tA aws_user@odd-eu-west-1.team.example.com ssh -o StrictHostKeyChecking=no aws_user@172.31.161.166\u001b[0m\r\n"
+    ],
+    [
+      0.050930,
+      "\u001b[01;32muser@localhost\u001b[01;34m ~\u001b[01;33m\u001b[01;34m $\u001b[00m "
+    ],
+    [
+      3.245606,
+      "ssh -tA aws_user@odd-eu-west-1.team.example.com ssh -o StrictHostKeyChecking=no aws_user@172.31.161.166"
+    ],
+    [
+      1.795935,
+      "\r\n"
+    ],
+    [
+      0.557521,
+      "bash: warning: setlocale: LC_ALL: cannot change locale (en_US.utf-8)\r\n"
+    ],
+    [
+      0.055135,
+      "Warning: Permanently added '172.31.161.166' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.195722,
+      "\u001b[1m         _____                                   \r\n\u001b[1mWelcome /__   \\__ _ _   _ _ __   __ _  __ _  ___ \r\n\u001b[1m     to   / /\\/ _` | | | | '_ \\ / _` |/ _` |/ _ \\\r\n\u001b[1m  STUPS  / / | (_| | |_| | |_) | (_| | (_| |  __/\r\n\u001b[1m         \\/   \\__,_|\\__,_| .__/ \\__,_|\\__, |\\___|"
+    ],
+    [
+      0.000231,
+      "\r\n\u001b[1m                         |_|          |___/      \r\n\u001b[1;31m        All actions will be logged!\u001b[0m\r\n"
+    ],
+    [
+      0.228266,
+      "Your SSH access was granted by even (SSH access granting service) on 2015-12-30 10:14:24\r\n"
+    ],
+    [
+      0.001454,
+      "aws_user@ip-172-31-161-166:~$ "
+    ],
+    [
+      0.626072,
+      "d"
+    ],
+    [
+      0.064638,
+      "o"
+    ],
+    [
+      0.111753,
+      "c"
+    ],
+    [
+      0.079866,
+      "k"
+    ],
+    [
+      0.080164,
+      "e"
+    ],
+    [
+      0.096797,
+      "r"
+    ],
+    [
+      0.085017,
+      " "
+    ],
+    [
+      0.106293,
+      "p"
+    ],
+    [
+      0.128566,
+      "s"
+    ],
+    [
+      0.087920,
+      "\r\n"
+    ],
+    [
+      0.026958,
+      "CONTAINER ID        IMAGE                                                     "
+    ],
+    [
+      0.000478,
+      "COMMAND             CREATED             STATUS              PORTS                              NAMES\r\n16fa4869f98f        registry.opensource.zalan.do/acid/etcd-cluster:2.2.2-p7   \"/bin/etcd.py\"      3 minutes ago       Up 3 minutes        0.0.0.0:2379-2380-\u003e2379-2380/tcp   romantic_newton\r\n"
+    ],
+    [
+      0.000388,
+      "aws_user@ip-172-31-161-166:~$ "
+    ],
+    [
+      1.564010,
+      "d"
+    ],
+    [
+      0.055421,
+      "o"
+    ],
+    [
+      0.129155,
+      "c"
+    ],
+    [
+      0.086231,
+      "k"
+    ],
+    [
+      0.089114,
+      "e"
+    ],
+    [
+      0.119968,
+      "r"
+    ],
+    [
+      0.119929,
+      " "
+    ],
+    [
+      0.175613,
+      "e"
+    ],
+    [
+      0.129580,
+      "x"
+    ],
+    [
+      0.086370,
+      "e"
+    ],
+    [
+      0.136326,
+      "c"
+    ],
+    [
+      0.104395,
+      " "
+    ],
+    [
+      0.135503,
+      "-"
+    ],
+    [
+      0.127925,
+      "t"
+    ],
+    [
+      0.096408,
+      "i"
+    ],
+    [
+      0.063328,
+      " "
+    ],
+    [
+      0.784921,
+      "r"
+    ],
+    [
+      0.055181,
+      "o"
+    ],
+    [
+      0.064430,
+      "m"
+    ],
+    [
+      0.087942,
+      "a"
+    ],
+    [
+      0.112429,
+      "n"
+    ],
+    [
+      0.119593,
+      "t"
+    ],
+    [
+      0.128008,
+      "i"
+    ],
+    [
+      0.087988,
+      "c"
+    ],
+    [
+      0.288268,
+      "_"
+    ],
+    [
+      0.199942,
+      "n"
+    ],
+    [
+      0.120082,
+      "e"
+    ],
+    [
+      0.096264,
+      "w"
+    ],
+    [
+      0.192033,
+      "t"
+    ],
+    [
+      0.079757,
+      "o"
+    ],
+    [
+      0.049611,
+      "n"
+    ],
+    [
+      1.565809,
+      " "
+    ],
+    [
+      0.152826,
+      "e"
+    ],
+    [
+      0.079690,
+      "t"
+    ],
+    [
+      0.167546,
+      "c"
+    ],
+    [
+      0.087727,
+      "d"
+    ],
+    [
+      0.176073,
+      "c"
+    ],
+    [
+      0.143981,
+      "t"
+    ],
+    [
+      0.088916,
+      "l"
+    ],
+    [
+      0.055234,
+      " "
+    ],
+    [
+      0.247988,
+      "c"
+    ],
+    [
+      0.063864,
+      "l"
+    ],
+    [
+      0.056489,
+      "u"
+    ],
+    [
+      0.063423,
+      "s"
+    ],
+    [
+      0.048485,
+      "t"
+    ],
+    [
+      0.082947,
+      "e"
+    ],
+    [
+      0.084482,
+      "r"
+    ],
+    [
+      0.080359,
+      "-"
+    ],
+    [
+      0.183999,
+      "h"
+    ],
+    [
+      0.104419,
+      "e"
+    ],
+    [
+      0.087654,
+      "a"
+    ],
+    [
+      0.114484,
+      "l"
+    ],
+    [
+      0.117763,
+      "t"
+    ],
+    [
+      0.076358,
+      "h"
+    ],
+    [
+      0.142272,
+      "\r\n"
+    ],
+    [
+      0.299105,
+      "member 2f44bbc2d6473cac is healthy: got healthy result from http://172.31.131.14:2379\r\r\n"
+    ],
+    [
+      0.502204,
+      "member 313ef81808410915 is healthy: got healthy result from http://172.31.131.15:2379\r\r\n"
+    ],
+    [
+      0.503325,
+      "member 834728c9515b4bcd is healthy: got healthy result from http://172.31.152.102:2379"
+    ],
+    [
+      0.000458,
+      "\r\r\n"
+    ],
+    [
+      0.501597,
+      "member 9d0c3d4befe4ce78 is healthy: got healthy result from http://172.31.161.166:2379\r\r\n"
+    ],
+    [
+      0.503608,
+      "member c434c9c30ebaa5fd is healthy: got healthy result from http://172.31.152.103:2379\r\r\ncluster is healthy\r\r\n"
+    ],
+    [
+      0.002824,
+      "aws_user@ip-172-31-161-166:~$ "
+    ],
+    [
+      3.725497,
+      "d"
+    ],
+    [
+      0.095210,
+      "i"
+    ],
+    [
+      0.112437,
+      "g"
+    ],
+    [
+      0.240129,
+      " "
+    ],
+    [
+      0.207581,
+      "+"
+    ],
+    [
+      0.504285,
+      "n"
+    ],
+    [
+      0.055174,
+      "o"
+    ],
+    [
+      0.113208,
+      "a"
+    ],
+    [
+      0.119040,
+      "l"
+    ],
+    [
+      0.112690,
+      "l"
+    ],
+    [
+      0.078510,
+      " "
+    ],
+    [
+      0.299259,
+      "+"
+    ],
+    [
+      0.285910,
+      "a"
+    ],
+    [
+      0.111751,
+      "n"
+    ],
+    [
+      0.096488,
+      "s"
+    ],
+    [
+      0.188179,
+      "w"
+    ],
+    [
+      0.099625,
+      "e"
+    ],
+    [
+      0.103730,
+      "r"
+    ],
+    [
+      0.896525,
+      " "
+    ],
+    [
+      0.240112,
+      "S"
+    ],
+    [
+      0.200007,
+      "R"
+    ],
+    [
+      0.143449,
+      "V"
+    ],
+    [
+      0.615927,
+      " "
+    ],
+    [
+      4.619134,
+      "_etcd-server._tcp.tutorial.team.example.com"
+    ],
+    [
+      1.190776,
+      "\r\n"
+    ],
+    [
+      0.358660,
+      "_etcd-server._tcp.tutorial.team.example.com. 60 IN\tSRV 1 1 2380 ip-172-31-152-102.eu-west-1.compute.internal.\r\n_etcd-server._tcp.tutorial.team.example.com. 60 IN\tSRV 1 1 2380 ip-172-31-152-103.eu-west-1.compute.internal.\r\n_etcd-server._tcp.tutorial.team.example.com. 60 IN\t"
+    ],
+    [
+      0.000729,
+      "SRV 1 1 2380 ip-172-31-161-166.eu-west-1.compute.internal.\r\n_etcd-server._tcp.tutorial.team.example.com. 60 IN\tSRV 1 1 2380 ip-172-31-131-14.eu-west-1.compute.internal.\r\n_etcd-server._tcp.tutorial.team.example.com. 60 IN\tSRV 1 1 2380 ip-172-31-131-15.eu-west-1.compute.internal.\r\n"
+    ],
+    [
+      0.014528,
+      "aws_user@ip-172-31-161-166:~$ "
+    ],
+    [
+      2.677397,
+      "d"
+    ],
+    [
+      0.056344,
+      "i"
+    ],
+    [
+      0.424019,
+      "g"
+    ],
+    [
+      0.096440,
+      " "
+    ],
+    [
+      0.183821,
+      "+"
+    ],
+    [
+      0.080941,
+      " "
+    ],
+    [
+      0.223275,
+      "n"
+    ],
+    [
+      0.412023,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.115499,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.319392,
+      "n"
+    ],
+    [
+      0.113330,
+      "o"
+    ],
+    [
+      0.087163,
+      "a"
+    ],
+    [
+      0.151695,
+      "l"
+    ],
+    [
+      0.112797,
+      "l"
+    ],
+    [
+      0.081817,
+      " "
+    ],
+    [
+      0.509850,
+      "+"
+    ],
+    [
+      0.208089,
+      "a"
+    ],
+    [
+      0.135067,
+      "n"
+    ],
+    [
+      0.097075,
+      "s"
+    ],
+    [
+      0.191841,
+      "rw"
+    ],
+    [
+      0.103707,
+      "e"
+    ],
+    [
+      0.080653,
+      "r"
+    ],
+    [
+      0.783640,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143769,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144507,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183855,
+      "w"
+    ],
+    [
+      0.083044,
+      "e"
+    ],
+    [
+      0.108858,
+      "r"
+    ],
+    [
+      0.088150,
+      " "
+    ],
+    [
+      0.136300,
+      "e"
+    ],
+    [
+      0.087185,
+      "t"
+    ],
+    [
+      0.168436,
+      "c"
+    ],
+    [
+      0.047909,
+      "d"
+    ],
+    [
+      0.112060,
+      "-"
+    ],
+    [
+      0.208420,
+      "s"
+    ],
+    [
+      0.128037,
+      "e"
+    ],
+    [
+      0.063456,
+      "r"
+    ],
+    [
+      0.128406,
+      "v"
+    ],
+    [
+      0.087844,
+      "e"
+    ],
+    [
+      0.103823,
+      "r"
+    ],
+    [
+      0.783616,
+      "."
+    ],
+    [
+      0.656648,
+      "t"
+    ],
+    [
+      0.175763,
+      "u"
+    ],
+    [
+      0.185442,
+      "t"
+    ],
+    [
+      0.126669,
+      "o"
+    ],
+    [
+      0.280540,
+      "r"
+    ],
+    [
+      0.248554,
+      "i"
+    ],
+    [
+      0.902979,
+      "a"
+    ],
+    [
+      0.168087,
+      "l"
+    ],
+    [
+      0.176327,
+      "."
+    ],
+    [
+      0.167946,
+      "t"
+    ],
+    [
+      0.192436,
+      "e"
+    ],
+    [
+      0.063966,
+      "a"
+    ],
+    [
+      0.136241,
+      "m"
+    ],
+    [
+      0.064196,
+      "."
+    ],
+    [
+      0.329792,
+      "example.com"
+    ],
+    [
+      0.960810,
+      "\r\n"
+    ],
+    [
+      0.026822,
+      "etcd-server.tutorial.team.example.com. 60 IN A\t172.31.131.15\r\netcd-server.tutorial.team.example.com. 60 IN A\t172.31.152.102\r\netcd-server.tutorial.team.example.com. 60 IN A\t172.31.152.103\r\netcd-server.tutorial.team.example.com. 60 IN A\t172.31.161.166\r\netcd-server.tutorial.team.example.com. 60 IN A\t172.31.131.14\r\n"
+    ],
+    [
+      0.002826,
+      "\r\naws_user@ip-172-31-161-166:~$ "
+    ],
+    [
+      1.620873,
+      "curl -s http://etcd-server.tutorial.team.example.com:2379/v2/machines"
+    ],
+    [
+      0.355199,
+      "\r\n"
+    ],
+    [
+      0.005339,
+      "http://172.31.131.14:2379, http://172.31.131.15:2379, http://172.31.152.102:2379, http://172.31.152.103:2379, http://172.31.161.166:2379"
+    ],
+    [
+      0.355199,
+      "\r\n"
+    ],
+    [
+      0.355199,
+      "\r\n"
+    ]
+  ]
+}
