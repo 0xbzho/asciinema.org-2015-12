@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 116,
+  "height": 33,
+  "duration": 31.642867,
+  "command": "/usr/bin/tmux -2 new-session -s asciinema",
+  "title": "SSD hdparm",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.012645,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004h\u001b]112\u0007\u001b]0;tmux (1) bash watergate\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;231m\u001b[48;5;233m                                                                                                                    \u001b(B\u001b[m\u001b[33;1H\u001b[1;33r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066121,
+      "\u001b[?25l\u001b[33d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m asciinema \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m1  \u001b[38;5;231m\u001b[1mbash \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m                                                                                          \u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[32m\u001b[1m[✔]\u001b(B\u001b[m Pentest environment loaded\r\n\u001b[32m\u001b[1m[✔]\u001b(B\u001b[m \u001b[1;33r\u001b[H\u001b[2;5H"
+    ],
+    [
+      0.001933,
+      "\u001b[1;32r\u001b[H\u001b[2;5Halwaysontop=\u001b[31m\u001b[1mOFF\u001b(B\u001b[m, autotop=\u001b[31m\u001b[1mOFF\u001b(B\u001b[m, autoclear=\u001b[1;33r\u001b[H\u001b[2;45H\u001b[1;32r\u001b[H\u001b[2;45H\u001b[31m\u001b[1mOFF\u001b[1;33r\u001b[H\u001b[3B\u001b(B\u001b[m"
+    ],
+    [
+      0.186668,
+      "\u001b[1;32r\u001b[H\u001b[3B\u001b[33m\u001b[1m(~)\u003e\u003e\u001b(B\u001b[m \u001b[1;33r\u001b[H\u001b[4;7H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[33m\u001b[1m(~)\u003e\u003e\u001b(B\u001b[m \u001b[1;33r\u001b[H\u001b[6C"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[6Cfor dev in /dev/sd{a,b,c,d}; do\u001b[1;33r\u001b[H\u001b[37C"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\r\n\u003e \u001b[1;33r\u001b[H\u001b[2;3H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[2;3Hperl -e 'print \"=\"x80,\"\\n\"'\u001b[1;33r\u001b[H\u001b[2;30H"
+    ],
+    [
+      0.449126,
+      "\u001b[1;32r\u001b[H\u001b[2B\u003e \u001b[1;33r\u001b[H\u001b[3;3H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[3;3Hsudo hdparm -i \"$dev\" | grep Model=\u001b[1;33r\u001b[H\u001b[3;38H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[3B\u003e \u001b[1;33r\u001b[H\u001b[4;3H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[4;3Hsudo hdparm -tT \"$dev\"\u001b[1;33r\u001b[H\u001b[4;25H"
+    ],
+    [
+      0.501216,
+      "\u001b[1;32r\u001b[H\u001b[4B\u003e \u001b[1;33r\u001b[H\u001b[5;3H"
+    ],
+    [
+      0.691784,
+      "\u001b[1;32r\u001b[H\u001b[5;3Hd\u001b[1;33r\u001b[H\u001b[5;4H"
+    ],
+    [
+      0.119926,
+      "\u001b[1;32r\u001b[H\u001b[5;4Ho\u001b[1;33r\u001b[H\u001b[5;5H"
+    ],
+    [
+      0.184067,
+      "\u001b[1;32r\u001b[H\u001b[5;5Hn\u001b[1;33r\u001b[H\u001b[5;6H"
+    ],
+    [
+      0.191829,
+      "\u001b[1;32r\u001b[H\u001b[5;6He\u001b[1;33r\u001b[H\u001b[5;7H"
+    ],
+    [
+      0.207711,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[1;32r\u001b[H\u001b[5B================================================================================\u001b[1;33r\u001b[H\u001b[6B"
+    ],
+    [
+      0.023700,
+      "\u001b[K\u001b[1;32r\u001b[H\u001b[6B\u001b[38;5;240m \u001b[39m\u001b[K\u001b[38;5;161mModel=\u001b[39m\u001b[K\u001b[K\u001b[38;5;240mKINGSTON SV300S37A60G, FwRev=505ABBF1, SerialNo=50026B72380212BA\u001b[39m\u001b[K\u001b[1;33r\u001b[H\u001b[7B"
+    ],
+    [
+      0.014453,
+      "\u001b[1;32r\u001b[H\u001b[8B/dev/sda:\u001b[1;33r\u001b[H\u001b[9B"
+    ],
+    [
+      0.671423,
+      "\u001b]0;tmux (1) sudo watergate\u0007\u001b[?25l\u001b[33d\u001b[38;5;16m\u001b[48;5;254m\u001b[1m asciinema \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m1  \u001b[38;5;231m\u001b[1msudo \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m                                                                                          \u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[9B Timing cached reads:   \u001b[1;33r\u001b[H\u001b[10;25H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[10;25H5340 MB in  2.00 seconds = 2670.63 MB/sec\u001b[1;33r\u001b[H\u001b[10B"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[10B Timing buffered disk reads: \u001b[1;33r\u001b[H\u001b[11;30H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[11;30H486 MB in  3.01 seconds = 161.63 MB/sec\u001b[1;33r\u001b[H\u001b[11B"
+    ],
+    [
+      0.126351,
+      "\u001b[1;32r\u001b[H\u001b[11B================================================================================\u001b[1;33r\u001b[H\u001b[12B"
+    ],
+    [
+      0.013690,
+      "\u001b[K\u001b[1;32r\u001b[H\u001b[12B\u001b[38;5;240m \u001b[39m\u001b[K\u001b[38;5;161mModel=\u001b[39m\u001b[K\u001b[K\u001b[38;5;240mCrucial_CT240M500SSD1, FwRev=MU03, SerialNo=134009520103\u001b[39m\u001b[K\u001b[1;33r\u001b[H\u001b[13B"
+    ],
+    [
+      0.013225,
+      "\u001b[1;32r\u001b[H\u001b[14B/dev/sdb:\u001b[1;33r\u001b[H\u001b[15B"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[15B Timing cached reads:   \u001b[1;33r\u001b[H\u001b[16;25H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[16;25H5954 MB in  2.00 seconds = 2978.14 MB/sec\u001b[1;33r\u001b[H\u001b[16B"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[17d Timing buffered disk reads: \u001b[1;33r\u001b[H\u001b[17;30H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[17;30H1242 MB in  3.00 seconds = 413.31 MB/sec\u001b[1;33r\u001b[H\u001b[18d"
+    ],
+    [
+      0.255912,
+      "\u001b[1;32r\u001b[H\u001b[18d================================================================================\u001b[1;33r\u001b[H\u001b[19d"
+    ],
+    [
+      0.011781,
+      "\u001b[K\u001b[1;32r\u001b[H\u001b[19d\u001b[38;5;240m \u001b[39m\u001b[K\u001b[38;5;161mModel=\u001b[39m\u001b[K\u001b[K\u001b[38;5;240mSamsung SSD 850 PRO 256GB, FwRev=EXM02B6Q, SerialNo=S251NSAG344872E\u001b[39m\u001b[K\u001b[1;33r\u001b[H\u001b[20d"
+    ],
+    [
+      0.014206,
+      "\u001b[1;32r\u001b[H\u001b[21d/dev/sdc:\u001b[1;33r\u001b[H\u001b[22d"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[22d Timing cached reads:   \u001b[1;33r\u001b[H\u001b[22;25H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[22;25H5262 MB in  2.00 seconds = 2631.37 MB/sec\u001b[1;33r\u001b[H\u001b[23d"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[23d Timing buffered disk reads: \u001b[1;33r\u001b[H\u001b[23;30H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[23;30H1546 MB in  3.00 seconds = 515.32 MB/sec\u001b[1;33r\u001b[H\u001b[24d"
+    ],
+    [
+      0.250116,
+      "\u001b[1;32r\u001b[H\u001b[24d================================================================================\u001b[1;33r\u001b[H\u001b[25d"
+    ],
+    [
+      0.013596,
+      "\u001b[K\u001b[1;32r\u001b[H\u001b[25d\u001b[38;5;240m \u001b[39m\u001b[K\u001b[38;5;161mModel=\u001b[39m\u001b[K\u001b[K\u001b[38;5;240mSamsung SSD 850 PRO 256GB, FwRev=EXM02B6Q, SerialNo=S251NSAG445990M\u001b[39m\u001b[K\u001b[1;33r\u001b[H\u001b[26d"
+    ],
+    [
+      0.009604,
+      "\u001b[1;32r\u001b[H\u001b[27d/dev/sdd:\u001b[1;33r\u001b[H\u001b[28d"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[28d Timing cached reads:   \u001b[1;33r\u001b[H\u001b[28;25H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[28;25H5648 MB in  2.00 seconds = 2824.98 MB/sec\u001b[1;33r\u001b[H\u001b[29d"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[29d Timing buffered disk reads: \u001b[1;33r\u001b[H\u001b[29;30H"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[29;30H1558 MB in  3.00 seconds = 518.81 MB/sec\u001b[1;33r\u001b[H\u001b[30d"
+    ],
+    [
+      0.212593,
+      "\u001b[1;32r\u001b[H\u001b[30d\u001b[33m\u001b[1m(~)\u003e\u003e\u001b(B\u001b[m \u001b[1;33r\u001b[H\u001b[30;7H"
+    ],
+    [
+      0.811587,
+      "\u001b]0;tmux (1) bash watergate\u0007\u001b[?25l\u001b[33;1H\u001b[38;5;16m\u001b[48;5;254m\u001b[1m asciinema \u001b(B\u001b[m\u001b[38;5;254m\u001b[48;5;233m \u001b[38;5;233m\u001b[48;5;31m \u001b[38;5;117m1  \u001b[38;5;231m\u001b[1mbash \u001b(B\u001b[m\u001b[38;5;31m\u001b[48;5;233m \u001b[38;5;231m                                                                                          \u001b(B\u001b[m\u001b[30;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.000000,
+      "\u001b[1;32r\u001b[H\u001b[30;7He\u001b[1;33r\u001b[H\u001b[30;8H"
+    ],
+    [
+      0.612079,
+      "\u001b[1;32r\u001b[H\u001b[30;8Hx\u001b[1;33r\u001b[H\u001b[30;9H"
+    ],
+    [
+      0.119759,
+      "\u001b[1;32r\u001b[H\u001b[30;9Hi\u001b[1;33r\u001b[H\u001b[30;10H"
+    ],
+    [
+      0.727804,
+      "\u001b[1;32r\u001b[H\u001b[30;10Ht\u001b[1;33r\u001b[H\u001b[30;11H"
+    ],
+    [
+      0.124876,
+      "\u001b[1;32r\u001b[H\u001b[31dexit\u001b[1;33r\u001b[H\u001b[32d"
+    ],
+    [
+      0.002351,
+      "\u001b[1;33r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004l\u001b[?1049l"
+    ],
+    [
+      0.000350,
+      "[exited]\r\n"
+    ]
+  ]
+}
